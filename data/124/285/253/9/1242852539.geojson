@@ -1,0 +1,76 @@
+{
+  "id": 1242852539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.64309,23.8619,56.64309,23.8619",
+    "geom:latitude":23.8619,
+    "geom:longitude":56.64309,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"As Sayharah",
+    "gn:country_code":"OM",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286277,
+    "gn:latitude":23.8619,
+    "gn:longitude":56.64309,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"As Sayharah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u064a\u0647\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shayrah",
+        "Su\u1e29ayrah",
+        "As Sayharah",
+        "As Sayhrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286277
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b24dbde510fcf98be99ce06e6a1dd128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1242852539,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1242852539,
+    "wof:lastmodified":1537676160,
+    "wof:name":"As Sayharah",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.64309,
+    23.8619,
+    56.64309,
+    23.8619
+],
+  "geometry": {"coordinates":[56.64309,23.8619],"type":"Point"}
+}

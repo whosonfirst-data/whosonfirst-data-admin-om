@@ -1,0 +1,71 @@
+{
+  "id": 1209931933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.32021,23.0009,57.32021,23.0009",
+    "geom:latitude":23.0009,
+    "geom:longitude":57.32021,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ghumrah",
+    "gn:country_code":"OM",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288231,
+    "gn:latitude":23.0009,
+    "gn:longitude":57.32021,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ghumrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghumra",
+        "Ghumrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421189279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288231
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3ac5f3f0d56a9ad2c7e823fc1c28e1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189279,
+            "locality_id":1209931933,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1209931933,
+    "wof:lastmodified":1537676210,
+    "wof:name":"Ghumrah",
+    "wof:parent_id":421189279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.32021,
+    23.0009,
+    57.32021,
+    23.0009
+],
+  "geometry": {"coordinates":[57.32021,23.0009],"type":"Point"}
+}

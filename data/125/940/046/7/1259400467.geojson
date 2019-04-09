@@ -1,0 +1,70 @@
+{
+  "id": 1259400467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.03893,23.28048,58.03893,23.28048",
+    "geom:latitude":23.28048,
+    "geom:longitude":58.03893,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tawiyah",
+    "gn:country_code":"OM",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286165,
+    "gn:latitude":23.28048,
+    "gn:longitude":58.03893,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"\u0162aw\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162aw\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286165
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7aa458f065e415db2595cc097e5d1e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1259400467,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1259400467,
+    "wof:lastmodified":1537676156,
+    "wof:name":"Tawiyah",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.03893000000001,
+    23.28048,
+    58.03893000000001,
+    23.28048
+],
+  "geometry": {"coordinates":[58.03893000000001,23.28048],"type":"Point"}
+}

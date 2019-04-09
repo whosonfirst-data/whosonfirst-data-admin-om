@@ -1,0 +1,71 @@
+{
+  "id": 1243273701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.14333,23.37361,58.14333,23.37361",
+    "geom:latitude":23.37361,
+    "geom:longitude":58.14333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mazra` Khusayyin",
+    "gn:country_code":"OM",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":287241,
+    "gn:latitude":23.37361,
+    "gn:longitude":58.14333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mazra\u2018 Khu\u015fayyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mazra\u2018 Khu\u015fayyim",
+        "Mazra\u2018 Khu\u015fayyin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287241
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"31be0e11468650529530837fd0d2aaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721067,
+            "locality_id":1243273701,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1243273701,
+    "wof:lastmodified":1537676184,
+    "wof:name":"Mazra` Khusayyin",
+    "wof:parent_id":1108721067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.14333000000001,
+    23.37361,
+    58.14333000000001,
+    23.37361
+],
+  "geometry": {"coordinates":[58.14333000000001,23.37361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242874563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.65676,21.60437,58.65676,21.60437",
+    "geom:latitude":21.60437,
+    "geom:longitude":58.65676,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ghuwayfat al Habb",
+    "gn:country_code":"OM",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288223,
+    "gn:latitude":21.60437,
+    "gn:longitude":58.65676,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ghuwayfat al \u1e28abb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghuaifat al Habb",
+        "Ghuwayfat al \u1e28abb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288223
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a14bf11e5008b2a949741a387a6be6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1242874563,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1242874563,
+    "wof:lastmodified":1537676210,
+    "wof:name":"Ghuwayfat al Habb",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.65676,
+    21.60437,
+    58.65676,
+    21.60437
+],
+  "geometry": {"coordinates":[58.65676,21.60437],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276219597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.73422,23.50085,58.73422,23.50085",
+    "geom:latitude":23.50085,
+    "geom:longitude":58.73422,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Khiran",
+    "gn:country_code":"OM",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288883,
+    "gn:latitude":23.50085,
+    "gn:longitude":58.73422,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Kh\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kh\u012br\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u064a\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bandar Khayr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421185635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288883,
+        "wk:page":"Bandar_Khayran"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6998d9f1a692e621e505301b161ebab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185635,
+            "locality_id":1276219597,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1276219597,
+    "wof:lastmodified":1537676228,
+    "wof:name":"Al Khiran",
+    "wof:parent_id":421185635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.73421999999999,
+    23.50085,
+    58.73421999999999,
+    23.50085
+],
+  "geometry": {"coordinates":[58.73421999999999,23.50085],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209126081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.19169,17.03035,53.19169,17.03035",
+    "geom:latitude":17.03035,
+    "geom:longitude":53.19169,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ma' Maturah",
+    "gn:country_code":"OM",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8699746,
+    "gn:latitude":17.03035,
+    "gn:longitude":53.19169,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"M\u0101\u2019 Ma\u0163\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0621 \u0645\u0637\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u0101\u2019 Ma\u0163\u016brah",
+        "M\u0101\u2019 Ma\u1e6d\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8699746
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1964ca766b8a5501a2d98bf223df6923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1209126081,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209126081,
+    "wof:lastmodified":1548974421,
+    "wof:name":"Ma' Maturah",
+    "wof:parent_id":85675695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.19169,
+    17.03035,
+    53.19169,
+    17.03035
+],
+  "geometry": {"coordinates":[53.19169,17.03035],"type":"Point"}
+}

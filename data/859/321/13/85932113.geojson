@@ -1,0 +1,111 @@
+{
+  "id": 85932113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11572081.637299,
+    "geom:bbox":"54.128675,17.010295,54.128675,17.010295",
+    "geom:latitude":17.010295,
+    "geom:longitude":54.128675,
+    "gn:id":"",
+    "iso:country":"OM",
+    "lbl:latitude":17.010295,
+    "lbl:longitude":54.128675,
+    "mps:latitude":17.027985,
+    "mps:longitude":54.128156,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u064a\u0644\u062d\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hasselahi"
+    ],
+    "name:eng_x_variant":[
+        "Al Hasselahi"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u062d\u0635\u064a\u0644\u062d\u064a"
+    ],
+    "qs:gn_adm0_cc":"OM",
+    "qs:gn_id":0,
+    "qs:gn_local":286621,
+    "qs:local_max":135,
+    "qs:local_sum":292,
+    "qs:localhoods":4,
+    "qs:name":"\u0627\u0644\u062d\u0635\u064a\u0644\u062d\u064a",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0638\u0641\u0627\u0631",
+    "qs:name_adm2":"\u0635\u0644\u0627\u0644\u0629",
+    "qs:name_en":"Al Hasselahi",
+    "qs:name_local":"\u0635\u0644\u0627\u0644\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photo_max":13,
+    "qs:photo_sum":37,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424898,
+    "qs:woe_adm1":2346258,
+    "qs:woe_adm2":55927085,
+    "qs:woe_lau":0,
+    "qs:woe_local":2268251,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        421200939,
+        85675695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55926924,
+        "qs:id":1062211,
+        "qs_pg:id":1062211
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b179a6b260466fd932dc60edb39792df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":-1,
+            "neighbourhood_id":85932113,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":85932113,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531939453,
+    "wof:name":"\u0627\u0644\u062d\u0635\u064a\u0644\u062d\u064a",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.128675,
+    17.010295,
+    54.128675,
+    17.010295
+],
+  "geometry": {"coordinates":[54.128675,17.010295],"type":"Point"}
+}

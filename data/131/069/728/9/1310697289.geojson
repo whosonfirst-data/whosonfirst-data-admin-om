@@ -1,0 +1,75 @@
+{
+  "id": 1310697289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.1625,17.14167,54.1625,17.14167",
+    "geom:latitude":17.14167,
+    "geom:longitude":54.1625,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arkut",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289018,
+    "gn:latitude":17.14167,
+    "gn:longitude":54.1625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ark\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ark\u016bt"
+    ],
+    "name:und_x_variant":[
+        "Erkot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289018,
+        "wk:page":"Arkut"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"69c9260e28596861ea6786554a7f8032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1310697289,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1310697289,
+    "wof:lastmodified":1537676231,
+    "wof:name":"Arkut",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.1625,
+    17.14167,
+    54.1625,
+    17.14167
+],
+  "geometry": {"coordinates":[54.1625,17.14167],"type":"Point"}
+}

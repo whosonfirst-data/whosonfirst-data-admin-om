@@ -1,0 +1,75 @@
+{
+  "id": 1309824317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.99708,24.35917,55.99708,24.35917",
+    "geom:latitude":24.35917,
+    "geom:longitude":55.99708,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Musaydirah",
+    "gn:country_code":"OM",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394477,
+    "gn:latitude":24.35917,
+    "gn:longitude":55.99708,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Mu\u015faydirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u064a\u062f\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mu\u015faydirah",
+        "Al Mu\u015faydirah",
+        "Al Mi\u1e63aydrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394477
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c45c0c7fe0af0e3ab4ef8681ca1e0586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1309824317,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1309824317,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Al Musaydirah",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.99708,
+    24.35917,
+    55.99708,
+    24.35917
+],
+  "geometry": {"coordinates":[55.99708,24.35917],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1126065455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.54707,23.60058,58.54707,23.60058",
+    "geom:latitude":23.60058,
+    "geom:longitude":58.54707,
+    "gn:gn_country":"OM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:latitude":23.60058,
+    "gn:longitude":58.54707,
+    "iso:country":"OM",
+    "lbl:latitude":23.60058,
+    "lbl:longitude":58.54707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Bayt Al Falaj"
+    ],
+    "name:ara_x_variant":[
+        "Bait Al Falaj",
+        "Bait El Falaj",
+        "\u0628\u064a\u062a \u0627\u0644\u0641\u0644\u062c"
+    ],
+    "name:nno_x_preferred":[
+        "Bayt al Falaj"
+    ],
+    "name:unk_x_variant":[
+        "Bayt Al Falaj",
+        "Bait el Falaj"
+    ],
+    "qs_pg:aaroncc":"OM",
+    "qs_pg:gn_country":"OM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":288752,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bayt Al Falaj",
+    "qs_pg:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs_pg:name_adm1":"\u0645\u0633\u0642\u0637",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1045954,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424898,
+    "qs_pg:woe_id":2267097,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424898,
+    "woe:name_adm0":"\u0639\u0645\u0627\u0646",
+    "woe:name_adm1":"\u0645\u0633\u0642\u0637",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675713,
+        102191569,
+        85632207,
+        1108721095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288752,
+        "gp:id":2267097,
+        "qs:id":1045954,
+        "qs_pg:id":1045954,
+        "wd:id":"Q4874956",
+        "wk:page":"Bayt al Falaj"
+    },
+    "wof:country":"OM",
+    "wof:created":1497308803,
+    "wof:geomhash":"170c470e08d218d325159adc2c4e72a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721095,
+            "locality_id":-1,
+            "neighbourhood_id":1126065455,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1126065455,
+    "wof:lastmodified":1534379392,
+    "wof:name":"Bayt Al Falaj",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85903757
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.54707,
+    23.60058,
+    58.54707,
+    23.60058
+],
+  "geometry": {"coordinates":[58.54707,23.60058],"type":"Point"}
+}

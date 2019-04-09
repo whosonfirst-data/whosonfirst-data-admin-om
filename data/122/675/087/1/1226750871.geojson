@@ -1,0 +1,75 @@
+{
+  "id": 1226750871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.03006,23.71119,58.03006,23.71119",
+    "geom:latitude":23.71119,
+    "geom:longitude":58.03006,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abu an Nakhil",
+    "gn:country_code":"OM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289457,
+    "gn:latitude":23.71119,
+    "gn:longitude":58.03006,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ab\u016b an Nakh\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0646\u0651\u062e\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Nukhayl",
+        "Ab\u016b an Nakh\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        890441841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289457,
+        "wk:page":"Abu_Nukhayl"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6c0aec319f63d0c49fc8ec822e170c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":890441841,
+            "locality_id":1226750871,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1226750871,
+    "wof:lastmodified":1537676250,
+    "wof:name":"Abu an Nakhil",
+    "wof:parent_id":890441841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.03006,
+    23.71119,
+    58.03006,
+    23.71119
+],
+  "geometry": {"coordinates":[58.03006,23.71119],"type":"Point"}
+}

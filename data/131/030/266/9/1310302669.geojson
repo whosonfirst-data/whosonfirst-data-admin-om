@@ -1,0 +1,74 @@
+{
+  "id": 1310302669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.7399,23.28228,58.7399,23.28228",
+    "geom:latitude":23.28228,
+    "geom:longitude":58.7399,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Falaj at Turayf",
+    "gn:country_code":"OM",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026293,
+    "gn:latitude":23.28228,
+    "gn:longitude":58.7399,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Falaj a\u0163 \u0162urayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u062c \u0627\u0644\u0637\u0651\u0631\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Falaj a\u0163 \u0162urayf",
+        "Falaj a\u1e6d \u1e6cirayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026293
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"45ca0bc18fc7c4ba9834a94524761dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1310302669,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1310302669,
+    "wof:lastmodified":1537676306,
+    "wof:name":"Falaj at Turayf",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.7399,
+    23.28228,
+    58.7399,
+    23.28228
+],
+  "geometry": {"coordinates":[58.7399,23.28228],"type":"Point"}
+}

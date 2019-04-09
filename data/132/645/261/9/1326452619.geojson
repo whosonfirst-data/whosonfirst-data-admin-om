@@ -1,0 +1,77 @@
+{
+  "id": 1326452619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.48173,17.12238,54.48173,17.12238",
+    "geom:latitude":17.12238,
+    "geom:longitude":54.48173,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qarthit",
+    "gn:country_code":"OM",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286907,
+    "gn:latitude":17.12238,
+    "gn:longitude":54.48173,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Qarthit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0638\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Qarthet",
+        "Qarthit",
+        "Qrdit",
+        "Qarz\u0327\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421186703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286907,
+        "wk:page":"Qarthit"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6a774142b404d40f6ebd4d16008b7383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186703,
+            "locality_id":1326452619,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1326452619,
+    "wof:lastmodified":1537676176,
+    "wof:name":"Qarthit",
+    "wof:parent_id":421186703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.48173000000001,
+    17.12238,
+    54.48173000000001,
+    17.12238
+],
+  "geometry": {"coordinates":[54.48173000000001,17.12238],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243449857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.1294,17.20664,54.1294,17.20664",
+    "geom:latitude":17.20664,
+    "geom:longitude":54.1294,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Raghb",
+    "gn:country_code":"OM",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558908,
+    "gn:latitude":17.20664,
+    "gn:longitude":54.1294,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Raghb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u063a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Raghab",
+        "Raghb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558908
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ecea1e8d2f3caf283548c29e2c143af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1243449857,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1243449857,
+    "wof:lastmodified":1537676319,
+    "wof:name":"Raghb",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.1294,
+    17.20664,
+    54.1294,
+    17.20664
+],
+  "geometry": {"coordinates":[54.1294,17.20664],"type":"Point"}
+}

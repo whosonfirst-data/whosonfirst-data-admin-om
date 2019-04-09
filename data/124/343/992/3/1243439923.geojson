@@ -1,0 +1,71 @@
+{
+  "id": 1243439923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.103,17.00184,54.103,17.00184",
+    "geom:latitude":17.00184,
+    "geom:longitude":54.103,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Awqad Bayt Marhun",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288929,
+    "gn:latitude":17.00184,
+    "gn:longitude":54.103,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u2018Awqad Bayt Marh\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Awqad Bayt Marh\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288929,
+        "wk:page":"%60Awqad_Bayt_Marhun"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"090bddc561243819a833f2abe840fb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1243439923,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1243439923,
+    "wof:lastmodified":1537676229,
+    "wof:name":"`Awqad Bayt Marhun",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.103,
+    17.00184,
+    54.103,
+    17.00184
+],
+  "geometry": {"coordinates":[54.103,17.00184],"type":"Point"}
+}

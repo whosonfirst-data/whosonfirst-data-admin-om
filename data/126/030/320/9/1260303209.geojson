@@ -1,0 +1,72 @@
+{
+  "id": 1260303209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.11472,23.44972,57.11472,23.44972",
+    "geom:latitude":23.44972,
+    "geom:longitude":57.11472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zaybah",
+    "gn:country_code":"OM",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285889,
+    "gn:latitude":23.44972,
+    "gn:longitude":57.11472,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10ab\u2018",
+        "Zaybah",
+        "Z\u0327\u0101bi\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285889
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3b4a7a4a8961f0e2060482e5a33550bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1260303209,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1260303209,
+    "wof:lastmodified":1537676149,
+    "wof:name":"Zaybah",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.11472,
+    23.44972000000001,
+    57.11472,
+    23.44972000000001
+],
+  "geometry": {"coordinates":[57.11472,23.44972000000001],"type":"Point"}
+}

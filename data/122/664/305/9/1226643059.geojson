@@ -1,0 +1,67 @@
+{
+  "id": 1226643059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.13306,17.17722,54.13306,17.17722",
+    "geom:latitude":17.17722,
+    "geom:longitude":54.13306,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Enhorelah",
+    "gn:country_code":"OM",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415361,
+    "gn:latitude":17.17722,
+    "gn:longitude":54.13306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Enhorelah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415361
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"faf49e4069d8084f6e6d2ea60ef38f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1226643059,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226643059,
+    "wof:lastmodified":1536861942,
+    "wof:name":"Enhorelah",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.13306,
+    17.17722,
+    54.13306,
+    17.17722
+],
+  "geometry": {"coordinates":[54.13306,17.17722],"type":"Point"}
+}

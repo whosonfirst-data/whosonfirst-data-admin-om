@@ -1,0 +1,84 @@
+{
+  "id": 1243051707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.13043,24.31027,56.13043,24.31027",
+    "geom:latitude":24.31027,
+    "geom:longitude":56.13043,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Khubbayn",
+    "gn:country_code":"OM",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287596,
+    "gn:latitude":24.31027,
+    "gn:longitude":56.13043,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Al Khubbayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u0651\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kliatudh",
+        "Khotudh",
+        "Khatudh",
+        "Khafudh",
+        "Kha\u0163wah",
+        "Al Khubbayn",
+        "Al Khabbayn",
+        "Khubayn",
+        "Khubar",
+        "Khubain",
+        "Khabbayn",
+        "Al Khubayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287596
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"402eec7ed960d35dfd48b666249e3c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1243051707,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1243051707,
+    "wof:lastmodified":1537676193,
+    "wof:name":"Al Khubbayn",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.13043,
+    24.31027000000001,
+    56.13043,
+    24.31027000000001
+],
+  "geometry": {"coordinates":[56.13043,24.31027000000001],"type":"Point"}
+}

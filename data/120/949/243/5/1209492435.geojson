@@ -1,0 +1,76 @@
+{
+  "id": 1209492435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.13064,22.52034,58.13064,22.52034",
+    "geom:latitude":22.52034,
+    "geom:longitude":58.13064,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ash Shariq",
+    "gn:country_code":"OM",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286455,
+    "gn:latitude":22.52034,
+    "gn:longitude":58.13064,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ash Sh\u0101riq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u0101riq"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0627\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "Ash Sh\u0101riq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286455
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b8187a9d37977fb9e784176caa56bc1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1209492435,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1209492435,
+    "wof:lastmodified":1548974430,
+    "wof:name":"Ash Shariq",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.13064,
+    22.52034,
+    58.13064,
+    22.52034
+],
+  "geometry": {"coordinates":[58.13064,22.52034],"type":"Point"}
+}

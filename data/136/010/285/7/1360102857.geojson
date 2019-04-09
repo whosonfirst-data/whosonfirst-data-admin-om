@@ -1,0 +1,74 @@
+{
+  "id": 1360102857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.51533,23.10562,57.51533,23.10562",
+    "geom:latitude":23.10562,
+    "geom:longitude":57.51533,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sab Qashi`",
+    "gn:country_code":"OM",
+    "gn:dem":1676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286894,
+    "gn:latitude":23.10562,
+    "gn:longitude":57.51533,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"S\u0101b Q\u0101shi\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0628 \u0642\u0627\u0634\u0639"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101shah",
+        "S\u0101b Q\u0101shi\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286894
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"582a2a2d6c36445fc29e1ef9779c3d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1360102857,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1360102857,
+    "wof:lastmodified":1537676175,
+    "wof:name":"Sab Qashi`",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.51533000000001,
+    23.10562,
+    57.51533000000001,
+    23.10562
+],
+  "geometry": {"coordinates":[57.51533000000001,23.10562],"type":"Point"}
+}

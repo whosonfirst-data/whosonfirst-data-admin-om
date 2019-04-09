@@ -1,0 +1,77 @@
+{
+  "id": 1293905641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.51745,23.37707,58.51745,23.37707",
+    "geom:latitude":23.37707,
+    "geom:longitude":58.51745,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"At Tuyan",
+    "gn:country_code":"OM",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028497,
+    "gn:latitude":23.37707,
+    "gn:longitude":58.51745,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"A\u0163 \u0162\u016by\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u0163 \u0162uwiy\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0651\u0648\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162\u016by\u0101n",
+        "A\u1e6d \u1e6cuwy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028497
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0f89f3cc1cdaad22c7f1c26a43732e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1293905641,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1293905641,
+    "wof:lastmodified":1537676307,
+    "wof:name":"At Tuyan",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.51745,
+    23.37707,
+    58.51745,
+    23.37707
+],
+  "geometry": {"coordinates":[58.51745,23.37707],"type":"Point"}
+}

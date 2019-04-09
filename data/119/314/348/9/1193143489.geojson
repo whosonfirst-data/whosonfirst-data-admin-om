@@ -1,0 +1,71 @@
+{
+  "id": 1193143489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.28333,21.4,59.28333,21.4",
+    "geom:latitude":21.4,
+    "geom:longitude":59.28333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abu `Ukayshah",
+    "gn:country_code":"OM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289444,
+    "gn:latitude":21.4,
+    "gn:longitude":59.28333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ab\u016b \u2018Ukayshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Akaisha",
+        "Ab\u016b \u2018Ukayshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289444
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c3d406498f761642a4f377d04f0e687c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721071,
+            "locality_id":1193143489,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1193143489,
+    "wof:lastmodified":1537676250,
+    "wof:name":"Abu `Ukayshah",
+    "wof:parent_id":1108721071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.28333000000001,
+    21.4,
+    59.28333000000001,
+    21.4
+],
+  "geometry": {"coordinates":[59.28333000000001,21.4],"type":"Point"}
+}

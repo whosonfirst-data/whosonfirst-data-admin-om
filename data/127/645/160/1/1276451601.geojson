@@ -1,0 +1,74 @@
+{
+  "id": 1276451601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.2415,23.59566,57.2415,23.59566",
+    "geom:latitude":23.59566,
+    "geom:longitude":57.2415,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Gharwah",
+    "gn:country_code":"OM",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288277,
+    "gn:latitude":23.59566,
+    "gn:longitude":57.2415,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Gharwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0631\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Gharwah",
+        "Al Ghurwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288277
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a4a140f4cbbd242d3f7fa9a03871b052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1276451601,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1276451601,
+    "wof:lastmodified":1537676212,
+    "wof:name":"Al Gharwah",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.2415,
+    23.59566,
+    57.2415,
+    23.59566
+],
+  "geometry": {"coordinates":[57.2415,23.59566],"type":"Point"}
+}

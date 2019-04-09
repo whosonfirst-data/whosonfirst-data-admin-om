@@ -1,0 +1,75 @@
+{
+  "id": 1226445745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.45428,23.4908,57.45428,23.4908",
+    "geom:latitude":23.4908,
+    "geom:longitude":57.45428,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Falaj ash Shurah",
+    "gn:country_code":"OM",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288420,
+    "gn:latitude":23.4908,
+    "gn:longitude":57.45428,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Falaj ash Shur\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u062c \u0627\u0644\u0634\u0631\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "Falaj \u015ea\u1e29r\u0101\u2019",
+        "Falaj Shir\u0101h",
+        "Falaj ash Shur\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288420
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"39e82ed902843c506df4eb164f3e1de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1226445745,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1226445745,
+    "wof:lastmodified":1537676216,
+    "wof:name":"Falaj ash Shurah",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.45428,
+    23.4908,
+    57.45428,
+    23.4908
+],
+  "geometry": {"coordinates":[57.45428,23.4908],"type":"Point"}
+}

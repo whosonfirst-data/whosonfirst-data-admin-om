@@ -1,0 +1,99 @@
+{
+  "id": 421187655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.65539,23.50813,58.65539,23.50813",
+    "geom:latitude":23.50813,
+    "geom:longitude":58.65539,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Yit\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u064a\u062a\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Yiti"
+    ],
+    "name:eng_x_preferred":[
+        "Yiti"
+    ],
+    "name:fre_x_preferred":[
+        "Yiti"
+    ],
+    "name:nno_x_preferred":[
+        "Yiti"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u062a\u06cc"
+    ],
+    "qs:gn_country":"OM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":285919,
+    "qs:gn_pop":0,
+    "qs:name":"\u064a\u062a\u064a",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0645\u0633\u0642\u0637",
+    "qs:photos":308,
+    "qs:photos_1k":62,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":308,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083737,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":2268283,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421185635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285919,
+        "gp:id":2268283,
+        "qs:id":1083737,
+        "wd:id":"Q8053883",
+        "wk:page":"Yiti"
+    },
+    "wof:country":"OM",
+    "wof:created":1459009519,
+    "wof:geomhash":"6d2b1fd95b5c6c6b5dc606566059a049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185635,
+            "locality_id":421187655,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":421187655,
+    "wof:lastmodified":1514494827,
+    "wof:name":"\u064a\u062a\u064a",
+    "wof:parent_id":421185635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.65539,
+    23.50813,
+    58.65539,
+    23.50813
+],
+  "geometry": {"coordinates":[58.65539,23.50813],"type":"Point"}
+}

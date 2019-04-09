@@ -1,0 +1,71 @@
+{
+  "id": 1226044317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.10455,21.30119,57.10455,21.30119",
+    "geom:latitude":21.30119,
+    "geom:longitude":57.10455,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qarn Alam",
+    "gn:country_code":"OM",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":286909,
+    "gn:latitude":21.30119,
+    "gn:longitude":57.10455,
+    "gn:modification_date":"2017-04-29",
+    "gn:name":"Qarn Alam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qarn Alam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286909,
+        "wk:page":"Qarn_Alam"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7842dc039cebd2fecb4fd0995b7db789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721053,
+            "locality_id":1226044317,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1226044317,
+    "wof:lastmodified":1537676176,
+    "wof:name":"Qarn Alam",
+    "wof:parent_id":1108721053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.10455,
+    21.30119,
+    57.10455,
+    21.30119
+],
+  "geometry": {"coordinates":[57.10455,21.30119],"type":"Point"}
+}

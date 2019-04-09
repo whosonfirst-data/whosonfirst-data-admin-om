@@ -1,0 +1,67 @@
+{
+  "id": 1276636785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.18333,23.93333,57.18333,23.93333",
+    "geom:latitude":23.93333,
+    "geom:longitude":57.18333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qasabiyat az Za`ab",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286898,
+    "gn:latitude":23.93333,
+    "gn:longitude":57.18333,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Qa\u015fab\u012byat az Za\u2018\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bbiyat Za\u2018\u0101b",
+        "Qa\u015fab\u012byat az Za\u2018\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286898
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2d3928627ccbe987361dd28da00f9268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276636785,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276636785,
+    "wof:lastmodified":1537676175,
+    "wof:name":"Qasabiyat az Za`ab",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.18333000000001,
+    23.93333,
+    57.18333000000001,
+    23.93333
+],
+  "geometry": {"coordinates":[57.18333000000001,23.93333],"type":"Point"}
+}

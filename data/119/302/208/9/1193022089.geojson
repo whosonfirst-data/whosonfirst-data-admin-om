@@ -1,0 +1,75 @@
+{
+  "id": 1193022089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.2957,22.61727,59.2957,22.61727",
+    "geom:latitude":22.61727,
+    "geom:longitude":59.2957,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shubaykah",
+    "gn:country_code":"OM",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412279,
+    "gn:latitude":22.61727,
+    "gn:longitude":59.2957,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Shubaykah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u064a\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Shubaykah",
+        "Shubaykah",
+        "Shibaykah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412279
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b0d6ab33ab3d8d03f41eb0e868764ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1193022089,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1193022089,
+    "wof:lastmodified":1537676290,
+    "wof:name":"Shubaykah",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.2957,
+    22.61727,
+    59.2957,
+    22.61727
+],
+  "geometry": {"coordinates":[59.2957,22.61727],"type":"Point"}
+}

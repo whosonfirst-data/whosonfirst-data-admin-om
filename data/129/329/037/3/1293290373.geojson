@@ -1,0 +1,74 @@
+{
+  "id": 1293290373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.11098,23.66396,58.11098,23.66396",
+    "geom:latitude":23.66396,
+    "geom:longitude":58.11098,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Mu`baylah al Janubiyah",
+    "gn:country_code":"OM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137994,
+    "gn:latitude":23.66396,
+    "gn:longitude":58.11098,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al Mu\u2018baylah al Jan\u016bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0628\u064a\u0644\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mu\u2018baylah al Jan\u016bb\u012byah",
+        "Al Mu\u2018baylah al Jan\u016bbiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421187061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137994
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"97f35a014c255adfef6217c60ca2e70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187061,
+            "locality_id":1293290373,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1293290373,
+    "wof:lastmodified":1537676308,
+    "wof:name":"Al Mu`baylah al Janubiyah",
+    "wof:parent_id":421187061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.11098000000001,
+    23.66396,
+    58.11098000000001,
+    23.66396
+],
+  "geometry": {"coordinates":[58.11098000000001,23.66396],"type":"Point"}
+}

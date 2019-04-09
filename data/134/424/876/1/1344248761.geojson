@@ -1,0 +1,74 @@
+{
+  "id": 1344248761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.39478,26.26145,56.39478,26.26145",
+    "geom:latitude":26.26145,
+    "geom:longitude":56.39478,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Shisah",
+    "gn:country_code":"OM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288989,
+    "gn:latitude":26.26145,
+    "gn:longitude":56.39478,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sh\u012b\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sh\u012bshah",
+        "Shishah",
+        "Sh\u012bsha",
+        "Shisuh",
+        "Sh\u012b\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288989
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"44e5c2293a4e2011947031d96de43135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1344248761,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1344248761,
+    "wof:lastmodified":1537676231,
+    "wof:name":"Shisah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.39478,
+    26.26145,
+    56.39478,
+    26.26145
+],
+  "geometry": {"coordinates":[56.39478,26.26145],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260067463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.61415,23.06944,58.61415,23.06944",
+    "geom:latitude":23.06944,
+    "geom:longitude":58.61415,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ajma`",
+    "gn:country_code":"OM",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411244,
+    "gn:latitude":23.06944,
+    "gn:longitude":58.61415,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ajma\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajma\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411244
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"180fcaf07d7bb576c7743d9a1bd1480b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1260067463,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1260067463,
+    "wof:lastmodified":1537676268,
+    "wof:name":"Ajma`",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.61415,
+    23.06944,
+    58.61415,
+    23.06944
+],
+  "geometry": {"coordinates":[58.61415,23.06944],"type":"Point"}
+}

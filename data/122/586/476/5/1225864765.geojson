@@ -1,0 +1,74 @@
+{
+  "id": 1225864765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.13306,17.14278,54.13306,17.14278",
+    "geom:latitude":17.14278,
+    "geom:longitude":54.13306,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gharnawt",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288282,
+    "gn:latitude":17.14278,
+    "gn:longitude":54.13306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gharnawt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghrnout",
+        "Ghrnowt",
+        "Gharnawt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288282,
+        "wk:page":"Gharnawt"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"14a5acc08488d4d45a519fcf041c0040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1225864765,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1225864765,
+    "wof:lastmodified":1537676212,
+    "wof:name":"Gharnawt",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.13306,
+    17.14278,
+    54.13306,
+    17.14278
+],
+  "geometry": {"coordinates":[54.13306,17.14278],"type":"Point"}
+}

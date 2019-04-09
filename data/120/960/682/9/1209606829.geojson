@@ -1,0 +1,77 @@
+{
+  "id": 1209606829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21872,26.20919,56.21872,26.20919",
+    "geom:latitude":26.20919,
+    "geom:longitude":56.21872,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mukhi",
+    "gn:country_code":"OM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287135,
+    "gn:latitude":26.20919,
+    "gn:longitude":56.21872,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"M\u016bkh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u016bkh\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u062e\u064a"
+    ],
+    "name:und_x_variant":[
+        "Makhda",
+        "Makhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287135
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d6f409b1fbefbfa853c38c3a6b4d8728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1209606829,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209606829,
+    "wof:lastmodified":1548974435,
+    "wof:name":"Mukhi",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21872,
+    26.20919,
+    56.21872,
+    26.20919
+],
+  "geometry": {"coordinates":[56.21872,26.20919],"type":"Point"}
+}

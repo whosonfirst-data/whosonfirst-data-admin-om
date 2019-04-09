@@ -1,0 +1,74 @@
+{
+  "id": 1327027631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.72129,23.35052,58.72129,23.35052",
+    "geom:latitude":23.35052,
+    "geom:longitude":58.72129,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al `Afiyah",
+    "gn:country_code":"OM",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026296,
+    "gn:latitude":23.35052,
+    "gn:longitude":58.72129,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Al \u2018\u0100fiyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0641\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018\u0100fiyah",
+        "Al \u2018\u0100fyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026296
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4775bf9c3d15ddca58562d2d83f30f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1327027631,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1327027631,
+    "wof:lastmodified":1537676307,
+    "wof:name":"Al `Afiyah",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.72129,
+    23.35052,
+    58.72129,
+    23.35052
+],
+  "geometry": {"coordinates":[58.72129,23.35052],"type":"Point"}
+}

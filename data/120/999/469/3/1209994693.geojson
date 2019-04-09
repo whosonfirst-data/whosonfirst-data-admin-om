@@ -1,0 +1,70 @@
+{
+  "id": 1209994693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.472,23.83021,57.472,23.83021",
+    "geom:latitude":23.83021,
+    "geom:longitude":57.472,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Bad`ah",
+    "gn:country_code":"OM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412198,
+    "gn:latitude":23.83021,
+    "gn:longitude":57.472,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al Bad\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Bad\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421184219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412198
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"8c4de2bfce1679f561b04f7d9b0e90e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184219,
+            "locality_id":1209994693,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1209994693,
+    "wof:lastmodified":1537676288,
+    "wof:name":"Al Bad`ah",
+    "wof:parent_id":421184219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.472,
+    23.83021,
+    57.472,
+    23.83021
+],
+  "geometry": {"coordinates":[57.472,23.83021],"type":"Point"}
+}

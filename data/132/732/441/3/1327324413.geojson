@@ -1,0 +1,73 @@
+{
+  "id": 1327324413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.46439,17.19854,54.46439,17.19854",
+    "geom:latitude":17.19854,
+    "geom:longitude":54.46439,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Adiqaf",
+    "gn:country_code":"OM",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558654,
+    "gn:latitude":17.19854,
+    "gn:longitude":54.46439,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ad\u012bq\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ad\u012bq\u0101f"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u062f\u064a\u0642\u0627\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558654
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7dfa1260ee4f399480a16599eb53ef16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1327324413,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1327324413,
+    "wof:lastmodified":1537676310,
+    "wof:name":"Adiqaf",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.46439,
+    17.19854,
+    54.46439,
+    17.19854
+],
+  "geometry": {"coordinates":[54.46439,17.19854],"type":"Point"}
+}

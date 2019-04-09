@@ -1,0 +1,67 @@
+{
+  "id": 1193128003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.99161,17.20349,53.99161,17.20349",
+    "geom:latitude":17.20349,
+    "geom:longitude":53.99161,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Teetaan",
+    "gn:country_code":"OM",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286149,
+    "gn:latitude":17.20349,
+    "gn:longitude":53.99161,
+    "gn:modification_date":"2014-02-09",
+    "gn:name":"Teetaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286149
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b59f307620c86d18a61b8513f01096ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1193128003,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1193128003,
+    "wof:lastmodified":1536378856,
+    "wof:name":"Teetaan",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.99161,
+    17.20349,
+    53.99161,
+    17.20349
+],
+  "geometry": {"coordinates":[53.99161,17.20349],"type":"Point"}
+}

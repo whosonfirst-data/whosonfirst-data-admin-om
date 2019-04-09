@@ -1,0 +1,75 @@
+{
+  "id": 1193020069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5083,23.26046,56.5083,23.26046",
+    "geom:latitude":23.26046,
+    "geom:longitude":56.5083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ar Rayibah",
+    "gn:country_code":"OM",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411607,
+    "gn:latitude":23.26046,
+    "gn:longitude":56.5083,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Ar R\u0101yibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "R\u0101yibah",
+        "Ar R\u0101yibah",
+        "Ar R\u0101ybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411607
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ff3dddea1bb84e697e6cf1ed592cc7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1193020069,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1193020069,
+    "wof:lastmodified":1537676271,
+    "wof:name":"Ar Rayibah",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5083,
+    23.26046,
+    56.5083,
+    23.26046
+],
+  "geometry": {"coordinates":[56.5083,23.26046],"type":"Point"}
+}

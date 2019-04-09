@@ -1,0 +1,72 @@
+{
+  "id": 1293678173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.10139,24.54889,56.10139,24.54889",
+    "geom:latitude":24.54889,
+    "geom:longitude":56.10139,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hayl",
+    "gn:country_code":"OM",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287975,
+    "gn:latitude":24.54889,
+    "gn:longitude":56.10139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u1e28ayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abud",
+        "\u1e28ayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287975,
+        "wk:page":"Abud%2C_Oman"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4ef0c8508fbf6b4a86ec714c49329e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1293678173,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1293678173,
+    "wof:lastmodified":1537676202,
+    "wof:name":"Hayl",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.10139,
+    24.54889,
+    56.10139,
+    24.54889
+],
+  "geometry": {"coordinates":[56.10139,24.54889],"type":"Point"}
+}

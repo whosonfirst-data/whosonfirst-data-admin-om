@@ -1,0 +1,76 @@
+{
+  "id": 1242591789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.54834,23.27993,56.54834,23.27993",
+    "geom:latitude":23.27993,
+    "geom:longitude":56.54834,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al `Araqi",
+    "gn:country_code":"OM",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289363,
+    "gn:latitude":23.27993,
+    "gn:longitude":56.54834,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al \u2018Ar\u0101q\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ar\u0101q\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0631\u0627\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "Araqi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289363
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"916544ef3c8d8701e620b3f96cbb6ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1242591789,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1242591789,
+    "wof:lastmodified":1537676247,
+    "wof:name":"Al `Araqi",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.54834,
+    23.27993,
+    56.54834,
+    23.27993
+],
+  "geometry": {"coordinates":[56.54834,23.27993],"type":"Point"}
+}

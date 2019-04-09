@@ -1,0 +1,73 @@
+{
+  "id": 1276644415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.64439,23.98302,56.64439,23.98302",
+    "geom:latitude":23.98302,
+    "geom:longitude":56.64439,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Shidah",
+    "gn:country_code":"OM",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286413,
+    "gn:latitude":23.98302,
+    "gn:longitude":56.64439,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sh\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286413
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"16cd9c0bda269875ec115c9c5a02b2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1276644415,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276644415,
+    "wof:lastmodified":1537676163,
+    "wof:name":"Shidah",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.64439,
+    23.98302,
+    56.64439,
+    23.98302
+],
+  "geometry": {"coordinates":[56.64439,23.98302],"type":"Point"}
+}

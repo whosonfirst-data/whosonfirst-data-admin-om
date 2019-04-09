@@ -1,0 +1,77 @@
+{
+  "id": 1243535593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.92681,23.66779,56.92681,23.66779",
+    "geom:latitude":23.66779,
+    "geom:longitude":56.92681,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Harmali",
+    "gn:country_code":"OM",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288051,
+    "gn:latitude":23.66779,
+    "gn:longitude":56.92681,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al \u1e28armal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0645\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Harmaliyah",
+        "Al \u1e28armal\u012byah",
+        "\u1e28armal\u012b",
+        "Al \u1e28armal\u012b",
+        "Al \u1e24armal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288051
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2cad8ccfa515cc8282ea6e6c0261b0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1243535593,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1243535593,
+    "wof:lastmodified":1537676205,
+    "wof:name":"Al Harmali",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.92681,
+    23.66779,
+    56.92681,
+    23.66779
+],
+  "geometry": {"coordinates":[56.92681,23.66779],"type":"Point"}
+}

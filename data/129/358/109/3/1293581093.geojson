@@ -1,0 +1,75 @@
+{
+  "id": 1293581093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18457,26.09342,56.18457,26.09342",
+    "geom:latitude":26.09342,
+    "geom:longitude":56.18457,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bayt al Buwayd",
+    "gn:country_code":"OM",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389890,
+    "gn:latitude":26.09342,
+    "gn:longitude":56.18457,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Bayt al Buway\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0628\u0648\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "Bayt al Buwaydh",
+        "Bayt al Buway\u1e11",
+        "Bayt al Buway\u1e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389890
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f0afdd1e79b39df74167de21b15c5a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1293581093,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1293581093,
+    "wof:lastmodified":1537676255,
+    "wof:name":"Bayt al Buwayd",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18457,
+    26.09342,
+    56.18457,
+    26.09342
+],
+  "geometry": {"coordinates":[56.18457,26.09342],"type":"Point"}
+}

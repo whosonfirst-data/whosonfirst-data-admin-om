@@ -1,0 +1,74 @@
+{
+  "id": 1276438627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18215,26.11967,56.18215,26.11967",
+    "geom:latitude":26.11967,
+    "geom:longitude":56.18215,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"`Arqabat",
+    "gn:country_code":"OM",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390556,
+    "gn:latitude":26.11967,
+    "gn:longitude":56.18215,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u2018Arqab\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0642\u0628\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arqab\u0101t",
+        "\u2018Urqab\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390556
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"197894f95f159357cfa2b1752ad63234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1276438627,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1276438627,
+    "wof:lastmodified":1537676264,
+    "wof:name":"`Arqabat",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18215,
+    26.11967000000001,
+    56.18215,
+    26.11967000000001
+],
+  "geometry": {"coordinates":[56.18215,26.11967000000001],"type":"Point"}
+}

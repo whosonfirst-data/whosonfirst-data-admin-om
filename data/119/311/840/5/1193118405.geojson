@@ -1,0 +1,70 @@
+{
+  "id": 1193118405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.56667,24.45,56.56667,24.45",
+    "geom:latitude":24.45,
+    "geom:longitude":56.56667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Arja",
+    "gn:country_code":"OM",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289019,
+    "gn:latitude":24.45,
+    "gn:longitude":56.56667,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Arja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Arj\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289019
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ef4288bd702770837f66d14c08d94d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1193118405,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1193118405,
+    "wof:lastmodified":1537676232,
+    "wof:name":"Arja",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.56667,
+    24.45,
+    56.56667,
+    24.45
+],
+  "geometry": {"coordinates":[56.56667,24.45],"type":"Point"}
+}

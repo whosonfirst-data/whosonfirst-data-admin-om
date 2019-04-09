@@ -1,0 +1,78 @@
+{
+  "id": 1242859813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.38963,17.13946,54.38963,17.13946",
+    "geom:latitude":17.13946,
+    "geom:longitude":54.38963,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Ajriz",
+    "gn:country_code":"OM",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415333,
+    "gn:latitude":17.13946,
+    "gn:longitude":54.38963,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"\u2018Ajr\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ajr\u012bzi"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Ajr\u012bz",
+        "\u0639\u062c\u0631\u064a\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ajreezi",
+        "\u2018Ajr\u012bz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415333
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3cc1e4dd84e437e6b39136bf00cb4042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1242859813,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1242859813,
+    "wof:lastmodified":1537676298,
+    "wof:name":"`Ajriz",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.38963,
+    17.13946,
+    54.38963,
+    17.13946
+],
+  "geometry": {"coordinates":[54.38963,17.13946],"type":"Point"}
+}

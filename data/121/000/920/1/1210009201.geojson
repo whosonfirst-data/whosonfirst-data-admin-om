@@ -1,0 +1,77 @@
+{
+  "id": 1210009201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.68187,23.36149,58.68187,23.36149",
+    "geom:latitude":23.36149,
+    "geom:longitude":58.68187,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"As Silil",
+    "gn:country_code":"OM",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036183,
+    "gn:latitude":23.36149,
+    "gn:longitude":58.68187,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"As Sil\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As Sil\u012bl"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0651\u0644\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sal\u012bl",
+        "As Sal\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036183
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ba74f76a54fb3a0c07f7e98607e7a9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1210009201,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1210009201,
+    "wof:lastmodified":1537676308,
+    "wof:name":"As Silil",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.68187,
+    23.36149,
+    58.68187,
+    23.36149
+],
+  "geometry": {"coordinates":[58.68187,23.36149],"type":"Point"}
+}

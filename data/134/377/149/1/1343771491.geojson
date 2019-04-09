@@ -1,0 +1,71 @@
+{
+  "id": 1343771491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.33333,21.5,57.33333,21.5",
+    "geom:latitude":21.5,
+    "geom:longitude":57.33333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Ghabah",
+    "gn:country_code":"OM",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289305,
+    "gn:latitude":21.5,
+    "gn:longitude":57.33333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Al Gh\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghaba",
+        "Al Gh\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289305
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"420f50e1e4141169c413d4dfc3ba5c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721053,
+            "locality_id":1343771491,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1343771491,
+    "wof:lastmodified":1537676245,
+    "wof:name":"Al Ghabah",
+    "wof:parent_id":1108721053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.33333,
+    21.5,
+    57.33333,
+    21.5
+],
+  "geometry": {"coordinates":[57.33333,21.5],"type":"Point"}
+}

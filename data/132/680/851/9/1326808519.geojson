@@ -1,0 +1,75 @@
+{
+  "id": 1326808519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.73797,24.36071,56.73797,24.36071",
+    "geom:latitude":24.36071,
+    "geom:longitude":56.73797,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Wuqaybah",
+    "gn:country_code":"OM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412892,
+    "gn:latitude":24.36071,
+    "gn:longitude":56.73797,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Wuqaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0642\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Waqaybah",
+        "Al Wuqaybah",
+        "Al Wiqaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412892
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7f870c6013a1dc74b387d9f4294965e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1326808519,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1326808519,
+    "wof:lastmodified":1537676294,
+    "wof:name":"Al Wuqaybah",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.73797,
+    24.36071,
+    56.73797,
+    24.36071
+],
+  "geometry": {"coordinates":[56.73797,24.36071],"type":"Point"}
+}

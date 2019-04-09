@@ -1,0 +1,73 @@
+{
+  "id": 1293122139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18714,25.65722,56.18714,25.65722",
+    "geom:latitude":25.65722,
+    "geom:longitude":56.18714,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sharmilah",
+    "gn:country_code":"OM",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396363,
+    "gn:latitude":25.65722,
+    "gn:longitude":56.18714,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sharm\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0645\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sharm\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396363
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a90baca8f0482731f8f730b5e448154b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1293122139,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1293122139,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Sharmilah",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18714,
+    25.65722,
+    56.18714,
+    25.65722
+],
+  "geometry": {"coordinates":[56.18714,25.65722],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243551341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.15091,26.10544,56.15091,26.10544",
+    "geom:latitude":26.10544,
+    "geom:longitude":56.15091,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fawfalah",
+    "gn:country_code":"OM",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388476,
+    "gn:latitude":26.10544,
+    "gn:longitude":56.15091,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Fawfalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0641\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Fawhfall\u0101m",
+        "Fawfalah",
+        "F\u016bflah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388476
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"63a54e8404b26aaba9bc71c5671ad674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1243551341,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1243551341,
+    "wof:lastmodified":1537676252,
+    "wof:name":"Fawfalah",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.15091,
+    26.10544,
+    56.15091,
+    26.10544
+],
+  "geometry": {"coordinates":[56.15091,26.10544],"type":"Point"}
+}

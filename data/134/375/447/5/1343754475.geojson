@@ -1,0 +1,70 @@
+{
+  "id": 1343754475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.94641,23.04945,58.94641,23.04945",
+    "geom:latitude":23.04945,
+    "geom:longitude":58.94641,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Fayq",
+    "gn:country_code":"OM",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026281,
+    "gn:latitude":23.04945,
+    "gn:longitude":58.94641,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Fayq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026281
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3de42e3e04d27eabdab0313b89f43463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1343754475,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1343754475,
+    "wof:lastmodified":1537676306,
+    "wof:name":"Fayq",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.94641,
+    23.04945,
+    58.94641,
+    23.04945
+],
+  "geometry": {"coordinates":[58.94641,23.04945],"type":"Point"}
+}

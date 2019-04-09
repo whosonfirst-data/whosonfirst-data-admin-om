@@ -1,0 +1,74 @@
+{
+  "id": 1209403707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.04739,24.43216,56.04739,24.43216",
+    "geom:latitude":24.43216,
+    "geom:longitude":56.04739,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Abul",
+    "gn:country_code":"OM",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289479,
+    "gn:latitude":24.43216,
+    "gn:longitude":56.04739,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"\u2018Ab\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "A\u2018bal",
+        "\u2018Ab\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289479
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fb4a5d6b853b110d57d4539f23078f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1209403707,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1209403707,
+    "wof:lastmodified":1548974428,
+    "wof:name":"`Abul",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.04739,
+    24.43216,
+    56.04739,
+    24.43216
+],
+  "geometry": {"coordinates":[56.04739,24.43216],"type":"Point"}
+}

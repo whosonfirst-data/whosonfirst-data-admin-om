@@ -1,0 +1,74 @@
+{
+  "id": 1276995457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.43014,23.09383,57.43014,23.09383",
+    "geom:latitude":23.09383,
+    "geom:longitude":57.43014,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Az Zikt",
+    "gn:country_code":"OM",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285883,
+    "gn:latitude":23.09383,
+    "gn:longitude":57.43014,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Az Zikt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0643\u062a"
+    ],
+    "name:und_x_variant":[
+        "Zikt",
+        "Az Zikt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285883
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"650bdeeeadb9fb818b199597aa5d211b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1276995457,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1276995457,
+    "wof:lastmodified":1537676148,
+    "wof:name":"Az Zikt",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.43014,
+    23.09383,
+    57.43014,
+    23.09383
+],
+  "geometry": {"coordinates":[57.43014,23.09383],"type":"Point"}
+}

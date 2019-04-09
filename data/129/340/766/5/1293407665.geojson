@@ -1,0 +1,77 @@
+{
+  "id": 1293407665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.79518,23.46529,56.79518,23.46529",
+    "geom:latitude":23.46529,
+    "geom:longitude":56.79518,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"An Nujayd",
+    "gn:country_code":"OM",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289056,
+    "gn:latitude":23.46529,
+    "gn:longitude":56.79518,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"An Nujayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062c\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kujad",
+        "Falaj",
+        "Nujayd",
+        "An Nujayd",
+        "An Nijayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289056
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fe74229d794fa30f6f66b4310ca0b80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1293407665,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1293407665,
+    "wof:lastmodified":1537676232,
+    "wof:name":"An Nujayd",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.79518,
+    23.46529,
+    56.79518,
+    23.46529
+],
+  "geometry": {"coordinates":[56.79518,23.46529],"type":"Point"}
+}

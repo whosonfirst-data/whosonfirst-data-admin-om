@@ -1,0 +1,76 @@
+{
+  "id": 1243355253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.2874,26.16784,56.2874,26.16784",
+    "geom:latitude":26.16784,
+    "geom:longitude":56.2874,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Silt Ashba",
+    "gn:country_code":"OM",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":390333,
+    "gn:latitude":26.16784,
+    "gn:longitude":56.2874,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Silt Ashb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u062a \u0623\u0634\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Silat Ashab\u0101",
+        "Selat Ash\u0101ba",
+        "Sallat Ashab\u0101",
+        "Silt Ashb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390333
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"49f044c5836af0d23cd299d4aee08d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1243355253,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1243355253,
+    "wof:lastmodified":1537676261,
+    "wof:name":"Silt Ashba",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.2874,
+    26.16784,
+    56.2874,
+    26.16784
+],
+  "geometry": {"coordinates":[56.2874,26.16784],"type":"Point"}
+}

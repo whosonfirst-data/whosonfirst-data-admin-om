@@ -1,0 +1,70 @@
+{
+  "id": 1209016223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.45565,19.36184,56.45565,19.36184",
+    "geom:latitude":19.36184,
+    "geom:longitude":56.45565,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mukhaizna",
+    "gn:country_code":"OM",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629422,
+    "gn:latitude":19.36184,
+    "gn:longitude":56.45565,
+    "gn:modification_date":"2013-11-02",
+    "gn:name":"Mukhaizna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mukhaizna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675685,
+        421189283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629422
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f293f037654ede3f4000a8f6eea677d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189283,
+            "locality_id":1209016223,
+            "region_id":85675685
+        }
+    ],
+    "wof:id":1209016223,
+    "wof:lastmodified":1548974414,
+    "wof:name":"Mukhaizna",
+    "wof:parent_id":421189283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.45565,
+    19.36184,
+    56.45565,
+    19.36184
+],
+  "geometry": {"coordinates":[56.45565,19.36184],"type":"Point"}
+}

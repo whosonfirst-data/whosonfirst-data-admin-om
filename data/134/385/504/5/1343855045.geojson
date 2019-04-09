@@ -1,0 +1,74 @@
+{
+  "id": 1343855045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.14913,16.69756,53.14913,16.69756",
+    "geom:latitude":16.69756,
+    "geom:longitude":53.14913,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bal'as`ad",
+    "gn:country_code":"OM",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556150,
+    "gn:latitude":16.69756,
+    "gn:longitude":53.14913,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bal\u2019as\u2018ad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u0623\u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bal\u2019as\u2018ad",
+        "Balas\u2018ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556150
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"472bdb57a3791257267dd89d309af3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189277,
+            "locality_id":1343855045,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343855045,
+    "wof:lastmodified":1537676329,
+    "wof:name":"Bal'as`ad",
+    "wof:parent_id":421189277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.14913000000001,
+    16.69756,
+    53.14913000000001,
+    16.69756
+],
+  "geometry": {"coordinates":[53.14913000000001,16.69756],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343253795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.26427,26.12085,56.26427,26.12085",
+    "geom:latitude":26.12085,
+    "geom:longitude":56.26427,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Haqat",
+    "gn:country_code":"OM",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390317,
+    "gn:latitude":26.12085,
+    "gn:longitude":56.26427,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al \u1e28aqat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0642\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Haqt",
+        "Al \u1e28aqat",
+        "Al \u1e24iqt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390317
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2d942882b53f389d7b9c8bab1eb43007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1343253795,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1343253795,
+    "wof:lastmodified":1537676260,
+    "wof:name":"Al Haqat",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.26427,
+    26.12085,
+    56.26427,
+    26.12085
+],
+  "geometry": {"coordinates":[56.26427,26.12085],"type":"Point"}
+}

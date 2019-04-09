@@ -1,0 +1,71 @@
+{
+  "id": 1293576439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.39763,21.41432,58.39763,21.41432",
+    "geom:latitude":21.41432,
+    "geom:longitude":58.39763,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Zibarah",
+    "gn:country_code":"OM",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285885,
+    "gn:latitude":21.41432,
+    "gn:longitude":58.39763,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Zib\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabara",
+        "Zib\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285885
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7a92a114446da1562242a2912adaaa2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1293576439,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1293576439,
+    "wof:lastmodified":1537676148,
+    "wof:name":"Zibarah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.39763000000001,
+    21.41432,
+    58.39763000000001,
+    21.41432
+],
+  "geometry": {"coordinates":[58.39763000000001,21.41432],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226523419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.31186,24.38389,56.31186,24.38389",
+    "geom:latitude":24.38389,
+    "geom:longitude":56.31186,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"At Tawi",
+    "gn:country_code":"OM",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286174,
+    "gn:latitude":24.38389,
+    "gn:longitude":56.31186,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"A\u0163 \u0162aw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0651\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u0162aw\u012b al \u1e28ayl",
+        "A\u0163 \u0162aw\u012b",
+        "A\u1e6d \u1e6caw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286174
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"42ecb70d2cc501071ad297561915b3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1226523419,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1226523419,
+    "wof:lastmodified":1537676156,
+    "wof:name":"At Tawi",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.31186,
+    24.38389,
+    56.31186,
+    24.38389
+],
+  "geometry": {"coordinates":[56.31186,24.38389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242765869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.06167,24.01611,57.06167,24.01611",
+    "geom:latitude":24.01611,
+    "geom:longitude":57.06167,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qasabiyat Yal Burayk",
+    "gn:country_code":"OM",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286896,
+    "gn:latitude":24.01611,
+    "gn:longitude":57.06167,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Qa\u015fab\u012byat Y\u0101l Burayk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fab\u012byat al Burayk",
+        "Qa\u015fb\u012byat al Burayk",
+        "Qa\u015fab\u012byat Y\u0101l Burayk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286896
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f64a0ff036bbbccb929605a5cb5438e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1242765869,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1242765869,
+    "wof:lastmodified":1537676175,
+    "wof:name":"Qasabiyat Yal Burayk",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.06166999999999,
+    24.01611,
+    57.06166999999999,
+    24.01611
+],
+  "geometry": {"coordinates":[57.06166999999999,24.01611],"type":"Point"}
+}

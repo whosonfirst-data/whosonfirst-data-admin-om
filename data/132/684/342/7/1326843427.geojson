@@ -1,0 +1,70 @@
+{
+  "id": 1326843427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.21582,23.39379,57.21582,23.39379",
+    "geom:latitude":23.39379,
+    "geom:longitude":57.21582,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Difa`",
+    "gn:country_code":"OM",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288504,
+    "gn:latitude":23.39379,
+    "gn:longitude":57.21582,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Dif\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dif\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288504
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"acb9d368835247f2c796232ea2243bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1326843427,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1326843427,
+    "wof:lastmodified":1537676220,
+    "wof:name":"Difa`",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.21582,
+    23.39379,
+    57.21582,
+    23.39379
+],
+  "geometry": {"coordinates":[57.21582,23.39379],"type":"Point"}
+}

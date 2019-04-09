@@ -1,0 +1,70 @@
+{
+  "id": 1327221887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.48104,23.83865,57.48104,23.83865",
+    "geom:latitude":23.83865,
+    "geom:longitude":57.48104,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khabbat al Ma`awil",
+    "gn:country_code":"OM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286229,
+    "gn:latitude":23.83865,
+    "gn:longitude":57.48104,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Khabbat al Ma\u2018\u0101wil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628\u0651\u0629 \u0627\u0644\u0645\u0639\u0627\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "S\u016br Ma\u2018\u0101wil",
+        "Khabbat al Ma\u2018\u0101wil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286229
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ca84c592ca0371e03301738321c75e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327221887,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327221887,
+    "wof:lastmodified":1537676158,
+    "wof:name":"Khabbat al Ma`awil",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.48104,
+    23.83865,
+    57.48104,
+    23.83865
+],
+  "geometry": {"coordinates":[57.48104,23.83865],"type":"Point"}
+}

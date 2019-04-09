@@ -1,0 +1,74 @@
+{
+  "id": 1293122257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.17399,25.8765,56.17399,25.8765",
+    "geom:latitude":25.8765,
+    "geom:longitude":56.17399,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Wasib",
+    "gn:country_code":"OM",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390007,
+    "gn:latitude":25.8765,
+    "gn:longitude":56.17399,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Was\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Was\u012bb",
+        "Al Wisayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390007
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"890a3aa0a33514391fc74dce03bcf4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1293122257,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1293122257,
+    "wof:lastmodified":1537676257,
+    "wof:name":"Al Wasib",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.17399,
+    25.8765,
+    56.17399,
+    25.8765
+],
+  "geometry": {"coordinates":[56.17399,25.8765],"type":"Point"}
+}

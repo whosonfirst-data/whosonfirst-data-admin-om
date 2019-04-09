@@ -1,0 +1,75 @@
+{
+  "id": 1343467499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.48193,23.31533,57.48193,23.31533",
+    "geom:latitude":23.31533,
+    "geom:longitude":57.48193,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Far`",
+    "gn:country_code":"OM",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288408,
+    "gn:latitude":23.31533,
+    "gn:longitude":57.48193,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Far\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u0639"
+    ],
+    "name:und_x_variant":[
+        "F\u0101r\u0101\u2018ah",
+        "Far\u2018",
+        "Al Far\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288408
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f3616cd75f0e36523019f391fb5b62f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1343467499,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1343467499,
+    "wof:lastmodified":1537676216,
+    "wof:name":"Al Far`",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.48193000000001,
+    23.31533,
+    57.48193000000001,
+    23.31533
+],
+  "geometry": {"coordinates":[57.48193000000001,23.31533],"type":"Point"}
+}

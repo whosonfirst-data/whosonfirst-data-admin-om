@@ -1,0 +1,73 @@
+{
+  "id": 1276212125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.02722,17.11361,54.02722,17.11361",
+    "geom:latitude":17.11361,
+    "geom:longitude":54.02722,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Habkayt",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288203,
+    "gn:latitude":17.11361,
+    "gn:longitude":54.02722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Habkayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Habkeit",
+        "Habkayt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288203,
+        "wk:page":"Habkayt"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"711162c7128980a6cc968b3cd299ac9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1276212125,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276212125,
+    "wof:lastmodified":1537676209,
+    "wof:name":"Habkayt",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.02721999999999,
+    17.11361,
+    54.02721999999999,
+    17.11361
+],
+  "geometry": {"coordinates":[54.02721999999999,17.11361],"type":"Point"}
+}

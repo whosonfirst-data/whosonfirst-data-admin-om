@@ -1,0 +1,70 @@
+{
+  "id": 1309697673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.59276,17.10162,54.59276,17.10162",
+    "geom:latitude":17.10162,
+    "geom:longitude":54.59276,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aydawr",
+    "gn:country_code":"OM",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413302,
+    "gn:latitude":17.10162,
+    "gn:longitude":54.59276,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aydawr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062f\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421186703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413302
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"dc3698eb69cff23e899fcd91d96afe5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186703,
+            "locality_id":1309697673,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1309697673,
+    "wof:lastmodified":1537676295,
+    "wof:name":"Aydawr",
+    "wof:parent_id":421186703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.59276,
+    17.10162,
+    54.59276,
+    17.10162
+],
+  "geometry": {"coordinates":[54.59276,17.10162],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209816015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.9039,20.5922,58.9039,20.5922",
+    "geom:latitude":20.5922,
+    "geom:longitude":58.9039,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al `Ayjah",
+    "gn:country_code":"OM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409645,
+    "gn:latitude":20.5922,
+    "gn:longitude":58.9039,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Al \u2018Ayjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al \u2018Ayjah",
+        "Al \u2018Ayjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409645
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6bb3fe04cd2e11256b01d025c19e855a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175631,
+            "locality_id":1209816015,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1209816015,
+    "wof:lastmodified":1537676266,
+    "wof:name":"Al `Ayjah",
+    "wof:parent_id":421175631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.9039,
+    20.5922,
+    58.9039,
+    20.5922
+],
+  "geometry": {"coordinates":[58.9039,20.5922],"type":"Point"}
+}

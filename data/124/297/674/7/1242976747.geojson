@@ -1,0 +1,63 @@
+{
+  "id": 1242976747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.13833,22.99222,59.13833,22.99222",
+    "geom:latitude":22.99222,
+    "geom:longitude":59.13833,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bimmah",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412266,
+    "gn:latitude":22.99222,
+    "gn:longitude":59.13833,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bimmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412266
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1d8eb0f4f42a6f41aee7923afc7ad2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242976747,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242976747,
+    "wof:lastmodified":1536984834,
+    "wof:name":"Bimmah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.13833,
+    22.99222,
+    59.13833,
+    22.99222
+],
+  "geometry": {"coordinates":[59.13833,22.99222],"type":"Point"}
+}

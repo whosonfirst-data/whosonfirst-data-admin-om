@@ -1,0 +1,76 @@
+{
+  "id": 1310200995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.20952,23.4485,56.20952,23.4485",
+    "geom:latitude":23.4485,
+    "geom:longitude":56.20952,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abu Khabi",
+    "gn:country_code":"OM",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288645,
+    "gn:latitude":23.4485,
+    "gn:longitude":56.20952,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ab\u016b Kh\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062e\u0627\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "B\u016b Kh\u0101b\u012b",
+        "Bakh\u0101b\u012b",
+        "Ab\u016b Kh\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288645,
+        "wk:page":"Bakhabi"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"40a12e6e6fc4bf69d2fa6f0ca992d8ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1310200995,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1310200995,
+    "wof:lastmodified":1537676223,
+    "wof:name":"Abu Khabi",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.20952,
+    23.4485,
+    56.20952,
+    23.4485
+],
+  "geometry": {"coordinates":[56.20952,23.4485],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343353241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18773,26.13655,56.18773,26.13655",
+    "geom:latitude":26.13655,
+    "geom:longitude":56.18773,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Yusifiya",
+    "gn:country_code":"OM",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390263,
+    "gn:latitude":26.13655,
+    "gn:longitude":56.18773,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Y\u016bsif\u012bya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0648\u0633\u0641\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Wasf\u012byah",
+        "Al Y\u016bsif\u012bya",
+        "Al Y\u016bsifiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390263
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c7c6c8aef50e45700cb441e574e930a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1343353241,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1343353241,
+    "wof:lastmodified":1537676260,
+    "wof:name":"Al Yusifiya",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18773,
+    26.13655,
+    56.18773,
+    26.13655
+],
+  "geometry": {"coordinates":[56.18773,26.13655],"type":"Point"}
+}

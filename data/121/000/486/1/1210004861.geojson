@@ -1,0 +1,74 @@
+{
+  "id": 1210004861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.1165,23.75927,57.1165,23.75927",
+    "geom:latitude":23.75927,
+    "geom:longitude":57.1165,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Qulay`ah",
+    "gn:country_code":"OM",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286851,
+    "gn:latitude":23.75927,
+    "gn:longitude":57.1165,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Qulay\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qulayyah",
+        "Al Qulay\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286851
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1bd75acc86e746467727413fea29d6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1210004861,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1210004861,
+    "wof:lastmodified":1537676174,
+    "wof:name":"Al Qulay`ah",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.1165,
+    23.75927,
+    57.1165,
+    23.75927
+],
+  "geometry": {"coordinates":[57.1165,23.75927],"type":"Point"}
+}

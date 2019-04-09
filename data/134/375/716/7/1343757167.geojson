@@ -1,0 +1,71 @@
+{
+  "id": 1343757167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.74024,23.01872,58.74024,23.01872",
+    "geom:latitude":23.01872,
+    "geom:longitude":58.74024,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ghubrat at Tam",
+    "gn:country_code":"OM",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288240,
+    "gn:latitude":23.01872,
+    "gn:longitude":58.74024,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ghubrat a\u0163 \u0162\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tam",
+        "Ghubrat a\u0163 \u0162\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288240
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2fb8894af3287553bc2466f7e578dd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1343757167,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1343757167,
+    "wof:lastmodified":1537676211,
+    "wof:name":"Ghubrat at Tam",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.74024,
+    23.01872,
+    58.74024,
+    23.01872
+],
+  "geometry": {"coordinates":[58.74024,23.01872],"type":"Point"}
+}

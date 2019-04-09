@@ -1,0 +1,74 @@
+{
+  "id": 1209837635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.59775,23.3274,58.59775,23.3274",
+    "geom:latitude":23.3274,
+    "geom:longitude":58.59775,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jahlut",
+    "gn:country_code":"OM",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287795,
+    "gn:latitude":23.3274,
+    "gn:longitude":58.59775,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ja\u1e29l\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062d\u0644\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ja\u1e29l\u016bt",
+        "Ja\u1e25l\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287795
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bfd55aecc047c324545171465b907087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1209837635,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1209837635,
+    "wof:lastmodified":1537676197,
+    "wof:name":"Jahlut",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.59775,
+    23.3274,
+    58.59775,
+    23.3274
+],
+  "geometry": {"coordinates":[58.59775,23.3274],"type":"Point"}
+}

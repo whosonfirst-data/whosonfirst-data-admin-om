@@ -1,0 +1,77 @@
+{
+  "id": 1343565221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.19846,23.04062,58.19846,23.04062",
+    "geom:latitude":23.04062,
+    "geom:longitude":58.19846,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sawadah",
+    "gn:country_code":"OM",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411996,
+    "gn:latitude":23.04062,
+    "gn:longitude":58.19846,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Saw\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Siyud\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0627\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Saw\u0101dah",
+        "Siw\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411996
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"5b933b9f15de1bbc177ce346d53d6a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1343565221,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1343565221,
+    "wof:lastmodified":1537676280,
+    "wof:name":"Sawadah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.19846,
+    23.04062,
+    58.19846,
+    23.04062
+],
+  "geometry": {"coordinates":[58.19846,23.04062],"type":"Point"}
+}

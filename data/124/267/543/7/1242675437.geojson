@@ -1,0 +1,76 @@
+{
+  "id": 1242675437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.66605,23.50715,58.66605,23.50715",
+    "geom:latitude":23.50715,
+    "geom:longitude":58.66605,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tuwyan Yiti",
+    "gn:country_code":"OM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286162,
+    "gn:latitude":23.50715,
+    "gn:longitude":58.66605,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"\u0162uwy\u0101n Yit\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u064a\u0627\u0646 \u064a\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u0162awiy\u0101n Yi\u0163\u012b",
+        "\u0162uwy\u0101n Yit\u012b",
+        "\u1e6cuwy\u0101n Yit\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421185635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286162,
+        "wk:page":"Tawiyan_Yiti"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2161abb19f531a91567f02e898d97a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185635,
+            "locality_id":1242675437,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1242675437,
+    "wof:lastmodified":1537676156,
+    "wof:name":"Tuwyan Yiti",
+    "wof:parent_id":421185635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.66605,
+    23.50715,
+    58.66605,
+    23.50715
+],
+  "geometry": {"coordinates":[58.66605,23.50715],"type":"Point"}
+}

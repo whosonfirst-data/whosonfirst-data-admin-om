@@ -1,0 +1,70 @@
+{
+  "id": 1293683651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.22972,26.12944,56.22972,26.12944",
+    "geom:latitude":26.12944,
+    "geom:longitude":56.22972,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rukab ash Shabb",
+    "gn:country_code":"OM",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414861,
+    "gn:latitude":26.12944,
+    "gn:longitude":56.22972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ruk\u0101b ash Shabb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruk\u0101b ash Shabb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414861
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"678c5a9cbf19c8161fb5e4c96b3b3792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1293683651,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1293683651,
+    "wof:lastmodified":1537676297,
+    "wof:name":"Rukab ash Shabb",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.22971999999999,
+    26.12944,
+    56.22971999999999,
+    26.12944
+],
+  "geometry": {"coordinates":[56.22971999999999,26.12944],"type":"Point"}
+}

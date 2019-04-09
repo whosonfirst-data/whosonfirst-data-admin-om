@@ -1,0 +1,71 @@
+{
+  "id": 1242984747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.75639,23.09417,57.75639,23.09417",
+    "geom:latitude":23.09417,
+    "geom:longitude":57.75639,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Misfah al Halfayn",
+    "gn:country_code":"OM",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287200,
+    "gn:latitude":23.09417,
+    "gn:longitude":57.75639,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Misf\u0101h al \u1e28alfayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misf\u0101q al \u1e28alfayn",
+        "Misf\u0101h al \u1e28alfayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287200
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c86a5a168583d8bae717e6ba5bf94747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1242984747,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1242984747,
+    "wof:lastmodified":1537676182,
+    "wof:name":"Misfah al Halfayn",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.75639,
+    23.09417,
+    57.75639,
+    23.09417
+],
+  "geometry": {"coordinates":[57.75639,23.09417],"type":"Point"}
+}

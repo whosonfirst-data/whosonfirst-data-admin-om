@@ -1,0 +1,74 @@
+{
+  "id": 1209429043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.53417,23.07736,57.53417,23.07736",
+    "geom:latitude":23.07736,
+    "geom:longitude":57.53417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Ma`qal",
+    "gn:country_code":"OM",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289167,
+    "gn:latitude":23.07736,
+    "gn:longitude":57.53417,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Ma\u2018qal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0642\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u2018qul",
+        "Al Ma\u2018qal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289167
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2dc2b5c0689d1bc63c173e1962f2df5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1209429043,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1209429043,
+    "wof:lastmodified":1548974429,
+    "wof:name":"Al Ma`qal",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.53417,
+    23.07736,
+    57.53417,
+    23.07736
+],
+  "geometry": {"coordinates":[57.53417,23.07736],"type":"Point"}
+}

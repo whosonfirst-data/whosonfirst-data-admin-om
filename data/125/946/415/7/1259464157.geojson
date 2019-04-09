@@ -1,0 +1,70 @@
+{
+  "id": 1259464157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.26667,23.9,57.26667,23.9",
+    "geom:latitude":23.9,
+    "geom:longitude":57.26667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dayan Albawarih",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287637,
+    "gn:latitude":23.9,
+    "gn:longitude":57.26667,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dayan Albawarih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Albawarih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421184219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287637
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3008230254abece24ecea06084f37429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184219,
+            "locality_id":1259464157,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1259464157,
+    "wof:lastmodified":1537676194,
+    "wof:name":"Dayan Albawarih",
+    "wof:parent_id":421184219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.26667,
+    23.9,
+    57.26667,
+    23.9
+],
+  "geometry": {"coordinates":[57.26667,23.9],"type":"Point"}
+}

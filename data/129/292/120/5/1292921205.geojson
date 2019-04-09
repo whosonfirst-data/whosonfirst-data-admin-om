@@ -1,0 +1,76 @@
+{
+  "id": 1292921205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.24534,22.72785,57.24534,22.72785",
+    "geom:latitude":22.72785,
+    "geom:longitude":57.24534,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bisya'",
+    "gn:country_code":"OM",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288674,
+    "gn:latitude":22.72785,
+    "gn:longitude":57.24534,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Bisy\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u064a\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "B\u012bs\u012byah",
+        "Bisiyai",
+        "Bisyah",
+        "Bisy\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421189279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288674
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"8f506d54cb72e716e215ebf63b6c9dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189279,
+            "locality_id":1292921205,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1292921205,
+    "wof:lastmodified":1537676224,
+    "wof:name":"Bisya'",
+    "wof:parent_id":421189279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.24534,
+    22.72785,
+    57.24534,
+    22.72785
+],
+  "geometry": {"coordinates":[57.24534,22.72785],"type":"Point"}
+}

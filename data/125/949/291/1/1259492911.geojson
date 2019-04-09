@@ -1,0 +1,70 @@
+{
+  "id": 1259492911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.23083,23.3125,57.23083,23.3125",
+    "geom:latitude":23.3125,
+    "geom:longitude":57.23083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sa`ab",
+    "gn:country_code":"OM",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411852,
+    "gn:latitude":23.3125,
+    "gn:longitude":57.23083,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sa\u2018ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u2018ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411852
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9fc23ee050b165a9cfaa3c99cfe7a6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1259492911,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1259492911,
+    "wof:lastmodified":1537676275,
+    "wof:name":"Sa`ab",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.23083000000001,
+    23.3125,
+    57.23083000000001,
+    23.3125
+],
+  "geometry": {"coordinates":[57.23083000000001,23.3125],"type":"Point"}
+}

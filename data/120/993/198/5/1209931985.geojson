@@ -1,0 +1,75 @@
+{
+  "id": 1209931985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.67224,22.9521,57.67224,22.9521",
+    "geom:latitude":22.9521,
+    "geom:longitude":57.67224,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tawi Sa`dah",
+    "gn:country_code":"OM",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286168,
+    "gn:latitude":22.9521,
+    "gn:longitude":57.67224,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"\u0162aw\u012b Sa\u2018dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u064a \u0633\u0639\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162aw\u012b Sad\u1e29",
+        "\u0162aw\u012b Sa\u2018dah",
+        "\u1e6caw\u012b Su\u2018dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286168
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f6dd117fef05061bcd2a6a0bb7040d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1209931985,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1209931985,
+    "wof:lastmodified":1537676156,
+    "wof:name":"Tawi Sa`dah",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.67224,
+    22.9521,
+    57.67224,
+    22.9521
+],
+  "geometry": {"coordinates":[57.67224,22.9521],"type":"Point"}
+}

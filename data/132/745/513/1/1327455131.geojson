@@ -1,0 +1,75 @@
+{
+  "id": 1327455131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.23978,26.13527,56.23978,26.13527",
+    "geom:latitude":26.13527,
+    "geom:longitude":56.23978,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ruwaybah",
+    "gn:country_code":"OM",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388687,
+    "gn:latitude":26.13527,
+    "gn:longitude":56.23978,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ruwaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Arubi",
+        "R\u016bbiyah",
+        "Ruwaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388687
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"397b7a801f8e4c484a9372f5a0678584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1327455131,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1327455131,
+    "wof:lastmodified":1537676253,
+    "wof:name":"Ruwaybah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.23978,
+    26.13527,
+    56.23978,
+    26.13527
+],
+  "geometry": {"coordinates":[56.23978,26.13527],"type":"Point"}
+}

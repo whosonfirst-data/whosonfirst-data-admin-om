@@ -1,0 +1,70 @@
+{
+  "id": 1360009577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.81694,20.42194,58.81694,20.42194",
+    "geom:latitude":20.42194,
+    "geom:longitude":58.81694,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Qaryat `Umq",
+    "gn:country_code":"OM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409787,
+    "gn:latitude":20.42194,
+    "gn:longitude":58.81694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaryat \u2018Umq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryat \u2018Umq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409787
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2ec97b0f0c793d7272ba02f6d6b0ccbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175631,
+            "locality_id":1360009577,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1360009577,
+    "wof:lastmodified":1537676266,
+    "wof:name":"Qaryat `Umq",
+    "wof:parent_id":421175631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.81694,
+    20.42194,
+    58.81694,
+    20.42194
+],
+  "geometry": {"coordinates":[58.81694,20.42194],"type":"Point"}
+}

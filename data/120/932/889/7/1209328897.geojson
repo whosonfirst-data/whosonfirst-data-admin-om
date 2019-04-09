@@ -1,0 +1,75 @@
+{
+  "id": 1209328897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.25273,22.91186,57.25273,22.91186",
+    "geom:latitude":22.91186,
+    "geom:longitude":57.25273,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"An Natalah",
+    "gn:country_code":"OM",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287008,
+    "gn:latitude":22.91186,
+    "gn:longitude":57.25273,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"An Na\u0163\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0637\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Na\u0163\u0163\u0101lah",
+        "An Na\u0163\u0101lah",
+        "An Na\u1e6d\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421189279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287008
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fcf1c47fe4050f60167d5fe641f7bf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189279,
+            "locality_id":1209328897,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1209328897,
+    "wof:lastmodified":1548974426,
+    "wof:name":"An Natalah",
+    "wof:parent_id":421189279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.25273000000001,
+    22.91186,
+    57.25273000000001,
+    22.91186
+],
+  "geometry": {"coordinates":[57.25273000000001,22.91186],"type":"Point"}
+}

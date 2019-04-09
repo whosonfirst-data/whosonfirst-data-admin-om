@@ -1,0 +1,75 @@
+{
+  "id": 1343445377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.64948,23.76922,56.64948,23.76922",
+    "geom:latitude":23.76922,
+    "geom:longitude":56.64948,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Mahdath",
+    "gn:country_code":"OM",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411842,
+    "gn:latitude":23.76922,
+    "gn:longitude":56.64948,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Al Ma\u1e29dath",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u062f\u062b"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29adat",
+        "Al Ma\u1e29dath",
+        "Al Ma\u1e25dath"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411842
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"62f41a8b658a5209596b5a01f5073962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1343445377,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1343445377,
+    "wof:lastmodified":1537676275,
+    "wof:name":"Al Mahdath",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.64948,
+    23.76922,
+    56.64948,
+    23.76922
+],
+  "geometry": {"coordinates":[56.64948,23.76922],"type":"Point"}
+}

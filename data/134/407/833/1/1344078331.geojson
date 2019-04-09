@@ -1,0 +1,74 @@
+{
+  "id": 1344078331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.27433,26.17778,56.27433,26.17778",
+    "geom:latitude":26.17778,
+    "geom:longitude":56.27433,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"An Nurah",
+    "gn:country_code":"OM",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390337,
+    "gn:latitude":26.17778,
+    "gn:longitude":56.27433,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"An N\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0651\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "N\u016bra",
+        "An N\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390337
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1c58036c32bc219beff4c7fff04d5272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1344078331,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1344078331,
+    "wof:lastmodified":1537676262,
+    "wof:name":"An Nurah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.27433000000001,
+    26.17778,
+    56.27433000000001,
+    26.17778
+],
+  "geometry": {"coordinates":[56.27433000000001,26.17778],"type":"Point"}
+}

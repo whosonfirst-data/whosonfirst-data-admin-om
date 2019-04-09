@@ -1,0 +1,67 @@
+{
+  "id": 1209300197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.43139,17.04083,54.43139,17.04083",
+    "geom:latitude":17.04083,
+    "geom:longitude":54.43139,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sumhuran",
+    "gn:country_code":"OM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415307,
+    "gn:latitude":17.04083,
+    "gn:longitude":54.43139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sumhuran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421186703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415307
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ea7fa10db0e2e3430707c3386d47038d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186703,
+            "locality_id":1209300197,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209300197,
+    "wof:lastmodified":1548974422,
+    "wof:name":"Sumhuran",
+    "wof:parent_id":421186703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.43139,
+    17.04083,
+    54.43139,
+    17.04083
+],
+  "geometry": {"coordinates":[54.43139,17.04083],"type":"Point"}
+}

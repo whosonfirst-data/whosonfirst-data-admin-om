@@ -1,0 +1,67 @@
+{
+  "id": 1310582527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.77054,24.33556,56.77054,24.33556",
+    "geom:latitude":24.33556,
+    "geom:longitude":56.77054,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ghayl Shabul",
+    "gn:country_code":"OM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288262,
+    "gn:latitude":24.33556,
+    "gn:longitude":56.77054,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ghayl Shab\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ghayl",
+        "Ghayl Shab\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288262
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a2ec33f0ceeed976ef55738a1be417ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310582527,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310582527,
+    "wof:lastmodified":1537676211,
+    "wof:name":"Ghayl Shabul",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.77054,
+    24.33556,
+    56.77054,
+    24.33556
+],
+  "geometry": {"coordinates":[56.77054,24.33556],"type":"Point"}
+}

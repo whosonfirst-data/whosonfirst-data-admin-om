@@ -1,0 +1,70 @@
+{
+  "id": 1209324235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.01972,22.77494,58.01972,22.77494",
+    "geom:latitude":22.77494,
+    "geom:longitude":58.01972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mazra`at Shuway`i",
+    "gn:country_code":"OM",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442248,
+    "gn:latitude":22.77494,
+    "gn:longitude":58.01972,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Mazra\u2018at Shuway\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at Shuway\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442248
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"854cdce54dd7f1c53dc59558cf380ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1209324235,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1209324235,
+    "wof:lastmodified":1548974424,
+    "wof:name":"Mazra`at Shuway`i",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.01971999999999,
+    22.77494,
+    58.01971999999999,
+    22.77494
+],
+  "geometry": {"coordinates":[58.01971999999999,22.77494],"type":"Point"}
+}

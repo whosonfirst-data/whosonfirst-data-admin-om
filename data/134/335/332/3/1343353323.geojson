@@ -1,0 +1,73 @@
+{
+  "id": 1343353323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.17125,25.66388,56.17125,25.66388",
+    "geom:latitude":25.66388,
+    "geom:longitude":56.17125,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kanamt",
+    "gn:country_code":"OM",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390018,
+    "gn:latitude":25.66388,
+    "gn:longitude":56.17125,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Kanamt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u0645\u062a"
+    ],
+    "name:und_x_variant":[
+        "Kinmat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390018
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"de487b2c6f53bdf3cb4a932074e3d8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1343353323,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1343353323,
+    "wof:lastmodified":1537676258,
+    "wof:name":"Kanamt",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.17125,
+    25.66388,
+    56.17125,
+    25.66388
+],
+  "geometry": {"coordinates":[56.17125,25.66388],"type":"Point"}
+}

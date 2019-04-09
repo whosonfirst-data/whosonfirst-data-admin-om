@@ -1,0 +1,70 @@
+{
+  "id": 1310192225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.82866,22.94768,58.82866,22.94768",
+    "geom:latitude":22.94768,
+    "geom:longitude":58.82866,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Khabbah",
+    "gn:country_code":"OM",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287666,
+    "gn:latitude":22.94768,
+    "gn:longitude":58.82866,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Khabbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628\u0651\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287666
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a5c51240aa32c4a57b33b1ef621c20e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1310192225,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1310192225,
+    "wof:lastmodified":1537676195,
+    "wof:name":"Khabbah",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.82866,
+    22.94768,
+    58.82866,
+    22.94768
+],
+  "geometry": {"coordinates":[58.82866,22.94768],"type":"Point"}
+}

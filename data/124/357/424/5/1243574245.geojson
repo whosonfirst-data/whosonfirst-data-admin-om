@@ -1,0 +1,73 @@
+{
+  "id": 1243574245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.48777,16.81771,53.48777,16.81771",
+    "geom:latitude":16.81771,
+    "geom:longitude":53.48777,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qurun",
+    "gn:country_code":"OM",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11556108,
+    "gn:latitude":16.81771,
+    "gn:longitude":53.48777,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Qur\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qur\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556108
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bc0aa9542fdd20690c365156e764dc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1243574245,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1243574245,
+    "wof:lastmodified":1537676326,
+    "wof:name":"Qurun",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.48777,
+    16.81771,
+    53.48777,
+    16.81771
+],
+  "geometry": {"coordinates":[53.48777,16.81771],"type":"Point"}
+}

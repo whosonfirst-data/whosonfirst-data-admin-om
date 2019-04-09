@@ -1,0 +1,77 @@
+{
+  "id": 1310401641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.75518,23.68893,56.75518,23.68893",
+    "geom:latitude":23.68893,
+    "geom:longitude":56.75518,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Suhaydah",
+    "gn:country_code":"OM",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286632,
+    "gn:latitude":23.68893,
+    "gn:longitude":56.75518,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"\u015eu\u1e29aydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u062d\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Suwaida",
+        "Suwayd\u0101\u2019",
+        "Sa\u2018\u012bdah",
+        "\u015eu\u1e29aydah",
+        "\u1e62i\u1e25aydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286632
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"76755194c601dcff7ef6094c3bb519da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1310401641,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1310401641,
+    "wof:lastmodified":1537676168,
+    "wof:name":"Suhaydah",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.75518,
+    23.68893,
+    56.75518,
+    23.68893
+],
+  "geometry": {"coordinates":[56.75518,23.68893],"type":"Point"}
+}

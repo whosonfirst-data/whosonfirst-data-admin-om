@@ -1,0 +1,126 @@
+{
+  "id": 890443207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.24774,26.17993,56.24774,26.17993",
+    "geom:latitude":26.17993,
+    "geom:longitude":56.24774,
+    "gn:country":"OM",
+    "gn:fcode":"PPLA",
+    "gn:pop":17904,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0635\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062e\u0635\u0628"
+    ],
+    "name:ces_x_preferred":[
+        "Chasab"
+    ],
+    "name:deu_x_preferred":[
+        "al-Chasab"
+    ],
+    "name:deu_x_variant":[
+        "Al-Chasab"
+    ],
+    "name:eng_x_preferred":[
+        "Khasab"
+    ],
+    "name:eng_x_variant":[
+        "Kha\u015fab"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0635\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Khasab"
+    ],
+    "name:fra_x_variant":[
+        "Al-Khasab"
+    ],
+    "name:hbs_x_preferred":[
+        "Hasab"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30b5\u30d6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\uc0ac\ube0c"
+    ],
+    "name:lit_x_preferred":[
+        "Chasabas"
+    ],
+    "name:pol_x_preferred":[
+        "Chasab"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u0441\u0430\u0431"
+    ],
+    "name:spa_x_preferred":[
+        "Jasab"
+    ],
+    "name:unk_x_variant":[
+        "Al Kha\u015fab"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0635\u0628\u060c \u0639\u0645\u0627\u0646"
+    ],
+    "qs:name":"Kha\u015fab",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":648,
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287614,
+        "gp:id":2267486,
+        "qs:id":1026722,
+        "wd:id":"Q426646",
+        "wk:page":"Khasab"
+    },
+    "wof:country":"OM",
+    "wof:created":1469052412,
+    "wof:geomhash":"10d20df325367540641db1bb5b72f50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":890443207,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":890443207,
+    "wof:lastmodified":1527787069,
+    "wof:name":"Kha\u015fab",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:population":17904,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.24774,
+    26.17993,
+    56.24774,
+    26.17993
+],
+  "geometry": {"coordinates":[56.24774,26.17993],"type":"Point"}
+}

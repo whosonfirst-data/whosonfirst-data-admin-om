@@ -1,0 +1,74 @@
+{
+  "id": 1343284243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.39083,17.18361,54.39083,17.18361",
+    "geom:latitude":17.18361,
+    "geom:longitude":54.39083,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sarkhar",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286558,
+    "gn:latitude":17.18361,
+    "gn:longitude":54.39083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sarkh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarkaan",
+        "Sarkhaar",
+        "Sarkh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286558,
+        "wk:page":"Sarkhar"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e3f91efaa78892f4242cf979dda1cd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1343284243,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343284243,
+    "wof:lastmodified":1537676167,
+    "wof:name":"Sarkhar",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.39083,
+    17.18361,
+    54.39083,
+    17.18361
+],
+  "geometry": {"coordinates":[54.39083,17.18361],"type":"Point"}
+}

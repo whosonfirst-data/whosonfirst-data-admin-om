@@ -1,0 +1,75 @@
+{
+  "id": 1243164505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.56316,23.43487,58.56316,23.43487",
+    "geom:latitude":23.43487,
+    "geom:longitude":58.56316,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Mazra` al Hadri",
+    "gn:country_code":"OM",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287243,
+    "gn:latitude":23.43487,
+    "gn:longitude":58.56316,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Mazra\u2018 al \u1e28adr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639 \u0627\u0644\u062d\u062f\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018 al \u1e28adr\u012b",
+        "Al Mazra\u2018 al \u1e28adr\u012b",
+        "Al Mazra\u2018 al \u1e24adr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287243
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2a88dfbbbe5e0f93ec5f0b3d3d829ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1243164505,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1243164505,
+    "wof:lastmodified":1537676184,
+    "wof:name":"Al Mazra` al Hadri",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.56316,
+    23.43487,
+    58.56316,
+    23.43487
+],
+  "geometry": {"coordinates":[58.56316,23.43487],"type":"Point"}
+}

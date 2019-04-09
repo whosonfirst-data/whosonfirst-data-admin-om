@@ -1,0 +1,71 @@
+{
+  "id": 1309696051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.11667,24.08333,56.11667,24.08333",
+    "geom:latitude":24.08333,
+    "geom:longitude":56.11667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Madabbah",
+    "gn:country_code":"OM",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287444,
+    "gn:latitude":24.08333,
+    "gn:longitude":56.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ma\u1e11abbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u1e11abbah",
+        "Ma\u1e11abbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287444
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fe3e43e5cac9768c686c6103584821c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184225,
+            "locality_id":1309696051,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1309696051,
+    "wof:lastmodified":1537676189,
+    "wof:name":"Madabbah",
+    "wof:parent_id":421184225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.11666999999999,
+    24.08333,
+    56.11666999999999,
+    24.08333
+],
+  "geometry": {"coordinates":[56.11666999999999,24.08333],"type":"Point"}
+}

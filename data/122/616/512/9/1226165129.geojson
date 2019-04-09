@@ -1,0 +1,73 @@
+{
+  "id": 1226165129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.45301,23.60992,58.45301,23.60992",
+    "geom:latitude":23.60992,
+    "geom:longitude":58.45301,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hayy as Saruj",
+    "gn:country_code":"OM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7631664,
+    "gn:latitude":23.60992,
+    "gn:longitude":58.45301,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"\u1e28ayy a\u015f \u015e\u0101r\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0627\u0644\u0635\u0627\u0631\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayy a\u015f \u015e\u0101r\u016bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7631664
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"160301e8d5c986a5451d33dbfd3d3053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200935,
+            "locality_id":1226165129,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1226165129,
+    "wof:lastmodified":1537676304,
+    "wof:name":"Hayy as Saruj",
+    "wof:parent_id":421200935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.45301,
+    23.60992,
+    58.45301,
+    23.60992
+],
+  "geometry": {"coordinates":[58.45301,23.60992],"type":"Point"}
+}

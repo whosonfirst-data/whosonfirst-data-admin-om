@@ -1,0 +1,73 @@
+{
+  "id": 1209624821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.52813,23.27382,56.52813,23.27382",
+    "geom:latitude":23.27382,
+    "geom:longitude":56.52813,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Ghabbi",
+    "gn:country_code":"OM",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411565,
+    "gn:latitude":23.27382,
+    "gn:longitude":56.52813,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al Ghabb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0628\u0651\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Ghabb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411565
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"500cfe02926c9117779c3ec09daad8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1209624821,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1209624821,
+    "wof:lastmodified":1548974433,
+    "wof:name":"Al Ghabbi",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.52813,
+    23.27382,
+    56.52813,
+    23.27382
+],
+  "geometry": {"coordinates":[56.52813,23.27382],"type":"Point"}
+}

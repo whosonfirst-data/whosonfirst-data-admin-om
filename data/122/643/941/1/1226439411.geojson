@@ -1,0 +1,74 @@
+{
+  "id": 1226439411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.08586,17.25133,54.08586,17.25133",
+    "geom:latitude":17.25133,
+    "geom:longitude":54.08586,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qayrun Hayriti",
+    "gn:country_code":"OM",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558766,
+    "gn:latitude":17.25133,
+    "gn:longitude":54.08586,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Qayr\u016bn \u1e28ayr\u012bt\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0631\u0648\u0646 \u062d\u064a\u0631\u064a\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Qayr\u016bn \u1e28ayr\u012bt\u012b",
+        "Qayr\u016bn Hayr\u012bt\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558766
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cc33a9464be0b9ee8230cc5df529283a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1226439411,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226439411,
+    "wof:lastmodified":1537676315,
+    "wof:name":"Qayrun Hayriti",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.08586,
+    17.25133,
+    54.08586,
+    17.25133
+],
+  "geometry": {"coordinates":[54.08586,17.25133],"type":"Point"}
+}

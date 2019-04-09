@@ -1,0 +1,76 @@
+{
+  "id": 1209712305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21619,26.07321,56.21619,26.07321",
+    "geom:latitude":26.07321,
+    "geom:longitude":56.21619,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Juwar",
+    "gn:country_code":"OM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389913,
+    "gn:latitude":26.07321,
+    "gn:longitude":56.21619,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Juw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Juw\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Jowar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389913
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2cc4c9e4e997af76480075668d1fab01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1209712305,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209712305,
+    "wof:lastmodified":1537676257,
+    "wof:name":"Al Juwar",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21619000000001,
+    26.07321,
+    56.21619000000001,
+    26.07321
+],
+  "geometry": {"coordinates":[56.21619000000001,26.07321],"type":"Point"}
+}

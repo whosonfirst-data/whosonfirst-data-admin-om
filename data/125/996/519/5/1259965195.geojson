@@ -1,0 +1,73 @@
+{
+  "id": 1259965195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.14842,16.70003,53.14842,16.70003",
+    "geom:latitude":16.70003,
+    "geom:longitude":53.14842,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arinut",
+    "gn:country_code":"OM",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556149,
+    "gn:latitude":16.70003,
+    "gn:longitude":53.14842,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ar\u012bn\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u064a\u0646\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ar\u012bn\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556149
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c0de2662ac751b430755e28e5d80fc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189277,
+            "locality_id":1259965195,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1259965195,
+    "wof:lastmodified":1537676329,
+    "wof:name":"Arinut",
+    "wof:parent_id":421189277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.14842,
+    16.70003,
+    53.14842,
+    16.70003
+],
+  "geometry": {"coordinates":[53.14842,16.70003],"type":"Point"}
+}

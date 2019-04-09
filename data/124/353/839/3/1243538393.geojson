@@ -1,0 +1,70 @@
+{
+  "id": 1243538393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.98333,24.0,55.98333,24.0",
+    "geom:latitude":24.0,
+    "geom:longitude":55.98333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hisn Mazyad",
+    "gn:country_code":"OM",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287881,
+    "gn:latitude":24.0,
+    "gn:longitude":55.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u1e28i\u015fn Mazyad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28i\u015fn Mazyad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287881
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d71eb7295debf84a19894c7e69c2bf59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184225,
+            "locality_id":1243538393,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1243538393,
+    "wof:lastmodified":1537676199,
+    "wof:name":"Hisn Mazyad",
+    "wof:parent_id":421184225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.98333,
+    24.0,
+    55.98333,
+    24.0
+],
+  "geometry": {"coordinates":[55.98333,24.0],"type":"Point"}
+}

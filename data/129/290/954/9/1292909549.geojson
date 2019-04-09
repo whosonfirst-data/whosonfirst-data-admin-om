@@ -1,0 +1,75 @@
+{
+  "id": 1292909549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.41398,22.51631,59.41398,22.51631",
+    "geom:latitude":22.51631,
+    "geom:longitude":59.41398,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Maslaq",
+    "gn:country_code":"OM",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287288,
+    "gn:latitude":22.51631,
+    "gn:longitude":59.41398,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Maslaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u0644\u0642"
+    ],
+    "name:und_x_variant":[
+        "Masl\u0101q",
+        "Misliq",
+        "Maslaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287288
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a1fa158e06adec10a6d2669b94892380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1292909549,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1292909549,
+    "wof:lastmodified":1537676185,
+    "wof:name":"Maslaq",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.41398,
+    22.51631,
+    59.41398,
+    22.51631
+],
+  "geometry": {"coordinates":[59.41398,22.51631],"type":"Point"}
+}

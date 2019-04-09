@@ -1,0 +1,70 @@
+{
+  "id": 1260371577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.01608,24.05203,57.01608,24.05203",
+    "geom:latitude":24.05203,
+    "geom:longitude":57.01608,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Muntayfah",
+    "gn:country_code":"OM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287124,
+    "gn:latitude":24.05203,
+    "gn:longitude":57.01608,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mun\u0163ayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mun\u0163ayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287124
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0c67b666dd2f99fdcef8ba8918aeb271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1260371577,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1260371577,
+    "wof:lastmodified":1537676180,
+    "wof:name":"Muntayfah",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.01608,
+    24.05203,
+    57.01608,
+    24.05203
+],
+  "geometry": {"coordinates":[57.01608,24.05203],"type":"Point"}
+}

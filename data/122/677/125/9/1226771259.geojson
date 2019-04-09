@@ -1,0 +1,76 @@
+{
+  "id": 1226771259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.33937,25.87284,56.33937,25.87284",
+    "geom:latitude":25.87284,
+    "geom:longitude":56.33937,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Khatm al Kabir",
+    "gn:country_code":"OM",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":412613,
+    "gn:latitude":25.87284,
+    "gn:longitude":56.33937,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Kha\u0163m al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0637\u0645 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kha\u0163m Kab\u012br",
+        "Al Kha\u0163m al Kab\u012br",
+        "Al Kha\u1e6dm al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412613,
+        "wk:page":"Khatm_Kabir"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"892d7dbbc82f3f60d74b9877fe7f0577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1226771259,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1226771259,
+    "wof:lastmodified":1537676293,
+    "wof:name":"Al Khatm al Kabir",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.33937,
+    25.87284,
+    56.33937,
+    25.87284
+],
+  "geometry": {"coordinates":[56.33937,25.87284],"type":"Point"}
+}

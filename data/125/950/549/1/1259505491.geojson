@@ -1,0 +1,75 @@
+{
+  "id": 1259505491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.7868,23.25195,58.7868,23.25195",
+    "geom:latitude":23.25195,
+    "geom:longitude":58.7868,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Makhadah",
+    "gn:country_code":"OM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411222,
+    "gn:latitude":23.25195,
+    "gn:longitude":58.7868,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Makh\u0101\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062e\u0627\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Makh\u0101dah",
+        "Al Makh\u0101\u1e11ah",
+        "Al Makh\u0101\u1e0dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411222
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c3da6d48dcaab93b5562714b0e58d2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1259505491,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1259505491,
+    "wof:lastmodified":1537676268,
+    "wof:name":"Al Makhadah",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.7868,
+    23.25195,
+    58.7868,
+    23.25195
+],
+  "geometry": {"coordinates":[58.7868,23.25195],"type":"Point"}
+}

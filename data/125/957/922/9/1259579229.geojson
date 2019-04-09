@@ -1,0 +1,71 @@
+{
+  "id": 1259579229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21667,24.13333,56.21667,24.13333",
+    "geom:latitude":24.13333,
+    "geom:longitude":56.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kitnah",
+    "gn:country_code":"OM",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287512,
+    "gn:latitude":24.13333,
+    "gn:longitude":56.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kitnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitna",
+        "Kitnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287512
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e490a7936852a2287f4756d111af6b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184225,
+            "locality_id":1259579229,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1259579229,
+    "wof:lastmodified":1537676191,
+    "wof:name":"Kitnah",
+    "wof:parent_id":421184225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21666999999999,
+    24.13333,
+    56.21666999999999,
+    24.13333
+],
+  "geometry": {"coordinates":[56.21666999999999,24.13333],"type":"Point"}
+}

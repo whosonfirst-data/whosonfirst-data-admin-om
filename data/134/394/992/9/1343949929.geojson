@@ -1,0 +1,74 @@
+{
+  "id": 1343949929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.19044,25.87857,56.19044,25.87857",
+    "geom:latitude":25.87857,
+    "geom:longitude":56.19044,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Yalbah",
+    "gn:country_code":"OM",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390041,
+    "gn:latitude":25.87857,
+    "gn:longitude":56.19044,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Yalbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0644\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Yalba",
+        "Al Yalbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390041
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"73ae13c6d27b351d4f396934cf7967a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1343949929,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1343949929,
+    "wof:lastmodified":1537676259,
+    "wof:name":"Al Yalbah",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.19044,
+    25.87857,
+    56.19044,
+    25.87857
+],
+  "geometry": {"coordinates":[56.19044,25.87857],"type":"Point"}
+}

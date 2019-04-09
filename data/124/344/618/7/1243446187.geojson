@@ -1,0 +1,74 @@
+{
+  "id": 1243446187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.27567,26.20769,56.27567,26.20769",
+    "geom:latitude":26.20769,
+    "geom:longitude":56.27567,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fankha",
+    "gn:country_code":"OM",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390339,
+    "gn:latitude":26.20769,
+    "gn:longitude":56.27567,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Fankh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0646\u062e\u0627"
+    ],
+    "name:und_x_variant":[
+        "Fanakhah",
+        "Fankh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390339
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cc75c8ec22e16861008a23e4e79856da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1243446187,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1243446187,
+    "wof:lastmodified":1537676262,
+    "wof:name":"Fankha",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.27567,
+    26.20769,
+    56.27567,
+    26.20769
+],
+  "geometry": {"coordinates":[56.27567,26.20769],"type":"Point"}
+}

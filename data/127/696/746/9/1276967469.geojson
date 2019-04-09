@@ -1,0 +1,72 @@
+{
+  "id": 1276967469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.53645,24.61544,56.53645,24.61544",
+    "geom:latitude":24.61544,
+    "geom:longitude":56.53645,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Makhamirah",
+    "gn:country_code":"OM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287898,
+    "gn:latitude":24.61544,
+    "gn:longitude":56.53645,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Al Makh\u0101mirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062e\u0627\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28illat J\u0101n Mu\u1e29ammad Kh\u0101n",
+        "Al Makh\u0101marah",
+        "Al Makh\u0101mirah",
+        "Al Makh\u0101mrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287898
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"178a9770b80397775372ad65fa22c91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276967469,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276967469,
+    "wof:lastmodified":1537676199,
+    "wof:name":"Al Makhamirah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.53645,
+    24.61544,
+    56.53645,
+    24.61544
+],
+  "geometry": {"coordinates":[56.53645,24.61544],"type":"Point"}
+}

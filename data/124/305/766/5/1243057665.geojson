@@ -1,0 +1,71 @@
+{
+  "id": 1243057665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.39111,23.92809,56.39111,23.92809",
+    "geom:latitude":23.92809,
+    "geom:longitude":56.39111,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sarid",
+    "gn:country_code":"OM",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286565,
+    "gn:latitude":23.92809,
+    "gn:longitude":56.39111,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"\u015ear\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u0101r Ayd",
+        "\u015ear\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286565
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"371c77b980edf85dfaceefd629fbcde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1243057665,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1243057665,
+    "wof:lastmodified":1537676167,
+    "wof:name":"Sarid",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.39111,
+    23.92809,
+    56.39111,
+    23.92809
+],
+  "geometry": {"coordinates":[56.39111,23.92809],"type":"Point"}
+}

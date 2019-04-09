@@ -1,0 +1,86 @@
+{
+  "id": 1293110395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.70367,19.66207,57.70367,19.66207",
+    "geom:latitude":19.66207,
+    "geom:longitude":57.70367,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Duqm",
+    "gn:country_code":"OM",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288471,
+    "gn:latitude":19.66207,
+    "gn:longitude":57.70367,
+    "gn:modification_date":"2017-10-29",
+    "gn:name":"Duqm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0642\u0645"
+    ],
+    "name:deu_x_preferred":[
+        "Duqm"
+    ],
+    "name:eng_x_preferred":[
+        "Duqm"
+    ],
+    "name:fra_x_preferred":[
+        "Duqm"
+    ],
+    "name:und_x_variant":[
+        "Quwairat",
+        "Quwayr\u0101t",
+        "Duqm",
+        "Ad Duqm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675685,
+        421184415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288471,
+        "wk:page":"Duqm"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"beb96316949b1a4f2d5bb3ac549b78a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184415,
+            "locality_id":1293110395,
+            "region_id":85675685
+        }
+    ],
+    "wof:id":1293110395,
+    "wof:lastmodified":1537676218,
+    "wof:name":"Duqm",
+    "wof:parent_id":421184415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.70367,
+    19.66207,
+    57.70367,
+    19.66207
+],
+  "geometry": {"coordinates":[57.70367,19.66207],"type":"Point"}
+}

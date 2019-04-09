@@ -1,0 +1,70 @@
+{
+  "id": 1210040673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.62417,22.12944,59.62417,22.12944",
+    "geom:latitude":22.12944,
+    "geom:longitude":59.62417,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Musawa",
+    "gn:country_code":"OM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411479,
+    "gn:latitude":22.12944,
+    "gn:longitude":59.62417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mus\u0101w\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mus\u0101w\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411479
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2f58bc2c4563d68ea17bcd9cee708d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721071,
+            "locality_id":1210040673,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1210040673,
+    "wof:lastmodified":1537676270,
+    "wof:name":"Musawa",
+    "wof:parent_id":1108721071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.62416999999999,
+    22.12944,
+    59.62416999999999,
+    22.12944
+],
+  "geometry": {"coordinates":[59.62416999999999,22.12944],"type":"Point"}
+}

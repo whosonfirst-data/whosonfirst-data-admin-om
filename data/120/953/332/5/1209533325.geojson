@@ -1,0 +1,76 @@
+{
+  "id": 1209533325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.57236,23.06171,57.57236,23.06171",
+    "geom:latitude":23.06171,
+    "geom:longitude":57.57236,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Da`an al Hamra'",
+    "gn:country_code":"OM",
+    "gn:dem":1765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412147,
+    "gn:latitude":23.06171,
+    "gn:longitude":57.57236,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Da\u2018an al \u1e28amr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0639\u0646 \u0627\u0644\u062d\u0645\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Dann al \u1e28amr\u0101\u2019",
+        "Da\u2018an al \u1e28amr\u0101\u2019",
+        "Da\u2018an al \u1e24amr\u0101\u2019",
+        "Qef Dann al \u1e28amr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412147
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6fb9b127715590e881043845e705ea92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1209533325,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1209533325,
+    "wof:lastmodified":1548974432,
+    "wof:name":"Da`an al Hamra'",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.57236,
+    23.06171,
+    57.57236,
+    23.06171
+],
+  "geometry": {"coordinates":[57.57236,23.06171],"type":"Point"}
+}

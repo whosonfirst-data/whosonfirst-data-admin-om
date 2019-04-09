@@ -1,0 +1,77 @@
+{
+  "id": 1259676143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.33264,23.52768,58.33264,23.52768",
+    "geom:latitude":23.52768,
+    "geom:longitude":58.33264,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Jifar",
+    "gn:country_code":"OM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287748,
+    "gn:latitude":23.52768,
+    "gn:longitude":58.33264,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Jif\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jif\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0641\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Jif\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287748,
+        "wk:page":"Jifar"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3c6edad9c05a717c491a7cbc9241f94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200935,
+            "locality_id":1259676143,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1259676143,
+    "wof:lastmodified":1537676196,
+    "wof:name":"Al Jifar",
+    "wof:parent_id":421200935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.33264000000001,
+    23.52768,
+    58.33264000000001,
+    23.52768
+],
+  "geometry": {"coordinates":[58.33264000000001,23.52768],"type":"Point"}
+}

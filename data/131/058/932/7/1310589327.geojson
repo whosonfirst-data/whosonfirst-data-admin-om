@@ -1,0 +1,75 @@
+{
+  "id": 1310589327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.51759,24.37441,56.51759,24.37441",
+    "geom:latitude":24.37441,
+    "geom:longitude":56.51759,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khushayshat al Milh",
+    "gn:country_code":"OM",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412889,
+    "gn:latitude":24.37441,
+    "gn:longitude":56.51759,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Khushayshat al Mil\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0634\u064a\u0634\u0629 \u0627\u0644\u0645\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Khash\u012bshat al Mil\u1e29",
+        "Khushayshat al Mil\u1e29",
+        "Khishayshat al Mil\u1e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412889
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0e09bef227b98e0c98c2491a68b60d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1310589327,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1310589327,
+    "wof:lastmodified":1537676294,
+    "wof:name":"Khushayshat al Milh",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.51759000000001,
+    24.37441,
+    56.51759000000001,
+    24.37441
+],
+  "geometry": {"coordinates":[56.51759000000001,24.37441],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226223359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.76667,23.73333,56.76667,23.73333",
+    "geom:latitude":23.73333,
+    "geom:longitude":56.76667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Masan",
+    "gn:country_code":"OM",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289145,
+    "gn:latitude":23.73333,
+    "gn:longitude":56.76667,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Masan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al M\u016bsin"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Mumsam",
+        "Al Masan",
+        "Al Misan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289145
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"be70a6f8f8067a50761a8ff060ecdaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1226223359,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1226223359,
+    "wof:lastmodified":1537676236,
+    "wof:name":"Al Masan",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.76667,
+    23.73333,
+    56.76667,
+    23.73333
+],
+  "geometry": {"coordinates":[56.76667,23.73333],"type":"Point"}
+}

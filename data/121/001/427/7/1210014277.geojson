@@ -1,0 +1,76 @@
+{
+  "id": 1210014277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.22882,23.60496,58.22882,23.60496",
+    "geom:latitude":23.60496,
+    "geom:longitude":58.22882,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Mawalih al Janubiyah",
+    "gn:country_code":"OM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287270,
+    "gn:latitude":23.60496,
+    "gn:longitude":58.22882,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Maw\u0101li\u1e29 al Jan\u016bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0627\u0644\u062d \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maw\u0101li\u1e29",
+        "Al Maw\u0101li\u1e29 al Jan\u016bb\u012byah",
+        "Al Maw\u0101li\u1e25 al Jan\u016bbiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421187061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287270,
+        "wk:page":"Mawalih"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"dbb7a8bd6a979f578ab059b3e423622c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187061,
+            "locality_id":1210014277,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1210014277,
+    "wof:lastmodified":1537676185,
+    "wof:name":"Al Mawalih al Janubiyah",
+    "wof:parent_id":421187061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.22881999999999,
+    23.60496,
+    58.22881999999999,
+    23.60496
+],
+  "geometry": {"coordinates":[58.22881999999999,23.60496],"type":"Point"}
+}

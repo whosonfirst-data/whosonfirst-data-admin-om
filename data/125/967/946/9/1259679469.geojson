@@ -1,0 +1,70 @@
+{
+  "id": 1259679469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.48514,17.09211,54.48514,17.09211",
+    "geom:latitude":17.09211,
+    "geom:longitude":54.48514,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kadur",
+    "gn:country_code":"OM",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558668,
+    "gn:latitude":17.09211,
+    "gn:longitude":54.48514,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kad\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kad\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421186703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558668
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"eb6005f5383396349b374b4b80e2d7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186703,
+            "locality_id":1259679469,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1259679469,
+    "wof:lastmodified":1537676311,
+    "wof:name":"Kadur",
+    "wof:parent_id":421186703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.48514,
+    17.09211,
+    54.48514,
+    17.09211
+],
+  "geometry": {"coordinates":[54.48514,17.09211],"type":"Point"}
+}

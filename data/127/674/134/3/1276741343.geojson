@@ -1,0 +1,75 @@
+{
+  "id": 1276741343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.45652,24.51037,56.45652,24.51037",
+    "geom:latitude":24.51037,
+    "geom:longitude":56.45652,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"As Sibakh",
+    "gn:country_code":"OM",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286686,
+    "gn:latitude":24.51037,
+    "gn:longitude":56.45652,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u015f \u015eib\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0651\u0628\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "\u015eab\u0101kh",
+        "A\u015f \u015eib\u0101kh",
+        "A\u1e63 \u1e62ib\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286686
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0db810d2e69831feea22ad84faafee6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721099,
+            "locality_id":1276741343,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276741343,
+    "wof:lastmodified":1537676170,
+    "wof:name":"As Sibakh",
+    "wof:parent_id":1108721099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.45652,
+    24.51037,
+    56.45652,
+    24.51037
+],
+  "geometry": {"coordinates":[56.45652,24.51037],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293013711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.61817,23.18556,57.61817,23.18556",
+    "geom:latitude":23.18556,
+    "geom:longitude":57.61817,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hadas",
+    "gn:country_code":"OM",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412111,
+    "gn:latitude":23.18556,
+    "gn:longitude":57.61817,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"\u1e28adas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u1e28add\u012bs",
+        "\u1e28adas",
+        "\u1e24ids"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421169317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412111
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a1f732d898edb9fb3f8cea9460a9059f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421169317,
+            "locality_id":1293013711,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1293013711,
+    "wof:lastmodified":1537676282,
+    "wof:name":"Hadas",
+    "wof:parent_id":421169317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.61816999999999,
+    23.18556,
+    57.61816999999999,
+    23.18556
+],
+  "geometry": {"coordinates":[57.61816999999999,23.18556],"type":"Point"}
+}

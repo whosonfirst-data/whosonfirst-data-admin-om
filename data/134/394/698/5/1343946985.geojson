@@ -1,0 +1,73 @@
+{
+  "id": 1343946985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.24678,24.19893,56.24678,24.19893",
+    "geom:latitude":24.19893,
+    "geom:longitude":56.24678,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hayl",
+    "gn:country_code":"OM",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287977,
+    "gn:latitude":24.19893,
+    "gn:longitude":56.24678,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"\u1e28ayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayl Bin Suwayd\u0101n",
+        "Hail Bin-Suwaid\u0101n",
+        "Hail",
+        "\u1e28ayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287977
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1f84dc0e9abe9fea6279be088478239e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184225,
+            "locality_id":1343946985,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1343946985,
+    "wof:lastmodified":1537676203,
+    "wof:name":"Hayl",
+    "wof:parent_id":421184225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.24678,
+    24.19893,
+    56.24678,
+    24.19893
+],
+  "geometry": {"coordinates":[56.24678,24.19893],"type":"Point"}
+}

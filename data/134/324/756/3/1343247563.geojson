@@ -1,0 +1,81 @@
+{
+  "id": 1343247563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.6578,18.26312,53.6578,18.26312",
+    "geom:latitude":18.26312,
+    "geom:longitude":53.6578,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ash Shisr",
+    "gn:country_code":"OM",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287955,
+    "gn:latitude":18.26312,
+    "gn:longitude":53.6578,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ash Shi\u015fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0635\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Haylat Shi\u015far",
+        "Hailat ash Shisur",
+        "Haylat ash Shi\u015far",
+        "Shi\u015far",
+        "Ash Shi\u015fr",
+        "Ash Shi\u1e63r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421184227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287955
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"79262e6aa80704cc4a066aeb74379375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184227,
+            "locality_id":1343247563,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343247563,
+    "wof:lastmodified":1537676202,
+    "wof:name":"Ash Shisr",
+    "wof:parent_id":421184227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.6578,
+    18.26312,
+    53.6578,
+    18.26312
+],
+  "geometry": {"coordinates":[53.6578,18.26312],"type":"Point"}
+}

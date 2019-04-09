@@ -1,0 +1,70 @@
+{
+  "id": 1343749007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.60179,23.06728,58.60179,23.06728",
+    "geom:latitude":23.06728,
+    "geom:longitude":58.60179,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mazra` Zarka`",
+    "gn:country_code":"OM",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411243,
+    "gn:latitude":23.06728,
+    "gn:longitude":58.60179,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mazra\u2018 Zark\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018 Zark\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411243
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a4f280c431f6c736e8c6e0a046b6dd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1343749007,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1343749007,
+    "wof:lastmodified":1537676268,
+    "wof:name":"Mazra` Zarka`",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.60179,
+    23.06728,
+    58.60179,
+    23.06728
+],
+  "geometry": {"coordinates":[58.60179,23.06728],"type":"Point"}
+}

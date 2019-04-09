@@ -1,0 +1,71 @@
+{
+  "id": 1293371153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.30006,23.88917,57.30006,23.88917",
+    "geom:latitude":23.88917,
+    "geom:longitude":57.30006,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khadra' Al Bu Rashid",
+    "gn:country_code":"OM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287648,
+    "gn:latitude":23.88917,
+    "gn:longitude":57.30006,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kha\u1e11r\u0101\u2019 \u0100l B\u016b Rash\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0636\u0631\u0627\u0621 \u0622\u0644 \u0628\u0648 \u0631\u0634\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kha\u1e11r\u0101\u2019 \u0100l B\u016b Rash\u012bd",
+        "Kha\u1e11r\u0101\u2019 Y\u0101l B\u016b Rash\u012bd",
+        "Kha\u1e0dr\u0101\u2019 \u0100l B\u016brishayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287648
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3d699aaeb8f44f5ef062343161dd571e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1293371153,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293371153,
+    "wof:lastmodified":1537676194,
+    "wof:name":"Khadra' Al Bu Rashid",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.30006,
+    23.88917,
+    57.30006,
+    23.88917
+],
+  "geometry": {"coordinates":[57.30006,23.88917],"type":"Point"}
+}

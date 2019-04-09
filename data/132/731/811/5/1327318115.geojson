@@ -1,0 +1,70 @@
+{
+  "id": 1327318115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.4914,23.63152,56.4914,23.63152",
+    "geom:latitude":23.63152,
+    "geom:longitude":56.4914,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mushir",
+    "gn:country_code":"OM",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411802,
+    "gn:latitude":23.63152,
+    "gn:longitude":56.4914,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mush\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mush\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        1108721101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411802
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f7c17e03d11e0c0567d3b17fcb33f0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721101,
+            "locality_id":1327318115,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1327318115,
+    "wof:lastmodified":1537676273,
+    "wof:name":"Mushir",
+    "wof:parent_id":1108721101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.4914,
+    23.63152,
+    56.4914,
+    23.63152
+],
+  "geometry": {"coordinates":[56.4914,23.63152],"type":"Point"}
+}

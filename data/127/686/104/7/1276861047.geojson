@@ -1,0 +1,76 @@
+{
+  "id": 1276861047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.25725,23.55054,56.25725,23.55054",
+    "geom:latitude":23.55054,
+    "geom:longitude":56.25725,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dank",
+    "gn:country_code":"OM",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288575,
+    "gn:latitude":23.55054,
+    "gn:longitude":56.25725,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"\u1e10ank",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0646\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u1e10anak",
+        "Dhank",
+        "\u1e10ank",
+        "\u1e0cank"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        1108721085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288575
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e26bad326096902144be46f9d571f4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721085,
+            "locality_id":1276861047,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1276861047,
+    "wof:lastmodified":1537676221,
+    "wof:name":"Dank",
+    "wof:parent_id":1108721085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.25725,
+    23.55054,
+    56.25725,
+    23.55054
+],
+  "geometry": {"coordinates":[56.25725,23.55054],"type":"Point"}
+}

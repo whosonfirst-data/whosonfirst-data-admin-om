@@ -1,0 +1,71 @@
+{
+  "id": 1360003613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.1225,23.33056,58.1225,23.33056",
+    "geom:latitude":23.33056,
+    "geom:longitude":58.1225,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Luzugh",
+    "gn:country_code":"OM",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287461,
+    "gn:latitude":23.33056,
+    "gn:longitude":58.1225,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Luzugh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luzuq",
+        "Luzugh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287461
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"478613a242e33ad9265e4d78857442f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1360003613,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1360003613,
+    "wof:lastmodified":1537676189,
+    "wof:name":"Luzugh",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.1225,
+    23.33056,
+    58.1225,
+    23.33056
+],
+  "geometry": {"coordinates":[58.1225,23.33056],"type":"Point"}
+}

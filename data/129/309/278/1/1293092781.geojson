@@ -1,0 +1,67 @@
+{
+  "id": 1293092781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18778,25.65722,56.18778,25.65722",
+    "geom:latitude":25.65722,
+    "geom:longitude":56.18778,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Salil",
+    "gn:country_code":"OM",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390017,
+    "gn:latitude":25.65722,
+    "gn:longitude":56.18778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Salil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390017
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cfcfdbf6655fdd13d5205b3ffb79aacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1293092781,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1293092781,
+    "wof:lastmodified":1536857858,
+    "wof:name":"Salil",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18778,
+    25.65722,
+    56.18778,
+    25.65722
+],
+  "geometry": {"coordinates":[56.18778,25.65722],"type":"Point"}
+}

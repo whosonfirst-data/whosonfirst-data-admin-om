@@ -1,0 +1,76 @@
+{
+  "id": 1225965401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21137,26.10223,56.21137,26.10223",
+    "geom:latitude":26.10223,
+    "geom:longitude":56.21137,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Az Zahrayn",
+    "gn:country_code":"OM",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390554,
+    "gn:latitude":26.10223,
+    "gn:longitude":56.21137,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Az\u0327 Z\u0327ahrayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0651\u0647\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e10ahrayn",
+        "Z\u0327ahrayn",
+        "Az\u0327 Z\u0327ahrayn",
+        "A\u1e93 \u1e92ahr\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390554
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"05be837db4c8dba3ae04e418eb177c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1225965401,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1225965401,
+    "wof:lastmodified":1537676264,
+    "wof:name":"Az Zahrayn",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21137,
+    26.10223,
+    56.21137,
+    26.10223
+],
+  "geometry": {"coordinates":[56.21137,26.10223],"type":"Point"}
+}

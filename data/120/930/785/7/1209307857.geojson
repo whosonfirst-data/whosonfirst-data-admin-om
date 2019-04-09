@@ -1,0 +1,67 @@
+{
+  "id": 1209307857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.03333,17.23333,54.03333,17.23333",
+    "geom:latitude":17.23333,
+    "geom:longitude":54.03333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Erikob",
+    "gn:country_code":"OM",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288452,
+    "gn:latitude":17.23333,
+    "gn:longitude":54.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Erikob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288452
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3496e3fd18be9c200df6ba0034346517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1209307857,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209307857,
+    "wof:lastmodified":1548974426,
+    "wof:name":"Erikob",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.03333000000001,
+    17.23333,
+    54.03333000000001,
+    17.23333
+],
+  "geometry": {"coordinates":[54.03333000000001,17.23333],"type":"Point"}
+}

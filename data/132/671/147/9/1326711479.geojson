@@ -1,0 +1,75 @@
+{
+  "id": 1326711479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.26925,23.89016,57.26925,23.89016",
+    "geom:latitude":23.89016,
+    "geom:longitude":57.26925,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Diyan al Bawarih",
+    "gn:country_code":"OM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288481,
+    "gn:latitude":23.89016,
+    "gn:longitude":57.26925,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"\u1e10iy\u0101n al Baw\u0101ri\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u064a\u0627\u0646 \u0627\u0644\u0628\u0648\u0627\u0631\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u1e10iy\u0101n al Buw\u0101rah",
+        "\u1e10iy\u0101n al Baw\u0101ri\u1e29",
+        "\u1e0ciy\u0101n al Baw\u0101ri\u1e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421184219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288481
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f924823427e3d8f0c2f0d3c18eb5286f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184219,
+            "locality_id":1326711479,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1326711479,
+    "wof:lastmodified":1537676219,
+    "wof:name":"Diyan al Bawarih",
+    "wof:parent_id":421184219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.26925,
+    23.89016,
+    57.26925,
+    23.89016
+],
+  "geometry": {"coordinates":[57.26925,23.89016],"type":"Point"}
+}

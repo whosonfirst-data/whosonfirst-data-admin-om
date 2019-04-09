@@ -1,0 +1,76 @@
+{
+  "id": 1277077675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.56504,23.18802,57.56504,23.18802",
+    "geom:latitude":23.18802,
+    "geom:longitude":57.56504,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Thaqib",
+    "gn:country_code":"OM",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412108,
+    "gn:latitude":23.18802,
+    "gn:longitude":57.56504,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Thaqib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Th\u0101qib"
+    ],
+    "name:ara_x_variant":[
+        "\u062b\u0642\u0628"
+    ],
+    "name:und_x_variant":[
+        "Thaqub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421169317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412108
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1f4ce889569dff9de2c56997be4d5a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421169317,
+            "locality_id":1277077675,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1277077675,
+    "wof:lastmodified":1537676282,
+    "wof:name":"Thaqib",
+    "wof:parent_id":421169317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.56504,
+    23.18802,
+    57.56504,
+    23.18802
+],
+  "geometry": {"coordinates":[57.56504,23.18802],"type":"Point"}
+}

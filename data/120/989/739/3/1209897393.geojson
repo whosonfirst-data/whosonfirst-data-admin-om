@@ -1,0 +1,70 @@
+{
+  "id": 1209897393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5155,24.33173,56.5155,24.33173",
+    "geom:latitude":24.33173,
+    "geom:longitude":56.5155,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sihlat",
+    "gn:country_code":"OM",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":286335,
+    "gn:latitude":24.33173,
+    "gn:longitude":56.5155,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sihl\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sihl\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286335
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"834abfc15589327406689bdafe67c5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1209897393,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1209897393,
+    "wof:lastmodified":1537676162,
+    "wof:name":"Sihlat",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5155,
+    24.33173,
+    56.5155,
+    24.33173
+],
+  "geometry": {"coordinates":[56.5155,24.33173],"type":"Point"}
+}

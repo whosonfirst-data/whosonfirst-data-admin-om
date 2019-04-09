@@ -1,0 +1,67 @@
+{
+  "id": 1276749331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.1487,17.23453,54.1487,17.23453",
+    "geom:latitude":17.23453,
+    "geom:longitude":54.1487,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arshiti",
+    "gn:country_code":"OM",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558782,
+    "gn:latitude":17.23453,
+    "gn:longitude":54.1487,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Arshiti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558782
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c2c6c1d791836b700ea32465838af78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1276749331,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276749331,
+    "wof:lastmodified":1536718888,
+    "wof:name":"Arshiti",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.1487,
+    17.23453,
+    54.1487,
+    17.23453
+],
+  "geometry": {"coordinates":[54.1487,17.23453],"type":"Point"}
+}

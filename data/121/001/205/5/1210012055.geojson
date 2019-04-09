@@ -1,0 +1,74 @@
+{
+  "id": 1210012055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.25805,17.22184,54.25805,17.22184",
+    "geom:latitude":17.22184,
+    "geom:longitude":54.25805,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kharas",
+    "gn:country_code":"OM",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558843,
+    "gn:latitude":17.22184,
+    "gn:longitude":54.25805,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kh\u0101ras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101ras",
+        "Kh\u0101ris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558843
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6e6e336a6c7cdaea524f3ff21aa3f8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1210012055,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1210012055,
+    "wof:lastmodified":1537676318,
+    "wof:name":"Kharas",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.25805,
+    17.22184,
+    54.25805,
+    17.22184
+],
+  "geometry": {"coordinates":[54.25805,17.22184],"type":"Point"}
+}

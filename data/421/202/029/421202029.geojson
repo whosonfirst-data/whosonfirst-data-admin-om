@@ -1,0 +1,87 @@
+{
+  "id": 421202029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.3989,23.55563,58.3989,23.55563",
+    "geom:latitude":23.55563,
+    "geom:longitude":58.3989,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0634\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Baushar"
+    ],
+    "qs:gn_country":"OM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":288764,
+    "qs:gn_pop":159487,
+    "qs:name":"\u0628\u0648\u0634\u0631",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0645\u0633\u0642\u0637",
+    "qs:photos":128,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":128,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":1354371,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":2267091,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288764,
+        "gp:id":2267091,
+        "qs:id":1354371,
+        "wd:id":"Q2892151",
+        "wk:page":"Bawshar"
+    },
+    "wof:country":"OM",
+    "wof:created":1459010101,
+    "wof:geomhash":"1a4f7ccb76674323efe26e8bfd443b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200935,
+            "locality_id":421202029,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":421202029,
+    "wof:lastmodified":1505340775,
+    "wof:name":"\u0628\u0648\u0634\u0631",
+    "wof:parent_id":421200935,
+    "wof:placetype":"locality",
+    "wof:population":159487,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.3989,
+    23.55563,
+    58.3989,
+    23.55563
+],
+  "geometry": {"coordinates":[58.3989,23.55563],"type":"Point"}
+}

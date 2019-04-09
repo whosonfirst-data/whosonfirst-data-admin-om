@@ -1,0 +1,74 @@
+{
+  "id": 1242581717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.0012,22.78447,58.0012,22.78447",
+    "geom:latitude":22.78447,
+    "geom:longitude":58.0012,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Majazah",
+    "gn:country_code":"OM",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287384,
+    "gn:latitude":22.78447,
+    "gn:longitude":58.0012,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Maj\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0627\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maj\u0101zah",
+        "Al Maj\u0101zah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287384
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ce0519dca426dbab5a2c07eff21fc81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1242581717,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1242581717,
+    "wof:lastmodified":1537676187,
+    "wof:name":"Al Majazah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.0012,
+    22.78447,
+    58.0012,
+    22.78447
+],
+  "geometry": {"coordinates":[58.0012,22.78447],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1310693245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.26597,25.63643,56.26597,25.63643",
+    "geom:latitude":25.63643,
+    "geom:longitude":56.26597,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dibba Al-Baya",
+    "gn:country_code":"OM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288760,
+    "gn:latitude":25.63643,
+    "gn:longitude":56.26597,
+    "gn:modification_date":"2014-04-21",
+    "gn:name":"Dibba Al-Baya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0627 \u0627\u0644\u0628\u064a\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Dibba Al-Baya"
+    ],
+    "name:eng_x_variant":[
+        "Dibba, Oman"
+    ],
+    "name:und_x_variant":[
+        "Bay\u2018ah",
+        "B\u012b\u2019ah",
+        "Bai\u2019a",
+        "Baiah",
+        "Dib\u0101 al Bay\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288760,
+        "wk:page":"Dibba_Al-Baya"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"acfaaac1d2f97a627746efae4b9d5ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1310693245,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1310693245,
+    "wof:lastmodified":1537676227,
+    "wof:name":"Dibba Al-Baya",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.26597,
+    25.63643,
+    56.26597,
+    25.63643
+],
+  "geometry": {"coordinates":[56.26597,25.63643],"type":"Point"}
+}

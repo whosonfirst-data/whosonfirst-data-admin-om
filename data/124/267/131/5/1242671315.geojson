@@ -1,0 +1,74 @@
+{
+  "id": 1242671315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.22465,24.75581,56.22465,24.75581",
+    "geom:latitude":24.75581,
+    "geom:longitude":56.22465,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tumayt",
+    "gn:country_code":"OM",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286104,
+    "gn:latitude":24.75581,
+    "gn:longitude":56.22465,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u0162umayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0645\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u0162umayt",
+        "\u1e6cim\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421183959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286104
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9ca18879f89231d0cdde1a5b0019474b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421183959,
+            "locality_id":1242671315,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1242671315,
+    "wof:lastmodified":1537676154,
+    "wof:name":"Tumayt",
+    "wof:parent_id":421183959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.22465,
+    24.75581,
+    56.22465,
+    24.75581
+],
+  "geometry": {"coordinates":[56.22465,24.75581],"type":"Point"}
+}

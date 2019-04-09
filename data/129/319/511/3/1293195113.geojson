@@ -1,0 +1,74 @@
+{
+  "id": 1293195113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.28869,25.74594,56.28869,25.74594",
+    "geom:latitude":25.74594,
+    "geom:longitude":56.28869,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khalakhil",
+    "gn:country_code":"OM",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412592,
+    "gn:latitude":25.74594,
+    "gn:longitude":56.28869,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Khal\u0101khil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0627\u062e\u0644"
+    ],
+    "name:und_x_variant":[
+        "Khalaghal",
+        "Khal\u0101khil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412592
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"aafde55e1ce13c92cb2e940b5441c5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1293195113,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1293195113,
+    "wof:lastmodified":1537676291,
+    "wof:name":"Khalakhil",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.28869,
+    25.74594,
+    56.28869,
+    25.74594
+],
+  "geometry": {"coordinates":[56.28869,25.74594],"type":"Point"}
+}

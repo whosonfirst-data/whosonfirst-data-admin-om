@@ -1,0 +1,76 @@
+{
+  "id": 1210036453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.89287,17.09141,53.89287,17.09141",
+    "geom:latitude":17.09141,
+    "geom:longitude":53.89287,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qaftawt",
+    "gn:country_code":"OM",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286944,
+    "gn:latitude":17.09141,
+    "gn:longitude":53.89287,
+    "gn:modification_date":"2014-02-09",
+    "gn:name":"Qaf\u0163awt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0641\u0637\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Qaf\u0163at",
+        "Qaf\u0163awt",
+        "Khaftawt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286944,
+        "wk:page":"Qaftat"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9a263f146a798354633682e271256951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1210036453,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1210036453,
+    "wof:lastmodified":1537676176,
+    "wof:name":"Qaftawt",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.89287,
+    17.09141,
+    53.89287,
+    17.09141
+],
+  "geometry": {"coordinates":[53.89287,17.09141],"type":"Point"}
+}

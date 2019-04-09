@@ -1,0 +1,78 @@
+{
+  "id": 1327124009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.32397,23.32271,56.32397,23.32271",
+    "geom:latitude":23.32271,
+    "geom:longitude":56.32397,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"As Subaykhi",
+    "gn:country_code":"OM",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288963,
+    "gn:latitude":23.32271,
+    "gn:longitude":56.32397,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"A\u015f \u015eubaykh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0628\u064a\u062e\u064a"
+    ],
+    "name:und_x_variant":[
+        "Sabaikha",
+        "As Subaykhah",
+        "A\u015f \u015eubaykh\u00e1",
+        "A\u015f \u015eubaykh\u012b",
+        "A\u1e63 \u1e62ubaykh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288963,
+        "wk:page":"As_Subaykhi"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0bc2489a1419327e37d3b2c1530fb2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1327124009,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1327124009,
+    "wof:lastmodified":1537676230,
+    "wof:name":"As Subaykhi",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.32397,
+    23.32271,
+    56.32397,
+    23.32271
+],
+  "geometry": {"coordinates":[56.32397,23.32271],"type":"Point"}
+}

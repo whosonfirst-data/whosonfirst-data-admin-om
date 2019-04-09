@@ -1,0 +1,76 @@
+{
+  "id": 1209102811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.43385,17.16527,54.43385,17.16527",
+    "geom:latitude":17.16527,
+    "geom:longitude":54.43385,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Batihur",
+    "gn:country_code":"OM",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415366,
+    "gn:latitude":17.16527,
+    "gn:longitude":54.43385,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Batih\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u062d\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bathar",
+        "Batih\u016br",
+        "Baithakoob",
+        "Ba\u0163\u1e29\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415366
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d1361b85566cd3528f52b63a76112d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1209102811,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209102811,
+    "wof:lastmodified":1548974418,
+    "wof:name":"Batihur",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.43385,
+    17.16527,
+    54.43385,
+    17.16527
+],
+  "geometry": {"coordinates":[54.43385,17.16527],"type":"Point"}
+}

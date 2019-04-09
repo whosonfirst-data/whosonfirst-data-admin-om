@@ -1,0 +1,74 @@
+{
+  "id": 1293283039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.16331,17.39617,53.16331,17.39617",
+    "geom:latitude":17.39617,
+    "geom:longitude":53.16331,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hazur",
+    "gn:country_code":"OM",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8700605,
+    "gn:latitude":17.39617,
+    "gn:longitude":53.16331,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"\u1e28az\u0327\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0638\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awrut",
+        "\u1e28az\u0327\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421184227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8700605
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"54ee5fdb6023e75091b9cf71063f0906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184227,
+            "locality_id":1293283039,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1293283039,
+    "wof:lastmodified":1537676324,
+    "wof:name":"Hazur",
+    "wof:parent_id":421184227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.16331,
+    17.39617,
+    53.16331,
+    17.39617
+],
+  "geometry": {"coordinates":[53.16331,17.39617],"type":"Point"}
+}

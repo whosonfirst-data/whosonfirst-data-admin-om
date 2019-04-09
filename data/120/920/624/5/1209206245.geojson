@@ -1,0 +1,77 @@
+{
+  "id": 1209206245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21221,26.20909,56.21221,26.20909",
+    "geom:latitude":26.20909,
+    "geom:longitude":56.21221,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Taff ar Rakham",
+    "gn:country_code":"OM",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388688,
+    "gn:latitude":26.20909,
+    "gn:longitude":56.21221,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u0162aff ar Rakham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0641 \u0627\u0644\u0631\u0651\u062e\u0645"
+    ],
+    "name:und_x_variant":[
+        "Taf al Rakhm",
+        "\u0162af ar Rakhm",
+        "\u0162aff ar Rakhm",
+        "\u0162aff ar Rakham",
+        "\u1e6cif ar Rakham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388688
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"18b23ca0dc905bfc884e4fdd64c29b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1209206245,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209206245,
+    "wof:lastmodified":1548974425,
+    "wof:name":"Taff ar Rakham",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21221,
+    26.20909,
+    56.21221,
+    26.20909
+],
+  "geometry": {"coordinates":[56.21221,26.20909],"type":"Point"}
+}

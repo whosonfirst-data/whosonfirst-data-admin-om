@@ -1,0 +1,70 @@
+{
+  "id": 1310396291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.30362,17.12311,54.30362,17.12311",
+    "geom:latitude":17.12311,
+    "geom:longitude":54.30362,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Afisl",
+    "gn:country_code":"OM",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558732,
+    "gn:latitude":17.12311,
+    "gn:longitude":54.30362,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Afi\u015fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Afi\u015fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558732
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"37175e8dc1b403b5006a5e2a3d7c1963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1310396291,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1310396291,
+    "wof:lastmodified":1537676313,
+    "wof:name":"Afisl",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.30362,
+    17.12311,
+    54.30362,
+    17.12311
+],
+  "geometry": {"coordinates":[54.30362,17.12311],"type":"Point"}
+}

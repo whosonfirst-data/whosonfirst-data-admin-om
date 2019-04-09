@@ -1,0 +1,75 @@
+{
+  "id": 1344238211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.355,23.83361,57.355,23.83361",
+    "geom:latitude":23.83361,
+    "geom:longitude":57.355,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mazra`at al Khadra'",
+    "gn:country_code":"OM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412193,
+    "gn:latitude":23.83361,
+    "gn:longitude":57.355,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mazra\u2018at al Kha\u1e11r\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u062e\u0636\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at al Khadr\u0101\u2019",
+        "Mazra\u2018at al Kha\u1e11r\u0101\u2019",
+        "Mazra\u2018at al Kha\u1e0dr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421184219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412193
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9fd7ebccead7bbf49d340abebe4526ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184219,
+            "locality_id":1344238211,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1344238211,
+    "wof:lastmodified":1537676288,
+    "wof:name":"Mazra`at al Khadra'",
+    "wof:parent_id":421184219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.355,
+    23.83361,
+    57.355,
+    23.83361
+],
+  "geometry": {"coordinates":[57.355,23.83361],"type":"Point"}
+}

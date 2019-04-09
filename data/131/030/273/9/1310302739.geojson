@@ -1,0 +1,74 @@
+{
+  "id": 1310302739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.78974,22.98956,58.78974,22.98956",
+    "geom:latitude":22.98956,
+    "geom:longitude":58.78974,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Waljah",
+    "gn:country_code":"OM",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285989,
+    "gn:latitude":22.98956,
+    "gn:longitude":58.78974,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Al Waljah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0644\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Waljah",
+        "Al Waljah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285989
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d9667ff3288229f40d8f1bb7c3c7b06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1310302739,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1310302739,
+    "wof:lastmodified":1537676151,
+    "wof:name":"Al Waljah",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.78974,
+    22.98956,
+    58.78974,
+    22.98956
+],
+  "geometry": {"coordinates":[58.78974,22.98956],"type":"Point"}
+}

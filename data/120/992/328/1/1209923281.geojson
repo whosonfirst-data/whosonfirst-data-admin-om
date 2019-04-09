@@ -1,0 +1,74 @@
+{
+  "id": 1209923281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.33804,23.5589,57.33804,23.5589",
+    "geom:latitude":23.5589,
+    "geom:longitude":57.33804,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Falaj as Sa`idi",
+    "gn:country_code":"OM",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288425,
+    "gn:latitude":23.5589,
+    "gn:longitude":57.33804,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Falaj as Sa\u2018\u012bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u062c \u0627\u0644\u0633\u0639\u064a\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Falaj as Sa\u2018\u012bd\u012b",
+        "Falaj as Si\u2018ayd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288425
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"464c5b51ddce3b641f2df207d5fb905b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1209923281,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1209923281,
+    "wof:lastmodified":1537676217,
+    "wof:name":"Falaj as Sa`idi",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.33804,
+    23.5589,
+    57.33804,
+    23.5589
+],
+  "geometry": {"coordinates":[57.33804,23.5589],"type":"Point"}
+}

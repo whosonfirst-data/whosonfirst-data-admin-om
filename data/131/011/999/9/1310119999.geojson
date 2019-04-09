@@ -1,0 +1,74 @@
+{
+  "id": 1310119999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.65873,23.05318,57.65873,23.05318",
+    "geom:latitude":23.05318,
+    "geom:longitude":57.65873,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sallut",
+    "gn:country_code":"OM",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286597,
+    "gn:latitude":23.05318,
+    "gn:longitude":57.65873,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sall\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0651\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Sal\u016bt",
+        "Sall\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286597
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3c3e763074833e73940aefd6bc5dac95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1310119999,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1310119999,
+    "wof:lastmodified":1537676168,
+    "wof:name":"Sallut",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.65873000000001,
+    23.05318,
+    57.65873000000001,
+    23.05318
+],
+  "geometry": {"coordinates":[57.65873000000001,23.05318],"type":"Point"}
+}

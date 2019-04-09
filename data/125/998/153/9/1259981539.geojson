@@ -1,0 +1,70 @@
+{
+  "id": 1259981539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.45,18.46667,56.45,18.46667",
+    "geom:latitude":18.46667,
+    "geom:longitude":56.45,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Watif",
+    "gn:country_code":"OM",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285972,
+    "gn:latitude":18.46667,
+    "gn:longitude":56.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u0101\u0163if",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101\u0163if"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675685,
+        421172087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285972
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7d623be0cb37e3b4b1dde8ab6427a11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172087,
+            "locality_id":1259981539,
+            "region_id":85675685
+        }
+    ],
+    "wof:id":1259981539,
+    "wof:lastmodified":1537676150,
+    "wof:name":"Watif",
+    "wof:parent_id":421172087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.45,
+    18.46667,
+    56.45,
+    18.46667
+],
+  "geometry": {"coordinates":[56.45,18.46667],"type":"Point"}
+}

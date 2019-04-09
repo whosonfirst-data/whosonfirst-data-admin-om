@@ -1,0 +1,75 @@
+{
+  "id": 1276309913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.17643,22.54753,58.17643,22.54753",
+    "geom:latitude":22.54753,
+    "geom:longitude":58.17643,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Az Zaydi",
+    "gn:country_code":"OM",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442261,
+    "gn:latitude":22.54753,
+    "gn:longitude":58.17643,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Az Zayd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u064a\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Zayd\u012b",
+        "Az Zayd\u012b",
+        "Az Z\u012bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442261
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7e16c95a923b62c7163be79729176928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1276309913,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1276309913,
+    "wof:lastmodified":1537676303,
+    "wof:name":"Az Zaydi",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.17643,
+    22.54753,
+    58.17643,
+    22.54753
+],
+  "geometry": {"coordinates":[58.17643,22.54753],"type":"Point"}
+}

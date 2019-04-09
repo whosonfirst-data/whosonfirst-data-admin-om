@@ -1,0 +1,75 @@
+{
+  "id": 1226727989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.88667,23.71568,56.88667,23.71568",
+    "geom:latitude":23.71568,
+    "geom:longitude":56.88667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mutayd",
+    "gn:country_code":"OM",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411847,
+    "gn:latitude":23.71568,
+    "gn:longitude":56.88667,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mu\u0163ayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mat\u012bd",
+        "Mu\u0163ayd",
+        "Mi\u1e6dayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411847
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"80682d996b6fba2fec9954073ab95e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1226727989,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1226727989,
+    "wof:lastmodified":1537676275,
+    "wof:name":"Mutayd",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.88667,
+    23.71568,
+    56.88667,
+    23.71568
+],
+  "geometry": {"coordinates":[56.88667,23.71568],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309786975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.54782,24.59571,56.54782,24.59571",
+    "geom:latitude":24.59571,
+    "geom:longitude":56.54782,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Hawz",
+    "gn:country_code":"OM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414205,
+    "gn:latitude":24.59571,
+    "gn:longitude":56.54782,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al \u1e28awz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28awz",
+        "Al \u1e24awz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414205
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0d04f5f8af1e4c4547d9310b4a671d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1309786975,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309786975,
+    "wof:lastmodified":1537676296,
+    "wof:name":"Al Hawz",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.54782,
+    24.59571,
+    56.54782,
+    24.59571
+],
+  "geometry": {"coordinates":[56.54782,24.59571],"type":"Point"}
+}

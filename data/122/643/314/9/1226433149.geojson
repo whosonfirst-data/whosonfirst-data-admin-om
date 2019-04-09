@@ -1,0 +1,74 @@
+{
+  "id": 1226433149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.19425,17.05613,54.19425,17.05613",
+    "geom:latitude":17.05613,
+    "geom:longitude":54.19425,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"South Sahnawt",
+    "gn:country_code":"OM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558741,
+    "gn:latitude":17.05613,
+    "gn:longitude":54.19425,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"South Sahnawt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u062d\u0644\u0646\u0648\u062a \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u015ea\u1e29alnawt al Jan\u016bb\u012byah",
+        "South Sahnawt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558741
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"760697cbe30e88566b4114b860ac209d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1226433149,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226433149,
+    "wof:lastmodified":1537676314,
+    "wof:name":"South Sahnawt",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.19425,
+    17.05613,
+    54.19425,
+    17.05613
+],
+  "geometry": {"coordinates":[54.19425,17.05613],"type":"Point"}
+}

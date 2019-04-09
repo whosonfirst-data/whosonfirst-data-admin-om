@@ -1,0 +1,67 @@
+{
+  "id": 1343354181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.89791,23.2353,58.89791,23.2353",
+    "geom:latitude":23.2353,
+    "geom:longitude":58.89791,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ramlah",
+    "gn:country_code":"OM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286783,
+    "gn:latitude":23.2353,
+    "gn:longitude":58.89791,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ramlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286783
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"faa2144231ffc280b74d1dcdcb1deef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1343354181,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1343354181,
+    "wof:lastmodified":1536899651,
+    "wof:name":"Ramlah",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.89791,
+    23.2353,
+    58.89791,
+    23.2353
+],
+  "geometry": {"coordinates":[58.89791,23.2353],"type":"Point"}
+}

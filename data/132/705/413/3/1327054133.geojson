@@ -1,0 +1,75 @@
+{
+  "id": 1327054133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.82268,20.5695,58.82268,20.5695",
+    "geom:latitude":20.5695,
+    "geom:longitude":58.82268,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ayjit",
+    "gn:country_code":"OM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289413,
+    "gn:latitude":20.5695,
+    "gn:longitude":58.82268,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"\u2018Ayj\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u062c\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Aged",
+        "\u2018Ayj\u012bt",
+        "\u2018Ayjayt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289413
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"64c5c65d93b0795da326a5a897a3e61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175631,
+            "locality_id":1327054133,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1327054133,
+    "wof:lastmodified":1537676249,
+    "wof:name":"`Ayjit",
+    "wof:parent_id":421175631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.82268000000001,
+    20.5695,
+    58.82268000000001,
+    20.5695
+],
+  "geometry": {"coordinates":[58.82268000000001,20.5695],"type":"Point"}
+}

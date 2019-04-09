@@ -1,0 +1,75 @@
+{
+  "id": 1209911021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.28431,25.86463,56.28431,25.86463",
+    "geom:latitude":25.86463,
+    "geom:longitude":56.28431,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ar Rawdah",
+    "gn:country_code":"OM",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286763,
+    "gn:latitude":25.86463,
+    "gn:longitude":56.28431,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ar Raw\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0651\u0648\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Raw\u1e11ah",
+        "Ar Raw\u1e11ah",
+        "Ar Raw\u1e0dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286763
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a5adf093e9c690e873db6f98ad834936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1209911021,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209911021,
+    "wof:lastmodified":1537676172,
+    "wof:name":"Ar Rawdah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.28431,
+    25.86463,
+    56.28431,
+    25.86463
+],
+  "geometry": {"coordinates":[56.28431,25.86463],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276430835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.45908,23.22876,56.45908,23.22876",
+    "geom:latitude":23.22876,
+    "geom:longitude":56.45908,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Qal`i",
+    "gn:country_code":"OM",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289137,
+    "gn:latitude":23.22876,
+    "gn:longitude":56.45908,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Qal\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Qal\u2018\u012b",
+        "Al Qila\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289137
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cc3a4ea978fe0651c5c72d61dec2b976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1276430835,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1276430835,
+    "wof:lastmodified":1537676235,
+    "wof:name":"Al Qal`i",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.45908000000001,
+    23.22876,
+    56.45908000000001,
+    23.22876
+],
+  "geometry": {"coordinates":[56.45908000000001,23.22876],"type":"Point"}
+}

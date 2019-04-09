@@ -1,0 +1,74 @@
+{
+  "id": 1293270281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.56426,23.89623,56.56426,23.89623",
+    "geom:latitude":23.89623,
+    "geom:longitude":56.56426,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Katm",
+    "gn:country_code":"OM",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289389,
+    "gn:latitude":23.89623,
+    "gn:longitude":56.56426,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Katm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u062a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Aktam",
+        "Katm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289389
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"30c58295e998a8547a486ebe15251b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1293270281,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1293270281,
+    "wof:lastmodified":1537676249,
+    "wof:name":"Katm",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.56426,
+    23.89623,
+    56.56426,
+    23.89623
+],
+  "geometry": {"coordinates":[56.56426,23.89623],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209206337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18306,26.12083,56.18306,26.12083",
+    "geom:latitude":26.12083,
+    "geom:longitude":56.18306,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ar Rumayh",
+    "gn:country_code":"OM",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388702,
+    "gn:latitude":26.12083,
+    "gn:longitude":56.18306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Rumay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ramayh",
+        "Ar Rumay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388702
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c77ca24aaf9da8ca6cacad6aae16a943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1209206337,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209206337,
+    "wof:lastmodified":1548974425,
+    "wof:name":"Ar Rumayh",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18306,
+    26.12083,
+    56.18306,
+    26.12083
+],
+  "geometry": {"coordinates":[56.18306,26.12083],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259705191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.20694,25.71972,56.20694,25.71972",
+    "geom:latitude":25.71972,
+    "geom:longitude":56.20694,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Silad",
+    "gn:country_code":"OM",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396364,
+    "gn:latitude":25.71972,
+    "gn:longitude":56.20694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u012bl\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u012bl\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396364
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"165e01c21dfe873f1927fdd62aa3b58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1259705191,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1259705191,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Silad",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.20694,
+    25.71972,
+    56.20694,
+    25.71972
+],
+  "geometry": {"coordinates":[56.20694,25.71972],"type":"Point"}
+}

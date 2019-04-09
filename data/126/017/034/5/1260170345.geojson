@@ -1,0 +1,78 @@
+{
+  "id": 1260170345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.04899,24.36137,56.04899,24.36137",
+    "geom:latitude":24.36137,
+    "geom:longitude":56.04899,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Afrad",
+    "gn:country_code":"OM",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289104,
+    "gn:latitude":24.36137,
+    "gn:longitude":56.04899,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Al Afr\u0101\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Uthr\u0101t"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0641\u0631\u0627\u0636"
+    ],
+    "name:und_x_variant":[
+        "Lothera",
+        "Al Afr\u0101\u1e11",
+        "Al Afr\u0101\u1e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289104
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2b4491c3280c0b3f3393287f63c0ee92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1260170345,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1260170345,
+    "wof:lastmodified":1537676234,
+    "wof:name":"Al Afrad",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.04899,
+    24.36137,
+    56.04899,
+    24.36137
+],
+  "geometry": {"coordinates":[56.04899,24.36137],"type":"Point"}
+}

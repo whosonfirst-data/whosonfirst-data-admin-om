@@ -1,0 +1,76 @@
+{
+  "id": 1209311355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.25728,17.2335,54.25728,17.2335",
+    "geom:latitude":17.2335,
+    "geom:longitude":54.25728,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shrbith",
+    "gn:country_code":"OM",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560960,
+    "gn:latitude":17.2335,
+    "gn:longitude":54.25728,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Shrb\u012bth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shrb\u012bth"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0634\u0631\u0628\u064a\u062b"
+    ],
+    "name:und_x_variant":[
+        "Asharb\u012bth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560960
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"701936f225d934857d475b163e37b6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1209311355,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209311355,
+    "wof:lastmodified":1548974422,
+    "wof:name":"Shrbith",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.25728,
+    17.2335,
+    54.25728,
+    17.2335
+],
+  "geometry": {"coordinates":[54.25728,17.2335],"type":"Point"}
+}

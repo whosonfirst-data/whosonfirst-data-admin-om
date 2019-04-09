@@ -1,0 +1,70 @@
+{
+  "id": 1259876399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.33863,16.8123,53.33863,16.8123",
+    "geom:latitude":16.8123,
+    "geom:longitude":53.33863,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tamdahan",
+    "gn:country_code":"OM",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11556099,
+    "gn:latitude":16.8123,
+    "gn:longitude":53.33863,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Tamdahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u062f\u0647\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556099
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"89cee7ca2d5b5d852be4b5fff7bd347c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1259876399,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1259876399,
+    "wof:lastmodified":1537676325,
+    "wof:name":"Tamdahan",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.33863,
+    16.8123,
+    53.33863,
+    16.8123
+],
+  "geometry": {"coordinates":[53.33863,16.8123],"type":"Point"}
+}

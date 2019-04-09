@@ -1,0 +1,67 @@
+{
+  "id": 1276749195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.26361,17.10778,54.26361,17.10778",
+    "geom:latitude":17.10778,
+    "geom:longitude":54.26361,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nigrit",
+    "gn:country_code":"OM",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415311,
+    "gn:latitude":17.10778,
+    "gn:longitude":54.26361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nigrit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415311
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3df26e484f54966670fb3ad0cb502b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1276749195,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276749195,
+    "wof:lastmodified":1536719066,
+    "wof:name":"Nigrit",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.26361,
+    17.10778,
+    54.26361,
+    17.10778
+],
+  "geometry": {"coordinates":[54.26361,17.10778],"type":"Point"}
+}

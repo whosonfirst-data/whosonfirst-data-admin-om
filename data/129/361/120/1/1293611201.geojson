@@ -1,0 +1,75 @@
+{
+  "id": 1293611201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.6169,23.2951,58.6169,23.2951",
+    "geom:latitude":23.2951,
+    "geom:longitude":58.6169,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ash Shukayli",
+    "gn:country_code":"OM",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411214,
+    "gn:latitude":23.2951,
+    "gn:longitude":58.6169,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ash Shukayl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0651\u0643\u064a\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Shukayl\u012b",
+        "Ash Shukayl\u012b",
+        "Ash Shikayl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411214
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e32e9fa93e5982194986b58047b426b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1293611201,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1293611201,
+    "wof:lastmodified":1537676267,
+    "wof:name":"Ash Shukayli",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.6169,
+    23.2951,
+    58.6169,
+    23.2951
+],
+  "geometry": {"coordinates":[58.6169,23.2951],"type":"Point"}
+}

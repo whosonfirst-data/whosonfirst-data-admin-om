@@ -1,0 +1,78 @@
+{
+  "id": 1276358237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.57889,23.61972,58.57889,23.61972",
+    "geom:latitude":23.61972,
+    "geom:longitude":58.57889,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Riyam",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286733,
+    "gn:latitude":23.61972,
+    "gn:longitude":58.57889,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Riy\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Riy\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u064a\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Riy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        1108721095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286733,
+        "wk:page":"Riyam"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"410fc15caa6df026032cee984ca8873a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721095,
+            "locality_id":1276358237,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1276358237,
+    "wof:lastmodified":1537676171,
+    "wof:name":"Riyam",
+    "wof:parent_id":1108721095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.57889,
+    23.61972,
+    58.57889,
+    23.61972
+],
+  "geometry": {"coordinates":[58.57889,23.61972],"type":"Point"}
+}

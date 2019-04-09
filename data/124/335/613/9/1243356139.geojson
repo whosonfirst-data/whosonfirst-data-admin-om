@@ -1,0 +1,73 @@
+{
+  "id": 1243356139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.71742,23.31291,58.71742,23.31291",
+    "geom:latitude":23.31291,
+    "geom:longitude":58.71742,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ad Dab`ani",
+    "gn:country_code":"OM",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026295,
+    "gn:latitude":23.31291,
+    "gn:longitude":58.71742,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u1e11 \u1e10ab\u2018\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0628\u0639\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ab\u2018\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026295
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"17104719b9c36cc17ae3a2f7d8ab8550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1243356139,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1243356139,
+    "wof:lastmodified":1537676307,
+    "wof:name":"Ad Dab`ani",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.71742,
+    23.31291,
+    58.71742,
+    23.31291
+],
+  "geometry": {"coordinates":[58.71742,23.31291],"type":"Point"}
+}

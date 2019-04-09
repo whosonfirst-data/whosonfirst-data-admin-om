@@ -1,0 +1,75 @@
+{
+  "id": 1259897747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.05504,22.92624,58.05504,22.92624",
+    "geom:latitude":22.92624,
+    "geom:longitude":58.05504,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al `Alya'",
+    "gn:country_code":"OM",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442233,
+    "gn:latitude":22.92624,
+    "gn:longitude":58.05504,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al \u2018Aly\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u064a\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Al\u012byah",
+        "Al \u2018Aly\u0101\u2019",
+        "Al \u2018Ily\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442233
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fdec1dce85984653ed203754d1b23468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1259897747,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1259897747,
+    "wof:lastmodified":1537676302,
+    "wof:name":"Al `Alya'",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.05504000000001,
+    22.92624,
+    58.05504000000001,
+    22.92624
+],
+  "geometry": {"coordinates":[58.05504000000001,22.92624],"type":"Point"}
+}

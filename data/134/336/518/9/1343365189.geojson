@@ -1,0 +1,70 @@
+{
+  "id": 1343365189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.38561,22.43551,59.38561,22.43551",
+    "geom:latitude":22.43551,
+    "geom:longitude":59.38561,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Jiba`i",
+    "gn:country_code":"OM",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412240,
+    "gn:latitude":22.43551,
+    "gn:longitude":59.38561,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jib\u0101\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Jib\u0101\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412240
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"85d2d2839da45f074f5908556c827f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1343365189,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1343365189,
+    "wof:lastmodified":1537676289,
+    "wof:name":"Al Jiba`i",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.38561,
+    22.43551,
+    59.38561,
+    22.43551
+],
+  "geometry": {"coordinates":[59.38561,22.43551],"type":"Point"}
+}

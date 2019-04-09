@@ -1,0 +1,74 @@
+{
+  "id": 1293310367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5478,23.28872,56.5478,23.28872",
+    "geom:latitude":23.28872,
+    "geom:longitude":56.5478,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al `Aynayn",
+    "gn:country_code":"OM",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416377,
+    "gn:latitude":23.28872,
+    "gn:longitude":56.5478,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al \u2018Aynayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u0646\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Aynayn",
+        "Al \u2018Aynayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416377
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"621abc6cf54f726aea7ea55434b3a062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1293310367,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1293310367,
+    "wof:lastmodified":1537676301,
+    "wof:name":"Al `Aynayn",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5478,
+    23.28872,
+    56.5478,
+    23.28872
+],
+  "geometry": {"coordinates":[56.5478,23.28872],"type":"Point"}
+}

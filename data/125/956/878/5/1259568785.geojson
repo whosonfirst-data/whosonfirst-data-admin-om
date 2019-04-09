@@ -1,0 +1,68 @@
+{
+  "id": 1259568785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.385,17.095,54.385,17.095",
+    "geom:latitude":17.095,
+    "geom:longitude":54.385,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Khasur",
+    "gn:country_code":"OM",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287603,
+    "gn:latitude":17.095,
+    "gn:longitude":54.385,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khasur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287603,
+        "wk:page":"Khasur"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a921d7365b41953cd8a07080076fdb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1259568785,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1259568785,
+    "wof:lastmodified":1537570179,
+    "wof:name":"Khasur",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.385,
+    17.095,
+    54.385,
+    17.095
+],
+  "geometry": {"coordinates":[54.385,17.095],"type":"Point"}
+}

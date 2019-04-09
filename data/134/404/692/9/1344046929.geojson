@@ -1,0 +1,70 @@
+{
+  "id": 1344046929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.26605,23.56707,56.26605,23.56707",
+    "geom:latitude":23.56707,
+    "geom:longitude":56.26605,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sufalat Dank",
+    "gn:country_code":"OM",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411815,
+    "gn:latitude":23.56707,
+    "gn:longitude":56.26605,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Suf\u0101lat \u1e10ank",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suf\u0101lat \u1e10ank"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        1108721085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411815
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6dc6c5fa90b153637e3a3c51522d7ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721085,
+            "locality_id":1344046929,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1344046929,
+    "wof:lastmodified":1537676273,
+    "wof:name":"Sufalat Dank",
+    "wof:parent_id":1108721085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.26605,
+    23.56707,
+    56.26605,
+    23.56707
+],
+  "geometry": {"coordinates":[56.26605,23.56707],"type":"Point"}
+}

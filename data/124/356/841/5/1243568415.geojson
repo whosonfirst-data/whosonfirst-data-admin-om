@@ -1,0 +1,70 @@
+{
+  "id": 1243568415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.96416,22.76723,56.96416,22.76723",
+    "geom:latitude":22.76723,
+    "geom:longitude":56.96416,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hamrat ad Duru`",
+    "gn:country_code":"OM",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288092,
+    "gn:latitude":22.76723,
+    "gn:longitude":56.96416,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"\u1e28amrat ad Dur\u016b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28amrat ad Dur\u016b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288092
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c879e0b3dbfb423e1fb6a60161e27863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1243568415,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1243568415,
+    "wof:lastmodified":1537676206,
+    "wof:name":"Hamrat ad Duru`",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.96416,
+    22.76723,
+    56.96416,
+    22.76723
+],
+  "geometry": {"coordinates":[56.96416,22.76723],"type":"Point"}
+}

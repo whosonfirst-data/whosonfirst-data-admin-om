@@ -1,0 +1,65 @@
+{
+  "id": 1209396017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.9,24.16667,56.9,24.16667",
+    "geom:latitude":24.16667,
+    "geom:longitude":56.9,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ruwaylah",
+    "gn:country_code":"OM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286700,
+    "gn:latitude":24.16667,
+    "gn:longitude":56.9,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ruwaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruwaila",
+        "Ruwaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286700
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c2401c54e4048716babd4a0ea83110f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632207,
+            "locality_id":1209396017
+        }
+    ],
+    "wof:id":1209396017,
+    "wof:lastmodified":1537676170,
+    "wof:name":"Ruwaylah",
+    "wof:parent_id":85632207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.9,
+    24.16667,
+    56.9,
+    24.16667
+],
+  "geometry": {"coordinates":[56.9,24.16667],"type":"Point"}
+}

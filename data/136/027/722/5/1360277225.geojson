@@ -1,0 +1,77 @@
+{
+  "id": 1360277225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.40218,25.97454,56.40218,25.97454",
+    "geom:latitude":25.97454,
+    "geom:longitude":56.40218,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ma`awi",
+    "gn:country_code":"OM",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412637,
+    "gn:latitude":25.97454,
+    "gn:longitude":56.40218,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ma\u2018\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u0101w\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0639\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018aw\u012b",
+        "Ma\u2018\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412637
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"756ccf1ff3a92aeb4e930e764631602a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1360277225,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1360277225,
+    "wof:lastmodified":1537676294,
+    "wof:name":"Ma`awi",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.40218,
+    25.97454,
+    56.40218,
+    25.97454
+],
+  "geometry": {"coordinates":[56.40218,25.97454],"type":"Point"}
+}

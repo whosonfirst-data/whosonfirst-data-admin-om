@@ -1,0 +1,76 @@
+{
+  "id": 1343783411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.38051,25.99558,56.38051,25.99558",
+    "geom:latitude":25.99558,
+    "geom:longitude":56.38051,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Khuwayyah",
+    "gn:country_code":"OM",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412635,
+    "gn:latitude":25.99558,
+    "gn:longitude":56.38051,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Khuwayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Khawiya",
+        "Al Khaw\u012byah",
+        "Al Khuwayyah",
+        "Al Khiwayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412635
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"97f6be38b27d6dd1cb1b00e9e0bb9443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1343783411,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1343783411,
+    "wof:lastmodified":1537676293,
+    "wof:name":"Al Khuwayyah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.38051,
+    25.99558,
+    56.38051,
+    25.99558
+],
+  "geometry": {"coordinates":[56.38051,25.99558],"type":"Point"}
+}

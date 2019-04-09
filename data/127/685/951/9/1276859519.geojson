@@ -1,0 +1,74 @@
+{
+  "id": 1276859519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.76922,23.80814,56.76922,23.80814",
+    "geom:latitude":23.80814,
+    "geom:longitude":56.76922,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al `Aqli",
+    "gn:country_code":"OM",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411840,
+    "gn:latitude":23.80814,
+    "gn:longitude":56.76922,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al \u2018Aql\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0642\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Aqli",
+        "Al \u2018Aql\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411840
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7fac1dd230717e292755831395c05fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1276859519,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276859519,
+    "wof:lastmodified":1537676274,
+    "wof:name":"Al `Aqli",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.76922,
+    23.80814,
+    56.76922,
+    23.80814
+],
+  "geometry": {"coordinates":[56.76922,23.80814],"type":"Point"}
+}

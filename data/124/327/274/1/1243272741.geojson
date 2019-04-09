@@ -1,0 +1,70 @@
+{
+  "id": 1243272741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.46494,23.28343,57.46494,23.28343",
+    "geom:latitude":23.28343,
+    "geom:longitude":57.46494,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Wasit",
+    "gn:country_code":"OM",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289089,
+    "gn:latitude":23.28343,
+    "gn:longitude":57.46494,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al W\u0101si\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al W\u0101si\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289089
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"942a353f5c924d55a3c2ffa4ab4f5d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1243272741,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1243272741,
+    "wof:lastmodified":1537676233,
+    "wof:name":"Al Wasit",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.46494000000001,
+    23.28343,
+    57.46494000000001,
+    23.28343
+],
+  "geometry": {"coordinates":[57.46494000000001,23.28343],"type":"Point"}
+}

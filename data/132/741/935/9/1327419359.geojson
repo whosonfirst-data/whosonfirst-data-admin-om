@@ -1,0 +1,74 @@
+{
+  "id": 1327419359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.96035,17.12295,53.96035,17.12295",
+    "geom:latitude":17.12295,
+    "geom:longitude":53.96035,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aus Kharis",
+    "gn:country_code":"OM",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8694774,
+    "gn:latitude":17.12295,
+    "gn:longitude":53.96035,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Aus Kh\u0101ris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101ris",
+        "Aus Kh\u0101ris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694774
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"44295c39188492a3dab0a86ae8506037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1327419359,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1327419359,
+    "wof:lastmodified":1537676322,
+    "wof:name":"Aus Kharis",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.96035,
+    17.12295,
+    53.96035,
+    17.12295
+],
+  "geometry": {"coordinates":[53.96035,17.12295],"type":"Point"}
+}

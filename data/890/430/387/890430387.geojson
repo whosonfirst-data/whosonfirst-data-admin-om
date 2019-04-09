@@ -1,0 +1,72 @@
+{
+  "id": 890430387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.25778,26.19778,56.25778,26.19778",
+    "geom:latitude":26.19778,
+    "geom:longitude":56.25778,
+    "gn:country":"OM",
+    "gn:fcode":"PPL",
+    "gn:pop":5000,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0431\u0431\u0430 \u0410\u043b\u044c-\u0411\u0430\u044f\u0445"
+    ],
+    "name:unk_x_variant":[
+        "Dib\u0101 Dib\u2018"
+    ],
+    "qs:name":"Dib Dibba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288507,
+        "gp:id":55926457,
+        "qs:id":124034
+    },
+    "wof:country":"OM",
+    "wof:created":1469051850,
+    "wof:geomhash":"095df52ebe6470925894c9c3b124c396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":890430387,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":890430387,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Dib Dibba",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.25778,
+    26.19778,
+    56.25778,
+    26.19778
+],
+  "geometry": {"coordinates":[56.25778,26.19778],"type":"Point"}
+}

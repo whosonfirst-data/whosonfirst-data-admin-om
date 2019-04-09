@@ -1,0 +1,70 @@
+{
+  "id": 1259507377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.12723,22.78921,59.12723,22.78921",
+    "geom:latitude":22.78921,
+    "geom:longitude":59.12723,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ghamd",
+    "gn:country_code":"OM",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412274,
+    "gn:latitude":22.78921,
+    "gn:longitude":59.12723,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Gham\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gham\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412274
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a6b6568d31ed7b6f787b772ab0f77257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1259507377,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1259507377,
+    "wof:lastmodified":1537676290,
+    "wof:name":"Ghamd",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.12723,
+    22.78921,
+    59.12723,
+    22.78921
+],
+  "geometry": {"coordinates":[59.12723,22.78921],"type":"Point"}
+}

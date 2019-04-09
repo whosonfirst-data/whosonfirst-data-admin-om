@@ -1,0 +1,71 @@
+{
+  "id": 1276571329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.7,18.35,54.7,18.35",
+    "geom:latitude":18.35,
+    "geom:longitude":54.7,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Malqamah",
+    "gn:country_code":"OM",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289170,
+    "gn:latitude":18.35,
+    "gn:longitude":54.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Malqamah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Malqama",
+        "Al Malqamah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        1108721081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289170
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cdca3f8de6db9f7ff243d7d9cfe0d3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721081,
+            "locality_id":1276571329,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276571329,
+    "wof:lastmodified":1537676238,
+    "wof:name":"Al Malqamah",
+    "wof:parent_id":1108721081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.7,
+    18.35,
+    54.7,
+    18.35
+],
+  "geometry": {"coordinates":[54.7,18.35],"type":"Point"}
+}

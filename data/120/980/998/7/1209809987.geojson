@@ -1,0 +1,75 @@
+{
+  "id": 1209809987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.46042,23.22247,56.46042,23.22247",
+    "geom:latitude":23.22247,
+    "geom:longitude":56.46042,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Akhdar",
+    "gn:country_code":"OM",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289373,
+    "gn:latitude":23.22247,
+    "gn:longitude":56.46042,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Akh\u1e11ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u062e\u0636\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Akh\u1e11ar",
+        "Al Akh\u1e0dar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289373,
+        "wk:page":"Al_Akhdar"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"594cfe34dc3a702ae7c574553cb945e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1209809987,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1209809987,
+    "wof:lastmodified":1537676248,
+    "wof:name":"Al Akhdar",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.46041999999999,
+    23.22247,
+    56.46041999999999,
+    23.22247
+],
+  "geometry": {"coordinates":[56.46041999999999,23.22247],"type":"Point"}
+}

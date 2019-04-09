@@ -1,0 +1,72 @@
+{
+  "id": 1226336821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.31361,26.12444,56.31361,26.12444",
+    "geom:latitude":26.12444,
+    "geom:longitude":56.31361,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sahb an Nun",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390419,
+    "gn:latitude":26.12444,
+    "gn:longitude":56.31361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sahb an N\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahb al N\u016bn",
+        "Sahb an N\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390419
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f0a0413b9ba81422b65f2ef1436fd283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1226336821,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1226336821,
+    "wof:lastmodified":1537676263,
+    "wof:name":"Sahb an Nun",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.31361,
+    26.12444,
+    56.31361,
+    26.12444
+],
+  "geometry": {"coordinates":[56.31361,26.12444],"type":"Point"}
+}

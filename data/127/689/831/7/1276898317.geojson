@@ -1,0 +1,72 @@
+{
+  "id": 1276898317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.78954,20.47039,58.78954,20.47039",
+    "geom:latitude":20.47039,
+    "geom:longitude":58.78954,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Umm Rusays",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286061,
+    "gn:latitude":20.47039,
+    "gn:longitude":58.78954,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Umm Ru\u015fay\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm ar Ra\u015f\u0101\u015f",
+        "Umm Ra\u015f\u0101\u015f",
+        "Umm Ru\u015fay\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286061
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f4974670a92d85b07e0d99b755721331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175631,
+            "locality_id":1276898317,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1276898317,
+    "wof:lastmodified":1537676153,
+    "wof:name":"Umm Rusays",
+    "wof:parent_id":421175631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.78954,
+    20.47039,
+    58.78954,
+    20.47039
+],
+  "geometry": {"coordinates":[58.78954,20.47039],"type":"Point"}
+}

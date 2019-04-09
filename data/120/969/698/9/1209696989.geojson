@@ -1,0 +1,73 @@
+{
+  "id": 1209696989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.60743,24.42509,56.60743,24.42509",
+    "geom:latitude":24.42509,
+    "geom:longitude":56.60743,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Falaj al Qaba'il",
+    "gn:country_code":"OM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288427,
+    "gn:latitude":24.42509,
+    "gn:longitude":56.60743,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Falaj al Qab\u0101\u2019il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u062c \u0627\u0644\u0642\u0628\u0627\u0626\u0644"
+    ],
+    "name:und_x_variant":[
+        "Falaj al Qab\u0101\u2019il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288427
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d39fbd892b7e915acc7d13d78f069699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1209696989,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1209696989,
+    "wof:lastmodified":1537676217,
+    "wof:name":"Falaj al Qaba'il",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.60743000000001,
+    24.42509,
+    56.60743000000001,
+    24.42509
+],
+  "geometry": {"coordinates":[56.60743000000001,24.42509],"type":"Point"}
+}

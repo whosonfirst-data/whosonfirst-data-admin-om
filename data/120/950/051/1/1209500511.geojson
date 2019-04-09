@@ -1,0 +1,68 @@
+{
+  "id": 1209500511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.63276,17.85959,52.63276,17.85959",
+    "geom:latitude":17.85959,
+    "geom:longitude":52.63276,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zaynah",
+    "gn:country_code":"OM",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549597,
+    "gn:latitude":17.85959,
+    "gn:longitude":52.63276,
+    "gn:modification_date":"2017-04-08",
+    "gn:name":"Zaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549597
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0e9f7ff80a5ee0fe834dba8647e35d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1209500511,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209500511,
+    "wof:lastmodified":1548974429,
+    "wof:name":"Zaynah",
+    "wof:parent_id":85675695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.63276,
+    17.85959,
+    52.63276,
+    17.85959
+],
+  "geometry": {"coordinates":[52.63276,17.85959],"type":"Point"}
+}

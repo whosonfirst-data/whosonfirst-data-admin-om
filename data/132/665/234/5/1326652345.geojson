@@ -1,0 +1,80 @@
+{
+  "id": 1326652345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.5174,23.38131,58.5174,23.38131",
+    "geom:latitude":23.38131,
+    "geom:longitude":58.5174,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Hajir",
+    "gn:country_code":"OM",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288163,
+    "gn:latitude":23.38131,
+    "gn:longitude":58.5174,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al \u1e28\u0101jir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101jir"
+    ],
+    "name:ara_x_variant":[
+        "Al \u1e28\u0101jir",
+        "\u0627\u0644\u062d\u0627\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ajr",
+        "Al \u1e28\u0101jar",
+        "Al Hajir",
+        "Al \u1e24ajir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288163
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c1208467dd2626324714c4e8e1c69f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1326652345,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1326652345,
+    "wof:lastmodified":1537676208,
+    "wof:name":"Al Hajir",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.5174,
+    23.38131,
+    58.5174,
+    23.38131
+],
+  "geometry": {"coordinates":[58.5174,23.38131],"type":"Point"}
+}

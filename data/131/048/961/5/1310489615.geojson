@@ -1,0 +1,73 @@
+{
+  "id": 1310489615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.50456,24.65167,56.50456,24.65167",
+    "geom:latitude":24.65167,
+    "geom:longitude":56.50456,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sur al `Abri",
+    "gn:country_code":"OM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286244,
+    "gn:latitude":24.65167,
+    "gn:longitude":56.50456,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"S\u016br al \u2018Abr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0631 \u0627\u0644\u0639\u0628\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "S\u016br al \u2018Abr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421183959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286244
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"abc7d20908d7ced98a2c294de10be55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421183959,
+            "locality_id":1310489615,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1310489615,
+    "wof:lastmodified":1537676159,
+    "wof:name":"Sur al `Abri",
+    "wof:parent_id":421183959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.50456,
+    24.65167000000001,
+    56.50456,
+    24.65167000000001
+],
+  "geometry": {"coordinates":[56.50456,24.65167000000001],"type":"Point"}
+}

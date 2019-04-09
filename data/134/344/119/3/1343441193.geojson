@@ -1,0 +1,67 @@
+{
+  "id": 1343441193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.64121,21.6974,58.64121,21.6974",
+    "geom:latitude":21.6974,
+    "geom:longitude":58.64121,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Umm Adailan",
+    "gn:country_code":"OM",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286079,
+    "gn:latitude":21.6974,
+    "gn:longitude":58.64121,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Umm Adailan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286079
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"da37cdabaad75d8a3515fc7ae1472ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1343441193,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1343441193,
+    "wof:lastmodified":1536774742,
+    "wof:name":"Umm Adailan",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.64121,
+    21.6974,
+    58.64121,
+    21.6974
+],
+  "geometry": {"coordinates":[58.64121,21.6974],"type":"Point"}
+}

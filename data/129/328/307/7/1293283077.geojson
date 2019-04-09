@@ -1,0 +1,73 @@
+{
+  "id": 1293283077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.43149,16.84158,53.43149,16.84158",
+    "geom:latitude":16.84158,
+    "geom:longitude":53.43149,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sayfayr",
+    "gn:country_code":"OM",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7792312,
+    "gn:latitude":16.84158,
+    "gn:longitude":53.43149,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Sayfayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0641\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Seefeer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792312
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cba04cbfc03cf8ececc1f94c2caa2ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1293283077,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1293283077,
+    "wof:lastmodified":1537676305,
+    "wof:name":"Sayfayr",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.43149,
+    16.84158,
+    53.43149,
+    16.84158
+],
+  "geometry": {"coordinates":[53.43149,16.84158],"type":"Point"}
+}

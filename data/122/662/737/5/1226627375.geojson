@@ -1,0 +1,61 @@
+{
+  "id": 1226627375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.88333,24.2,56.88333,24.2",
+    "geom:latitude":24.2,
+    "geom:longitude":56.88333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Muqaz",
+    "gn:country_code":"OM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287119,
+    "gn:latitude":24.2,
+    "gn:longitude":56.88333,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Muqaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287119
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"65154cf228e334e911471ce57ac3c80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226627375,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226627375,
+    "wof:lastmodified":1536885499,
+    "wof:name":"Muqaz",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.88333000000001,
+    24.2,
+    56.88333000000001,
+    24.2
+],
+  "geometry": {"coordinates":[56.88333000000001,24.2],"type":"Point"}
+}

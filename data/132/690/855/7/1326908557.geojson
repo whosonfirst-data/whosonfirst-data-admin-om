@@ -1,0 +1,75 @@
+{
+  "id": 1326908557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.40387,24.86801,56.40387,24.86801",
+    "geom:latitude":24.86801,
+    "geom:longitude":56.40387,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Abu Baqarah",
+    "gn:country_code":"OM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288661,
+    "gn:latitude":24.86801,
+    "gn:longitude":56.40387,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ab\u016b Baqarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0628\u0642\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u016b Baqarah",
+        "Ab\u016b Baqarah",
+        "Ab\u016b Baqrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421183959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288661
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1ea341b06a7b4de80ff3c75677c90087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421183959,
+            "locality_id":1326908557,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1326908557,
+    "wof:lastmodified":1537676224,
+    "wof:name":"Abu Baqarah",
+    "wof:parent_id":421183959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.40387,
+    24.86801,
+    56.40387,
+    24.86801
+],
+  "geometry": {"coordinates":[56.40387,24.86801],"type":"Point"}
+}

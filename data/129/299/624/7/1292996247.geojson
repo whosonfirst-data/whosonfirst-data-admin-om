@@ -1,0 +1,76 @@
+{
+  "id": 1292996247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.26634,17.20528,54.26634,17.20528",
+    "geom:latitude":17.20528,
+    "geom:longitude":54.26634,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"A` Srut",
+    "gn:country_code":"OM",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558869,
+    "gn:latitude":17.20528,
+    "gn:longitude":54.26634,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"A\u2018 \u015er\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u2018 \u015er\u016bt"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0639\u0635\u064a\u0631\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "A\u2018a\u015fayr\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558869
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"28289bc904a2bcedfc833644ba94eb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1292996247,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1292996247,
+    "wof:lastmodified":1537676319,
+    "wof:name":"A` Srut",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.26634,
+    17.20528,
+    54.26634,
+    17.20528
+],
+  "geometry": {"coordinates":[54.26634,17.20528],"type":"Point"}
+}

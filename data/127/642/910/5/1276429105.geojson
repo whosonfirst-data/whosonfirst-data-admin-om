@@ -1,0 +1,78 @@
+{
+  "id": 1276429105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.38816,24.92999,56.38816,24.92999",
+    "geom:latitude":24.92999,
+    "geom:longitude":56.38816,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Murayr al Matarish",
+    "gn:country_code":"OM",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289149,
+    "gn:latitude":24.92999,
+    "gn:longitude":56.38816,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Murayr al Ma\u0163\u0101r\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u064a\u0631 \u0627\u0644\u0645\u0637\u0627\u0631\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Murair",
+        "Al Murair",
+        "Murayr",
+        "Al Murayr",
+        "Murayr al Ma\u0163\u0101r\u012bsh",
+        "Murayr al Ma\u1e6d\u0101r\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421183959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289149
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"18732055af6ff0b8bf182c731c6e3e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421183959,
+            "locality_id":1276429105,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276429105,
+    "wof:lastmodified":1537676236,
+    "wof:name":"Murayr al Matarish",
+    "wof:parent_id":421183959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.38816,
+    24.92999,
+    56.38816,
+    24.92999
+],
+  "geometry": {"coordinates":[56.38816,24.92999],"type":"Point"}
+}

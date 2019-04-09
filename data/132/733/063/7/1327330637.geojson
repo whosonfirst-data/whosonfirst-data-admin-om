@@ -1,0 +1,79 @@
+{
+  "id": 1327330637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.42419,25.94205,56.42419,25.94205",
+    "geom:latitude":25.94205,
+    "geom:longitude":56.42419,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Ima",
+    "gn:country_code":"OM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287480,
+    "gn:latitude":25.94205,
+    "gn:longitude":56.42419,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Ima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "L\u012bm\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0644\u064a\u0645\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al L\u012bmah",
+        "L\u012bmah",
+        "Al Ima",
+        "L\u012bm\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287480
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"726e40c49cebfb52fb96806896180c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1327330637,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1327330637,
+    "wof:lastmodified":1537676190,
+    "wof:name":"Al Ima",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.42419,
+    25.94205,
+    56.42419,
+    25.94205
+],
+  "geometry": {"coordinates":[56.42419,25.94205],"type":"Point"}
+}

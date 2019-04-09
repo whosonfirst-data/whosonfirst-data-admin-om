@@ -1,0 +1,76 @@
+{
+  "id": 1226356815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.33411,23.22356,57.33411,23.22356",
+    "geom:latitude":23.22356,
+    "geom:longitude":57.33411,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Mabu'",
+    "gn:country_code":"OM",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289161,
+    "gn:latitude":23.22356,
+    "gn:longitude":57.33411,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Mab\u016b\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al M\u012bb\u016b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0628\u0648\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Mab\u016b\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289161
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ea5152a55ca31e007d87961ca32062b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1226356815,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1226356815,
+    "wof:lastmodified":1537676238,
+    "wof:name":"Al Mabu'",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.33411,
+    23.22356,
+    57.33411,
+    23.22356
+],
+  "geometry": {"coordinates":[57.33411,23.22356],"type":"Point"}
+}

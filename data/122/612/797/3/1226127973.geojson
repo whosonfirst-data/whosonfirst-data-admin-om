@@ -1,0 +1,74 @@
+{
+  "id": 1226127973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.04539,17.44563,54.04539,17.44563",
+    "geom:latitude":17.44563,
+    "geom:longitude":54.04539,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rawyah",
+    "gn:country_code":"OM",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558777,
+    "gn:latitude":17.44563,
+    "gn:longitude":54.04539,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Rawyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Raw\u012byah",
+        "Rawyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421184227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558777
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fb51e9a407f8d6af000e761642bc7610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184227,
+            "locality_id":1226127973,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226127973,
+    "wof:lastmodified":1537676316,
+    "wof:name":"Rawyah",
+    "wof:parent_id":421184227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.04539000000001,
+    17.44563,
+    54.04539000000001,
+    17.44563
+],
+  "geometry": {"coordinates":[54.04539000000001,17.44563],"type":"Point"}
+}

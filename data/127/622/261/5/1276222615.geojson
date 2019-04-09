@@ -1,0 +1,77 @@
+{
+  "id": 1276222615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.37112,16.83359,53.37112,16.83359",
+    "geom:latitude":16.83359,
+    "geom:longitude":53.37112,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ardit",
+    "gn:country_code":"OM",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556097,
+    "gn:latitude":16.83359,
+    "gn:longitude":53.37112,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ard\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u062f\u064a\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0631\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ard\u012bt",
+        "Jar\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556097
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c1b2d83688402e4951f3a57579223ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1276222615,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276222615,
+    "wof:lastmodified":1537676325,
+    "wof:name":"Ardit",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.37112,
+    16.83359,
+    53.37112,
+    16.83359
+],
+  "geometry": {"coordinates":[53.37112,16.83359],"type":"Point"}
+}

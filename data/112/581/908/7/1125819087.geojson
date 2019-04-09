@@ -1,0 +1,81 @@
+{
+  "id": 1125819087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.88908,23.70739,57.88908,23.70739",
+    "geom:latitude":23.70739,
+    "geom:longitude":57.88908,
+    "gn:gn_country":"OM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":81647,
+    "gn:population":81647,
+    "iso:country":"OM",
+    "lbl:latitude":23.70739,
+    "lbl:longitude":57.88908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Barkah"
+    ],
+    "qs_pg:aaroncc":"OM",
+    "qs_pg:gn_country":"OM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":288789,
+    "qs_pg:gn_pop":81647,
+    "qs_pg:name":"Bark\u0101\u2019",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":124042,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        890441841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288789,
+        "qs_pg:id":124042
+    },
+    "wof:country":"OM",
+    "wof:created":1497291971,
+    "wof:geomhash":"441ad8087055c15e3e87cd43dac8ab05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":890441841,
+            "locality_id":1125819087,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1125819087,
+    "wof:lastmodified":1509393979,
+    "wof:name":"Bark\u0101\u2019",
+    "wof:parent_id":890441841,
+    "wof:placetype":"locality",
+    "wof:population":81647,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.88908,
+    23.70739,
+    57.88908,
+    23.70739
+],
+  "geometry": {"coordinates":[57.88908,23.70739],"type":"Point"}
+}

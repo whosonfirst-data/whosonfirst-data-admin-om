@@ -1,0 +1,70 @@
+{
+  "id": 1310613807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.66538,23.45626,57.66538,23.45626",
+    "geom:latitude":23.45626,
+    "geom:longitude":57.66538,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hajar",
+    "gn:country_code":"OM",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412074,
+    "gn:latitude":23.45626,
+    "gn:longitude":57.66538,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        1108721091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412074
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f602da280e774325ae09aa9cc9cffc98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721091,
+            "locality_id":1310613807,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1310613807,
+    "wof:lastmodified":1537676280,
+    "wof:name":"Hajar",
+    "wof:parent_id":1108721091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.66538000000001,
+    23.45626,
+    57.66538000000001,
+    23.45626
+],
+  "geometry": {"coordinates":[57.66538000000001,23.45626],"type":"Point"}
+}

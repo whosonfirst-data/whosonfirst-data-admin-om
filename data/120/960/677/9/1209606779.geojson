@@ -1,0 +1,70 @@
+{
+  "id": 1209606779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.33778,26.08556,56.33778,26.08556",
+    "geom:latitude":26.08556,
+    "geom:longitude":56.33778,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rubat",
+    "gn:country_code":"OM",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390400,
+    "gn:latitude":26.08556,
+    "gn:longitude":56.33778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rub\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Rub\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390400
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"82ed485f2168bbb2ff5e72389dc665f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1209606779,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209606779,
+    "wof:lastmodified":1548974434,
+    "wof:name":"Rubat",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.33778,
+    26.08556,
+    56.33778,
+    26.08556
+],
+  "geometry": {"coordinates":[56.33778,26.08556],"type":"Point"}
+}

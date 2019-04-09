@@ -1,0 +1,68 @@
+{
+  "id": 1293380725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.1,17.13333,54.1,17.13333",
+    "geom:latitude":17.13333,
+    "geom:longitude":54.1,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rahn",
+    "gn:country_code":"OM",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286800,
+    "gn:latitude":17.13333,
+    "gn:longitude":54.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rahn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286800,
+        "wk:page":"Rahn%2C_Oman"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b9e1a877aa9be8ad9b7c71f4fd5a3d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1293380725,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1293380725,
+    "wof:lastmodified":1537570177,
+    "wof:name":"Rahn",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.1,
+    17.13332999999999,
+    54.1,
+    17.13332999999999
+],
+  "geometry": {"coordinates":[54.1,17.13332999999999],"type":"Point"}
+}

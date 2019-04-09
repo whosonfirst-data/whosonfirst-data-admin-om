@@ -1,0 +1,70 @@
+{
+  "id": 1343342761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.83167,24.22222,56.83167,24.22222",
+    "geom:latitude":24.22222,
+    "geom:longitude":56.83167,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Khaza'in",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412897,
+    "gn:latitude":24.22222,
+    "gn:longitude":56.83167,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Al Khaz\u0101\u2019in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Khaz\u0101\u2019in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412897
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"97c4491b43d277437d680511cfcaceac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1343342761,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1343342761,
+    "wof:lastmodified":1537676295,
+    "wof:name":"Al Khaza'in",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.83167,
+    24.22222,
+    56.83167,
+    24.22222
+],
+  "geometry": {"coordinates":[56.83167,24.22222],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293214637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.29977,23.25682,57.29977,23.25682",
+    "geom:latitude":23.25682,
+    "geom:longitude":57.29977,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hayl Awlad Badr",
+    "gn:country_code":"OM",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289260,
+    "gn:latitude":23.25682,
+    "gn:longitude":57.29977,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"\u1e28ayl Awl\u0101d Badr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0644 \u0623\u0648\u0644\u0627\u062f \u0628\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ayl",
+        "\u1e28ayl Awl\u0101d Badr",
+        "\u1e24ayl Awl\u0101d Badir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289260
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"641792345da1071f6b4e9c34ac2216b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1293214637,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1293214637,
+    "wof:lastmodified":1537676243,
+    "wof:name":"Hayl Awlad Badr",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.29977,
+    23.25682,
+    57.29977,
+    23.25682
+],
+  "geometry": {"coordinates":[57.29977,23.25682],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293134095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.52187,22.54984,59.52187,22.54984",
+    "geom:latitude":22.54984,
+    "geom:longitude":59.52187,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nismah",
+    "gn:country_code":"OM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512066,
+    "gn:latitude":22.54984,
+    "gn:longitude":59.52187,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Nismah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0633\u0645\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512066
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4ce7263195e2c3fa10c24f82317f1211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1293134095,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293134095,
+    "wof:lastmodified":1537676309,
+    "wof:name":"Nismah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.52186999999999,
+    22.54984,
+    59.52186999999999,
+    22.54984
+],
+  "geometry": {"coordinates":[59.52186999999999,22.54984],"type":"Point"}
+}

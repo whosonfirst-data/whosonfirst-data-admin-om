@@ -1,0 +1,77 @@
+{
+  "id": 1276231099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.74139,23.15694,57.74139,23.15694",
+    "geom:latitude":23.15694,
+    "geom:longitude":57.74139,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Hijar",
+    "gn:country_code":"OM",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287987,
+    "gn:latitude":23.15694,
+    "gn:longitude":57.74139,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Hij\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28ij\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0647\u062c\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayjar",
+        "Al Hij\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        1108721091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287987
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"23c7b69c2bef17ae9573140b178bd4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721091,
+            "locality_id":1276231099,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1276231099,
+    "wof:lastmodified":1537676203,
+    "wof:name":"Al Hijar",
+    "wof:parent_id":1108721091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.74139,
+    23.15694,
+    57.74139,
+    23.15694
+],
+  "geometry": {"coordinates":[57.74139,23.15694],"type":"Point"}
+}

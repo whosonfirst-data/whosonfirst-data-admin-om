@@ -1,0 +1,70 @@
+{
+  "id": 1327044345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.91517,23.13642,56.91517,23.13642",
+    "geom:latitude":23.13642,
+    "geom:longitude":56.91517,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Mays",
+    "gn:country_code":"OM",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289163,
+    "gn:latitude":23.13642,
+    "gn:longitude":56.91517,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Mays",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289163
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"204e9467fa8bab2a68c54f99b10d08b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1327044345,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1327044345,
+    "wof:lastmodified":1537676238,
+    "wof:name":"Al Mays",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.91517,
+    23.13642,
+    56.91517,
+    23.13642
+],
+  "geometry": {"coordinates":[56.91517,23.13642],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226460343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.86661,23.1807,57.86661,23.1807",
+    "geom:latitude":23.1807,
+    "geom:longitude":57.86661,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Manal",
+    "gn:country_code":"OM",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286011,
+    "gn:latitude":23.1807,
+    "gn:longitude":57.86661,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Man\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Wab\u0101l",
+        "Man\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286011
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c573b674d590d757df8bb821a2668dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1226460343,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1226460343,
+    "wof:lastmodified":1537676152,
+    "wof:name":"Manal",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.86661,
+    23.1807,
+    57.86661,
+    23.1807
+],
+  "geometry": {"coordinates":[57.86661,23.1807],"type":"Point"}
+}

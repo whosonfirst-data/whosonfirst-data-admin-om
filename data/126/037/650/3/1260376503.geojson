@@ -1,0 +1,67 @@
+{
+  "id": 1260376503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.38333,17.13667,54.38333,17.13667",
+    "geom:latitude":17.13667,
+    "geom:longitude":54.38333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Adhjoord",
+    "gn:country_code":"OM",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415343,
+    "gn:latitude":17.13667,
+    "gn:longitude":54.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Adhjoord",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415343
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e2a1c6578c7b426e1807b39a9939017a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1260376503,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1260376503,
+    "wof:lastmodified":1537081194,
+    "wof:name":"Adhjoord",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.38333000000001,
+    17.13667,
+    54.38333000000001,
+    17.13667
+],
+  "geometry": {"coordinates":[54.38333000000001,17.13667],"type":"Point"}
+}

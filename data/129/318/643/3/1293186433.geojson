@@ -1,0 +1,73 @@
+{
+  "id": 1293186433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.21599,16.70624,53.21599,16.70624",
+    "geom:latitude":16.70624,
+    "geom:longitude":53.21599,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ma`fad",
+    "gn:country_code":"OM",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556132,
+    "gn:latitude":16.70624,
+    "gn:longitude":53.21599,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ma\u2018f\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0641\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018f\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556132
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d8ba8f16928da40ad10763d3f741ec2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189277,
+            "locality_id":1293186433,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1293186433,
+    "wof:lastmodified":1537676328,
+    "wof:name":"Ma`fad",
+    "wof:parent_id":421189277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.21599000000001,
+    16.70624,
+    53.21599000000001,
+    16.70624
+],
+  "geometry": {"coordinates":[53.21599000000001,16.70624],"type":"Point"}
+}

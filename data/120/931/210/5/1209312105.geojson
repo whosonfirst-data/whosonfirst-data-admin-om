@@ -1,0 +1,67 @@
+{
+  "id": 1209312105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.59021,23.20496,58.59021,23.20496",
+    "geom:latitude":23.20496,
+    "geom:longitude":58.59021,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Theb",
+    "gn:country_code":"OM",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411232,
+    "gn:latitude":23.20496,
+    "gn:longitude":58.59021,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Theb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411232
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"04006a7fd773c992cdc8328deec2307f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1209312105,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1209312105,
+    "wof:lastmodified":1548974423,
+    "wof:name":"Theb",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.59021,
+    23.20496,
+    58.59021,
+    23.20496
+],
+  "geometry": {"coordinates":[58.59021,23.20496],"type":"Point"}
+}

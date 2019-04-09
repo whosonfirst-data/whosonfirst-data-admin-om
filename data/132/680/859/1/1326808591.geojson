@@ -1,0 +1,76 @@
+{
+  "id": 1326808591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.90346,23.72106,56.90346,23.72106",
+    "geom:latitude":23.72106,
+    "geom:longitude":56.90346,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Buday`ah",
+    "gn:country_code":"OM",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288656,
+    "gn:latitude":23.72106,
+    "gn:longitude":56.90346,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Buday\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u0101diyah",
+        "Buday\u2018ah",
+        "Al Buday\u2018ah",
+        "Al Biday\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288656
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cd3929b052ebd51f86e35d14eecdf6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1326808591,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1326808591,
+    "wof:lastmodified":1537676223,
+    "wof:name":"Al Buday`ah",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.90346,
+    23.72106,
+    56.90346,
+    23.72106
+],
+  "geometry": {"coordinates":[56.90346,23.72106],"type":"Point"}
+}

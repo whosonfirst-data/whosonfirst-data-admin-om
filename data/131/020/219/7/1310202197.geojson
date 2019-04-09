@@ -1,0 +1,70 @@
+{
+  "id": 1310202197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.47007,17.16919,54.47007,17.16919",
+    "geom:latitude":17.16919,
+    "geom:longitude":54.47007,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Wadi Thahak",
+    "gn:country_code":"OM",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558655,
+    "gn:latitude":17.16919,
+    "gn:longitude":54.47007,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"W\u0101d\u012b Th\u0101h\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101d\u012b Th\u0101h\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558655
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e72dffb614dba31dd02394b188a030df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1310202197,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1310202197,
+    "wof:lastmodified":1537676310,
+    "wof:name":"Wadi Thahak",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.47006999999999,
+    17.16919,
+    54.47006999999999,
+    17.16919
+],
+  "geometry": {"coordinates":[54.47006999999999,17.16919],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326624815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.37218,26.19925,56.37218,26.19925",
+    "geom:latitude":26.19925,
+    "geom:longitude":56.37218,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Maqaqah",
+    "gn:country_code":"OM",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390486,
+    "gn:latitude":26.19925,
+    "gn:longitude":56.37218,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maq\u0101qah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maq\u0101qah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390486
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"65fb83bf382fd742db2ebf3e0c023e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1326624815,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1326624815,
+    "wof:lastmodified":1537676264,
+    "wof:name":"Maqaqah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.37218000000001,
+    26.19925,
+    56.37218000000001,
+    26.19925
+],
+  "geometry": {"coordinates":[56.37218000000001,26.19925],"type":"Point"}
+}

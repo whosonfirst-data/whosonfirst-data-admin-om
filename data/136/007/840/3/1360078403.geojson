@@ -1,0 +1,73 @@
+{
+  "id": 1360078403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.41543,17.21044,54.41543,17.21044",
+    "geom:latitude":17.21044,
+    "geom:longitude":54.41543,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hawz",
+    "gn:country_code":"OM",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558690,
+    "gn:latitude":17.21044,
+    "gn:longitude":54.41543,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u1e28awz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u1e28awz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558690
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fc741586d16c48bef2a3df1630a3f656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1360078403,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1360078403,
+    "wof:lastmodified":1537676312,
+    "wof:name":"Hawz",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.41543000000001,
+    17.21044,
+    54.41543000000001,
+    17.21044
+],
+  "geometry": {"coordinates":[54.41543000000001,17.21044],"type":"Point"}
+}

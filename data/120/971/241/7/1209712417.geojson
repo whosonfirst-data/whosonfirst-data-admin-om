@@ -1,0 +1,70 @@
+{
+  "id": 1209712417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.32917,26.045,56.32917,26.045",
+    "geom:latitude":26.045,
+    "geom:longitude":56.32917,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wab al Sebil",
+    "gn:country_code":"OM",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390356,
+    "gn:latitude":26.045,
+    "gn:longitude":56.32917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wab al Seb\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wab al Seb\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390356
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d6069b3157b3fcbd25e5154abbeaedf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1209712417,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209712417,
+    "wof:lastmodified":1537676262,
+    "wof:name":"Wab al Sebil",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.32917,
+    26.045,
+    56.32917,
+    26.045
+],
+  "geometry": {"coordinates":[56.32917,26.045],"type":"Point"}
+}

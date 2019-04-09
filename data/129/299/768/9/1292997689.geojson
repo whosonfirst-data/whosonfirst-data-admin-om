@@ -1,0 +1,77 @@
+{
+  "id": 1292997689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.28453,26.1957,56.28453,26.1957",
+    "geom:latitude":26.1957,
+    "geom:longitude":56.28453,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hamsi",
+    "gn:country_code":"OM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287860,
+    "gn:latitude":26.1957,
+    "gn:longitude":56.28453,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Hamsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28um\u015f\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0645\u0635\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28im\u015f\u012b",
+        "\u1e24im\u1e63\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287860
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6bed66f01fe793aee2aaa5f7d8b6d85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1292997689,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1292997689,
+    "wof:lastmodified":1537676198,
+    "wof:name":"Hamsi",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.28453,
+    26.1957,
+    56.28453,
+    26.1957
+],
+  "geometry": {"coordinates":[56.28453,26.1957],"type":"Point"}
+}

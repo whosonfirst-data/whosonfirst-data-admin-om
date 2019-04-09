@@ -1,0 +1,75 @@
+{
+  "id": 1309828427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.33807,16.755,53.33807,16.755",
+    "geom:latitude":16.755,
+    "geom:longitude":53.33807,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ambaruf",
+    "gn:country_code":"OM",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7792126,
+    "gn:latitude":16.755,
+    "gn:longitude":53.33807,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ambar\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u0628\u0631\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Umbarawf",
+        "Ambar\u016bf",
+        "Ambr\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792126
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"8e2bd0e35b07a1ef4511cafcc74015df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1309828427,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1309828427,
+    "wof:lastmodified":1537676305,
+    "wof:name":"Ambaruf",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.33807,
+    16.755,
+    53.33807,
+    16.755
+],
+  "geometry": {"coordinates":[53.33807,16.755],"type":"Point"}
+}

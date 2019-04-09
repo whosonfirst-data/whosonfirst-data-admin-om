@@ -1,0 +1,75 @@
+{
+  "id": 1343546641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.07398,17.8679,53.07398,17.8679",
+    "geom:latitude":17.8679,
+    "geom:longitude":53.07398,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qafa`",
+    "gn:country_code":"OM",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286949,
+    "gn:latitude":17.8679,
+    "gn:longitude":53.07398,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Qafa\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0641\u0639"
+    ],
+    "name:und_x_variant":[
+        "Qaf\u0101",
+        "Qafa\u2019",
+        "Qafa\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421184227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286949
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b5a1ed25a4ce8406b42ee0a27d04f310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184227,
+            "locality_id":1343546641,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343546641,
+    "wof:lastmodified":1537676176,
+    "wof:name":"Qafa`",
+    "wof:parent_id":421184227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.07398000000001,
+    17.8679,
+    53.07398000000001,
+    17.8679
+],
+  "geometry": {"coordinates":[53.07398000000001,17.8679],"type":"Point"}
+}

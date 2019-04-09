@@ -1,0 +1,74 @@
+{
+  "id": 1343683897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.40138,23.53953,58.40138,23.53953",
+    "geom:latitude":23.53953,
+    "geom:longitude":58.40138,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Aflaj",
+    "gn:country_code":"OM",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288435,
+    "gn:latitude":23.53953,
+    "gn:longitude":58.40138,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Aflaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0641\u0644\u062c"
+    ],
+    "name:und_x_variant":[
+        "Falaj",
+        "Aflaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288435
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e20c584825fa123a1208df13a91923d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200935,
+            "locality_id":1343683897,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1343683897,
+    "wof:lastmodified":1537676217,
+    "wof:name":"Aflaj",
+    "wof:parent_id":421200935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.40138,
+    23.53953,
+    58.40138,
+    23.53953
+],
+  "geometry": {"coordinates":[58.40138,23.53953],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310597925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.20161,26.15841,56.20161,26.15841",
+    "geom:latitude":26.15841,
+    "geom:longitude":56.20161,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ad Dabrayn",
+    "gn:country_code":"OM",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388523,
+    "gn:latitude":26.15841,
+    "gn:longitude":56.20161,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ad Dabrayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0651\u0628\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dabar\u0101n",
+        "Dabarayn",
+        "Ad Dabrayn",
+        "Ad Dabar\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388523
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"07844b510b60363cd35a770260d9b241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1310597925,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1310597925,
+    "wof:lastmodified":1537676253,
+    "wof:name":"Ad Dabrayn",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.20161,
+    26.15841,
+    56.20161,
+    26.15841
+],
+  "geometry": {"coordinates":[56.20161,26.15841],"type":"Point"}
+}

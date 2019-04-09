@@ -1,0 +1,70 @@
+{
+  "id": 1226443137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.76943,20.43215,58.76943,20.43215",
+    "geom:latitude":20.43215,
+    "geom:longitude":58.76943,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Safaij",
+    "gn:country_code":"OM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286664,
+    "gn:latitude":20.43215,
+    "gn:longitude":58.76943,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Safaij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eaf\u0101\u2019iq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286664
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f66d25e39e04fe59398b1125fe697aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175631,
+            "locality_id":1226443137,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1226443137,
+    "wof:lastmodified":1537676169,
+    "wof:name":"Safaij",
+    "wof:parent_id":421175631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.76943000000001,
+    20.43215,
+    58.76943000000001,
+    20.43215
+],
+  "geometry": {"coordinates":[58.76943000000001,20.43215],"type":"Point"}
+}

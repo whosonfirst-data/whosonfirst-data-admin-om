@@ -1,0 +1,67 @@
+{
+  "id": 1310012125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.32815,22.40939,59.32815,22.40939",
+    "geom:latitude":22.40939,
+    "geom:longitude":59.32815,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"At Tawayb",
+    "gn:country_code":"OM",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412237,
+    "gn:latitude":22.40939,
+    "gn:longitude":59.32815,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At Tawayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412237
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"530932921ad0fb08fc1b2d3adc384456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721063,
+            "locality_id":1310012125,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1310012125,
+    "wof:lastmodified":1536632236,
+    "wof:name":"At Tawayb",
+    "wof:parent_id":1108721063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.32815,
+    22.40939,
+    59.32815,
+    22.40939
+],
+  "geometry": {"coordinates":[59.32815,22.40939],"type":"Point"}
+}

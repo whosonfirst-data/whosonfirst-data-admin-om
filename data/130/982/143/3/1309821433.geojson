@@ -1,0 +1,75 @@
+{
+  "id": 1309821433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.5851,22.98575,57.5851,22.98575",
+    "geom:latitude":22.98575,
+    "geom:longitude":57.5851,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ar Rahbah",
+    "gn:country_code":"OM",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286791,
+    "gn:latitude":22.98575,
+    "gn:longitude":57.5851,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ar Ra\u1e29bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0651\u062d\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rakhbah",
+        "Ar Ra\u1e29bah",
+        "Ar Ra\u1e25bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286791
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b6aefa6c72f946db9c00d8e876414aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1309821433,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1309821433,
+    "wof:lastmodified":1537676173,
+    "wof:name":"Ar Rahbah",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.5851,
+    22.98575,
+    57.5851,
+    22.98575
+],
+  "geometry": {"coordinates":[57.5851,22.98575],"type":"Point"}
+}

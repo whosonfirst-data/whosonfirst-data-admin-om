@@ -1,0 +1,75 @@
+{
+  "id": 1209335837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.22137,25.72463,56.22137,25.72463",
+    "geom:latitude":25.72463,
+    "geom:longitude":56.22137,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sall Malik",
+    "gn:country_code":"OM",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390026,
+    "gn:latitude":25.72463,
+    "gn:longitude":56.22137,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sall M\u0101lik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644 \u0645\u0627\u0644\u0643"
+    ],
+    "name:und_x_variant":[
+        "Sal Melik",
+        "Sall M\u0101lik",
+        "Sal M\u0101lik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390026
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1702c2c6dd61d121c263ae9467e39232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1209335837,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209335837,
+    "wof:lastmodified":1548974411,
+    "wof:name":"Sall Malik",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.22136999999999,
+    25.72463,
+    56.22136999999999,
+    25.72463
+],
+  "geometry": {"coordinates":[56.22136999999999,25.72463],"type":"Point"}
+}

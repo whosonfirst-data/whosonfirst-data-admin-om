@@ -1,0 +1,75 @@
+{
+  "id": 1259893667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.22616,23.012,58.22616,23.012",
+    "geom:latitude":23.012,
+    "geom:longitude":58.22616,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muqayhifah",
+    "gn:country_code":"OM",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411994,
+    "gn:latitude":23.012,
+    "gn:longitude":58.22616,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Muqay\u1e29ifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u064a\u062d\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Muqay\u1e29fah",
+        "Muqay\u1e29ifah",
+        "Miqay\u1e25fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411994
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b75138efd6dbd2f75b984d683a9f294f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1259893667,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1259893667,
+    "wof:lastmodified":1537676280,
+    "wof:name":"Muqayhifah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.22616,
+    23.012,
+    58.22616,
+    23.012
+],
+  "geometry": {"coordinates":[58.22616,23.012],"type":"Point"}
+}

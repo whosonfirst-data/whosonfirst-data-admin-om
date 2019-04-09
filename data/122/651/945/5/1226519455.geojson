@@ -1,0 +1,70 @@
+{
+  "id": 1226519455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.17262,22.71557,58.17262,22.71557",
+    "geom:latitude":22.71557,
+    "geom:longitude":58.17262,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Lizq",
+    "gn:country_code":"OM",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287473,
+    "gn:latitude":22.71557,
+    "gn:longitude":58.17262,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Lizq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0632\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287473
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"545d5d18c2c11e83a0d38f6aea68371d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1226519455,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1226519455,
+    "wof:lastmodified":1537676190,
+    "wof:name":"Lizq",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.17262,
+    22.71557,
+    58.17262,
+    22.71557
+],
+  "geometry": {"coordinates":[58.17262,22.71557],"type":"Point"}
+}

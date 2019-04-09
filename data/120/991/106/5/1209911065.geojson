@@ -1,0 +1,75 @@
+{
+  "id": 1209911065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.27055,26.14907,56.27055,26.14907",
+    "geom:latitude":26.14907,
+    "geom:longitude":56.27055,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khabbat Rahi",
+    "gn:country_code":"OM",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390323,
+    "gn:latitude":26.14907,
+    "gn:longitude":56.27055,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Khabbat Ra\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628\u0629 \u0631\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "Khabr Hay",
+        "Khabbat Ra\u1e29\u012b",
+        "Khabbat Ri\u1e25\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390323
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"5b8780793f0127d318a819b736c05411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1209911065,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209911065,
+    "wof:lastmodified":1537676261,
+    "wof:name":"Khabbat Rahi",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.27055,
+    26.14907,
+    56.27055,
+    26.14907
+],
+  "geometry": {"coordinates":[56.27055,26.14907],"type":"Point"}
+}

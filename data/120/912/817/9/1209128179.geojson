@@ -1,0 +1,78 @@
+{
+  "id": 1209128179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.72839,23.30858,58.72839,23.30858",
+    "geom:latitude":23.30858,
+    "geom:longitude":58.72839,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Fayyad",
+    "gn:country_code":"OM",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288355,
+    "gn:latitude":23.30858,
+    "gn:longitude":58.72839,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Fayy\u0101\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Fiy\u0101\u1e11"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u064a\u0627\u0636"
+    ],
+    "name:und_x_variant":[
+        "Al Fayy\u0101\u1e11",
+        "Al Fayyad",
+        "Al Fayy\u0101\u1e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288355
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9fd1a1fc72b605078b9019199925117e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1209128179,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1209128179,
+    "wof:lastmodified":1548974422,
+    "wof:name":"Al Fayyad",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.72839000000001,
+    23.30858,
+    58.72839000000001,
+    23.30858
+],
+  "geometry": {"coordinates":[58.72839000000001,23.30858],"type":"Point"}
+}

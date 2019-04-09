@@ -1,0 +1,75 @@
+{
+  "id": 1310689235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.77895,23.76208,56.77895,23.76208",
+    "geom:latitude":23.76208,
+    "geom:longitude":56.77895,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Ghayz",
+    "gn:country_code":"OM",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289294,
+    "gn:latitude":23.76208,
+    "gn:longitude":56.77895,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Ghayz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Al Ghuw\u012bz",
+        "Al Ghuwayz",
+        "Al Ghayz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289294
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"670bc23a5c87ac9cceaa06eb46724909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1310689235,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1310689235,
+    "wof:lastmodified":1537676245,
+    "wof:name":"Al Ghayz",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.77895,
+    23.76208,
+    56.77895,
+    23.76208
+],
+  "geometry": {"coordinates":[56.77895,23.76208],"type":"Point"}
+}

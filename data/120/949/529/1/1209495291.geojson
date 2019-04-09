@@ -1,0 +1,74 @@
+{
+  "id": 1209495291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.12868,22.80136,58.12868,22.80136",
+    "geom:latitude":22.80136,
+    "geom:longitude":58.12868,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Muyassar",
+    "gn:country_code":"OM",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287255,
+    "gn:latitude":22.80136,
+    "gn:longitude":58.12868,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Muyassar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u0633\u0651\u0631"
+    ],
+    "name:und_x_variant":[
+        "Maysar",
+        "Al Muyassar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287255
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2d7b9fc2f7378f19629cbbc3a14d446a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1209495291,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1209495291,
+    "wof:lastmodified":1548974433,
+    "wof:name":"Al Muyassar",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.12868,
+    22.80136,
+    58.12868,
+    22.80136
+],
+  "geometry": {"coordinates":[58.12868,22.80136],"type":"Point"}
+}

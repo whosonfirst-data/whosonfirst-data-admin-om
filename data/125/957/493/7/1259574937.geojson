@@ -1,0 +1,75 @@
+{
+  "id": 1259574937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.14957,26.10263,56.14957,26.10263",
+    "geom:latitude":26.10263,
+    "geom:longitude":56.14957,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wa`ab al Laff",
+    "gn:country_code":"OM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414860,
+    "gn:latitude":26.10263,
+    "gn:longitude":56.14957,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Wa\u2018ab al Laff",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0639\u0628 \u0627\u0644\u0644\u0651\u0641"
+    ],
+    "name:und_x_variant":[
+        "Wa\u2018ab al Lif",
+        "Wa\u2018ab al Laff",
+        "Wa\u2018b al Laf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414860
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"95f666e14027155113d68f6ed4477d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1259574937,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1259574937,
+    "wof:lastmodified":1537676297,
+    "wof:name":"Wa`ab al Laff",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.14957,
+    26.10263,
+    56.14957,
+    26.10263
+],
+  "geometry": {"coordinates":[56.14957,26.10263],"type":"Point"}
+}

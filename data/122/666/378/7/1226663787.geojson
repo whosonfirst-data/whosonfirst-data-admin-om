@@ -1,0 +1,74 @@
+{
+  "id": 1226663787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.1476,23.01637,58.1476,23.01637",
+    "geom:latitude":23.01637,
+    "geom:longitude":58.1476,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ar Rubkhah",
+    "gn:country_code":"OM",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411993,
+    "gn:latitude":23.01637,
+    "gn:longitude":58.1476,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Ar Rubkhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0651\u0628\u062e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rubkah",
+        "Ar Rubkhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411993
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9f87ee84c5aac724b05f7e6a58cfdddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1226663787,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1226663787,
+    "wof:lastmodified":1537676279,
+    "wof:name":"Ar Rubkhah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.1476,
+    23.01637,
+    58.1476,
+    23.01637
+],
+  "geometry": {"coordinates":[58.1476,23.01637],"type":"Point"}
+}

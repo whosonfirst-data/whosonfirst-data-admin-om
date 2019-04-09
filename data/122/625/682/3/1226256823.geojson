@@ -1,0 +1,77 @@
+{
+  "id": 1226256823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.85392,23.1567,57.85392,23.1567",
+    "geom:latitude":23.1567,
+    "geom:longitude":57.85392,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wusad",
+    "gn:country_code":"OM",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286636,
+    "gn:latitude":23.1567,
+    "gn:longitude":57.85392,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Wu\u015f\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u0101\u2018id"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0635\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Wu\u015f\u0101d",
+        "Wu\u1e63\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286636
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d1cb40e11cbd03ec188da6003efacde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1226256823,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1226256823,
+    "wof:lastmodified":1537676169,
+    "wof:name":"Wusad",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.85392,
+    23.1567,
+    57.85392,
+    23.1567
+],
+  "geometry": {"coordinates":[57.85392,23.1567],"type":"Point"}
+}

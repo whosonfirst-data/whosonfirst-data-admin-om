@@ -1,0 +1,77 @@
+{
+  "id": 1276231895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.99955,22.72223,57.99955,22.72223",
+    "geom:latitude":22.72223,
+    "geom:longitude":57.99955,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Washihi",
+    "gn:country_code":"OM",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285982,
+    "gn:latitude":22.72223,
+    "gn:longitude":57.99955,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al W\u0101shi\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101shi\u1e29\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0648\u0627\u0634\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al W\u0101shi\u1e29\u012b",
+        "Al W\u0101sh\u1e25\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285982
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ed361f0b0f24f723b5372be3b26f539c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1276231895,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1276231895,
+    "wof:lastmodified":1537676151,
+    "wof:name":"Al Washihi",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.99955,
+    22.72223,
+    57.99955,
+    22.72223
+],
+  "geometry": {"coordinates":[57.99955,22.72223],"type":"Point"}
+}

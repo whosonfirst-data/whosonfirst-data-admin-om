@@ -1,0 +1,73 @@
+{
+  "id": 1193122645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.16891,16.69718,53.16891,16.69718",
+    "geom:latitude":16.69718,
+    "geom:longitude":53.16891,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bar `Atiq",
+    "gn:country_code":"OM",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556136,
+    "gn:latitude":16.69718,
+    "gn:longitude":53.16891,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bar \u2018At\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631 \u0639\u062a\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Bar \u2018At\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556136
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f6fbce6d36056b1ecb440c3625a83443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189277,
+            "locality_id":1193122645,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1193122645,
+    "wof:lastmodified":1537676328,
+    "wof:name":"Bar `Atiq",
+    "wof:parent_id":421189277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.16891,
+    16.69718,
+    53.16891,
+    16.69718
+],
+  "geometry": {"coordinates":[53.16891,16.69718],"type":"Point"}
+}

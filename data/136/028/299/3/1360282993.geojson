@@ -1,0 +1,73 @@
+{
+  "id": 1360282993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.1144,17.27097,54.1144,17.27097",
+    "geom:latitude":17.27097,
+    "geom:longitude":54.1144,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Anshaf",
+    "gn:country_code":"OM",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558773,
+    "gn:latitude":17.27097,
+    "gn:longitude":54.1144,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ansh\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ansh\u0101f"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0646\u0634\u0627\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558773
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"dc9dc017452bd45da9b96186c4d13386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1360282993,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1360282993,
+    "wof:lastmodified":1537676315,
+    "wof:name":"Anshaf",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.1144,
+    17.27097,
+    54.1144,
+    17.27097
+],
+  "geometry": {"coordinates":[54.1144,17.27097],"type":"Point"}
+}

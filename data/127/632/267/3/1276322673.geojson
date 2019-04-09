@@ -1,0 +1,70 @@
+{
+  "id": 1276322673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.97938,24.18886,55.97938,24.18886",
+    "geom:latitude":24.18886,
+    "geom:longitude":55.97938,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Malaqat",
+    "gn:country_code":"OM",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394520,
+    "gn:latitude":24.18886,
+    "gn:longitude":55.97938,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Mal\u0101q\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mal\u0101q\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394520
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c1f88f3f7bdf41f4c279f9bc51af5c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1276322673,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1276322673,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Malaqat",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.97938000000001,
+    24.18886,
+    55.97938000000001,
+    24.18886
+],
+  "geometry": {"coordinates":[55.97938000000001,24.18886],"type":"Point"}
+}

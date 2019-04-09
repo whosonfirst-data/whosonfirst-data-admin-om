@@ -1,0 +1,70 @@
+{
+  "id": 1360003489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.0,22.8,58.0,22.8",
+    "geom:latitude":22.8,
+    "geom:longitude":58.0,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sa`id Bin Sahran",
+    "gn:country_code":"OM",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286630,
+    "gn:latitude":22.8,
+    "gn:longitude":58.0,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Sa\u2018id Bin Sahr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u2018id Bin Sahr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286630
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"31a1725b62f7b375bc374b30f1105a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1360003489,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1360003489,
+    "wof:lastmodified":1537676168,
+    "wof:name":"Sa`id Bin Sahran",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.0,
+    22.8,
+    58.0,
+    22.8
+],
+  "geometry": {"coordinates":[58.0,22.8],"type":"Point"}
+}

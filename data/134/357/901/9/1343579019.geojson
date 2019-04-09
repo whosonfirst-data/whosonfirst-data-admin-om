@@ -1,0 +1,71 @@
+{
+  "id": 1343579019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.02319,22.89922,58.02319,22.89922",
+    "geom:latitude":22.89922,
+    "geom:longitude":58.02319,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Majrirah",
+    "gn:country_code":"OM",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287377,
+    "gn:latitude":22.89922,
+    "gn:longitude":58.02319,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Majr\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Majr\u012br\u0101",
+        "Majr\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287377
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"308f255d3d0b9cd69ac37ebe50682e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1343579019,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1343579019,
+    "wof:lastmodified":1537676187,
+    "wof:name":"Majrirah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.02319,
+    22.89922,
+    58.02319,
+    22.89922
+],
+  "geometry": {"coordinates":[58.02319,22.89922],"type":"Point"}
+}

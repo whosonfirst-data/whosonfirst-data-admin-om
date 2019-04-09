@@ -1,0 +1,73 @@
+{
+  "id": 1343750101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.0181,23.76979,57.0181,23.76979",
+    "geom:latitude":23.76979,
+    "geom:longitude":57.0181,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mashin",
+    "gn:country_code":"OM",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287300,
+    "gn:latitude":23.76979,
+    "gn:longitude":57.0181,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"M\u0101shin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u0101shin"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0634\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287300
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e5688252e7782ad7f3d2d2b3cd056574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1343750101,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1343750101,
+    "wof:lastmodified":1537676185,
+    "wof:name":"Mashin",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.0181,
+    23.76979,
+    57.0181,
+    23.76979
+],
+  "geometry": {"coordinates":[57.0181,23.76979],"type":"Point"}
+}

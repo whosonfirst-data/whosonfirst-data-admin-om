@@ -1,0 +1,76 @@
+{
+  "id": 1226429533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.00695,22.62635,58.00695,22.62635",
+    "geom:latitude":22.62635,
+    "geom:longitude":58.00695,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Likhaydir",
+    "gn:country_code":"OM",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286086,
+    "gn:latitude":22.62635,
+    "gn:longitude":58.00695,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Likhay\u1e11ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u062e\u064a\u0636\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ukhayz\u0327ir",
+        "Ukhay\u1e11ir",
+        "Al Likhay\u1e11ir",
+        "Al Likhay\u1e0dur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286086
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"99d331a72e656a4f2941bd6a4bcb26e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1226429533,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1226429533,
+    "wof:lastmodified":1537676153,
+    "wof:name":"Al Likhaydir",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.00695,
+    22.62635,
+    58.00695,
+    22.62635
+],
+  "geometry": {"coordinates":[58.00695,22.62635],"type":"Point"}
+}

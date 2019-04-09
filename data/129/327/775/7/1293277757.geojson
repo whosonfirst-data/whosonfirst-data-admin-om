@@ -1,0 +1,73 @@
+{
+  "id": 1293277757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.38333,17.09139,54.38333,17.09139",
+    "geom:latitude":17.09139,
+    "geom:longitude":54.38333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Erqut Daham",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288451,
+    "gn:latitude":17.09139,
+    "gn:longitude":54.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Erq\u016bt Daham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erqoot Daham",
+        "Erq\u016bt Daham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288451,
+        "wk:page":"Erqut_Daham"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"17933897ae1f731e360906d554382b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1293277757,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1293277757,
+    "wof:lastmodified":1537676218,
+    "wof:name":"Erqut Daham",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.38333000000001,
+    17.09139,
+    54.38333000000001,
+    17.09139
+],
+  "geometry": {"coordinates":[54.38333000000001,17.09139],"type":"Point"}
+}

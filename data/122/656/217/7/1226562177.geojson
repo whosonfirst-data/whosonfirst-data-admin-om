@@ -1,0 +1,73 @@
+{
+  "id": 1226562177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.45528,17.11111,54.45528,17.11111",
+    "geom:latitude":17.11111,
+    "geom:longitude":54.45528,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qadhait",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286950,
+    "gn:latitude":17.11111,
+    "gn:longitude":54.45528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qadhait",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qadheit",
+        "Qadhait"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286950,
+        "wk:page":"Qadhait"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4d7d6447bc90842d1a5ea07637908d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1226562177,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226562177,
+    "wof:lastmodified":1537676176,
+    "wof:name":"Qadhait",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.45528,
+    17.11111,
+    54.45528,
+    17.11111
+],
+  "geometry": {"coordinates":[54.45528,17.11111],"type":"Point"}
+}

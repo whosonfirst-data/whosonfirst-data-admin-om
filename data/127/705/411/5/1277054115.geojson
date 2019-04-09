@@ -1,0 +1,76 @@
+{
+  "id": 1277054115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.56435,23.93715,56.56435,23.93715",
+    "geom:latitude":23.93715,
+    "geom:longitude":56.56435,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kabyat",
+    "gn:country_code":"OM",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411831,
+    "gn:latitude":23.93715,
+    "gn:longitude":56.56435,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Kaby\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qub\u012by\u0101t"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0628\u064a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Kaby\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411831
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2586768268ea051ebb9f009b809a1fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1277054115,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1277054115,
+    "wof:lastmodified":1537676274,
+    "wof:name":"Kabyat",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.56435,
+    23.93715,
+    56.56435,
+    23.93715
+],
+  "geometry": {"coordinates":[56.56435,23.93715],"type":"Point"}
+}

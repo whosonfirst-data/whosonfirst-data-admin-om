@@ -1,0 +1,70 @@
+{
+  "id": 1226738065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.59653,24.52733,56.59653,24.52733",
+    "geom:latitude":24.52733,
+    "geom:longitude":56.59653,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Harmul",
+    "gn:country_code":"OM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286644,
+    "gn:latitude":24.52733,
+    "gn:longitude":56.59653,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"\u1e28arm\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u0645\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Harm\u016bl",
+        "S\u0101\u1e29il \u1e28arm\u016bl",
+        "\u1e28arm\u016bl",
+        "\u1e24arm\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286644
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"daf05433385177405805d51c3a5a9889",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226738065,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226738065,
+    "wof:lastmodified":1537676169,
+    "wof:name":"Harmul",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.59653,
+    24.52733,
+    56.59653,
+    24.52733
+],
+  "geometry": {"coordinates":[56.59653,24.52733],"type":"Point"}
+}

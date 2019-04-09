@@ -1,0 +1,70 @@
+{
+  "id": 1226560189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.01864,24.57902,56.01864,24.57902",
+    "geom:latitude":24.57902,
+    "geom:longitude":56.01864,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Jabal Ghawil",
+    "gn:country_code":"OM",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414213,
+    "gn:latitude":24.57902,
+    "gn:longitude":56.01864,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jabal Ghaw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabal Ghaw\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414213
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"87c743558c9b451450aec682e0bc5021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1226560189,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1226560189,
+    "wof:lastmodified":1537676297,
+    "wof:name":"Jabal Ghawil",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.01864000000001,
+    24.57902,
+    56.01864000000001,
+    24.57902
+],
+  "geometry": {"coordinates":[56.01864000000001,24.57902],"type":"Point"}
+}

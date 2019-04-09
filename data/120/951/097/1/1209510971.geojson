@@ -1,0 +1,75 @@
+{
+  "id": 1209510971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.47162,23.14501,56.47162,23.14501",
+    "geom:latitude":23.14501,
+    "geom:longitude":56.47162,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tan`am",
+    "gn:country_code":"OM",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286194,
+    "gn:latitude":23.14501,
+    "gn:longitude":56.47162,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Tan\u2018am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u0639\u0645"
+    ],
+    "name:und_x_variant":[
+        "Tana\u2019am",
+        "Tan\u2018am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286194,
+        "wk:page":"Tanam,_Oman"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9fd1990c547bfaffa53bb5082e840b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1209510971,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1209510971,
+    "wof:lastmodified":1548974429,
+    "wof:name":"Tan`am",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.47162,
+    23.14501,
+    56.47162,
+    23.14501
+],
+  "geometry": {"coordinates":[56.47162,23.14501],"type":"Point"}
+}

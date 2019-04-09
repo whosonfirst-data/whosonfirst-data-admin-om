@@ -1,0 +1,75 @@
+{
+  "id": 1360177057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.52308,23.39843,58.52308,23.39843",
+    "geom:latitude":23.39843,
+    "geom:longitude":58.52308,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Khufayji",
+    "gn:country_code":"OM",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289180,
+    "gn:latitude":23.39843,
+    "gn:longitude":58.52308,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Khufayj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0641\u064a\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Khufayq\u012b",
+        "Al Khufayj\u012b",
+        "Al Khifayj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289180
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"8bcdf93f139afed011825b9003c83a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1360177057,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1360177057,
+    "wof:lastmodified":1537676239,
+    "wof:name":"Al Khufayji",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.52308000000001,
+    23.39843,
+    58.52308000000001,
+    23.39843
+],
+  "geometry": {"coordinates":[58.52308000000001,23.39843],"type":"Point"}
+}

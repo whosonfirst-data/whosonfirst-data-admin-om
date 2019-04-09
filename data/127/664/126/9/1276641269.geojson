@@ -1,0 +1,74 @@
+{
+  "id": 1276641269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.31177,17.22109,54.31177,17.22109",
+    "geom:latitude":17.22109,
+    "geom:longitude":54.31177,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Khbrarat",
+    "gn:country_code":"OM",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558847,
+    "gn:latitude":17.22109,
+    "gn:longitude":54.31177,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Khbr\u0101rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628\u0631\u0627\u0631\u062a"
+    ],
+    "name:und_x_variant":[
+        "Khbr\u0101rat",
+        "Khabr\u0101rt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558847
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9feb4461b421fcb4c6c28a45021cd44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1276641269,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276641269,
+    "wof:lastmodified":1537676319,
+    "wof:name":"Khbrarat",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.31177,
+    17.22109,
+    54.31177,
+    17.22109
+],
+  "geometry": {"coordinates":[54.31177,17.22109],"type":"Point"}
+}

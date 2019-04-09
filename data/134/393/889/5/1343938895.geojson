@@ -1,0 +1,71 @@
+{
+  "id": 1343938895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.6793,24.43386,56.6793,24.43386",
+    "geom:latitude":24.43386,
+    "geom:longitude":56.6793,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"As Sanqar",
+    "gn:country_code":"OM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286573,
+    "gn:latitude":24.43386,
+    "gn:longitude":56.6793,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"A\u015f \u015eanqar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0651\u0646\u0642\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u015eanqar",
+        "A\u015f \u015eanqar",
+        "A\u1e63 \u1e62anqar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286573
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fc0439ce1a53a8d9ace6ea9baf1a2079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343938895,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343938895,
+    "wof:lastmodified":1537676167,
+    "wof:name":"As Sanqar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.6793,
+    24.43386,
+    56.6793,
+    24.43386
+],
+  "geometry": {"coordinates":[56.6793,24.43386],"type":"Point"}
+}

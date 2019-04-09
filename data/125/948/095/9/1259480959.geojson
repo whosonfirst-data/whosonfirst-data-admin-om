@@ -1,0 +1,67 @@
+{
+  "id": 1259480959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.9775,23.20944,58.9775,23.20944",
+    "geom:latitude":23.20944,
+    "geom:longitude":58.9775,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Luwayz",
+    "gn:country_code":"OM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411262,
+    "gn:latitude":23.20944,
+    "gn:longitude":58.9775,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Al Luwayz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411262
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"03f1300beeb89e48252aa46e36f13aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1259480959,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1259480959,
+    "wof:lastmodified":1536861000,
+    "wof:name":"Al Luwayz",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.9775,
+    23.20944,
+    58.9775,
+    23.20944
+],
+  "geometry": {"coordinates":[58.9775,23.20944],"type":"Point"}
+}

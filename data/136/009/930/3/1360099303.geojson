@@ -1,0 +1,75 @@
+{
+  "id": 1360099303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.08354,23.21006,58.08354,23.21006",
+    "geom:latitude":23.21006,
+    "geom:longitude":58.08354,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"As Sinsulah",
+    "gn:country_code":"OM",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411977,
+    "gn:latitude":23.21006,
+    "gn:longitude":58.08354,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"As Sinsulah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0651\u0646\u0633\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sinsilah",
+        "As Sinsulah",
+        "As Sinslah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411977
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2bba055110b21cc0a243b28e30c0a057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1360099303,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1360099303,
+    "wof:lastmodified":1537676278,
+    "wof:name":"As Sinsulah",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.08354,
+    23.21006,
+    58.08354,
+    23.21006
+],
+  "geometry": {"coordinates":[58.08354,23.21006],"type":"Point"}
+}

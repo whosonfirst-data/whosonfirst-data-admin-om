@@ -1,0 +1,74 @@
+{
+  "id": 1259797643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.01808,23.18513,57.01808,23.18513",
+    "geom:latitude":23.18513,
+    "geom:longitude":57.01808,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qana",
+    "gn:country_code":"OM",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289121,
+    "gn:latitude":23.18513,
+    "gn:longitude":57.01808,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Qan\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Qunnah",
+        "Qan\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421189279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289121
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6aa4948c3a04e0dbfc96b6196ce03ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189279,
+            "locality_id":1259797643,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1259797643,
+    "wof:lastmodified":1537676235,
+    "wof:name":"Qana",
+    "wof:parent_id":421189279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.01808000000001,
+    23.18513,
+    57.01808000000001,
+    23.18513
+],
+  "geometry": {"coordinates":[57.01808000000001,23.18513],"type":"Point"}
+}

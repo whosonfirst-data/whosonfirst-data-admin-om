@@ -1,0 +1,73 @@
+{
+  "id": 1293193159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.07417,23.02402,59.07417,23.02402",
+    "geom:latitude":23.02402,
+    "geom:longitude":59.07417,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qatar",
+    "gn:country_code":"OM",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026248,
+    "gn:latitude":23.02402,
+    "gn:longitude":59.07417,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qa\u0163\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qa\u0163\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026248
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9ca2ab3396f4250c68f030b1db6349d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1293193159,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1293193159,
+    "wof:lastmodified":1537676306,
+    "wof:name":"Qatar",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.07417,
+    23.02402,
+    59.07417,
+    23.02402
+],
+  "geometry": {"coordinates":[59.07417,23.02402],"type":"Point"}
+}

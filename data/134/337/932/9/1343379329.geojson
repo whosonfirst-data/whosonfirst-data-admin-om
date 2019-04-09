@@ -1,0 +1,70 @@
+{
+  "id": 1343379329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.95972,24.24861,55.95972,24.24861",
+    "geom:latitude":24.24861,
+    "geom:longitude":55.95972,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Wadiyayn",
+    "gn:country_code":"OM",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394512,
+    "gn:latitude":24.24861,
+    "gn:longitude":55.95972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u0101diyayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101diyayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394512
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2b96c943b850ab4a7c50edda0257d3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1343379329,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1343379329,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Wadiyayn",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.95972,
+    24.24861,
+    55.95972,
+    24.24861
+],
+  "geometry": {"coordinates":[55.95972,24.24861],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226137155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.13233,26.12484,56.13233,26.12484",
+    "geom:latitude":26.12484,
+    "geom:longitude":56.13233,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fudhra",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288449,
+    "gn:latitude":26.12484,
+    "gn:longitude":56.13233,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Fudhra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Fu\u1e11gh\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0636\u063a\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Fadghah",
+        "F\u016bdar",
+        "Fudhra",
+        "Fa\u1e11gh\u0101\u2019",
+        "Fa\u1e0dgh\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288449
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0e07a374f31f953cd76f291f9b5331c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1226137155,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1226137155,
+    "wof:lastmodified":1537676218,
+    "wof:name":"Fudhra",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.13233,
+    26.12484,
+    56.13233,
+    26.12484
+],
+  "geometry": {"coordinates":[56.13233,26.12484],"type":"Point"}
+}

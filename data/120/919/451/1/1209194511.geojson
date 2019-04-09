@@ -1,0 +1,74 @@
+{
+  "id": 1209194511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.03775,22.56053,58.03775,22.56053",
+    "geom:latitude":22.56053,
+    "geom:longitude":58.03775,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Mintarib",
+    "gn:country_code":"OM",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442259,
+    "gn:latitude":22.56053,
+    "gn:longitude":58.03775,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Mintarib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u062a\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Mintirib",
+        "Al Mintarib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442259
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"13a94adcd5398658221cfc9d34e80936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1209194511,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1209194511,
+    "wof:lastmodified":1548974425,
+    "wof:name":"Al Mintarib",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.03775,
+    22.56053,
+    58.03775,
+    22.56053
+],
+  "geometry": {"coordinates":[58.03775,22.56053],"type":"Point"}
+}

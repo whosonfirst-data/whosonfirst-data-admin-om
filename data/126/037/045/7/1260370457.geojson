@@ -1,0 +1,67 @@
+{
+  "id": 1260370457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.47639,23.11444,58.47639,23.11444",
+    "geom:latitude":23.11444,
+    "geom:longitude":58.47639,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mudayrah",
+    "gn:country_code":"OM",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287169,
+    "gn:latitude":23.11444,
+    "gn:longitude":58.47639,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mudayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287169
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e4241648383000677444938e629ffad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1260370457,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1260370457,
+    "wof:lastmodified":1537089170,
+    "wof:name":"Mudayrah",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.47639,
+    23.11444,
+    58.47639,
+    23.11444
+],
+  "geometry": {"coordinates":[58.47639,23.11444],"type":"Point"}
+}

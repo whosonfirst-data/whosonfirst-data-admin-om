@@ -1,0 +1,77 @@
+{
+  "id": 1225922313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.54691,23.93707,56.54691,23.93707",
+    "geom:latitude":23.93707,
+    "geom:longitude":56.54691,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Hijal",
+    "gn:country_code":"OM",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411830,
+    "gn:latitude":23.93707,
+    "gn:longitude":56.54691,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Al \u1e28ij\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28ij\u0101l"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u062c\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ij\u0101l",
+        "Al \u1e24ij\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411830
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"69bf33af01a8a3ff126c816bbb6af4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1225922313,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1225922313,
+    "wof:lastmodified":1537676274,
+    "wof:name":"Al Hijal",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.54691,
+    23.93707,
+    56.54691,
+    23.93707
+],
+  "geometry": {"coordinates":[56.54691,23.93707],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421186547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.641731,24.445821,56.641731,24.445821",
+    "geom:latitude":24.445821,
+    "geom:longitude":56.641731,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u062e\u0648\u064a\u0631\u064a\u0629",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0628\u0627\u0637\u0646\u0629",
+    "qs:photos":50,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1090193,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":55926245,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55926245,
+        "qs:id":1090193
+    },
+    "wof:country":"OM",
+    "wof:created":1459009484,
+    "wof:geomhash":"88a7b558c3ea359cac4bfc692196276b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":421186547,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":421186547,
+    "wof:lastmodified":1500018179,
+    "wof:name":"\u0627\u0644\u062e\u0648\u064a\u0631\u064a\u0629",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.641731,
+    24.445821,
+    56.641731,
+    24.445821
+],
+  "geometry": {"coordinates":[56.641731,24.445821],"type":"Point"}
+}

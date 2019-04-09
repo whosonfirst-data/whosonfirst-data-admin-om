@@ -1,0 +1,71 @@
+{
+  "id": 1260168409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.35333,23.10722,58.35333,23.10722",
+    "geom:latitude":23.10722,
+    "geom:longitude":58.35333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Naqsi",
+    "gn:country_code":"OM",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287015,
+    "gn:latitude":23.10722,
+    "gn:longitude":58.35333,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Naq\u015f\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101qi\u015f\u012b",
+        "Naq\u015f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287015
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"01d6e74932c521ede23147d434eee9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721067,
+            "locality_id":1260168409,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1260168409,
+    "wof:lastmodified":1537676178,
+    "wof:name":"Naqsi",
+    "wof:parent_id":1108721067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.35333000000001,
+    23.10722,
+    58.35333000000001,
+    23.10722
+],
+  "geometry": {"coordinates":[58.35333000000001,23.10722],"type":"Point"}
+}

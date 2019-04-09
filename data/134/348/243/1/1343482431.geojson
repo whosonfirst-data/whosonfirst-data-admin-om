@@ -1,0 +1,74 @@
+{
+  "id": 1343482431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.16947,25.75588,56.16947,25.75588",
+    "geom:latitude":25.75588,
+    "geom:longitude":56.16947,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tafif",
+    "gn:country_code":"OM",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396365,
+    "gn:latitude":25.75588,
+    "gn:longitude":56.16947,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u0162af\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0641\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u0162af\u012bf",
+        "\u1e6cif\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396365
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"58e04eec529f27b33ba84093156484b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1343482431,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1343482431,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Tafif",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.16947,
+    25.75588,
+    56.16947,
+    25.75588
+],
+  "geometry": {"coordinates":[56.16947,25.75588],"type":"Point"}
+}

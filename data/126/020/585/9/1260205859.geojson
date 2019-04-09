@@ -1,0 +1,70 @@
+{
+  "id": 1260205859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.92843,23.04794,58.92843,23.04794",
+    "geom:latitude":23.04794,
+    "geom:longitude":58.92843,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Firq as Sa'diyan",
+    "gn:country_code":"OM",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411285,
+    "gn:latitude":23.04794,
+    "gn:longitude":58.92843,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Firq as Sa\u2019d\u012by\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Firq as Sa\u2019d\u012by\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411285
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fbbfbf5ce89f38c7bc6c6f335d90cdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1260205859,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1260205859,
+    "wof:lastmodified":1537676270,
+    "wof:name":"Firq as Sa'diyan",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.92843000000001,
+    23.04794,
+    58.92843000000001,
+    23.04794
+],
+  "geometry": {"coordinates":[58.92843000000001,23.04794],"type":"Point"}
+}

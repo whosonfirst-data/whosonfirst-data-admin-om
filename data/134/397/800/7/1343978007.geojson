@@ -1,0 +1,73 @@
+{
+  "id": 1343978007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.93721,17.12303,53.93721,17.12303",
+    "geom:latitude":17.12303,
+    "geom:longitude":53.93721,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Titam",
+    "gn:country_code":"OM",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8694755,
+    "gn:latitude":17.12303,
+    "gn:longitude":53.93721,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"\u0162\u012b\u0163\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u012b\u0163\u0101m"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u064a\u0637\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694755
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"71ef679aea915f21bbd7666b8f0f7d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1343978007,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343978007,
+    "wof:lastmodified":1537676322,
+    "wof:name":"Titam",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.93721,
+    17.12303,
+    53.93721,
+    17.12303
+],
+  "geometry": {"coordinates":[53.93721,17.12303],"type":"Point"}
+}

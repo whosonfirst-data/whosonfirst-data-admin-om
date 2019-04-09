@@ -1,0 +1,67 @@
+{
+  "id": 1226771167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.35889,26.18944,56.35889,26.18944",
+    "geom:latitude":26.18944,
+    "geom:longitude":56.35889,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Maqlab",
+    "gn:country_code":"OM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390436,
+    "gn:latitude":26.18944,
+    "gn:longitude":56.35889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maqlab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390436
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a07af4413c20a4cc12dfb1a7a2e02f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1226771167,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1226771167,
+    "wof:lastmodified":1536678976,
+    "wof:name":"Maqlab",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.35889,
+    26.18944,
+    56.35889,
+    26.18944
+],
+  "geometry": {"coordinates":[56.35889,26.18944],"type":"Point"}
+}

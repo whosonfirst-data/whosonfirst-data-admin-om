@@ -1,0 +1,75 @@
+{
+  "id": 1243535633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.46639,24.69446,56.46639,24.69446",
+    "geom:latitude":24.69446,
+    "geom:longitude":56.46639,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Humayra'",
+    "gn:country_code":"OM",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287862,
+    "gn:latitude":24.69446,
+    "gn:longitude":56.46639,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"\u1e28umayr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u064a\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "\u1e28umayrah",
+        "\u1e28umayr\u0101\u2019",
+        "\u1e24umayr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421183959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287862
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"365ad18c7b76af1246a59fe862133d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421183959,
+            "locality_id":1243535633,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1243535633,
+    "wof:lastmodified":1537676198,
+    "wof:name":"Humayra'",
+    "wof:parent_id":421183959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.46639,
+    24.69446,
+    56.46639,
+    24.69446
+],
+  "geometry": {"coordinates":[56.46639,24.69446],"type":"Point"}
+}

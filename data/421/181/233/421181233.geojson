@@ -1,0 +1,80 @@
+{
+  "id": 421181233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.26417,25.67444,56.26417,25.67444",
+    "geom:latitude":25.67444,
+    "geom:longitude":56.26417,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Bay\u2018ah"
+    ],
+    "qs:gn_country":"OM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":407223,
+    "qs:gn_pop":0,
+    "qs:name":"Bayah",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0645\u0633\u0646\u062f\u0645",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479553,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":2268133,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407223,
+        "gp:id":2268133,
+        "qs:id":479553
+    },
+    "wof:country":"OM",
+    "wof:created":1459009289,
+    "wof:geomhash":"2e87004b07cc3f7ed2cf48bc38467e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":421181233,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":421181233,
+    "wof:lastmodified":1527716324,
+    "wof:name":"Bayah",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.26417,
+    25.67444,
+    56.26417,
+    25.67444
+],
+  "geometry": {"coordinates":[56.26417,25.67444],"type":"Point"}
+}

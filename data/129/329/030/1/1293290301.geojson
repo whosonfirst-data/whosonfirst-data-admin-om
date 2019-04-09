@@ -1,0 +1,76 @@
+{
+  "id": 1293290301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.47164,17.19502,54.47164,17.19502",
+    "geom:latitude":17.19502,
+    "geom:longitude":54.47164,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shirakh",
+    "gn:country_code":"OM",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558650,
+    "gn:latitude":17.19502,
+    "gn:longitude":54.47164,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Sh\u012br\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u012br\u0101kh"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u0631\u0648\u062e"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012br\u016bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558650
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ca9543e768c3e1a6ad42837711ff22f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1293290301,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1293290301,
+    "wof:lastmodified":1537676310,
+    "wof:name":"Shirakh",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.47164,
+    17.19502,
+    54.47164,
+    17.19502
+],
+  "geometry": {"coordinates":[54.47164,17.19502],"type":"Point"}
+}

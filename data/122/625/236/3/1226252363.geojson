@@ -1,0 +1,68 @@
+{
+  "id": 1226252363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.34111,23.15139,57.34111,23.15139",
+    "geom:latitude":23.15139,
+    "geom:longitude":57.34111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dar al Qal`ah",
+    "gn:country_code":"OM",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288567,
+    "gn:latitude":23.15139,
+    "gn:longitude":57.34111,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"D\u0101r al Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r al Qal\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288567
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e8252b280ba360eacd99ffb9839bc70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1226252363,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1226252363,
+    "wof:lastmodified":1537676221,
+    "wof:name":"Dar al Qal`ah",
+    "wof:parent_id":85675681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.34111,
+    23.15139,
+    57.34111,
+    23.15139
+],
+  "geometry": {"coordinates":[57.34111,23.15139],"type":"Point"}
+}

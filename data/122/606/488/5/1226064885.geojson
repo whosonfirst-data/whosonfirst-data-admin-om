@@ -1,0 +1,75 @@
+{
+  "id": 1226064885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.18062,17.13903,54.18062,17.13903",
+    "geom:latitude":17.13903,
+    "geom:longitude":54.18062,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ajzeez",
+    "gn:country_code":"OM",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558761,
+    "gn:latitude":17.13903,
+    "gn:longitude":54.18062,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ajzeez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u0642 \u0623\u062c\u0632\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Dahaq Ajzayz",
+        "Ajzeez",
+        "Dahaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558761
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"8e35a63e1baaf0dcd85d62c61c9b56c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1226064885,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226064885,
+    "wof:lastmodified":1537676314,
+    "wof:name":"Ajzeez",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.18062,
+    17.13903,
+    54.18062,
+    17.13903
+],
+  "geometry": {"coordinates":[54.18062,17.13903],"type":"Point"}
+}

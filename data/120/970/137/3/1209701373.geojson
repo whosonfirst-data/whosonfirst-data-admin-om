@@ -1,0 +1,70 @@
+{
+  "id": 1209701373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.59784,17.05752,54.59784,17.05752",
+    "geom:latitude":17.05752,
+    "geom:longitude":54.59784,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aytin",
+    "gn:country_code":"OM",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413401,
+    "gn:latitude":17.05752,
+    "gn:longitude":54.59784,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ayt\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ayt\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421186703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413401
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e93c8e51d53a340ac5c4068d9e34f942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186703,
+            "locality_id":1209701373,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209701373,
+    "wof:lastmodified":1537676296,
+    "wof:name":"Aytin",
+    "wof:parent_id":421186703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.59784000000001,
+    17.05752,
+    54.59784000000001,
+    17.05752
+],
+  "geometry": {"coordinates":[54.59784000000001,17.05752],"type":"Point"}
+}

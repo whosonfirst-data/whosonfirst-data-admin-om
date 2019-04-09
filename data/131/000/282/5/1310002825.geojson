@@ -1,0 +1,73 @@
+{
+  "id": 1310002825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.21856,17.2498,54.21856,17.2498",
+    "geom:latitude":17.2498,
+    "geom:longitude":54.21856,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hayf",
+    "gn:country_code":"OM",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558790,
+    "gn:latitude":17.2498,
+    "gn:longitude":54.21856,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u1e28ayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558790
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7d1fe08bb14e76d4311fe5da0e7b114d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1310002825,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1310002825,
+    "wof:lastmodified":1537676316,
+    "wof:name":"Hayf",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.21856,
+    17.2498,
+    54.21856,
+    17.2498
+],
+  "geometry": {"coordinates":[54.21856,17.2498],"type":"Point"}
+}

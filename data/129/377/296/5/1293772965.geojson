@@ -1,0 +1,80 @@
+{
+  "id": 1293772965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.97068,24.49982,55.97068,24.49982",
+    "geom:latitude":24.49982,
+    "geom:longitude":55.97068,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"An Nuwayy",
+    "gn:country_code":"OM",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286967,
+    "gn:latitude":24.49982,
+    "gn:longitude":55.97068,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"An Nuwayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Nuway\u2019\u012b",
+        "Nuwai",
+        "Nuw\u0101l",
+        "Nuwa",
+        "Nawai-i",
+        "Nuway\u2019",
+        "An Nuwayy",
+        "An Niway"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286967
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"54bbe76c9039fcb43bf16f5ee4733b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1293772965,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1293772965,
+    "wof:lastmodified":1537676177,
+    "wof:name":"An Nuwayy",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.97068,
+    24.49982,
+    55.97068,
+    24.49982
+],
+  "geometry": {"coordinates":[55.97068,24.49982],"type":"Point"}
+}

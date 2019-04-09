@@ -1,0 +1,74 @@
+{
+  "id": 1293413779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.45912,22.49918,59.45912,22.49918",
+    "geom:latitude":22.49918,
+    "geom:longitude":59.45912,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sayh al Hasanat",
+    "gn:country_code":"OM",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512301,
+    "gn:latitude":22.49918,
+    "gn:longitude":59.45912,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Say\u1e29 al \u1e28asan\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062d \u0627\u0644\u062d\u0633\u0646\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Say\u1e29 al \u1e28asan\u0101t",
+        "Sayh al Hasanat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512301
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"63141ee0b8ed0193cc4cb8a58c206f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1293413779,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1293413779,
+    "wof:lastmodified":1537676309,
+    "wof:name":"Sayh al Hasanat",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.45912,
+    22.49918,
+    59.45912,
+    22.49918
+],
+  "geometry": {"coordinates":[59.45912,22.49918],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310579421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.56188,24.56479,56.56188,24.56479",
+    "geom:latitude":24.56479,
+    "geom:longitude":56.56188,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nabr",
+    "gn:country_code":"OM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287052,
+    "gn:latitude":24.56479,
+    "gn:longitude":56.56188,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Nabr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287052
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"13f4d1cd91ea38f20010dca943a6b1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721099,
+            "locality_id":1310579421,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1310579421,
+    "wof:lastmodified":1537676178,
+    "wof:name":"Nabr",
+    "wof:parent_id":1108721099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.56188,
+    24.56479,
+    56.56188,
+    24.56479
+],
+  "geometry": {"coordinates":[56.56188,24.56479],"type":"Point"}
+}

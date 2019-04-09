@@ -1,0 +1,70 @@
+{
+  "id": 1259475835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.61141,23.28885,58.61141,23.28885",
+    "geom:latitude":23.28885,
+    "geom:longitude":58.61141,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"As Sarrayn",
+    "gn:country_code":"OM",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026298,
+    "gn:latitude":23.28885,
+    "gn:longitude":58.61141,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"As Sarrayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0631\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026298
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c492fb55d92cce1d68e6754f1170e01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1259475835,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1259475835,
+    "wof:lastmodified":1537676307,
+    "wof:name":"As Sarrayn",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.61141,
+    23.28885,
+    58.61141,
+    23.28885
+],
+  "geometry": {"coordinates":[58.61141,23.28885],"type":"Point"}
+}

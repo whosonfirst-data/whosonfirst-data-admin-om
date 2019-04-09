@@ -1,0 +1,75 @@
+{
+  "id": 1343246567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21833,23.45785,56.21833,23.45785",
+    "geom:latitude":23.45785,
+    "geom:longitude":56.21833,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Yufayf",
+    "gn:country_code":"OM",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287733,
+    "gn:latitude":23.45785,
+    "gn:longitude":56.21833,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Yufayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0641\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Jufayf",
+        "Al Yufayf",
+        "Al Yifayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287733
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"19525fd929e739ac21fb509d51e4ac77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1343246567,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1343246567,
+    "wof:lastmodified":1537676196,
+    "wof:name":"Al Yufayf",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21833,
+    23.45785,
+    56.21833,
+    23.45785
+],
+  "geometry": {"coordinates":[56.21833,23.45785],"type":"Point"}
+}

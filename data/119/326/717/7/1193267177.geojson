@@ -1,0 +1,70 @@
+{
+  "id": 1193267177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18194,24.72361,56.18194,24.72361",
+    "geom:latitude":24.72361,
+    "geom:longitude":56.18194,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Subakh",
+    "gn:country_code":"OM",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286309,
+    "gn:latitude":24.72361,
+    "gn:longitude":56.18194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u015eub\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u015eub\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286309
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ac84912c5e32acfb9c91c0269009d1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1193267177,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1193267177,
+    "wof:lastmodified":1537676161,
+    "wof:name":"Subakh",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18194,
+    24.72361,
+    56.18194,
+    24.72361
+],
+  "geometry": {"coordinates":[56.18194,24.72361],"type":"Point"}
+}

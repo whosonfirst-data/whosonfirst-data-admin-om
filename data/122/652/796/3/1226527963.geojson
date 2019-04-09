@@ -1,0 +1,68 @@
+{
+  "id": 1226527963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.81482,17.34684,52.81482,17.34684",
+    "geom:latitude":17.34684,
+    "geom:longitude":52.81482,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hayjari",
+    "gn:country_code":"OM",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287985,
+    "gn:latitude":17.34684,
+    "gn:longitude":52.81482,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Hayjar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hayjar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287985
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"898c85d526d22cb801afacff8b7bd0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1226527963,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226527963,
+    "wof:lastmodified":1537676203,
+    "wof:name":"Hayjari",
+    "wof:parent_id":85675695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.81482,
+    17.34684,
+    52.81482,
+    17.34684
+],
+  "geometry": {"coordinates":[52.81482,17.34684],"type":"Point"}
+}

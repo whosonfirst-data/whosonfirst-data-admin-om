@@ -1,0 +1,70 @@
+{
+  "id": 1226356517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.22599,23.29595,58.22599,23.29595",
+    "geom:latitude":23.29595,
+    "geom:longitude":58.22599,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Musibit",
+    "gn:country_code":"OM",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411972,
+    "gn:latitude":23.29595,
+    "gn:longitude":58.22599,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mus\u012bbit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mus\u012bbit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411972
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a4acce796a7ca7f8f8c43dfda626f282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721067,
+            "locality_id":1226356517,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1226356517,
+    "wof:lastmodified":1537676278,
+    "wof:name":"Musibit",
+    "wof:parent_id":1108721067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.22599,
+    23.29595,
+    58.22599,
+    23.29595
+],
+  "geometry": {"coordinates":[58.22599,23.29595],"type":"Point"}
+}

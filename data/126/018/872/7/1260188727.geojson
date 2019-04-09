@@ -1,0 +1,67 @@
+{
+  "id": 1260188727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.22723,22.25438,59.22723,22.25438",
+    "geom:latitude":22.25438,
+    "geom:longitude":59.22723,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Buwayrid",
+    "gn:country_code":"OM",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288607,
+    "gn:latitude":22.25438,
+    "gn:longitude":59.22723,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buwayrid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288607
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c6d0f301e635d5ffe38d9aa6417541d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721063,
+            "locality_id":1260188727,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1260188727,
+    "wof:lastmodified":1536839699,
+    "wof:name":"Buwayrid",
+    "wof:parent_id":1108721063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.22723000000001,
+    22.25438,
+    59.22723000000001,
+    22.25438
+],
+  "geometry": {"coordinates":[59.22723000000001,22.25438],"type":"Point"}
+}

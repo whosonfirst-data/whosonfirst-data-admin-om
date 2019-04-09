@@ -1,0 +1,68 @@
+{
+  "id": 1260200917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.21022,23.14507,57.21022,23.14507",
+    "geom:latitude":23.14507,
+    "geom:longitude":57.21022,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ghul",
+    "gn:country_code":"OM",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288236,
+    "gn:latitude":23.14507,
+    "gn:longitude":57.21022,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Gh\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Gh\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288236
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cd9b3e68449f4c328dfd508ca56ec14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1260200917,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1260200917,
+    "wof:lastmodified":1537676210,
+    "wof:name":"Ghul",
+    "wof:parent_id":85675681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.21021999999999,
+    23.14507,
+    57.21021999999999,
+    23.14507
+],
+  "geometry": {"coordinates":[57.21021999999999,23.14507],"type":"Point"}
+}

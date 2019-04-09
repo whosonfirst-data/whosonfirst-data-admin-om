@@ -1,0 +1,70 @@
+{
+  "id": 1293084831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.98528,24.56444,55.98528,24.56444",
+    "geom:latitude":24.56444,
+    "geom:longitude":55.98528,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zghiu",
+    "gn:country_code":"OM",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394294,
+    "gn:latitude":24.56444,
+    "gn:longitude":55.98528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zgh\u012bu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Zgh\u012bu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394294
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e01dcf9af0216df90d9578d4d04e49a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1293084831,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1293084831,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Zghiu",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.98528,
+    24.56444,
+    55.98528,
+    24.56444
+],
+  "geometry": {"coordinates":[55.98528,24.56444],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293798137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.45076,23.11791,57.45076,23.11791",
+    "geom:latitude":23.11791,
+    "geom:longitude":57.45076,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ma`bat",
+    "gn:country_code":"OM",
+    "gn:dem":1561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287407,
+    "gn:latitude":23.11791,
+    "gn:longitude":57.45076,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ma\u2018bat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0628\u062a"
+    ],
+    "name:und_x_variant":[
+        "Mahba\u0163",
+        "Ma\u2018bat",
+        "Mi\u2018bat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287407
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"99a08b39c0f9397a2c2bc5c78bd3143b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1293798137,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1293798137,
+    "wof:lastmodified":1537676188,
+    "wof:name":"Ma`bat",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.45076,
+    23.11791,
+    57.45076,
+    23.11791
+],
+  "geometry": {"coordinates":[57.45076,23.11791],"type":"Point"}
+}

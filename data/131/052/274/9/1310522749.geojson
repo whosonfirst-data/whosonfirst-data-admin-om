@@ -1,0 +1,67 @@
+{
+  "id": 1310522749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.395,26.28333,56.395,26.28333",
+    "geom:latitude":26.28333,
+    "geom:longitude":56.395,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sharyah",
+    "gn:country_code":"OM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390510,
+    "gn:latitude":26.28333,
+    "gn:longitude":56.395,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sharyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390510
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a7f03ca2cbb33702720cce1a655bf736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1310522749,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1310522749,
+    "wof:lastmodified":1536891721,
+    "wof:name":"Sharyah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.395,
+    26.28333,
+    56.395,
+    26.28333
+],
+  "geometry": {"coordinates":[56.395,26.28333],"type":"Point"}
+}

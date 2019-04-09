@@ -1,0 +1,79 @@
+{
+  "id": 1327129629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.97425,17.1324,53.97425,17.1324",
+    "geom:latitude":17.1324,
+    "geom:longitude":53.97425,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Haysal",
+    "gn:country_code":"OM",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287918,
+    "gn:latitude":17.1324,
+    "gn:longitude":53.97425,
+    "gn:modification_date":"2014-02-09",
+    "gn:name":"\u1e28ay\u1e63al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Hez\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u1e28\u012b\u015f\u0101",
+        "\u062d\u064a\u0635\u0627"
+    ],
+    "name:und_x_variant":[
+        "Hezaar",
+        "\u1e28ay\u1e63al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287918,
+        "wk:page":"Hezar"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ff0ce3c22f3cb6554ff81ead6840ca86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1327129629,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1327129629,
+    "wof:lastmodified":1537676200,
+    "wof:name":"Haysal",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.97425,
+    17.1324,
+    53.97425,
+    17.1324
+],
+  "geometry": {"coordinates":[53.97425,17.1324],"type":"Point"}
+}

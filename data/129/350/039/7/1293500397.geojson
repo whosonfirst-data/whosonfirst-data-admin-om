@@ -1,0 +1,76 @@
+{
+  "id": 1293500397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.47617,23.55167,57.47617,23.55167",
+    "geom:latitude":23.55167,
+    "geom:longitude":57.47617,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Hazm",
+    "gn:country_code":"OM",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287921,
+    "gn:latitude":23.55167,
+    "gn:longitude":57.47617,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al \u1e28azm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "Hazam",
+        "\u1e28azm",
+        "Al \u1e28azm",
+        "Al \u1e24azm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287921
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"dec3417dd4d1986b20d379b85c2a0af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1293500397,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1293500397,
+    "wof:lastmodified":1537676200,
+    "wof:name":"Al Hazm",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.47617,
+    23.55167,
+    57.47617,
+    23.55167
+],
+  "geometry": {"coordinates":[57.47617,23.55167],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242791725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.01477,22.88811,58.01477,22.88811",
+    "geom:latitude":22.88811,
+    "geom:longitude":58.01477,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Gharyayn",
+    "gn:country_code":"OM",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288276,
+    "gn:latitude":22.88811,
+    "gn:longitude":58.01477,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Gharyayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0631\u064a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ghar\u012by\u0101n",
+        "Ghary\u0101n",
+        "Al Gharyayn",
+        "Al Ghuryayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288276
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"eddb4e31526d3c4af4fb214e4cba0c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1242791725,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1242791725,
+    "wof:lastmodified":1537676212,
+    "wof:name":"Al Gharyayn",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.01477,
+    22.88811,
+    58.01477,
+    22.88811
+],
+  "geometry": {"coordinates":[58.01477,22.88811],"type":"Point"}
+}

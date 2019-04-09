@@ -1,0 +1,74 @@
+{
+  "id": 1293403739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.92012,23.3842,56.92012,23.3842",
+    "geom:latitude":23.3842,
+    "geom:longitude":56.92012,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Bulaydah",
+    "gn:country_code":"OM",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288641,
+    "gn:latitude":23.3842,
+    "gn:longitude":56.92012,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Bulaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bulaydah",
+        "Al Bulaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288641
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"48520af0fc066a19e6f18778e4465e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1293403739,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1293403739,
+    "wof:lastmodified":1537676223,
+    "wof:name":"Al Bulaydah",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.92012,
+    23.3842,
+    56.92012,
+    23.3842
+],
+  "geometry": {"coordinates":[56.92012,23.3842],"type":"Point"}
+}

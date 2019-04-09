@@ -1,0 +1,75 @@
+{
+  "id": 1327354815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.36119,25.84781,56.36119,25.84781",
+    "geom:latitude":25.84781,
+    "geom:longitude":56.36119,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ash Sharyah al Hulwah",
+    "gn:country_code":"OM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407220,
+    "gn:latitude":25.84781,
+    "gn:longitude":56.36119,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ash Sharyah al \u1e28ulwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0651\u0631\u064a\u0629 \u0627\u0644\u062d\u0644\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sharyah",
+        "Ash Sharyah al \u1e28ulwah",
+        "Ash Sharyah al \u1e24ulwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407220
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f943689e52541cdb4e29b7238421e456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1327354815,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1327354815,
+    "wof:lastmodified":1537676266,
+    "wof:name":"Ash Sharyah al Hulwah",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.36119,
+    25.84781,
+    56.36119,
+    25.84781
+],
+  "geometry": {"coordinates":[56.36119,25.84781],"type":"Point"}
+}

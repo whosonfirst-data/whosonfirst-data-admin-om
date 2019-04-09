@@ -1,0 +1,70 @@
+{
+  "id": 1293773655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.23516,23.93138,56.23516,23.93138",
+    "geom:latitude":23.93138,
+    "geom:longitude":56.23516,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bilt",
+    "gn:country_code":"OM",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288704,
+    "gn:latitude":23.93138,
+    "gn:longitude":56.23516,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bilt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        1108721085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288704
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e9a443304645487b42da123248d2dc0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721085,
+            "locality_id":1293773655,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1293773655,
+    "wof:lastmodified":1537676225,
+    "wof:name":"Bilt",
+    "wof:parent_id":1108721085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.23516,
+    23.93138,
+    56.23516,
+    23.93138
+],
+  "geometry": {"coordinates":[56.23516,23.93138],"type":"Point"}
+}

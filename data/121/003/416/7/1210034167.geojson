@@ -1,0 +1,70 @@
+{
+  "id": 1210034167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.8289,23.09527,57.8289,23.09527",
+    "geom:latitude":23.09527,
+    "geom:longitude":57.8289,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Biban",
+    "gn:country_code":"OM",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288727,
+    "gn:latitude":23.09527,
+    "gn:longitude":57.8289,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"B\u012bb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u012bb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288727
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7ee20d823bb5175d59540a8126667bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1210034167,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1210034167,
+    "wof:lastmodified":1537676226,
+    "wof:name":"Biban",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.8289,
+    23.09527000000001,
+    57.8289,
+    23.09527000000001
+],
+  "geometry": {"coordinates":[57.8289,23.09527000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343845115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.65534,22.75578,58.65534,22.75578",
+    "geom:latitude":22.75578,
+    "geom:longitude":58.65534,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"As Sarm",
+    "gn:country_code":"OM",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288970,
+    "gn:latitude":22.75578,
+    "gn:longitude":58.65534,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"A\u015f \u015earm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015earm",
+        "A\u1e63 \u1e62arm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288970
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"806b899a9adbd63ec5e235df1fd82961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721059,
+            "locality_id":1343845115,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1343845115,
+    "wof:lastmodified":1537676230,
+    "wof:name":"As Sarm",
+    "wof:parent_id":1108721059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.65534,
+    22.75578,
+    58.65534,
+    22.75578
+],
+  "geometry": {"coordinates":[58.65534,22.75578],"type":"Point"}
+}

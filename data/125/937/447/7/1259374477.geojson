@@ -1,0 +1,75 @@
+{
+  "id": 1259374477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.29784,26.10414,56.29784,26.10414",
+    "geom:latitude":26.10414,
+    "geom:longitude":56.29784,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Taff al Qarhah",
+    "gn:country_code":"OM",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390318,
+    "gn:latitude":26.10414,
+    "gn:longitude":56.29784,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u0162aff al Qar\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0641 \u0627\u0644\u0642\u0631\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Taf al Qarha",
+        "\u0162aff al Qar\u1e29ah",
+        "\u1e6caf al Qar\u1e25ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390318
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"887049f79253e5c7a6420c1813a62592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1259374477,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1259374477,
+    "wof:lastmodified":1537676260,
+    "wof:name":"Taff al Qarhah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.29784,
+    26.10414,
+    56.29784,
+    26.10414
+],
+  "geometry": {"coordinates":[56.29784,26.10414],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276744507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.48425,24.6697,56.48425,24.6697",
+    "geom:latitude":24.6697,
+    "geom:longitude":56.48425,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sur Bani Hammad",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414253,
+    "gn:latitude":24.6697,
+    "gn:longitude":56.48425,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"S\u016br Ban\u012b \u1e28amm\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0631 \u0628\u0646\u064a \u062d\u0645\u0651\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "S\u016br Ban\u012b \u1e28amad",
+        "S\u016br Ban\u012b \u1e28amm\u0101d",
+        "S\u016br Ban\u012b \u1e24amm\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421183959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414253
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a3e123a1cfb862f6e7c631f917a4c4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421183959,
+            "locality_id":1276744507,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276744507,
+    "wof:lastmodified":1537676297,
+    "wof:name":"Sur Bani Hammad",
+    "wof:parent_id":421183959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.48425,
+    24.6697,
+    56.48425,
+    24.6697
+],
+  "geometry": {"coordinates":[56.48425,24.6697],"type":"Point"}
+}

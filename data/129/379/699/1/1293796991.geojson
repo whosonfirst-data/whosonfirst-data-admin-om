@@ -1,0 +1,75 @@
+{
+  "id": 1293796991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.04001,23.69863,58.04001,23.69863",
+    "geom:latitude":23.69863,
+    "geom:longitude":58.04001,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ash Shakhakhit",
+    "gn:country_code":"OM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286483,
+    "gn:latitude":23.69863,
+    "gn:longitude":58.04001,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ash Shakh\u0101kh\u012b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0651\u062e\u0627\u062e\u064a\u0637"
+    ],
+    "name:und_x_variant":[
+        "Shakh\u0101kh\u012b\u0163",
+        "Ash Shakh\u0101kh\u012b\u0163",
+        "Ash Shakh\u0101kh\u012b\u1e6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        890441841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286483
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2513c13e185edf4c704bcd6a10083fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":890441841,
+            "locality_id":1293796991,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1293796991,
+    "wof:lastmodified":1537676164,
+    "wof:name":"Ash Shakhakhit",
+    "wof:parent_id":890441841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.04001,
+    23.69863,
+    58.04001,
+    23.69863
+],
+  "geometry": {"coordinates":[58.04001,23.69863],"type":"Point"}
+}

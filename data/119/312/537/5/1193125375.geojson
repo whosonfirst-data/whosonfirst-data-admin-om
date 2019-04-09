@@ -1,0 +1,74 @@
+{
+  "id": 1193125375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.64014,23.77997,57.64014,23.77997",
+    "geom:latitude":23.77997,
+    "geom:longitude":57.64014,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Masna`ah",
+    "gn:country_code":"OM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289164,
+    "gn:latitude":23.77997,
+    "gn:longitude":57.64014,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Ma\u015fna\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0646\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Masna\u2019ah",
+        "Al Mu\u015fana\u2018a",
+        "Al-Ma\u1e63na\u2018a",
+        "Al Ma\u015fna\u2018ah",
+        "Masna",
+        "Al Mu\u1e63an\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289164
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"5d5899794a95ac0101e88e95b22d1c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1193125375,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193125375,
+    "wof:lastmodified":1537676238,
+    "wof:name":"Al Masna`ah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.64014,
+    23.77997,
+    57.64014,
+    23.77997
+],
+  "geometry": {"coordinates":[57.64014,23.77997],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209394973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.53647,22.98175,58.53647,22.98175",
+    "geom:latitude":22.98175,
+    "geom:longitude":58.53647,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Qaryah",
+    "gn:country_code":"OM",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289131,
+    "gn:latitude":22.98175,
+    "gn:longitude":58.53647,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Al Qaryah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289131
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"61986556f6b2e936f1496dd1ce0391b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1209394973,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1209394973,
+    "wof:lastmodified":1548974428,
+    "wof:name":"Al Qaryah",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.53647,
+    22.98175,
+    58.53647,
+    22.98175
+],
+  "geometry": {"coordinates":[58.53647,22.98175],"type":"Point"}
+}

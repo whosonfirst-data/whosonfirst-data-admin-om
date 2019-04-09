@@ -1,0 +1,70 @@
+{
+  "id": 1276433839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.84806,23.10577,58.84806,23.10577",
+    "geom:latitude":23.10577,
+    "geom:longitude":58.84806,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lasmu",
+    "gn:country_code":"OM",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411272,
+    "gn:latitude":23.10577,
+    "gn:longitude":58.84806,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Lasm\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lasm\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411272
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"dc146cf919d40b10646f61044087824e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1276433839,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1276433839,
+    "wof:lastmodified":1537676269,
+    "wof:name":"Lasmu",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.84806,
+    23.10577,
+    58.84806,
+    23.10577
+],
+  "geometry": {"coordinates":[58.84806,23.10577],"type":"Point"}
+}

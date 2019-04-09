@@ -1,0 +1,70 @@
+{
+  "id": 1209837919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.30094,17.24586,54.30094,17.24586",
+    "geom:latitude":17.24586,
+    "geom:longitude":54.30094,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ahzin",
+    "gn:country_code":"OM",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558704,
+    "gn:latitude":17.24586,
+    "gn:longitude":54.30094,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"A\u1e29z\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u1e29z\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558704
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"dd9a9f6995b096a4460a791715103c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1209837919,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209837919,
+    "wof:lastmodified":1537676312,
+    "wof:name":"Ahzin",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.30094,
+    17.24586,
+    54.30094,
+    17.24586
+],
+  "geometry": {"coordinates":[54.30094,17.24586],"type":"Point"}
+}

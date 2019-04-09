@@ -1,0 +1,70 @@
+{
+  "id": 1243558695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.56423,23.10792,57.56423,23.10792",
+    "geom:latitude":23.10792,
+    "geom:longitude":57.56423,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Asaqat Bilarb",
+    "gn:country_code":"OM",
+    "gn:dem":2041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289004,
+    "gn:latitude":23.10792,
+    "gn:longitude":57.56423,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"As\u0101qat Bilarb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As\u0101qat Bilarb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289004
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"abc49619077bdc25df5c5a1306ca5e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1243558695,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1243558695,
+    "wof:lastmodified":1537676231,
+    "wof:name":"Asaqat Bilarb",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.56423,
+    23.10792,
+    57.56423,
+    23.10792
+],
+  "geometry": {"coordinates":[57.56423,23.10792],"type":"Point"}
+}

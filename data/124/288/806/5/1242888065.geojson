@@ -1,0 +1,70 @@
+{
+  "id": 1242888065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.53198,23.01618,57.53198,23.01618",
+    "geom:latitude":23.01618,
+    "geom:longitude":57.53198,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kamah",
+    "gn:country_code":"OM",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287692,
+    "gn:latitude":23.01618,
+    "gn:longitude":57.53198,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kamah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0645\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287692
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"32a8d3e717621be043fb201d90124e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1242888065,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1242888065,
+    "wof:lastmodified":1537676195,
+    "wof:name":"Kamah",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.53198,
+    23.01618,
+    57.53198,
+    23.01618
+],
+  "geometry": {"coordinates":[57.53198,23.01618],"type":"Point"}
+}

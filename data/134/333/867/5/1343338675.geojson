@@ -1,0 +1,70 @@
+{
+  "id": 1343338675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.04813,22.15422,58.04813,22.15422",
+    "geom:latitude":22.15422,
+    "geom:longitude":58.04813,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Multaqa Sharak",
+    "gn:country_code":"OM",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442265,
+    "gn:latitude":22.15422,
+    "gn:longitude":58.04813,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Multaq\u00e1 Sharak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Multaq\u00e1 Sharak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442265
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7b3f278b8d83abee448198fcae1db064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1343338675,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1343338675,
+    "wof:lastmodified":1537676303,
+    "wof:name":"Multaqa Sharak",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.04813000000001,
+    22.15422,
+    58.04813000000001,
+    22.15422
+],
+  "geometry": {"coordinates":[58.04813000000001,22.15422],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226735267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.37535,16.81409,53.37535,16.81409",
+    "geom:latitude":16.81409,
+    "geom:longitude":53.37535,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Barq",
+    "gn:country_code":"OM",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556101,
+    "gn:latitude":16.81409,
+    "gn:longitude":53.37535,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Barq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "Al Barq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556101
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"687a6104da7b5604e97a4ac66b7bdc57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1226735267,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226735267,
+    "wof:lastmodified":1537676326,
+    "wof:name":"Barq",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.37535,
+    16.81409,
+    53.37535,
+    16.81409
+],
+  "geometry": {"coordinates":[53.37535,16.81409],"type":"Point"}
+}

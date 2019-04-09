@@ -1,0 +1,73 @@
+{
+  "id": 1209096023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.34332,23.53898,56.34332,23.53898",
+    "geom:latitude":23.53898,
+    "geom:longitude":56.34332,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dawt",
+    "gn:country_code":"OM",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288468,
+    "gn:latitude":23.53898,
+    "gn:longitude":56.34332,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Dawt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u016bt"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0648\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        1108721085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288468
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"59879ab348f54c9c7acd82342041f9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721085,
+            "locality_id":1209096023,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1209096023,
+    "wof:lastmodified":1548974420,
+    "wof:name":"Dawt",
+    "wof:parent_id":1108721085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.34332,
+    23.53898,
+    56.34332,
+    23.53898
+],
+  "geometry": {"coordinates":[56.34332,23.53898],"type":"Point"}
+}

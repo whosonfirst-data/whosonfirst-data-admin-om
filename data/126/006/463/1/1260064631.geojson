@@ -1,0 +1,75 @@
+{
+  "id": 1260064631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.55533,23.8548,56.55533,23.8548",
+    "geom:latitude":23.8548,
+    "geom:longitude":56.55533,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Khadd",
+    "gn:country_code":"OM",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289198,
+    "gn:latitude":23.8548,
+    "gn:longitude":56.55533,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Khadd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u062f"
+    ],
+    "name:und_x_variant":[
+        "Al Khaddah",
+        "Al Khadd",
+        "Al Khad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289198
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"430613f7c400d8d66c8a3818e2e30dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1260064631,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1260064631,
+    "wof:lastmodified":1537676240,
+    "wof:name":"Al Khadd",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.55533000000001,
+    23.8548,
+    56.55533000000001,
+    23.8548
+],
+  "geometry": {"coordinates":[56.55533000000001,23.8548],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344138035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.79628,23.7644,56.79628,23.7644",
+    "geom:latitude":23.7644,
+    "geom:longitude":56.79628,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hawra'",
+    "gn:country_code":"OM",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411845,
+    "gn:latitude":23.7644,
+    "gn:longitude":56.79628,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"\u1e28awr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u016brah",
+        "\u1e28awr\u0101\u2019",
+        "\u1e24awr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411845
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6d9d94b7a854b7455962b3b543a62266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1344138035,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1344138035,
+    "wof:lastmodified":1537676275,
+    "wof:name":"Hawra'",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.79628,
+    23.7644,
+    56.79628,
+    23.7644
+],
+  "geometry": {"coordinates":[56.79628,23.7644],"type":"Point"}
+}

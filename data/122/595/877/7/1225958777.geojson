@@ -1,0 +1,75 @@
+{
+  "id": 1225958777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.10782,22.56129,59.10782,22.56129",
+    "geom:latitude":22.56129,
+    "geom:longitude":59.10782,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Al Qahlah",
+    "gn:country_code":"OM",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289140,
+    "gn:latitude":22.56129,
+    "gn:longitude":59.10782,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Al Qahlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0641\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "\u1e28alf\u0101\u2019",
+        "\u1e28alfah",
+        "\u1e24alf\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289140
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b66c5475957e468172768a446c755659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721089,
+            "locality_id":1225958777,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1225958777,
+    "wof:lastmodified":1537676236,
+    "wof:name":"Al Qahlah",
+    "wof:parent_id":1108721089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.10782,
+    22.56129,
+    59.10782,
+    22.56129
+],
+  "geometry": {"coordinates":[59.10782,22.56129],"type":"Point"}
+}

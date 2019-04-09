@@ -1,0 +1,75 @@
+{
+  "id": 1243046171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.69615,23.79237,56.69615,23.79237",
+    "geom:latitude":23.79237,
+    "geom:longitude":56.69615,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"As Safa",
+    "gn:country_code":"OM",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286668,
+    "gn:latitude":23.79237,
+    "gn:longitude":56.69615,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u015f \u015eaf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u015eaf\u0101\u2019",
+        "A\u015f \u015eaf\u0101",
+        "A\u1e63 \u1e62af\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286668
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cec3f0760a8a164ee43587fc6e89af19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1243046171,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1243046171,
+    "wof:lastmodified":1537676170,
+    "wof:name":"As Safa",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.69615,
+    23.79237,
+    56.69615,
+    23.79237
+],
+  "geometry": {"coordinates":[56.69615,23.79237],"type":"Point"}
+}

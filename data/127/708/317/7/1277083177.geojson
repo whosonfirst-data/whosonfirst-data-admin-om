@@ -1,0 +1,77 @@
+{
+  "id": 1277083177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.4847,23.52135,57.4847,23.52135",
+    "geom:latitude":23.52135,
+    "geom:longitude":57.4847,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Misfah",
+    "gn:country_code":"OM",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287185,
+    "gn:latitude":23.52135,
+    "gn:longitude":57.4847,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Misf\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Misf\u0101h"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0633\u0641\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mizf\u0101r",
+        "Al Misf\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287185
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"51daa722ddf87d5dc3af5677efe4d97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1277083177,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1277083177,
+    "wof:lastmodified":1537676182,
+    "wof:name":"Al Misfah",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.4847,
+    23.52135,
+    57.4847,
+    23.52135
+],
+  "geometry": {"coordinates":[57.4847,23.52135],"type":"Point"}
+}

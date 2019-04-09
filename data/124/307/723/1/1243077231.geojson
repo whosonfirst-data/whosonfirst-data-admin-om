@@ -1,0 +1,70 @@
+{
+  "id": 1243077231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.1334,23.41608,58.1334,23.41608",
+    "geom:latitude":23.41608,
+    "geom:longitude":58.1334,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qurta",
+    "gn:country_code":"OM",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286834,
+    "gn:latitude":23.41608,
+    "gn:longitude":58.1334,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Qur\u0163\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qur\u0163\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286834
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"70949ca7c703989427d966d26e66a1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721067,
+            "locality_id":1243077231,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1243077231,
+    "wof:lastmodified":1537676174,
+    "wof:name":"Qurta",
+    "wof:parent_id":1108721067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.1334,
+    23.41608,
+    58.1334,
+    23.41608
+],
+  "geometry": {"coordinates":[58.1334,23.41608],"type":"Point"}
+}

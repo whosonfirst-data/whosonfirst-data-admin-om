@@ -1,0 +1,75 @@
+{
+  "id": 1326744503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.9157,23.28324,56.9157,23.28324",
+    "geom:latitude":23.28324,
+    "geom:longitude":56.9157,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Hajar",
+    "gn:country_code":"OM",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289252,
+    "gn:latitude":23.28324,
+    "gn:longitude":56.9157,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Hajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Maqn\u012by\u0101t",
+        "Al Hijr",
+        "Al Hajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289252
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0cbebce23613d5382e0b0881166d35a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1326744503,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1326744503,
+    "wof:lastmodified":1537676243,
+    "wof:name":"Al Hajar",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.9157,
+    23.28324,
+    56.9157,
+    23.28324
+],
+  "geometry": {"coordinates":[56.9157,23.28324],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226420773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.50995,24.00589,56.50995,24.00589",
+    "geom:latitude":24.00589,
+    "geom:longitude":56.50995,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khubayfah",
+    "gn:country_code":"OM",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287556,
+    "gn:latitude":24.00589,
+    "gn:longitude":56.50995,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Khubayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u064a\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khabeifa",
+        "Khubaytah",
+        "Al Khubaytah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287556
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2733eb92d8d9a2beb56dcae7f7fded0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1226420773,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1226420773,
+    "wof:lastmodified":1537676192,
+    "wof:name":"Khubayfah",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.50995,
+    24.00589,
+    56.50995,
+    24.00589
+],
+  "geometry": {"coordinates":[56.50995,24.00589],"type":"Point"}
+}

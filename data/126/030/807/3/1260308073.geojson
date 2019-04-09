@@ -1,0 +1,76 @@
+{
+  "id": 1260308073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.77904,23.43046,58.77904,23.43046",
+    "geom:latitude":23.43046,
+    "geom:longitude":58.77904,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"As Sifah",
+    "gn:country_code":"OM",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288966,
+    "gn:latitude":23.43046,
+    "gn:longitude":58.77904,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"As S\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0651\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "S\u012bfah",
+        "As S\u012bfa",
+        "Sifa",
+        "As S\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421185635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288966
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6184d5ebe8798a11e601d9e0761e1775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185635,
+            "locality_id":1260308073,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1260308073,
+    "wof:lastmodified":1537676230,
+    "wof:name":"As Sifah",
+    "wof:parent_id":421185635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.77904,
+    23.43046,
+    58.77904,
+    23.43046
+],
+  "geometry": {"coordinates":[58.77904,23.43046],"type":"Point"}
+}

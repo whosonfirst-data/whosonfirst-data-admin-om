@@ -1,0 +1,75 @@
+{
+  "id": 1293466863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.01423,22.37199,58.01423,22.37199",
+    "geom:latitude":22.37199,
+    "geom:longitude":58.01423,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Abu `Id",
+    "gn:country_code":"OM",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288664,
+    "gn:latitude":22.37199,
+    "gn:longitude":58.01423,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Ab\u016b \u2018\u012ad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bu \u2018Aid",
+        "Bu\u2018ayd",
+        "Ab\u016b \u2018\u012ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288664
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"76d8320fa8802f24fb5e71b954c769e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1293466863,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1293466863,
+    "wof:lastmodified":1537676224,
+    "wof:name":"Abu `Id",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.01423000000001,
+    22.37199,
+    58.01423000000001,
+    22.37199
+],
+  "geometry": {"coordinates":[58.01423000000001,22.37199],"type":"Point"}
+}

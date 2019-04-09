@@ -1,0 +1,75 @@
+{
+  "id": 1209599165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.04263,24.38186,56.04263,24.38186",
+    "geom:latitude":24.38186,
+    "geom:longitude":56.04263,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al `Usaylah",
+    "gn:country_code":"OM",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289106,
+    "gn:latitude":24.38186,
+    "gn:longitude":56.04263,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Al \u2018Usaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0633\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Usaylah",
+        "Al \u2018Usaylah",
+        "Al \u2018Asaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289106
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4abe65bbbcf100ac9c77ab08d730e365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1209599165,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1209599165,
+    "wof:lastmodified":1548974436,
+    "wof:name":"Al `Usaylah",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.04263,
+    24.38186,
+    56.04263,
+    24.38186
+],
+  "geometry": {"coordinates":[56.04263,24.38186],"type":"Point"}
+}

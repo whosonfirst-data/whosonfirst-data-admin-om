@@ -1,0 +1,72 @@
+{
+  "id": 1310027089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.22,26.01861,56.22,26.01861",
+    "geom:latitude":26.01861,
+    "geom:longitude":56.22,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Qanhah",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389904,
+    "gn:latitude":26.01861,
+    "gn:longitude":56.22,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qan\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qanha",
+        "Al Qan\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389904
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6cfe327586cfd062cc1dd25f8d036d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1310027089,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1310027089,
+    "wof:lastmodified":1537676256,
+    "wof:name":"Al Qanhah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.22,
+    26.01861,
+    56.22,
+    26.01861
+],
+  "geometry": {"coordinates":[56.22,26.01861],"type":"Point"}
+}

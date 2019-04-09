@@ -1,0 +1,75 @@
+{
+  "id": 1210011077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.35795,23.54964,56.35795,23.54964",
+    "geom:latitude":23.54964,
+    "geom:longitude":56.35795,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Harat al Hisn",
+    "gn:country_code":"OM",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411821,
+    "gn:latitude":23.54964,
+    "gn:longitude":56.35795,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"\u1e28\u0101rat al \u1e28i\u015fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101rat al-\u1e28i\u015fn",
+        "\u1e28\u0101rat al \u1e28i\u015fn",
+        "\u1e24\u0101rat al Hi\u1e63n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        1108721085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411821
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b87f9011c749b0c142b4d61bb66dab6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721085,
+            "locality_id":1210011077,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1210011077,
+    "wof:lastmodified":1537676273,
+    "wof:name":"Harat al Hisn",
+    "wof:parent_id":1108721085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.35795,
+    23.54964,
+    56.35795,
+    23.54964
+],
+  "geometry": {"coordinates":[56.35795,23.54964],"type":"Point"}
+}

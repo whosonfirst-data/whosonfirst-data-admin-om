@@ -1,0 +1,71 @@
+{
+  "id": 1209215209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.7649,22.17843,59.7649,22.17843",
+    "geom:latitude":22.17843,
+    "geom:longitude":59.7649,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ar Ru'ays",
+    "gn:country_code":"OM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286774,
+    "gn:latitude":22.17843,
+    "gn:longitude":59.7649,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ar Ru\u2019ays",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u2019s ar Ru\u2018ays",
+        "Ar Ru\u2019ays"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286774
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d8b98bbff341a2c9c0e1e5d7a5976bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721071,
+            "locality_id":1209215209,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1209215209,
+    "wof:lastmodified":1548974424,
+    "wof:name":"Ar Ru'ays",
+    "wof:parent_id":1108721071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.7649,
+    22.17843,
+    59.7649,
+    22.17843
+],
+  "geometry": {"coordinates":[59.7649,22.17843],"type":"Point"}
+}

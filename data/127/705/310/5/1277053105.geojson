@@ -1,0 +1,77 @@
+{
+  "id": 1277053105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.68637,22.55116,58.68637,22.55116",
+    "geom:latitude":22.55116,
+    "geom:longitude":58.68637,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Izz",
+    "gn:country_code":"OM",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289223,
+    "gn:latitude":22.55116,
+    "gn:longitude":58.68637,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"\u2018Izz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Izz"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izz",
+        "\u2018Iz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289223
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6ea3164ce8acd761c5be78e4fb09599b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721059,
+            "locality_id":1277053105,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1277053105,
+    "wof:lastmodified":1537676241,
+    "wof:name":"`Izz",
+    "wof:parent_id":1108721059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.68637,
+    22.55116,
+    58.68637,
+    22.55116
+],
+  "geometry": {"coordinates":[58.68637,22.55116],"type":"Point"}
+}

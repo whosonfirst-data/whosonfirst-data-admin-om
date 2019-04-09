@@ -1,0 +1,70 @@
+{
+  "id": 1226320897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.81481,24.27239,56.81481,24.27239",
+    "geom:latitude":24.27239,
+    "geom:longitude":56.81481,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al `Uwaynat",
+    "gn:country_code":"OM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289101,
+    "gn:latitude":24.27239,
+    "gn:longitude":56.81481,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Al \u2018Uwayn\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Uwayn\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289101
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"62ee80a73992ca91773dadd8781a2970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1226320897,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1226320897,
+    "wof:lastmodified":1537676234,
+    "wof:name":"Al `Uwaynat",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.81481,
+    24.27239,
+    56.81481,
+    24.27239
+],
+  "geometry": {"coordinates":[56.81481,24.27239],"type":"Point"}
+}

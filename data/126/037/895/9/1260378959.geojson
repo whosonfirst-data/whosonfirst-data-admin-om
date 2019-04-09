@@ -1,0 +1,71 @@
+{
+  "id": 1260378959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.25195,23.90666,57.25195,23.90666",
+    "geom:latitude":23.90666,
+    "geom:longitude":57.25195,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Diyan Albu Sa`id",
+    "gn:country_code":"OM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288480,
+    "gn:latitude":23.90666,
+    "gn:longitude":57.25195,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"\u1e10iy\u0101n Alb\u016b Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u064a\u0627\u0646 \u0627\u0644\u0628\u0648 \u0633\u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e10iy\u0101n Y\u0101l B\u016b Sa\u2018\u012bd",
+        "\u1e10iy\u0101n Alb\u016b Sa\u2018\u012bd",
+        "\u1e0ciy\u0101n al B\u016bsa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288480
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"5c99669ba4d0ee8b931b88694f01acc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1260378959,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260378959,
+    "wof:lastmodified":1537676219,
+    "wof:name":"Diyan Albu Sa`id",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.25195,
+    23.90666,
+    57.25195,
+    23.90666
+],
+  "geometry": {"coordinates":[57.25195,23.90666],"type":"Point"}
+}

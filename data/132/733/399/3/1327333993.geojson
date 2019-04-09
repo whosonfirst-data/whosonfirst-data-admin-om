@@ -1,0 +1,67 @@
+{
+  "id": 1327333993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.60972,22.11083,59.60972,22.11083",
+    "geom:latitude":22.11083,
+    "geom:longitude":59.60972,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sal",
+    "gn:country_code":"OM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411480,
+    "gn:latitude":22.11083,
+    "gn:longitude":59.60972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411480
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"15636de1d01a1ef202456fff005dcb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721071,
+            "locality_id":1327333993,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1327333993,
+    "wof:lastmodified":1536822022,
+    "wof:name":"Sal",
+    "wof:parent_id":1108721071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.60972,
+    22.11083,
+    59.60972,
+    22.11083
+],
+  "geometry": {"coordinates":[59.60972,22.11083],"type":"Point"}
+}

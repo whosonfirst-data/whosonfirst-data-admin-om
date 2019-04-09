@@ -1,0 +1,75 @@
+{
+  "id": 1293481451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.2722,26.19047,56.2722,26.19047",
+    "geom:latitude":26.19047,
+    "geom:longitude":56.2722,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mabyad",
+    "gn:country_code":"OM",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390338,
+    "gn:latitude":26.19047,
+    "gn:longitude":56.2722,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Mabya\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0628\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "Al Maqayaw",
+        "Mabya\u1e11",
+        "Mab\u012b\u1e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390338
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"5ab7321aacbc15dca1577b53f519ec18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1293481451,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1293481451,
+    "wof:lastmodified":1537676262,
+    "wof:name":"Mabyad",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.2722,
+    26.19047,
+    56.2722,
+    26.19047
+],
+  "geometry": {"coordinates":[56.2722,26.19047],"type":"Point"}
+}

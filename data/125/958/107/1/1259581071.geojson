@@ -1,0 +1,74 @@
+{
+  "id": 1259581071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.33407,17.28977,53.33407,17.28977",
+    "geom:latitude":17.28977,
+    "geom:longitude":53.33407,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Aybut-2",
+    "gn:country_code":"OM",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8700607,
+    "gn:latitude":17.28977,
+    "gn:longitude":53.33407,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"\u2018Ayb\u016bt-2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0628\u0648\u062a 2"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayb\u016bt Ithn\u0101n",
+        "\u2018Ayb\u016bt-2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8700607
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"93b19bdba4d9c7db6020d47752716609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1259581071,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1259581071,
+    "wof:lastmodified":1537676324,
+    "wof:name":"`Aybut-2",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.33407,
+    17.28977,
+    53.33407,
+    17.28977
+],
+  "geometry": {"coordinates":[53.33407,17.28977],"type":"Point"}
+}

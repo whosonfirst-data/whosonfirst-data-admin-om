@@ -1,0 +1,74 @@
+{
+  "id": 1260064583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.61358,23.81439,56.61358,23.81439",
+    "geom:latitude":23.81439,
+    "geom:longitude":56.61358,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Qal`ah",
+    "gn:country_code":"OM",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289139,
+    "gn:latitude":23.81439,
+    "gn:longitude":56.61358,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qala\u2018",
+        "Al Qal\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289139
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1d4ec47672c15b8b49e198eeaa8c900b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1260064583,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1260064583,
+    "wof:lastmodified":1537676236,
+    "wof:name":"Al Qal`ah",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.61358000000001,
+    23.81439,
+    56.61358000000001,
+    23.81439
+],
+  "geometry": {"coordinates":[56.61358000000001,23.81439],"type":"Point"}
+}

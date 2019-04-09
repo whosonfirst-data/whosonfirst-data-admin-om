@@ -1,0 +1,70 @@
+{
+  "id": 1310515615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.14694,23.4175,58.14694,23.4175",
+    "geom:latitude":23.4175,
+    "geom:longitude":58.14694,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nujum",
+    "gn:country_code":"OM",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286979,
+    "gn:latitude":23.4175,
+    "gn:longitude":58.14694,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nuj\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Nuj\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286979
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"45811121983962c919b76ba2373ba80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721067,
+            "locality_id":1310515615,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1310515615,
+    "wof:lastmodified":1537676177,
+    "wof:name":"Nujum",
+    "wof:parent_id":1108721067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.14694,
+    23.4175,
+    58.14694,
+    23.4175
+],
+  "geometry": {"coordinates":[58.14694,23.4175],"type":"Point"}
+}

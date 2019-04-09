@@ -1,0 +1,77 @@
+{
+  "id": 1293876065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.55031,23.2475,58.55031,23.2475",
+    "geom:latitude":23.2475,
+    "geom:longitude":58.55031,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Salfi",
+    "gn:country_code":"OM",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411225,
+    "gn:latitude":23.2475,
+    "gn:longitude":58.55031,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015ealf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sulf\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0644\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u015ealf\u012b",
+        "S\u0101lifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411225
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9ba5fa4de04c46ad6915f8e72590ae55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1293876065,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1293876065,
+    "wof:lastmodified":1537676268,
+    "wof:name":"Salfi",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.55031,
+    23.2475,
+    58.55031,
+    23.2475
+],
+  "geometry": {"coordinates":[58.55031,23.2475],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343654239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.89446,23.21378,58.89446,23.21378",
+    "geom:latitude":23.21378,
+    "geom:longitude":58.89446,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hayy az Zahir",
+    "gn:country_code":"OM",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026264,
+    "gn:latitude":23.21378,
+    "gn:longitude":58.89446,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28ayy az\u0327 Z\u0327\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0627\u0644\u0638\u0627\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayy az\u0327 Z\u0327\u0101hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026264
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f06d7c506917f3ab8c1d7064c121150f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1343654239,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1343654239,
+    "wof:lastmodified":1537676306,
+    "wof:name":"Hayy az Zahir",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.89446,
+    23.21378,
+    58.89446,
+    23.21378
+],
+  "geometry": {"coordinates":[58.89446,23.21378],"type":"Point"}
+}

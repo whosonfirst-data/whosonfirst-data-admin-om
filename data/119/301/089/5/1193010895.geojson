@@ -1,0 +1,67 @@
+{
+  "id": 1193010895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.87109,23.07531,58.87109,23.07531",
+    "geom:latitude":23.07531,
+    "geom:longitude":58.87109,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Minsift",
+    "gn:country_code":"OM",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411279,
+    "gn:latitude":23.07531,
+    "gn:longitude":58.87109,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Minsift",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411279
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fd513e2df05b58dd7b5ad8bca3b13ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1193010895,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1193010895,
+    "wof:lastmodified":1536383633,
+    "wof:name":"Minsift",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.87109,
+    23.07531,
+    58.87109,
+    23.07531
+],
+  "geometry": {"coordinates":[58.87109,23.07531],"type":"Point"}
+}

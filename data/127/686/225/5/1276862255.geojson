@@ -1,0 +1,75 @@
+{
+  "id": 1276862255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.34824,17.48428,53.34824,17.48428",
+    "geom:latitude":17.48428,
+    "geom:longitude":53.34824,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mudayy",
+    "gn:country_code":"OM",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307547,
+    "gn:latitude":17.48428,
+    "gn:longitude":53.34824,
+    "gn:modification_date":"2014-02-15",
+    "gn:name":"Mu\u1e11ayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0636\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e11ayy",
+        "Mdha",
+        "Madha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421184227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307547
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"565af3fc45114fa3f38a276bec54aed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184227,
+            "locality_id":1276862255,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276862255,
+    "wof:lastmodified":1537676309,
+    "wof:name":"Mudayy",
+    "wof:parent_id":421184227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.34824,
+    17.48428,
+    53.34824,
+    17.48428
+],
+  "geometry": {"coordinates":[53.34824,17.48428],"type":"Point"}
+}

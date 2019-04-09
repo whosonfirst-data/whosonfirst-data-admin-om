@@ -1,0 +1,74 @@
+{
+  "id": 1276956641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.56611,23.92091,56.56611,23.92091",
+    "geom:latitude":23.92091,
+    "geom:longitude":56.56611,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hajz",
+    "gn:country_code":"OM",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411832,
+    "gn:latitude":23.92091,
+    "gn:longitude":56.56611,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"\u1e28ajz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062c\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ajz",
+        "\u1e24ajz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411832
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"47d3d2914c3fea0fab7617f3a206aefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1276956641,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276956641,
+    "wof:lastmodified":1537676274,
+    "wof:name":"Hajz",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.56611,
+    23.92091,
+    56.56611,
+    23.92091
+],
+  "geometry": {"coordinates":[56.56611,23.92091],"type":"Point"}
+}

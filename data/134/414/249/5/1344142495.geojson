@@ -1,0 +1,74 @@
+{
+  "id": 1344142495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.55528,17.11806,54.55528,17.11806",
+    "geom:latitude":17.11806,
+    "geom:longitude":54.55528,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"A`tayr",
+    "gn:country_code":"OM",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413409,
+    "gn:latitude":17.11806,
+    "gn:longitude":54.55528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100\u2018tayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0639\u062a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0100\u2018tayr",
+        "A\u2018atayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421186703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413409
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"692bfbf8ebd58eb3c7d8a06d8b65e2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186703,
+            "locality_id":1344142495,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1344142495,
+    "wof:lastmodified":1537676296,
+    "wof:name":"A`tayr",
+    "wof:parent_id":421186703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.55528,
+    17.11806,
+    54.55528,
+    17.11806
+],
+  "geometry": {"coordinates":[54.55528,17.11806],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276990631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.31611,23.12421,58.31611,23.12421",
+    "geom:latitude":23.12421,
+    "geom:longitude":58.31611,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khush",
+    "gn:country_code":"OM",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411989,
+    "gn:latitude":23.12421,
+    "gn:longitude":58.31611,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kh\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kh\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411989
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6f809ecc3f731dd08584d34d4e84d31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721067,
+            "locality_id":1276990631,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1276990631,
+    "wof:lastmodified":1537676279,
+    "wof:name":"Khush",
+    "wof:parent_id":1108721067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.31611,
+    23.12421,
+    58.31611,
+    23.12421
+],
+  "geometry": {"coordinates":[58.31611,23.12421],"type":"Point"}
+}

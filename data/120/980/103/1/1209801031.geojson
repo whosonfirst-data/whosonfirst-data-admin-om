@@ -1,0 +1,74 @@
+{
+  "id": 1209801031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.89832,18.11689,52.89832,18.11689",
+    "geom:latitude":18.11689,
+    "geom:longitude":52.89832,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kubat an Nasr",
+    "gn:country_code":"OM",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287506,
+    "gn:latitude":18.11689,
+    "gn:longitude":52.89832,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"K\u016bbat an Na\u015fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0628\u0629 \u0627\u0644\u0646\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kubbat an Nasr",
+        "Qubbat an Na\u015fr",
+        "K\u016bbat an Na\u015fr",
+        "K\u016bbat an Na\u1e63r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287506
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bf11fa411a28640b2c4e041b16c061c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1209801031,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209801031,
+    "wof:lastmodified":1537676191,
+    "wof:name":"Kubat an Nasr",
+    "wof:parent_id":85675695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.89832,
+    18.11689,
+    52.89832,
+    18.11689
+],
+  "geometry": {"coordinates":[52.89832,18.11689],"type":"Point"}
+}

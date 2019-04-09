@@ -1,0 +1,74 @@
+{
+  "id": 1193159083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.74282,23.28738,58.74282,23.28738",
+    "geom:latitude":23.28738,
+    "geom:longitude":58.74282,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"At Turayf",
+    "gn:country_code":"OM",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026292,
+    "gn:latitude":23.28738,
+    "gn:longitude":58.74282,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"A\u0163 \u0162urayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0651\u0631\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162urayf",
+        "A\u1e6d \u1e6cirayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026292
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cd3c96cd7480c61a9ed64aedd5741e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1193159083,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1193159083,
+    "wof:lastmodified":1537676306,
+    "wof:name":"At Turayf",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.74282,
+    23.28738,
+    58.74282,
+    23.28738
+],
+  "geometry": {"coordinates":[58.74282,23.28738],"type":"Point"}
+}

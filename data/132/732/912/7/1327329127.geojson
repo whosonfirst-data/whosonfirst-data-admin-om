@@ -1,0 +1,70 @@
+{
+  "id": 1327329127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.993,17.03103,53.993,17.03103",
+    "geom:latitude":17.03103,
+    "geom:longitude":53.993,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jarbib Tawq",
+    "gn:country_code":"OM",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8694794,
+    "gn:latitude":17.03103,
+    "gn:longitude":53.993,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Jarb\u012bb Tawq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jarb\u012bb Tawq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694794
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"552eead509ecac9b8fa273cb053aaff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1327329127,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1327329127,
+    "wof:lastmodified":1537676323,
+    "wof:name":"Jarbib Tawq",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.993,
+    17.03103,
+    53.993,
+    17.03103
+],
+  "geometry": {"coordinates":[53.993,17.03103],"type":"Point"}
+}

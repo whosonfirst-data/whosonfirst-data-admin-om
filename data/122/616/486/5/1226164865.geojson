@@ -1,0 +1,70 @@
+{
+  "id": 1226164865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.93305,23.03756,58.93305,23.03756",
+    "geom:latitude":23.03756,
+    "geom:longitude":58.93305,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qa'lat",
+    "gn:country_code":"OM",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411286,
+    "gn:latitude":23.03756,
+    "gn:longitude":58.93305,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Qa\u2019lat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u2019lat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411286
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d48b62a33e3a8f2bed0eefc93b472527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1226164865,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1226164865,
+    "wof:lastmodified":1537676270,
+    "wof:name":"Qa'lat",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.93305,
+    23.03756,
+    58.93305,
+    23.03756
+],
+  "geometry": {"coordinates":[58.93305,23.03756],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242954177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.82528,24.23583,56.82528,24.23583",
+    "geom:latitude":24.23583,
+    "geom:longitude":56.82528,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Baynunah",
+    "gn:country_code":"OM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":412895,
+    "gn:latitude":24.23583,
+    "gn:longitude":56.82528,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bayn\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayn\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412895
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"722ddb59b041605ddd2028826986f0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1242954177,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1242954177,
+    "wof:lastmodified":1537676295,
+    "wof:name":"Baynunah",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.82528000000001,
+    24.23583,
+    56.82528000000001,
+    24.23583
+],
+  "geometry": {"coordinates":[56.82528000000001,24.23583],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309800441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.33285,25.78683,56.33285,25.78683",
+    "geom:latitude":25.78683,
+    "geom:longitude":56.33285,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hall",
+    "gn:country_code":"OM",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412589,
+    "gn:latitude":25.78683,
+    "gn:longitude":56.33285,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u1e28all",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u1e28all",
+        "\u1e24il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412589
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"17f2ff7237be85928bcf8df4089786fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1309800441,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1309800441,
+    "wof:lastmodified":1537676291,
+    "wof:name":"Hall",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.33285,
+    25.78683,
+    56.33285,
+    25.78683
+],
+  "geometry": {"coordinates":[56.33285,25.78683],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209419039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.07968,22.92953,58.07968,22.92953",
+    "geom:latitude":22.92953,
+    "geom:longitude":58.07968,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Washal",
+    "gn:country_code":"OM",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285981,
+    "gn:latitude":22.92953,
+    "gn:longitude":58.07968,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Washal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101shil"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0648\u0634\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Uly\u0101",
+        "Al Washal",
+        "Al Wishal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285981
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bb577a96175799dd361234026d6d120b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1209419039,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1209419039,
+    "wof:lastmodified":1548974432,
+    "wof:name":"Al Washal",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.07968,
+    22.92953,
+    58.07968,
+    22.92953
+],
+  "geometry": {"coordinates":[58.07968,22.92953],"type":"Point"}
+}

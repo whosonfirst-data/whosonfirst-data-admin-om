@@ -1,0 +1,75 @@
+{
+  "id": 1259793149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.99467,23.05803,56.99467,23.05803",
+    "geom:latitude":23.05803,
+    "geom:longitude":56.99467,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mabis",
+    "gn:country_code":"OM",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287448,
+    "gn:latitude":23.05803,
+    "gn:longitude":56.99467,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"M\u0101bi\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0628\u0635"
+    ],
+    "name:und_x_variant":[
+        "M\u0101bi\u015f",
+        "Ma\u2019bas",
+        "M\u0101bi\u1e63"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421189279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287448
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a3b12001d293a7b55a8cdd63edc3a71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189279,
+            "locality_id":1259793149,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1259793149,
+    "wof:lastmodified":1537676189,
+    "wof:name":"Mabis",
+    "wof:parent_id":421189279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.99466999999999,
+    23.05803,
+    56.99466999999999,
+    23.05803
+],
+  "geometry": {"coordinates":[56.99466999999999,23.05803],"type":"Point"}
+}

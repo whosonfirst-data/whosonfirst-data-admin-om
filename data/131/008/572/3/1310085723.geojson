@@ -1,0 +1,74 @@
+{
+  "id": 1310085723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.65281,22.76263,58.65281,22.76263",
+    "geom:latitude":22.76263,
+    "geom:longitude":58.65281,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Haju",
+    "gn:country_code":"OM",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442268,
+    "gn:latitude":22.76263,
+    "gn:longitude":58.65281,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Al \u1e28aj\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062c\u0648"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28aj\u016b",
+        "Al \u1e24aj\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442268
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"aa8c9abd797d42593d2227da2db011d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721059,
+            "locality_id":1310085723,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1310085723,
+    "wof:lastmodified":1537676303,
+    "wof:name":"Al Haju",
+    "wof:parent_id":1108721059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.65281,
+    22.76263,
+    58.65281,
+    22.76263
+],
+  "geometry": {"coordinates":[58.65281,22.76263],"type":"Point"}
+}

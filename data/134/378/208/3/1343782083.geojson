@@ -1,0 +1,74 @@
+{
+  "id": 1343782083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.42284,16.76934,53.42284,16.76934",
+    "geom:latitude":16.76934,
+    "geom:longitude":53.42284,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aqitan",
+    "gn:country_code":"OM",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11556088,
+    "gn:latitude":16.76934,
+    "gn:longitude":53.42284,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Aq\u012b\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0642\u064a\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Aq\u012b\u0163\u0101n",
+        "Aq\u012b\u1e6d\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556088
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"eafea6b2b60323eb8e3e91d3de3d1db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1343782083,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343782083,
+    "wof:lastmodified":1537676325,
+    "wof:name":"Aqitan",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.42284,
+    16.76934,
+    53.42284,
+    16.76934
+],
+  "geometry": {"coordinates":[53.42284,16.76934],"type":"Point"}
+}

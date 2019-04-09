@@ -1,0 +1,70 @@
+{
+  "id": 1209302615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.50803,23.82831,57.50803,23.82831",
+    "geom:latitude":23.82831,
+    "geom:longitude":57.50803,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Biday`uh",
+    "gn:country_code":"OM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288904,
+    "gn:latitude":23.82831,
+    "gn:longitude":57.50803,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Biday\u2018\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u064a\u0639\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "Badaj \u2018Ud",
+        "Bad\u012b\u2018ah \u2018\u016ad",
+        "Bad\u012b\u2018at \u2018\u016ad",
+        "Biday\u2018\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288904
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2215339042d32298f693973a74d6ac07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632207,
+            "locality_id":1209302615
+        }
+    ],
+    "wof:id":1209302615,
+    "wof:lastmodified":1537676228,
+    "wof:name":"Biday`uh",
+    "wof:parent_id":85632207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.50803000000001,
+    23.82831,
+    57.50803000000001,
+    23.82831
+],
+  "geometry": {"coordinates":[57.50803000000001,23.82831],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226339167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.50861,17.08611,54.50861,17.08611",
+    "geom:latitude":17.08611,
+    "geom:longitude":54.50861,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Naid",
+    "gn:country_code":"OM",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413305,
+    "gn:latitude":17.08611,
+    "gn:longitude":54.50861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421186703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413305
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2643e124c4de6e582eb893f560efbaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186703,
+            "locality_id":1226339167,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226339167,
+    "wof:lastmodified":1536799076,
+    "wof:name":"Naid",
+    "wof:parent_id":421186703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.50861,
+    17.08611,
+    54.50861,
+    17.08611
+],
+  "geometry": {"coordinates":[54.50861,17.08611],"type":"Point"}
+}

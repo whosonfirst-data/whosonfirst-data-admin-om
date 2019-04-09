@@ -1,0 +1,77 @@
+{
+  "id": 1293275991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.02669,24.81251,56.02669,24.81251",
+    "geom:latitude":24.81251,
+    "geom:longitude":56.02669,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"As Sanadil",
+    "gn:country_code":"OM",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290748,
+    "gn:latitude":24.81251,
+    "gn:longitude":56.02669,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"As San\u0101dil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dubai",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sin\u0101dil"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0651\u0646\u0627\u062f\u0644"
+    ],
+    "name:und_x_variant":[
+        "As San\u0101dil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290748,
+        "wk:page":"Sinadil"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f27dacd26d05688ca5fa39e621bb7a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1293275991,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1293275991,
+    "wof:lastmodified":1537676251,
+    "wof:name":"As Sanadil",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.02669,
+    24.81251,
+    56.02669,
+    24.81251
+],
+  "geometry": {"coordinates":[56.02669,24.81251],"type":"Point"}
+}

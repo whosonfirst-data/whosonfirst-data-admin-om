@@ -1,0 +1,75 @@
+{
+  "id": 1344048879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.27875,26.19442,56.27875,26.19442",
+    "geom:latitude":26.19442,
+    "geom:longitude":56.27875,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Butaykhi",
+    "gn:country_code":"OM",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391656,
+    "gn:latitude":26.19442,
+    "gn:longitude":56.27875,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Bu\u0163aykh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u064a\u062e\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Ba\u0163aykh\u012b",
+        "Al Bu\u0163aykh\u012b",
+        "Al Bi\u1e6d\u012bkh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391656
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"927fc995e7a29d0e8dae94f004c0e62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1344048879,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1344048879,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Al Butaykhi",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.27875,
+    26.19442,
+    56.27875,
+    26.19442
+],
+  "geometry": {"coordinates":[56.27875,26.19442],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276532633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.62352,23.77953,56.62352,23.77953",
+    "geom:latitude":23.77953,
+    "geom:longitude":56.62352,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Uqayr al `Abriyin",
+    "gn:country_code":"OM",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289188,
+    "gn:latitude":23.77953,
+    "gn:longitude":56.62352,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"\u2018Uqayr al \u2018Abriy\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u064a\u0631 \u0627\u0644\u0639\u0628\u0631\u064a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uqayr",
+        "Al Khayr",
+        "\u2018Uqayr al \u2018Abriy\u012bn",
+        "\u2018Iqayr al \u2018Abriyyin",
+        "Al \u2018Aq\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289188
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"82739ab249214787ae2e6354d94cb09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1276532633,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276532633,
+    "wof:lastmodified":1537676239,
+    "wof:name":"`Uqayr al `Abriyin",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.62351999999999,
+    23.77953,
+    56.62351999999999,
+    23.77953
+],
+  "geometry": {"coordinates":[56.62351999999999,23.77953],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1225849085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.8517,23.14712,57.8517,23.14712",
+    "geom:latitude":23.14712,
+    "geom:longitude":57.8517,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Janah",
+    "gn:country_code":"OM",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287740,
+    "gn:latitude":23.14712,
+    "gn:longitude":57.8517,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Jan\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jin\u0101h"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0646\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jan\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287740
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"78f3c45c81fed55e9f2b8170d313ffb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1225849085,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1225849085,
+    "wof:lastmodified":1537676196,
+    "wof:name":"Al Janah",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.8517,
+    23.14712,
+    57.8517,
+    23.14712
+],
+  "geometry": {"coordinates":[57.8517,23.14712],"type":"Point"}
+}

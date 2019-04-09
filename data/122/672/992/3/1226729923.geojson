@@ -1,0 +1,75 @@
+{
+  "id": 1226729923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.0297,22.41221,58.0297,22.41221",
+    "geom:latitude":22.41221,
+    "geom:longitude":58.0297,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Musalla",
+    "gn:country_code":"OM",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287099,
+    "gn:latitude":22.41221,
+    "gn:longitude":58.0297,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Al Mu\u015fall\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Mu\u015fall\u00e1",
+        "Al Mu\u015fall\u00e1",
+        "Al Mu\u1e63all\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287099
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"95994ab78637c69f5a7f783f20801a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1226729923,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1226729923,
+    "wof:lastmodified":1537676179,
+    "wof:name":"Al Musalla",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.0297,
+    22.41221,
+    58.0297,
+    22.41221
+],
+  "geometry": {"coordinates":[58.0297,22.41221],"type":"Point"}
+}

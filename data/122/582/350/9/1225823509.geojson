@@ -1,0 +1,71 @@
+{
+  "id": 1225823509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.21842,23.65717,57.21842,23.65717",
+    "geom:latitude":23.65717,
+    "geom:longitude":57.21842,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wadiyah al `Ulya'",
+    "gn:country_code":"OM",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285995,
+    "gn:latitude":23.65717,
+    "gn:longitude":57.21842,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Wad\u012byah al \u2018Uly\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wad\u012byat al \u2018Uly\u0101\u2019",
+        "Wad\u012byah al \u2018Uly\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421184219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285995
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b024aab63a0dc9ddf7c10c14f1c67848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184219,
+            "locality_id":1225823509,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1225823509,
+    "wof:lastmodified":1537676151,
+    "wof:name":"Wadiyah al `Ulya'",
+    "wof:parent_id":421184219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.21842,
+    23.65717,
+    57.21842,
+    23.65717
+],
+  "geometry": {"coordinates":[57.21842,23.65717],"type":"Point"}
+}

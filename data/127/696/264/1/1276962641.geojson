@@ -1,0 +1,67 @@
+{
+  "id": 1276962641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.10973,24.64982,56.10973,24.64982",
+    "geom:latitude":24.64982,
+    "geom:longitude":56.10973,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rayy",
+    "gn:country_code":"OM",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286747,
+    "gn:latitude":24.64982,
+    "gn:longitude":56.10973,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286747
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7affef635af50186181d91e6947378a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1276962641,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1276962641,
+    "wof:lastmodified":1536931156,
+    "wof:name":"Rayy",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.10973000000001,
+    24.64982,
+    56.10973000000001,
+    24.64982
+],
+  "geometry": {"coordinates":[56.10973000000001,24.64982],"type":"Point"}
+}

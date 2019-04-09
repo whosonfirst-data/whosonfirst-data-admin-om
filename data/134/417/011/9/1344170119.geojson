@@ -1,0 +1,77 @@
+{
+  "id": 1344170119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.62868,23.19303,57.62868,23.19303",
+    "geom:latitude":23.19303,
+    "geom:longitude":57.62868,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San`a'",
+    "gn:country_code":"OM",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286251,
+    "gn:latitude":23.19303,
+    "gn:longitude":57.62868,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"\u015ean\u2018\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sunn\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0646\u0639\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "\u015ean\u2018\u0101\u2019",
+        "\u1e62an\u2018\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421169317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286251
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c745feac17e3f264ecf30b7e041bf7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421169317,
+            "locality_id":1344170119,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1344170119,
+    "wof:lastmodified":1537676159,
+    "wof:name":"San`a'",
+    "wof:parent_id":421169317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.62868,
+    23.19303,
+    57.62868,
+    23.19303
+],
+  "geometry": {"coordinates":[57.62868,23.19303],"type":"Point"}
+}

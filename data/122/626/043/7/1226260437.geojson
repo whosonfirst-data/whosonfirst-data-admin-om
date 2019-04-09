@@ -1,0 +1,71 @@
+{
+  "id": 1226260437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.03886,23.35587,58.03886,23.35587",
+    "geom:latitude":23.35587,
+    "geom:longitude":58.03886,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Faljat",
+    "gn:country_code":"OM",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288363,
+    "gn:latitude":23.35587,
+    "gn:longitude":58.03886,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Falj\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Firj\u0101t",
+        "Falj\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288363
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"78265bff0864eb566aa84b4fdd291f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1226260437,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1226260437,
+    "wof:lastmodified":1537676214,
+    "wof:name":"Faljat",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.03886,
+    23.35587,
+    58.03886,
+    23.35587
+],
+  "geometry": {"coordinates":[58.03886,23.35587],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293797905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.32743,23.26923,57.32743,23.26923",
+    "geom:latitude":23.26923,
+    "geom:longitude":57.32743,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mabah",
+    "gn:country_code":"OM",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289368,
+    "gn:latitude":23.26923,
+    "gn:longitude":57.32743,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Maba\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0628\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Amba\u1e29",
+        "Maba\u1e29",
+        "Maba\u1e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289368
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e938b2497011a3ff66b0c302db2737a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1293797905,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1293797905,
+    "wof:lastmodified":1537676247,
+    "wof:name":"Mabah",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.32743000000001,
+    23.26923,
+    57.32743000000001,
+    23.26923
+],
+  "geometry": {"coordinates":[57.32743000000001,23.26923],"type":"Point"}
+}

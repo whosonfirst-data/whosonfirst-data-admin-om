@@ -1,0 +1,67 @@
+{
+  "id": 1326711647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.67972,23.7625,56.67972,23.7625",
+    "geom:latitude":23.7625,
+    "geom:longitude":56.67972,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nakhshah",
+    "gn:country_code":"OM",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287019,
+    "gn:latitude":23.7625,
+    "gn:longitude":56.67972,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nakhshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287019
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2768bf036fcdf032722e1a1ca17d86f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1326711647,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1326711647,
+    "wof:lastmodified":1536725833,
+    "wof:name":"Nakhshah",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.67972,
+    23.7625,
+    56.67972,
+    23.7625
+],
+  "geometry": {"coordinates":[56.67972,23.7625],"type":"Point"}
+}

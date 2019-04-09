@@ -1,0 +1,75 @@
+{
+  "id": 1292977969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.04056,22.61802,58.04056,22.61802",
+    "geom:latitude":22.61802,
+    "geom:longitude":58.04056,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Buwaytin",
+    "gn:country_code":"OM",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442255,
+    "gn:latitude":22.61802,
+    "gn:longitude":58.04056,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Buway\u0163in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u064a\u0637\u0646"
+    ],
+    "name:und_x_variant":[
+        "Buwaytin",
+        "Al Buway\u0163in",
+        "Al Buway\u1e6din"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442255
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1425b6acb76ca7ed94d7f630d078400e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1292977969,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1292977969,
+    "wof:lastmodified":1537676303,
+    "wof:name":"Al Buwaytin",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.04056,
+    22.61802,
+    58.04056,
+    22.61802
+],
+  "geometry": {"coordinates":[58.04056,22.61802],"type":"Point"}
+}

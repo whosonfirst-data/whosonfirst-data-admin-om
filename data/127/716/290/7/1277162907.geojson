@@ -1,0 +1,67 @@
+{
+  "id": 1277162907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.68333,17.01667,53.68333,17.01667",
+    "geom:latitude":17.01667,
+    "geom:longitude":53.68333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Urzuq",
+    "gn:country_code":"OM",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286035,
+    "gn:latitude":17.01667,
+    "gn:longitude":53.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Urzuq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286035
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7107d72863662a38a33802171b305f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1277162907,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1277162907,
+    "wof:lastmodified":1536652004,
+    "wof:name":"Urzuq",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.68333000000001,
+    17.01667,
+    53.68333000000001,
+    17.01667
+],
+  "geometry": {"coordinates":[53.68333000000001,17.01667],"type":"Point"}
+}

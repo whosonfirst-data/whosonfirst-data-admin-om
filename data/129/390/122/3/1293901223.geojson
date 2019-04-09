@@ -1,0 +1,71 @@
+{
+  "id": 1293901223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.22674,23.33234,58.22674,23.33234",
+    "geom:latitude":23.33234,
+    "geom:longitude":58.22674,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gharbah",
+    "gn:country_code":"OM",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287157,
+    "gn:latitude":23.33234,
+    "gn:longitude":58.22674,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Gharbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mughrabah",
+        "Gharbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287157
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"86d3909def57c3598f33374c11f3913c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721067,
+            "locality_id":1293901223,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1293901223,
+    "wof:lastmodified":1537676181,
+    "wof:name":"Gharbah",
+    "wof:parent_id":1108721067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.22674,
+    23.33234,
+    58.22674,
+    23.33234
+],
+  "geometry": {"coordinates":[58.22674,23.33234],"type":"Point"}
+}

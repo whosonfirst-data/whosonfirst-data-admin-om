@@ -1,0 +1,75 @@
+{
+  "id": 1259386025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.54022,23.30121,57.54022,23.30121",
+    "geom:latitude":23.30121,
+    "geom:longitude":57.54022,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Wulayja'",
+    "gn:country_code":"OM",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412083,
+    "gn:latitude":23.30121,
+    "gn:longitude":57.54022,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al Wulayj\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0644\u064a\u062c\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Layjah",
+        "Al Wulayj\u0101\u2019",
+        "Al Wilayj\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421169317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412083
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1336f90aa7b077562e398af673db3b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421169317,
+            "locality_id":1259386025,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1259386025,
+    "wof:lastmodified":1537676281,
+    "wof:name":"Al Wulayja'",
+    "wof:parent_id":421169317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.54022,
+    23.30121,
+    57.54022,
+    23.30121
+],
+  "geometry": {"coordinates":[57.54022,23.30121],"type":"Point"}
+}

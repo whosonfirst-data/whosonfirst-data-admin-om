@@ -1,0 +1,75 @@
+{
+  "id": 1309783069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.12071,22.54957,59.12071,22.54957",
+    "geom:latitude":22.54957,
+    "geom:longitude":59.12071,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bad`ah",
+    "gn:country_code":"OM",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412286,
+    "gn:latitude":22.54957,
+    "gn:longitude":59.12071,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Ba\u1e11\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0636\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bi\u1e11\u2018ah",
+        "Ba\u1e11\u2018ah",
+        "Ba\u1e0d\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412286
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a175b6357ae4e7dd050fc2f00f69a60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721089,
+            "locality_id":1309783069,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1309783069,
+    "wof:lastmodified":1537676291,
+    "wof:name":"Bad`ah",
+    "wof:parent_id":1108721089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.12071,
+    22.54957000000001,
+    59.12071,
+    22.54957000000001
+],
+  "geometry": {"coordinates":[59.12071,22.54957000000001],"type":"Point"}
+}

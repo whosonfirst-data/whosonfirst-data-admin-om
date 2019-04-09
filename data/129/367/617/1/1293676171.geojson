@@ -1,0 +1,75 @@
+{
+  "id": 1293676171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.16096,22.52417,58.16096,22.52417",
+    "geom:latitude":22.52417,
+    "geom:longitude":58.16096,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"As Suhayli",
+    "gn:country_code":"OM",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442262,
+    "gn:latitude":22.52417,
+    "gn:longitude":58.16096,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"As Suhayl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0647\u064a\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Sahayl\u012b",
+        "As Suhayl\u012b",
+        "As Sihayl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442262
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9917208a3ecece9eeec112bd4eb72d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1293676171,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1293676171,
+    "wof:lastmodified":1537676303,
+    "wof:name":"As Suhayli",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.16096,
+    22.52417,
+    58.16096,
+    22.52417
+],
+  "geometry": {"coordinates":[58.16096,22.52417],"type":"Point"}
+}

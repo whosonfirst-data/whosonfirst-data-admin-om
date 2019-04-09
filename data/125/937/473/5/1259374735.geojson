@@ -1,0 +1,70 @@
+{
+  "id": 1259374735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.36972,26.27528,56.36972,26.27528",
+    "geom:latitude":26.27528,
+    "geom:longitude":56.36972,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bidi",
+    "gn:country_code":"OM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391661,
+    "gn:latitude":26.27528,
+    "gn:longitude":56.36972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bid\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bid\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391661
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ca653a0e19b10bea8c6ae12401a335d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1259374735,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1259374735,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Bidi",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.36972,
+    26.27528,
+    56.36972,
+    26.27528
+],
+  "geometry": {"coordinates":[56.36972,26.27528],"type":"Point"}
+}

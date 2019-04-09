@@ -1,0 +1,76 @@
+{
+  "id": 1243240651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.21303,22.38548,58.21303,22.38548",
+    "geom:latitude":22.38548,
+    "geom:longitude":58.21303,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Aflaj",
+    "gn:country_code":"OM",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289415,
+    "gn:latitude":22.38548,
+    "gn:longitude":58.21303,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Al Afl\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Afl\u0101j"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0641\u0644\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Al Afl\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289415
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1e3724f5baf921e96cf36c0cc2941a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1243240651,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1243240651,
+    "wof:lastmodified":1537676249,
+    "wof:name":"Al Aflaj",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.21303,
+    22.38548,
+    58.21303,
+    22.38548
+],
+  "geometry": {"coordinates":[58.21303,22.38548],"type":"Point"}
+}

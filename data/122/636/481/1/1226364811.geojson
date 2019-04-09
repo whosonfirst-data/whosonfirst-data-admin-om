@@ -1,0 +1,80 @@
+{
+  "id": 1226364811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.24219,16.70403,53.24219,16.70403",
+    "geom:latitude":16.70403,
+    "geom:longitude":53.24219,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dalkut",
+    "gn:country_code":"OM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286141,
+    "gn:latitude":16.70403,
+    "gn:longitude":53.24219,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"\u1e10alk\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0644\u0643\u0648\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0638\u0644\u0643\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Dhalqut",
+        "Thalf\u016bt",
+        "\u1e10alk\u016bt",
+        "\u1e0calk\u016bt",
+        "Z\u0327alk\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286141
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6f639850da800a603a7e111a83f91353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189277,
+            "locality_id":1226364811,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226364811,
+    "wof:lastmodified":1537676155,
+    "wof:name":"Dalkut",
+    "wof:parent_id":421189277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.24219,
+    16.70403,
+    53.24219,
+    16.70403
+],
+  "geometry": {"coordinates":[53.24219,16.70403],"type":"Point"}
+}

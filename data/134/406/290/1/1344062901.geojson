@@ -1,0 +1,73 @@
+{
+  "id": 1344062901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.73396,20.41572,58.73396,20.41572",
+    "geom:latitude":20.41572,
+    "geom:longitude":58.73396,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sur Masirah",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286228,
+    "gn:latitude":20.41572,
+    "gn:longitude":58.73396,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u015e\u016br Ma\u015f\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u016br al-Ma\u015f\u012brah",
+        "Masirah",
+        "Sur-i-Masira",
+        "\u015e\u016br Ma\u015f\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286228
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0fdb183a7263954215cc3256722e45c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175631,
+            "locality_id":1344062901,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1344062901,
+    "wof:lastmodified":1537676158,
+    "wof:name":"Sur Masirah",
+    "wof:parent_id":421175631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.73396,
+    20.41572,
+    58.73396,
+    20.41572
+],
+  "geometry": {"coordinates":[58.73396,20.41572],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260204883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.31879,25.75748,56.31879,25.75748",
+    "geom:latitude":25.75748,
+    "geom:longitude":56.31879,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Haffah",
+    "gn:country_code":"OM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288179,
+    "gn:latitude":25.75748,
+    "gn:longitude":56.31879,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u1e28affah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28affah",
+        "\u1e24affah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288179
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4f60cb45ac1979c72a6c3aefc92fe602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1260204883,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260204883,
+    "wof:lastmodified":1537676208,
+    "wof:name":"Haffah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.31879,
+    25.75748,
+    56.31879,
+    25.75748
+],
+  "geometry": {"coordinates":[56.31879,25.75748],"type":"Point"}
+}

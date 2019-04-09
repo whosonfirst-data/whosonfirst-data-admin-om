@@ -1,0 +1,72 @@
+{
+  "id": 1293505057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.01417,23.49306,57.01417,23.49306",
+    "geom:latitude":23.49306,
+    "geom:longitude":57.01417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Minzifah",
+    "gn:country_code":"OM",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287221,
+    "gn:latitude":23.49306,
+    "gn:longitude":57.01417,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Al Minzifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minzafah",
+        "Minzifah",
+        "Al Minzifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287221
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a8fd3b7fd4028d6ffc5394989824a052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1293505057,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1293505057,
+    "wof:lastmodified":1537676183,
+    "wof:name":"Al Minzifah",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.01416999999999,
+    23.49306,
+    57.01416999999999,
+    23.49306
+],
+  "geometry": {"coordinates":[57.01416999999999,23.49306],"type":"Point"}
+}

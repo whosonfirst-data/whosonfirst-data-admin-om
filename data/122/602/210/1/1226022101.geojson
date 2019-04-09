@@ -1,0 +1,75 @@
+{
+  "id": 1226022101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.53457,22.69091,58.53457,22.69091",
+    "geom:latitude":22.69091,
+    "geom:longitude":58.53457,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Qanatir",
+    "gn:country_code":"OM",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442275,
+    "gn:latitude":22.69091,
+    "gn:longitude":58.53457,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Al Qan\u0101\u0163ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0646\u0627\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qan\u0101\u0163ir",
+        "Al Qan\u0101\u0163ir",
+        "Al Qan\u0101\u1e6dir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442275
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d685dab6f5b1a606fae27c48d24bbb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721051,
+            "locality_id":1226022101,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1226022101,
+    "wof:lastmodified":1537676304,
+    "wof:name":"Al Qanatir",
+    "wof:parent_id":1108721051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.53457,
+    22.69091,
+    58.53457,
+    22.69091
+],
+  "geometry": {"coordinates":[58.53457,22.69091],"type":"Point"}
+}

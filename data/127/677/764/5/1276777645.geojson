@@ -1,0 +1,70 @@
+{
+  "id": 1276777645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.05,23.1,57.05,23.1",
+    "geom:latitude":23.1,
+    "geom:longitude":57.05,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Raf`ah",
+    "gn:country_code":"OM",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286812,
+    "gn:latitude":23.1,
+    "gn:longitude":57.05,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Raf\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raf\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421189279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286812
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"897d4db330787c36cb993a00a04dddbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189279,
+            "locality_id":1276777645,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1276777645,
+    "wof:lastmodified":1537676174,
+    "wof:name":"Raf`ah",
+    "wof:parent_id":421189279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.05,
+    23.1,
+    57.05,
+    23.1
+],
+  "geometry": {"coordinates":[57.05,23.1],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209825051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.0325,23.39333,57.0325,23.39333",
+    "geom:latitude":23.39333,
+    "geom:longitude":57.0325,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mawiyah",
+    "gn:country_code":"OM",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287267,
+    "gn:latitude":23.39333,
+    "gn:longitude":57.0325,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Maw\u012by\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maw\u012by\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287267
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e4cd573f459c775c5ab3aeecf55a1a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1209825051,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1209825051,
+    "wof:lastmodified":1537676184,
+    "wof:name":"Mawiyah",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.0325,
+    23.39333,
+    57.0325,
+    23.39333
+],
+  "geometry": {"coordinates":[57.0325,23.39333],"type":"Point"}
+}

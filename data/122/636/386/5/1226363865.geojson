@@ -1,0 +1,75 @@
+{
+  "id": 1226363865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21577,26.13906,56.21577,26.13906",
+    "geom:latitude":26.13906,
+    "geom:longitude":56.21577,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Qarat az Zinji",
+    "gn:country_code":"OM",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388696,
+    "gn:latitude":26.13906,
+    "gn:longitude":56.21577,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Q\u0101rat az Zinj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0631\u0629 \u0627\u0644\u0632\u0651\u0646\u062c\u064a"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101rat az Zing\u012b",
+        "Q\u0101rat az Zunj\u012b",
+        "Q\u0101rat az Zinj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388696
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7af6be6c4c555931f2451f435978ab7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1226363865,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1226363865,
+    "wof:lastmodified":1537676254,
+    "wof:name":"Qarat az Zinji",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21576999999999,
+    26.13906,
+    56.21576999999999,
+    26.13906
+],
+  "geometry": {"coordinates":[56.21576999999999,26.13906],"type":"Point"}
+}

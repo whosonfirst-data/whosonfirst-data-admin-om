@@ -1,0 +1,76 @@
+{
+  "id": 1242597635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.39063,17.04826,54.39063,17.04826",
+    "geom:latitude":17.04826,
+    "geom:longitude":54.39063,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taqah",
+    "gn:country_code":"OM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286188,
+    "gn:latitude":17.04826,
+    "gn:longitude":54.39063,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u0162\u0101qah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At T\u0101qa",
+        "Taqa",
+        "Taga",
+        "Takah",
+        "Thaka",
+        "\u0162\u0101qah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286188,
+        "wk:page":"Taqah"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6dea84bebd9bc11a7aad40828c09a91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1242597635,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1242597635,
+    "wof:lastmodified":1537676157,
+    "wof:name":"Taqah",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.39063,
+    17.04826,
+    54.39063,
+    17.04826
+],
+  "geometry": {"coordinates":[54.39063,17.04826],"type":"Point"}
+}

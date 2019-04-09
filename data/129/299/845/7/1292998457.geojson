@@ -1,0 +1,82 @@
+{
+  "id": 1292998457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.63915,23.54959,58.63915,23.54959",
+    "geom:latitude":23.54959,
+    "geom:longitude":58.63915,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Jissah",
+    "gn:country_code":"OM",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288885,
+    "gn:latitude":23.54959,
+    "gn:longitude":58.63915,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Ji\u015f\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0635\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jissah",
+        "Al Ji\u015f\u015fah",
+        "Al Jissa",
+        "Bandar al Jissa",
+        "Bandar Ji\u015f\u015fah",
+        "Bunder Jissa",
+        "Bandar Jissah",
+        "Bundar Jissah",
+        "Al Ji\u1e63\u1e63ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421185635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288885,
+        "wk:page":"Bandar_Jissah"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1c4126cc01c511833446b9cc07c5be37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185635,
+            "locality_id":1292998457,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1292998457,
+    "wof:lastmodified":1537676228,
+    "wof:name":"Al Jissah",
+    "wof:parent_id":421185635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.63915,
+    23.54959,
+    58.63915,
+    23.54959
+],
+  "geometry": {"coordinates":[58.63915,23.54959],"type":"Point"}
+}

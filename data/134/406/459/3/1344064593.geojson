@@ -1,0 +1,71 @@
+{
+  "id": 1344064593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.11667,20.88333,56.11667,20.88333",
+    "geom:latitude":20.88333,
+    "geom:longitude":56.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Haylat La'mia",
+    "gn:country_code":"OM",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287949,
+    "gn:latitude":20.88333,
+    "gn:longitude":56.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haylat La\u2019mia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hailat La\u2018mia",
+        "Haylat La\u2019mia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675685,
+        421189283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287949
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c9bded08726f45f4a658c4b8518cbef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189283,
+            "locality_id":1344064593,
+            "region_id":85675685
+        }
+    ],
+    "wof:id":1344064593,
+    "wof:lastmodified":1537676201,
+    "wof:name":"Haylat La'mia",
+    "wof:parent_id":421189283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.11666999999999,
+    20.88333,
+    56.11666999999999,
+    20.88333
+],
+  "geometry": {"coordinates":[56.11666999999999,20.88333],"type":"Point"}
+}

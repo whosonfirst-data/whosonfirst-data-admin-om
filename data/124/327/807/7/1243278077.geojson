@@ -1,0 +1,70 @@
+{
+  "id": 1243278077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.52819,23.02097,57.52819,23.02097",
+    "geom:latitude":23.02097,
+    "geom:longitude":57.52819,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Abyad",
+    "gn:country_code":"OM",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289384,
+    "gn:latitude":23.02097,
+    "gn:longitude":57.52819,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Abya\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Abya\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289384
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"200780487a122c11b90161da398a6428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1243278077,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1243278077,
+    "wof:lastmodified":1537676249,
+    "wof:name":"Al Abyad",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.52819,
+    23.02097,
+    57.52819,
+    23.02097
+],
+  "geometry": {"coordinates":[57.52819,23.02097],"type":"Point"}
+}

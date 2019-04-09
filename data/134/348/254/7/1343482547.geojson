@@ -1,0 +1,76 @@
+{
+  "id": 1343482547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.20653,26.23181,56.20653,26.23181",
+    "geom:latitude":26.23181,
+    "geom:longitude":56.20653,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Harf",
+    "gn:country_code":"OM",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388466,
+    "gn:latitude":26.23181,
+    "gn:longitude":56.20653,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al \u1e28arf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u1e28arf",
+        "\u1e28arf Ghab\u012b",
+        "Al \u1e28arf",
+        "Al \u1e24arf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388466
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0c88e2a5f11e52d2384f2acef602a6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1343482547,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1343482547,
+    "wof:lastmodified":1537676252,
+    "wof:name":"Al Harf",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.20653000000001,
+    26.23181,
+    56.20653000000001,
+    26.23181
+],
+  "geometry": {"coordinates":[56.20653000000001,26.23181],"type":"Point"}
+}

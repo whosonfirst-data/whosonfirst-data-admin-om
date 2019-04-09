@@ -1,0 +1,72 @@
+{
+  "id": 1343561503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.46533,22.61191,59.46533,22.61191",
+    "geom:latitude":22.61191,
+    "geom:longitude":59.46533,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Barr Buwayrah",
+    "gn:country_code":"OM",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288679,
+    "gn:latitude":22.61191,
+    "gn:longitude":59.46533,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Barr Buwayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bi\u2019r Bir\u0101\u2019"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631 \u0628\u0648\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bar Buwayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288679
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f5d2b8d9cd172e985c1a0bd4d7d208c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343561503,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343561503,
+    "wof:lastmodified":1537676225,
+    "wof:name":"Barr Buwayrah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.46533,
+    22.61191,
+    59.46533,
+    22.61191
+],
+  "geometry": {"coordinates":[59.46533,22.61191],"type":"Point"}
+}

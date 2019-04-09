@@ -1,0 +1,74 @@
+{
+  "id": 1209997759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.55417,23.91643,56.55417,23.91643",
+    "geom:latitude":23.91643,
+    "geom:longitude":56.55417,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Haybi",
+    "gn:country_code":"OM",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287993,
+    "gn:latitude":23.91643,
+    "gn:longitude":56.55417,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"\u1e28ayb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayb\u012b",
+        "\u1e24\u012bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287993
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0bd757bd3be2028b6e3ac44c2a8c55f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1209997759,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1209997759,
+    "wof:lastmodified":1537676204,
+    "wof:name":"Haybi",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.55416999999999,
+    23.91643,
+    56.55416999999999,
+    23.91643
+],
+  "geometry": {"coordinates":[56.55416999999999,23.91643],"type":"Point"}
+}

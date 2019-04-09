@@ -1,0 +1,70 @@
+{
+  "id": 1309726381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.04528,23.2525,57.04528,23.2525",
+    "geom:latitude":23.2525,
+    "geom:longitude":57.04528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Jil",
+    "gn:country_code":"OM",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289211,
+    "gn:latitude":23.2525,
+    "gn:longitude":57.04528,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Al J\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al J\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289211
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"5ea55d03554fe153a2cdea932c40cdb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1309726381,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1309726381,
+    "wof:lastmodified":1537676241,
+    "wof:name":"Al Jil",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.04528000000001,
+    23.2525,
+    57.04528000000001,
+    23.2525
+],
+  "geometry": {"coordinates":[57.04528000000001,23.2525],"type":"Point"}
+}

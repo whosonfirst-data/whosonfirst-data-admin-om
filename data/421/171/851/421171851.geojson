@@ -1,0 +1,77 @@
+{
+  "id": 421171851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.06506,17.01505,54.06506,17.01505",
+    "geom:latitude":17.01505,
+    "geom:longitude":54.06506,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"OM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":7630473,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u0648\u0627\u062f\u064a",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0638\u0641\u0627\u0631",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1269840,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":55926233,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        421200939,
+        85675695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630473,
+        "gp:id":55926233,
+        "qs:id":1269840
+    },
+    "wof:country":"OM",
+    "wof:created":1459008909,
+    "wof:geomhash":"80732bfc85db1fb154b46d04ac50de65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":-1,
+            "neighbourhood_id":421171851,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":421171851,
+    "wof:lastmodified":1531858368,
+    "wof:name":"\u0627\u0644\u0648\u0627\u062f\u064a",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.06506,
+    17.01505,
+    54.06506,
+    17.01505
+],
+  "geometry": {"coordinates":[54.06506,17.01505],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310515591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.03222,23.30139,58.03222,23.30139",
+    "geom:latitude":23.30139,
+    "geom:longitude":58.03222,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ghubrah",
+    "gn:country_code":"OM",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411961,
+    "gn:latitude":23.30139,
+    "gn:longitude":58.03222,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ghubrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411961
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"49f8e10372691465ace8e1fbe2e6246c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1310515591,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1310515591,
+    "wof:lastmodified":1536902364,
+    "wof:name":"Ghubrah",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.03222,
+    23.30139,
+    58.03222,
+    23.30139
+],
+  "geometry": {"coordinates":[58.03222,23.30139],"type":"Point"}
+}

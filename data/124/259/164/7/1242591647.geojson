@@ -1,0 +1,75 @@
+{
+  "id": 1242591647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.72775,22.80923,57.72775,22.80923",
+    "geom:latitude":22.80923,
+    "geom:longitude":57.72775,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Habil al Hadid",
+    "gn:country_code":"OM",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288200,
+    "gn:latitude":22.80923,
+    "gn:longitude":57.72775,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"\u1e28abil al \u1e28ad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u0644 \u0627\u0644\u062d\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28abl \u1e28ad\u012bd",
+        "\u1e28abil al \u1e28ad\u012bd",
+        "\u1e24abl al \u1e24ad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288200
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"31c1db46ffb7dfd3011d48c14d318dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721055,
+            "locality_id":1242591647,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1242591647,
+    "wof:lastmodified":1537676209,
+    "wof:name":"Habil al Hadid",
+    "wof:parent_id":1108721055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.72775,
+    22.80923,
+    57.72775,
+    22.80923
+],
+  "geometry": {"coordinates":[57.72775,22.80923],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259503541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.3819,17.13216,54.3819,17.13216",
+    "geom:latitude":17.13216,
+    "geom:longitude":54.3819,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Azkhar",
+    "gn:country_code":"OM",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558738,
+    "gn:latitude":17.13216,
+    "gn:longitude":54.3819,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Azkhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0632\u062e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558738
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9fce6dfa839663370290daddd56a1135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1259503541,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1259503541,
+    "wof:lastmodified":1537676313,
+    "wof:name":"Azkhar",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.3819,
+    17.13216,
+    54.3819,
+    17.13216
+],
+  "geometry": {"coordinates":[54.3819,17.13216],"type":"Point"}
+}

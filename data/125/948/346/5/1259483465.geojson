@@ -1,0 +1,75 @@
+{
+  "id": 1259483465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.28802,22.64194,59.28802,22.64194",
+    "geom:latitude":22.64194,
+    "geom:longitude":59.28802,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Safan",
+    "gn:country_code":"OM",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412278,
+    "gn:latitude":22.64194,
+    "gn:longitude":59.28802,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"\u015eafan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sufun",
+        "\u015eafan",
+        "\u1e62ifin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412278
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"82529bcbb8cb544c444a82a0724377e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1259483465,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1259483465,
+    "wof:lastmodified":1537676290,
+    "wof:name":"Safan",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.28802,
+    22.64194,
+    59.28802,
+    22.64194
+],
+  "geometry": {"coordinates":[59.28802,22.64194],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360106197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.1744,26.09159,56.1744,26.09159",
+    "geom:latitude":26.09159,
+    "geom:longitude":56.1744,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"At Taburah",
+    "gn:country_code":"OM",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389892,
+    "gn:latitude":26.09159,
+    "gn:longitude":56.1744,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"At Tab\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0628\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tabura",
+        "Tab\u016brah",
+        "At Tab\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389892
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c4608f65dfcf0d43a4dcfd57836ca15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1360106197,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1360106197,
+    "wof:lastmodified":1537676255,
+    "wof:name":"At Taburah",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.1744,
+    26.09159,
+    56.1744,
+    26.09159
+],
+  "geometry": {"coordinates":[56.1744,26.09159],"type":"Point"}
+}

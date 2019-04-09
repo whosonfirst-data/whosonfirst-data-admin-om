@@ -1,0 +1,73 @@
+{
+  "id": 1343848823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.28845,16.81158,53.28845,16.81158",
+    "geom:latitude":16.81158,
+    "geom:longitude":53.28845,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Assitat",
+    "gn:country_code":"OM",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7792315,
+    "gn:latitude":16.81158,
+    "gn:longitude":53.28845,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"A\u015f\u015fit\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u015f\u015fit\u0101t"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0635\u062a\u0627\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792315
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7cb91c83d8b6aeb0675af3385a4c2b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1343848823,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343848823,
+    "wof:lastmodified":1537676305,
+    "wof:name":"Assitat",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.28845,
+    16.81158,
+    53.28845,
+    16.81158
+],
+  "geometry": {"coordinates":[53.28845,16.81158],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327355849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.97572,17.10093,53.97572,17.10093",
+    "geom:latitude":17.10093,
+    "geom:longitude":53.97572,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Adhub",
+    "gn:country_code":"OM",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8694790,
+    "gn:latitude":17.10093,
+    "gn:longitude":53.97572,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Adh\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Adh\u016bb"
+    ],
+    "name:ara_x_variant":[
+        "\u0625\u0630\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Idhawb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694790
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1888c178351fa941a90025f6517a38bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1327355849,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1327355849,
+    "wof:lastmodified":1537676322,
+    "wof:name":"Adhub",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.97572,
+    17.10093,
+    53.97572,
+    17.10093
+],
+  "geometry": {"coordinates":[53.97572,17.10093],"type":"Point"}
+}

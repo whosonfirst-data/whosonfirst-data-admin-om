@@ -1,0 +1,75 @@
+{
+  "id": 1209733373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.96194,23.04556,57.96194,23.04556",
+    "geom:latitude":23.04556,
+    "geom:longitude":57.96194,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Mudayrah",
+    "gn:country_code":"OM",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412168,
+    "gn:latitude":23.04556,
+    "gn:longitude":57.96194,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al Mudayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mudirah",
+        "Al Mudayrah",
+        "Al Midayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412168
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"31d076cb8d6a1899f22dda22701967f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1209733373,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1209733373,
+    "wof:lastmodified":1537676286,
+    "wof:name":"Al Mudayrah",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.96194000000001,
+    23.04556,
+    57.96194000000001,
+    23.04556
+],
+  "geometry": {"coordinates":[57.96194000000001,23.04556],"type":"Point"}
+}

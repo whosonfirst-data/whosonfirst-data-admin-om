@@ -1,0 +1,76 @@
+{
+  "id": 1209410447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.31814,24.19098,56.31814,24.19098",
+    "geom:latitude":24.19098,
+    "geom:longitude":56.31814,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sahban",
+    "gn:country_code":"OM",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286645,
+    "gn:latitude":24.19098,
+    "gn:longitude":56.31814,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"\u015eahb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0647\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sahiban",
+        "Sahb\u0101n",
+        "\u015eahb\u0101n",
+        "\u1e62ahb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286645
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7010d1d00b079a3d5f25e5cc47368bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1209410447,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1209410447,
+    "wof:lastmodified":1548974427,
+    "wof:name":"Sahban",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.31814,
+    24.19098,
+    56.31814,
+    24.19098
+],
+  "geometry": {"coordinates":[56.31814,24.19098],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310102419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21395,26.22893,56.21395,26.22893",
+    "geom:latitude":26.22893,
+    "geom:longitude":56.21395,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hanna",
+    "gn:country_code":"OM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288089,
+    "gn:latitude":26.22893,
+    "gn:longitude":56.21395,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u1e28ann\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0646\u0651\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28anah",
+        "\u1e28an\u0101",
+        "\u1e28ann\u0101",
+        "\u1e24ann\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288089
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1a608c5794060724856b0591a4522eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1310102419,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1310102419,
+    "wof:lastmodified":1537676206,
+    "wof:name":"Hanna",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21395,
+    26.22893,
+    56.21395,
+    26.22893
+],
+  "geometry": {"coordinates":[56.21395,26.22893],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209106687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.61667,22.55625,59.61667,22.55625",
+    "geom:latitude":22.55625,
+    "geom:longitude":59.61667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shiya`",
+    "gn:country_code":"OM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411465,
+    "gn:latitude":22.55625,
+    "gn:longitude":59.61667,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Shiy\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shiy\u0101\u2019"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Shiy\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411465
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cf57cb12c7231aeecff91e7f6f533e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1209106687,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1209106687,
+    "wof:lastmodified":1548974420,
+    "wof:name":"Shiya`",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.61666999999999,
+    22.55625,
+    59.61666999999999,
+    22.55625
+],
+  "geometry": {"coordinates":[59.61666999999999,22.55625],"type":"Point"}
+}

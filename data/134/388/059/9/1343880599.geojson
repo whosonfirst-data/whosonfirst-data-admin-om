@@ -1,0 +1,75 @@
+{
+  "id": 1343880599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.59839,23.30207,58.59839,23.30207",
+    "geom:latitude":23.30207,
+    "geom:longitude":58.59839,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lamdam",
+    "gn:country_code":"OM",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411213,
+    "gn:latitude":23.30207,
+    "gn:longitude":58.59839,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Lamd\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0645\u062f\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Madam",
+        "Lamd\u0101m",
+        "Limd\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411213
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"56ac10337d89e156700a325d3a0203a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1343880599,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1343880599,
+    "wof:lastmodified":1537676267,
+    "wof:name":"Lamdam",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.59839,
+    23.30207,
+    58.59839,
+    23.30207
+],
+  "geometry": {"coordinates":[58.59839,23.30207],"type":"Point"}
+}

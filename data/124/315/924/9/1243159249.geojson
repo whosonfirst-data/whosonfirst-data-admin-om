@@ -1,0 +1,75 @@
+{
+  "id": 1243159249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.29274,22.98678,58.29274,22.98678",
+    "geom:latitude":22.98678,
+    "geom:longitude":58.29274,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Wariyah",
+    "gn:country_code":"OM",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442251,
+    "gn:latitude":22.98678,
+    "gn:longitude":58.29274,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al W\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "W\u0101riyah",
+        "Al W\u0101r\u012byah",
+        "Al W\u0101ryah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442251
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f88e579860a3c90d5e9ec72268fe9ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1243159249,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1243159249,
+    "wof:lastmodified":1537676302,
+    "wof:name":"Al Wariyah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.29274,
+    22.98678,
+    58.29274,
+    22.98678
+],
+  "geometry": {"coordinates":[58.29274,22.98678],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193266363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.84869,23.76832,56.84869,23.76832",
+    "geom:latitude":23.76832,
+    "geom:longitude":56.84869,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Furfar",
+    "gn:country_code":"OM",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288335,
+    "gn:latitude":23.76832,
+    "gn:longitude":56.84869,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Furf\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Furf\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0631\u0641\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Furfur",
+        "Al Furf\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288335
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b36cc18c3771b6969aff37af67faec8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1193266363,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1193266363,
+    "wof:lastmodified":1537676213,
+    "wof:name":"Al Furfar",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.84869000000001,
+    23.76832000000001,
+    56.84869000000001,
+    23.76832000000001
+],
+  "geometry": {"coordinates":[56.84869000000001,23.76832000000001],"type":"Point"}
+}

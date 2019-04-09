@@ -1,0 +1,73 @@
+{
+  "id": 1360079571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.38833,26.03944,56.38833,26.03944",
+    "geom:latitude":26.03944,
+    "geom:longitude":56.38833,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"`Amis",
+    "gn:country_code":"OM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390379,
+    "gn:latitude":26.03944,
+    "gn:longitude":56.38833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Am\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Am\u012bs"
+    ],
+    "name:und_x_variant":[
+        "Aimus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390379
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"51b65593f078099a29c6899bc45b1645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1360079571,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1360079571,
+    "wof:lastmodified":1537676263,
+    "wof:name":"`Amis",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.38833,
+    26.03944,
+    56.38833,
+    26.03944
+],
+  "geometry": {"coordinates":[56.38833,26.03944],"type":"Point"}
+}

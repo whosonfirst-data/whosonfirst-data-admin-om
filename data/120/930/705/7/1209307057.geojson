@@ -1,0 +1,70 @@
+{
+  "id": 1209307057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.75165,23.27626,58.75165,23.27626",
+    "geom:latitude":23.27626,
+    "geom:longitude":58.75165,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mazra`at al Hatih",
+    "gn:country_code":"OM",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411217,
+    "gn:latitude":23.27626,
+    "gn:longitude":58.75165,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mazra\u2018at al H\u0101tih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at al H\u0101tih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411217
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f1f374136e6d148cb9e09955aed4182c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1209307057,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1209307057,
+    "wof:lastmodified":1548974426,
+    "wof:name":"Mazra`at al Hatih",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.75165,
+    23.27626,
+    58.75165,
+    23.27626
+],
+  "geometry": {"coordinates":[58.75165,23.27626],"type":"Point"}
+}

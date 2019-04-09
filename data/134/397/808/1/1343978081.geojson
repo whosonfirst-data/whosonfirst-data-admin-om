@@ -1,0 +1,73 @@
+{
+  "id": 1343978081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.46259,17.17494,54.46259,17.17494",
+    "geom:latitude":17.17494,
+    "geom:longitude":54.46259,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jilawb",
+    "gn:country_code":"OM",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558680,
+    "gn:latitude":17.17494,
+    "gn:longitude":54.46259,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"J\u012blawb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0644\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "J\u012blawb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558680
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fc12f7c9a990db4b4b3242bab87973b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1343978081,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343978081,
+    "wof:lastmodified":1537676311,
+    "wof:name":"Jilawb",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.46259000000001,
+    17.17494,
+    54.46259000000001,
+    17.17494
+],
+  "geometry": {"coordinates":[54.46259000000001,17.17494],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276248801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.27292,16.78408,53.27292,16.78408",
+    "geom:latitude":16.78408,
+    "geom:longitude":53.27292,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Madhhub",
+    "gn:country_code":"OM",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7791970,
+    "gn:latitude":16.78408,
+    "gn:longitude":53.27292,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Madhh\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0630\u0647\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Madhhawb",
+        "Mathhoob",
+        "Madhh\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7791970
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b9f2b906d5181115ca55a350321ee797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1276248801,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276248801,
+    "wof:lastmodified":1537676304,
+    "wof:name":"Madhhub",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.27291999999999,
+    16.78408,
+    53.27291999999999,
+    16.78408
+],
+  "geometry": {"coordinates":[53.27291999999999,16.78408],"type":"Point"}
+}

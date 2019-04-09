@@ -1,0 +1,70 @@
+{
+  "id": 1277088589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.63096,23.31097,56.63096,23.31097",
+    "geom:latitude":23.31097,
+    "geom:longitude":56.63096,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Manjurin",
+    "gn:country_code":"OM",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416379,
+    "gn:latitude":23.31097,
+    "gn:longitude":56.63096,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Manjur\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manjur\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416379
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2f0cf261009932c7d55c4baf89b90653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1277088589,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1277088589,
+    "wof:lastmodified":1537676301,
+    "wof:name":"Manjurin",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.63096,
+    23.31097,
+    56.63096,
+    23.31097
+],
+  "geometry": {"coordinates":[56.63096,23.31097],"type":"Point"}
+}

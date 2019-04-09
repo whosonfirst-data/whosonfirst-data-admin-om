@@ -1,0 +1,74 @@
+{
+  "id": 1326530491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.57158,21.84728,59.57158,21.84728",
+    "geom:latitude":21.84728,
+    "geom:longitude":59.57158,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Ashkharah",
+    "gn:country_code":"OM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289359,
+    "gn:latitude":21.84728,
+    "gn:longitude":59.57158,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Al Ashkharah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lashkharah",
+        "Al Ashkhara",
+        "Al Ashkhirah",
+        "Al Ashkharah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289359,
+        "wk:page":"Al_Ashkharah"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e317d0bcb0a861dfb11a32d647262946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721071,
+            "locality_id":1326530491,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1326530491,
+    "wof:lastmodified":1537676247,
+    "wof:name":"Al Ashkharah",
+    "wof:parent_id":1108721071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.57158,
+    21.84728,
+    59.57158,
+    21.84728
+],
+  "geometry": {"coordinates":[59.57158,21.84728],"type":"Point"}
+}

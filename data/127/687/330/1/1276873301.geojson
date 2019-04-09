@@ -1,0 +1,71 @@
+{
+  "id": 1276873301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.39013,22.49439,59.39013,22.49439",
+    "geom:latitude":22.49439,
+    "geom:longitude":59.39013,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rafsah",
+    "gn:country_code":"OM",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286810,
+    "gn:latitude":22.49439,
+    "gn:longitude":59.39013,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Raf\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Rafsa",
+        "Raf\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286810
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"29c30a6f3f71db18500aff616bf34fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1276873301,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1276873301,
+    "wof:lastmodified":1537676174,
+    "wof:name":"Rafsah",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.39013000000001,
+    22.49439,
+    59.39013000000001,
+    22.49439
+],
+  "geometry": {"coordinates":[59.39013000000001,22.49439],"type":"Point"}
+}

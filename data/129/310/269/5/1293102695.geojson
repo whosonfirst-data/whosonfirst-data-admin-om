@@ -1,0 +1,75 @@
+{
+  "id": 1293102695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.07802,23.21644,58.07802,23.21644",
+    "geom:latitude":23.21644,
+    "geom:longitude":58.07802,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"At Tuwayyah",
+    "gn:country_code":"OM",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411978,
+    "gn:latitude":23.21644,
+    "gn:longitude":58.07802,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"A\u0163 \u0162uwayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162aw\u012byah",
+        "A\u0163 \u0162uwayyah",
+        "A\u1e6d \u1e6cuwayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411978
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e8fe58ac09d260cc3a43265e5cf2a6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1293102695,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1293102695,
+    "wof:lastmodified":1537676278,
+    "wof:name":"At Tuwayyah",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.07802,
+    23.21644,
+    58.07802,
+    23.21644
+],
+  "geometry": {"coordinates":[58.07802,23.21644],"type":"Point"}
+}

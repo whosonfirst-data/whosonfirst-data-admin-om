@@ -1,0 +1,67 @@
+{
+  "id": 1360280645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.00972,23.00667,59.00972,23.00667",
+    "geom:latitude":23.00667,
+    "geom:longitude":59.00972,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Shijah",
+    "gn:country_code":"OM",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411290,
+    "gn:latitude":23.00667,
+    "gn:longitude":59.00972,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Shijah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411290
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6d0930d13d5a3f4f2ba5d82e4becb2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1360280645,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1360280645,
+    "wof:lastmodified":1536663594,
+    "wof:name":"Shijah",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.00972,
+    23.00667,
+    59.00972,
+    23.00667
+],
+  "geometry": {"coordinates":[59.00972,23.00667],"type":"Point"}
+}

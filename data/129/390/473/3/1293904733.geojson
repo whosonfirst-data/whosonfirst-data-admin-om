@@ -1,0 +1,70 @@
+{
+  "id": 1293904733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.35722,26.28056,56.35722,26.28056",
+    "geom:latitude":26.28056,
+    "geom:longitude":56.35722,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mina' Sitt",
+    "gn:country_code":"OM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390512,
+    "gn:latitude":26.28056,
+    "gn:longitude":56.35722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u012bn\u0101\u2019 Sitt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u012bn\u0101\u2019 Sitt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390512
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"27d16a2969f67bceaf24cb0d713f7f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1293904733,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1293904733,
+    "wof:lastmodified":1537676264,
+    "wof:name":"Mina' Sitt",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.35722,
+    26.28056,
+    56.35722,
+    26.28056
+],
+  "geometry": {"coordinates":[56.35722,26.28056],"type":"Point"}
+}

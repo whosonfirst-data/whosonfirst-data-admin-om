@@ -1,0 +1,68 @@
+{
+  "id": 1226157251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.31806,23.17861,57.31806,23.17861",
+    "geom:latitude":23.17861,
+    "geom:longitude":57.31806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Jahliyah",
+    "gn:country_code":"OM",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411870,
+    "gn:latitude":23.17861,
+    "gn:longitude":57.31806,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Al Jahl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Jahl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411870
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e2daac70579ea9a36f7496c5640dd2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1226157251,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1226157251,
+    "wof:lastmodified":1537676276,
+    "wof:name":"Al Jahliyah",
+    "wof:parent_id":85675681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.31806,
+    23.17861,
+    57.31806,
+    23.17861
+],
+  "geometry": {"coordinates":[57.31806,23.17861],"type":"Point"}
+}

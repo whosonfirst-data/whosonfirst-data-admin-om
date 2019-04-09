@@ -1,0 +1,76 @@
+{
+  "id": 1259364157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.11047,23.79234,57.11047,23.79234",
+    "geom:latitude":23.79234,
+    "geom:longitude":57.11047,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khuzam",
+    "gn:country_code":"OM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288055,
+    "gn:latitude":23.79234,
+    "gn:longitude":57.11047,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Khuz\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0632\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kharm",
+        "\u1e28ar\u012bmah",
+        "Khuz\u0101m",
+        "Khiz\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288055
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ec43a778016adeebe04d8f654fd7dc51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1259364157,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1259364157,
+    "wof:lastmodified":1537676205,
+    "wof:name":"Khuzam",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.11046999999999,
+    23.79234,
+    57.11046999999999,
+    23.79234
+],
+  "geometry": {"coordinates":[57.11046999999999,23.79234],"type":"Point"}
+}

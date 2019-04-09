@@ -1,0 +1,67 @@
+{
+  "id": 1344144995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.75996,24.34905,56.75996,24.34905",
+    "geom:latitude":24.34905,
+    "geom:longitude":56.75996,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"As Subarah",
+    "gn:country_code":"OM",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288069,
+    "gn:latitude":24.34905,
+    "gn:longitude":56.75996,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"A\u015f \u015eub\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28\u0101rat a\u015f \u015eub\u0101rah",
+        "A\u015f \u015eub\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288069
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"8d9fddcb7bf5ad6bb3a78c57ccdaf436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1344144995,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344144995,
+    "wof:lastmodified":1537676206,
+    "wof:name":"As Subarah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.75996,
+    24.34905,
+    56.75996,
+    24.34905
+],
+  "geometry": {"coordinates":[56.75996,24.34905],"type":"Point"}
+}

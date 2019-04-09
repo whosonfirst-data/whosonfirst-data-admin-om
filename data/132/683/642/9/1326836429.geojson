@@ -1,0 +1,70 @@
+{
+  "id": 1326836429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.71533,22.11864,59.71533,22.11864",
+    "geom:latitude":22.11864,
+    "geom:longitude":59.71533,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bandah Jadidah",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411482,
+    "gn:latitude":22.11864,
+    "gn:longitude":59.71533,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bandah Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bandah Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411482
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1c75edd0e129f051955e3904de422797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721071,
+            "locality_id":1326836429,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1326836429,
+    "wof:lastmodified":1537676270,
+    "wof:name":"Bandah Jadidah",
+    "wof:parent_id":1108721071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.71533,
+    22.11864,
+    59.71533,
+    22.11864
+],
+  "geometry": {"coordinates":[59.71533,22.11864],"type":"Point"}
+}

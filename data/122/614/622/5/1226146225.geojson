@@ -1,0 +1,75 @@
+{
+  "id": 1226146225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.74367,23.72922,57.74367,23.72922",
+    "geom:latitude":23.72922,
+    "geom:longitude":57.74367,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Hadib",
+    "gn:country_code":"OM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288188,
+    "gn:latitude":23.72922,
+    "gn:longitude":57.74367,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al \u1e28a\u1e11\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0636\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u1e28a\u1e11\u012bb",
+        "Al \u1e28a\u1e11\u012bb",
+        "Al \u1e24a\u1e0d\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        890441841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288188
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4cd451dc9cd1a29e240684867821761d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":890441841,
+            "locality_id":1226146225,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1226146225,
+    "wof:lastmodified":1537676209,
+    "wof:name":"Al Hadib",
+    "wof:parent_id":890441841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.74367,
+    23.72922,
+    57.74367,
+    23.72922
+],
+  "geometry": {"coordinates":[57.74367,23.72922],"type":"Point"}
+}

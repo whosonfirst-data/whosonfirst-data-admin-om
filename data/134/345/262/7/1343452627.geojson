@@ -1,0 +1,75 @@
+{
+  "id": 1343452627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18083,25.67997,56.18083,25.67997",
+    "geom:latitude":25.67997,
+    "geom:longitude":56.18083,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sahsahan",
+    "gn:country_code":"OM",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390021,
+    "gn:latitude":25.67997,
+    "gn:longitude":56.18083,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sahsahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0651\u062d\u0635\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015ea\u1e29\u015fah",
+        "A\u015f \u015ea\u1e29\u015fa\u1e29ah",
+        "A\u1e63 \u1e62a\u1e25\u1e63a\u1e25ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390021
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0857209eeff815cca3191641b5a144a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1343452627,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1343452627,
+    "wof:lastmodified":1537676258,
+    "wof:name":"Sahsahan",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18083000000001,
+    25.67997,
+    56.18083000000001,
+    25.67997
+],
+  "geometry": {"coordinates":[56.18083000000001,25.67997],"type":"Point"}
+}

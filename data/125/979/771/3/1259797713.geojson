@@ -1,0 +1,75 @@
+{
+  "id": 1259797713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.16223,23.1004,57.16223,23.1004",
+    "geom:latitude":23.1004,
+    "geom:longitude":57.16223,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hirimt",
+    "gn:country_code":"OM",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287885,
+    "gn:latitude":23.1004,
+    "gn:longitude":57.16223,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"\u1e28irimt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28irmut"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0631\u0645\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28irimt",
+        "\u1e24irimt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287885
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b1df73652aee1b953954af9cb7e755c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1259797713,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1259797713,
+    "wof:lastmodified":1537676199,
+    "wof:name":"Hirimt",
+    "wof:parent_id":85675681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.16223000000001,
+    23.1004,
+    57.16223000000001,
+    23.1004
+],
+  "geometry": {"coordinates":[57.16223000000001,23.1004],"type":"Point"}
+}

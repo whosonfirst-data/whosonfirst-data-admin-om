@@ -1,0 +1,75 @@
+{
+  "id": 1210037675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.28182,26.03946,56.28182,26.03946",
+    "geom:latitude":26.03946,
+    "geom:longitude":56.28182,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dansaf",
+    "gn:country_code":"OM",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":391655,
+    "gn:latitude":26.03946,
+    "gn:longitude":56.28182,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Dan\u015faf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0646\u0635\u0641"
+    ],
+    "name:und_x_variant":[
+        "Dansat",
+        "Dan\u015faf",
+        "Dan\u1e63af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391655
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b5506fffd8842daa32e041a4b4727de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1210037675,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1210037675,
+    "wof:lastmodified":1537676264,
+    "wof:name":"Dansaf",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.28182,
+    26.03946,
+    56.28182,
+    26.03946
+],
+  "geometry": {"coordinates":[56.28182,26.03946],"type":"Point"}
+}

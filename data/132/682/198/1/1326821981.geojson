@@ -1,0 +1,75 @@
+{
+  "id": 1326821981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21843,26.17772,56.21843,26.17772",
+    "geom:latitude":26.17772,
+    "geom:longitude":56.21843,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tawj",
+    "gn:country_code":"OM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388690,
+    "gn:latitude":26.17772,
+    "gn:longitude":56.21843,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Tawj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0651\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u0162aw\u012b",
+        "A\u0163 \u0162aw\u012b",
+        "A\u1e6d \u1e6caw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388690
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"32fabcaa23b818571c17fc29bb45a570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1326821981,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1326821981,
+    "wof:lastmodified":1537676254,
+    "wof:name":"Tawj",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21843000000001,
+    26.17772,
+    56.21843000000001,
+    26.17772
+],
+  "geometry": {"coordinates":[56.21843000000001,26.17772],"type":"Point"}
+}

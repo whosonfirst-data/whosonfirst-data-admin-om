@@ -1,0 +1,73 @@
+{
+  "id": 1259993649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.98017,22.47905,57.98017,22.47905",
+    "geom:latitude":22.47905,
+    "geom:longitude":57.98017,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wadi `Indam",
+    "gn:country_code":"OM",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286006,
+    "gn:latitude":22.47905,
+    "gn:longitude":57.98017,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"W\u0101d\u012b \u2018Ind\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101d\u012b \u2018And\u0101m"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d\u012b \u2018Ind\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286006
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"609704390e48c2ff6ea4cf9ec3d510d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1259993649,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1259993649,
+    "wof:lastmodified":1537676152,
+    "wof:name":"Wadi `Indam",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.98017,
+    22.47905,
+    57.98017,
+    22.47905
+],
+  "geometry": {"coordinates":[57.98017,22.47905],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293270287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.69709,23.92105,56.69709,23.92105",
+    "geom:latitude":23.92105,
+    "geom:longitude":56.69709,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ar Rakkah",
+    "gn:country_code":"OM",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411834,
+    "gn:latitude":23.92105,
+    "gn:longitude":56.69709,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Ar Rakkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0643\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ruqqah",
+        "Ar Rakkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411834
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b7d18ed71cc5980f2ea2243e16a5a053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1293270287,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1293270287,
+    "wof:lastmodified":1537676274,
+    "wof:name":"Ar Rakkah",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.69709,
+    23.92105,
+    56.69709,
+    23.92105
+],
+  "geometry": {"coordinates":[56.69709,23.92105],"type":"Point"}
+}

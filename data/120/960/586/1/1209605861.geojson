@@ -1,0 +1,70 @@
+{
+  "id": 1209605861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.36953,17.20082,54.36953,17.20082",
+    "geom:latitude":17.20082,
+    "geom:longitude":54.36953,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Asarfuat",
+    "gn:country_code":"OM",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558712,
+    "gn:latitude":17.20082,
+    "gn:longitude":54.36953,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"A\u015f\u0101rfu\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u015f\u0101rfu\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558712
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"452f9a18440f295b0c9a975ebf3aa15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1209605861,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209605861,
+    "wof:lastmodified":1548974434,
+    "wof:name":"Asarfuat",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.36953000000001,
+    17.20082,
+    54.36953000000001,
+    17.20082
+],
+  "geometry": {"coordinates":[54.36953000000001,17.20082],"type":"Point"}
+}

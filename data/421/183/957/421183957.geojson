@@ -1,0 +1,75 @@
+{
+  "id": 421183957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.076037,23.0339035,59.076037,23.0339035",
+    "geom:latitude":23.033904,
+    "geom:longitude":59.076037,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0642\u0637\u0627\u0631",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0645\u0633\u0642\u0637",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":986739,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":55926244,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55926244,
+        "qs:id":986739
+    },
+    "wof:country":"OM",
+    "wof:created":1459009396,
+    "wof:geomhash":"8896a5423edbad5343f82f90997c88dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":421183957,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":421183957,
+    "wof:lastmodified":1500018196,
+    "wof:name":"\u0642\u0637\u0627\u0631",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.076037,
+    23.0339035,
+    59.076037,
+    23.0339035
+],
+  "geometry": {"coordinates":[59.076037,23.0339035],"type":"Point"}
+}

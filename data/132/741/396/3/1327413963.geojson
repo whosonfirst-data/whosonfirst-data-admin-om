@@ -1,0 +1,70 @@
+{
+  "id": 1327413963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.56862,23.1007,58.56862,23.1007",
+    "geom:latitude":23.1007,
+    "geom:longitude":58.56862,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Ulyah",
+    "gn:country_code":"OM",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286082,
+    "gn:latitude":23.1007,
+    "gn:longitude":58.56862,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u2018Ulyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ulyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286082
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"332bad318304495ccc8b8c433d351ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1327413963,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1327413963,
+    "wof:lastmodified":1537676153,
+    "wof:name":"`Ulyah",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.56862,
+    23.1007,
+    58.56862,
+    23.1007
+],
+  "geometry": {"coordinates":[58.56862,23.1007],"type":"Point"}
+}

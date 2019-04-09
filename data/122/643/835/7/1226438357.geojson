@@ -1,0 +1,77 @@
+{
+  "id": 1226438357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.63587,23.64716,56.63587,23.64716",
+    "geom:latitude":23.64716,
+    "geom:longitude":56.63587,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Zahir al Fawaris",
+    "gn:country_code":"OM",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288587,
+    "gn:latitude":23.64716,
+    "gn:longitude":56.63587,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Z\u0327\u0101hir al Faw\u0101ris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e10\u0101hir"
+    ],
+    "name:ara_x_variant":[
+        "\u0638\u0627\u0647\u0631 \u0627\u0644\u0641\u0648\u0627\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327\u0101hir al Faw\u0101ris",
+        "\u1e92\u0101hir al Faw\u0101ris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288587
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e739292bd8238eac10a25c325dea071f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1226438357,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1226438357,
+    "wof:lastmodified":1537676221,
+    "wof:name":"Zahir al Fawaris",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.63587,
+    23.64716,
+    56.63587,
+    23.64716
+],
+  "geometry": {"coordinates":[56.63587,23.64716],"type":"Point"}
+}

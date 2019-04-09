@@ -1,0 +1,85 @@
+{
+  "id": 421199943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.69472,22.571,58.69472,22.571",
+    "geom:latitude":22.571,
+    "geom:longitude":58.69472,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Al Q\u0101bil"
+    ],
+    "name:unk_x_variant":[
+        "Q\u0101bil al Hirth"
+    ],
+    "qs:gn_country":"OM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":289142,
+    "qs:gn_pop":14008,
+    "qs:name":"\u0627\u0644\u0642\u0627\u0628\u0644",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":533546,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":55926642,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289142,
+        "gp:id":55926642,
+        "qs:id":533546
+    },
+    "wof:country":"OM",
+    "wof:created":1459010005,
+    "wof:geomhash":"f7050af15194f52ac20ddbcdf975949b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721059,
+            "locality_id":421199943,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":421199943,
+    "wof:lastmodified":1505340765,
+    "wof:name":"\u0627\u0644\u0642\u0627\u0628\u0644",
+    "wof:parent_id":1108721059,
+    "wof:placetype":"locality",
+    "wof:population":14008,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.69472,
+    22.571,
+    58.69472,
+    22.571
+],
+  "geometry": {"coordinates":[58.69472,22.571],"type":"Point"}
+}

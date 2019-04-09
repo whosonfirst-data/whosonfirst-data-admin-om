@@ -1,0 +1,70 @@
+{
+  "id": 1360008035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.42735,16.78534,53.42735,16.78534",
+    "geom:latitude":16.78534,
+    "geom:longitude":53.42735,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ufuq",
+    "gn:country_code":"OM",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7792133,
+    "gn:latitude":16.78534,
+    "gn:longitude":53.42735,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ufuq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0641\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792133
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a53faed67e0866f1419ce991034d5dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1360008035,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1360008035,
+    "wof:lastmodified":1537676305,
+    "wof:name":"Ufuq",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.42735,
+    16.78534,
+    53.42735,
+    16.78534
+],
+  "geometry": {"coordinates":[53.42735,16.78534],"type":"Point"}
+}

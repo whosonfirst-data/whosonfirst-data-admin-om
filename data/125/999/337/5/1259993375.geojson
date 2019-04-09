@@ -1,0 +1,76 @@
+{
+  "id": 1259993375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.86909,23.17765,57.86909,23.17765",
+    "geom:latitude":23.17765,
+    "geom:longitude":57.86909,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Biyaq",
+    "gn:country_code":"OM",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288672,
+    "gn:latitude":23.17765,
+    "gn:longitude":57.86909,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Biy\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Biy\u0101\u1e11"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0627\u0642"
+    ],
+    "name:und_x_variant":[
+        "Biy\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288672
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"333876ab87e741431c755980d680c3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1259993375,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1259993375,
+    "wof:lastmodified":1537676224,
+    "wof:name":"Biyaq",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.86909,
+    23.17765,
+    57.86909,
+    23.17765
+],
+  "geometry": {"coordinates":[57.86909,23.17765],"type":"Point"}
+}

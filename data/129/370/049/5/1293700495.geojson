@@ -1,0 +1,76 @@
+{
+  "id": 1293700495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.07286,22.9161,58.07286,22.9161",
+    "geom:latitude":22.9161,
+    "geom:longitude":58.07286,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Mazari`",
+    "gn:country_code":"OM",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442235,
+    "gn:latitude":22.9161,
+    "gn:longitude":58.07286,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Maz\u0101ri\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0627\u0631\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Mazra\u2018",
+        "Al Maz\u0101ri\u2018",
+        "Al Mazari\u2018",
+        "Buba\u2018\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442235
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f3d3ef3239d00addbcf4f49ffd21d7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1293700495,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1293700495,
+    "wof:lastmodified":1537676302,
+    "wof:name":"Al Mazari`",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.07286,
+    22.9161,
+    58.07286,
+    22.9161
+],
+  "geometry": {"coordinates":[58.07286,22.9161],"type":"Point"}
+}

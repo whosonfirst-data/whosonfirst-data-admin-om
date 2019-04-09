@@ -1,0 +1,75 @@
+{
+  "id": 1309689439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.68375,22.584,58.68375,22.584",
+    "geom:latitude":22.584,
+    "geom:longitude":58.68375,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ad Dariz",
+    "gn:country_code":"OM",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289427,
+    "gn:latitude":22.584,
+    "gn:longitude":58.68375,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Ad Dar\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Dar\u012bz",
+        "Ad Dar\u012bz",
+        "Ad Dir\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289427
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a152743db3844575934d49bbcf1d6f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721059,
+            "locality_id":1309689439,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1309689439,
+    "wof:lastmodified":1537676250,
+    "wof:name":"Ad Dariz",
+    "wof:parent_id":1108721059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.68375,
+    22.584,
+    58.68375,
+    22.584
+],
+  "geometry": {"coordinates":[58.68375,22.584],"type":"Point"}
+}

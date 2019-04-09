@@ -1,0 +1,75 @@
+{
+  "id": 1242672077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5225,23.50975,56.5225,23.50975",
+    "geom:latitude":23.50975,
+    "geom:longitude":56.5225,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Khalli",
+    "gn:country_code":"OM",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287635,
+    "gn:latitude":23.50975,
+    "gn:longitude":56.5225,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Khall\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Khall\u012b",
+        "Al Khall\u012b",
+        "Al Khill\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        1108721085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287635
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ce802619683e2ef1ee0b5644a501920c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721085,
+            "locality_id":1242672077,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1242672077,
+    "wof:lastmodified":1537676194,
+    "wof:name":"Al Khalli",
+    "wof:parent_id":1108721085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5225,
+    23.50975,
+    56.5225,
+    23.50975
+],
+  "geometry": {"coordinates":[56.5225,23.50975],"type":"Point"}
+}

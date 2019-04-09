@@ -1,0 +1,70 @@
+{
+  "id": 1209908105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.43833,26.08528,56.43833,26.08528",
+    "geom:latitude":26.08528,
+    "geom:longitude":56.43833,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yidiyah al Bahr",
+    "gn:country_code":"OM",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390385,
+    "gn:latitude":26.08528,
+    "gn:longitude":56.43833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yidiyah al Ba\u1e29r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yidiyah al Ba\u1e29r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390385
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"172406de727ef60c56ce42328875275c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1209908105,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209908105,
+    "wof:lastmodified":1537676263,
+    "wof:name":"Yidiyah al Bahr",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.43833000000001,
+    26.08528,
+    56.43833000000001,
+    26.08528
+],
+  "geometry": {"coordinates":[56.43833000000001,26.08528],"type":"Point"}
+}

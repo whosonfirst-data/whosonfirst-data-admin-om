@@ -1,0 +1,73 @@
+{
+  "id": 1243549801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.435,17.12056,54.435,17.12056",
+    "geom:latitude":17.12056,
+    "geom:longitude":54.435,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Haqabat Arokub",
+    "gn:country_code":"OM",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415330,
+    "gn:latitude":17.12056,
+    "gn:longitude":54.435,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haqabat Arokub",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0643\u0627\u0628 \u0628\u064a\u062a \u0623\u0631\u0643\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ak\u0101b Bayt Arkab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415330
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0d34659a718978adf5581743c36f5d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1243549801,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1243549801,
+    "wof:lastmodified":1537676298,
+    "wof:name":"Haqabat Arokub",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.435,
+    17.12056,
+    54.435,
+    17.12056
+],
+  "geometry": {"coordinates":[54.435,17.12056],"type":"Point"}
+}

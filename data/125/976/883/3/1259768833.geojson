@@ -1,0 +1,75 @@
+{
+  "id": 1259768833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.78685,17.32814,52.78685,17.32814",
+    "geom:latitude":17.32814,
+    "geom:longitude":52.78685,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shifya",
+    "gn:country_code":"OM",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286492,
+    "gn:latitude":17.32814,
+    "gn:longitude":52.78685,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Shify\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0641\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Shify\u0101"
+    ],
+    "name:und_x_variant":[
+        "Shafia",
+        "Shafy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286492
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f2032348a4a828718b2c1e4b001fe096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "locality_id":1259768833,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1259768833,
+    "wof:lastmodified":1537676164,
+    "wof:name":"Shifya",
+    "wof:parent_id":85675695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.78685,
+    17.32814,
+    52.78685,
+    17.32814
+],
+  "geometry": {"coordinates":[52.78685,17.32814],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226036855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.26222,25.65639,56.26222,25.65639",
+    "geom:latitude":25.65639,
+    "geom:longitude":56.26222,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sawt",
+    "gn:country_code":"OM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412633,
+    "gn:latitude":25.65639,
+    "gn:longitude":56.26222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saw\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saw\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412633
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"63b9824981d5d40e192000297cd63cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1226036855,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1226036855,
+    "wof:lastmodified":1537676293,
+    "wof:name":"Sawt",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.26221999999999,
+    25.65639,
+    56.26221999999999,
+    25.65639
+],
+  "geometry": {"coordinates":[56.26221999999999,25.65639],"type":"Point"}
+}

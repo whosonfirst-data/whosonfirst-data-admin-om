@@ -1,0 +1,74 @@
+{
+  "id": 1276956755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5883,24.48676,56.5883,24.48676",
+    "geom:latitude":24.48676,
+    "geom:longitude":56.5883,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Ghuzayyil",
+    "gn:country_code":"OM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288220,
+    "gn:latitude":24.48676,
+    "gn:longitude":56.5883,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Ghuzayyil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0632\u064a\u0651\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ghuzayyil",
+        "Al Ghuzayyil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288220
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f62b184da1fa170fe7b22fcf173b215a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721099,
+            "locality_id":1276956755,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276956755,
+    "wof:lastmodified":1537676210,
+    "wof:name":"Al Ghuzayyil",
+    "wof:parent_id":1108721099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5883,
+    24.48676,
+    56.5883,
+    24.48676
+],
+  "geometry": {"coordinates":[56.5883,24.48676],"type":"Point"}
+}

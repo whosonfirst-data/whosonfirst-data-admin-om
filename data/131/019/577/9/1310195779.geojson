@@ -1,0 +1,73 @@
+{
+  "id": 1310195779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.10536,17.26565,54.10536,17.26565",
+    "geom:latitude":17.26565,
+    "geom:longitude":54.10536,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Anhaylam",
+    "gn:country_code":"OM",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558772,
+    "gn:latitude":17.26565,
+    "gn:longitude":54.10536,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Anhayl\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0647\u064a\u0644\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Anhayl\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558772
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4068e5637ece8f0d9c6ad5bb8b22ebf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1310195779,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1310195779,
+    "wof:lastmodified":1537676315,
+    "wof:name":"Anhaylam",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.10536,
+    17.26565,
+    54.10536,
+    17.26565
+],
+  "geometry": {"coordinates":[54.10536,17.26565],"type":"Point"}
+}

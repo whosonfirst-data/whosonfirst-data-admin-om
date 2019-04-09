@@ -1,0 +1,70 @@
+{
+  "id": 1326624767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18722,26.08167,56.18722,26.08167",
+    "geom:latitude":26.08167,
+    "geom:longitude":56.18722,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ghatt",
+    "gn:country_code":"OM",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389887,
+    "gn:latitude":26.08167,
+    "gn:longitude":56.18722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gha\u0163\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gha\u0163\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389887
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2686463ec944d761cb3e5418c0ad487a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1326624767,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1326624767,
+    "wof:lastmodified":1537676255,
+    "wof:name":"Ghatt",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18722,
+    26.08167000000001,
+    56.18722,
+    26.08167000000001
+],
+  "geometry": {"coordinates":[56.18722,26.08167000000001],"type":"Point"}
+}

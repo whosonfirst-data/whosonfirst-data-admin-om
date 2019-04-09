@@ -1,0 +1,71 @@
+{
+  "id": 1343546881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.16667,18.35,55.16667,18.35",
+    "geom:latitude":18.35,
+    "geom:longitude":55.16667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Muwaffaq",
+    "gn:country_code":"OM",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287062,
+    "gn:latitude":18.35,
+    "gn:longitude":55.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Muwaffaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mawaafag",
+        "Muwaffaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        1108721081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287062
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"114177eaf3c88ab43be22aacb0f1796c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721081,
+            "locality_id":1343546881,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343546881,
+    "wof:lastmodified":1537676178,
+    "wof:name":"Muwaffaq",
+    "wof:parent_id":1108721081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.16667,
+    18.35,
+    55.16667,
+    18.35
+],
+  "geometry": {"coordinates":[55.16667,18.35],"type":"Point"}
+}

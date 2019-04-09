@@ -1,0 +1,76 @@
+{
+  "id": 1243244609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.20326,24.7998,56.20326,24.7998",
+    "geom:latitude":24.7998,
+    "geom:longitude":56.20326,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Mushabbah",
+    "gn:country_code":"OM",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":287079,
+    "gn:latitude":24.7998,
+    "gn:longitude":56.20326,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Mushabba\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0628\u0651\u062d"
+    ],
+    "name:und_x_variant":[
+        "Mushebba",
+        "Mushabba\u1e29",
+        "Al Mushabba\u1e29",
+        "Al Mashabba\u1e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421183959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287079
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9710fbcbf8c2a9e4aa01a6dd2313bb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421183959,
+            "locality_id":1243244609,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1243244609,
+    "wof:lastmodified":1537676179,
+    "wof:name":"Al Mushabbah",
+    "wof:parent_id":421183959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.20326,
+    24.7998,
+    56.20326,
+    24.7998
+],
+  "geometry": {"coordinates":[56.20326,24.7998],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310510429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.43023,23.41133,57.43023,23.41133",
+    "geom:latitude":23.41133,
+    "geom:longitude":57.43023,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rushayd",
+    "gn:country_code":"OM",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286707,
+    "gn:latitude":23.41133,
+    "gn:longitude":57.43023,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Rushayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286707
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f3351d712c63b2371817d53fa6dc1b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1310510429,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1310510429,
+    "wof:lastmodified":1536910031,
+    "wof:name":"Rushayd",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.43023,
+    23.41133,
+    57.43023,
+    23.41133
+],
+  "geometry": {"coordinates":[57.43023,23.41133],"type":"Point"}
+}

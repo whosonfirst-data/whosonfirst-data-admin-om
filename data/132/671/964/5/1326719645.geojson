@@ -1,0 +1,77 @@
+{
+  "id": 1326719645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.01111,24.79472,56.01111,24.79472",
+    "geom:latitude":24.79472,
+    "geom:longitude":56.01111,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hadaf",
+    "gn:country_code":"OM",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288192,
+    "gn:latitude":24.79472,
+    "gn:longitude":56.01111,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u1e28adaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u0641"
+    ],
+    "name:und_x_variant":[
+        "Hadi",
+        "\u1e28adhf",
+        "\u1e28adf",
+        "\u1e28adaf",
+        "\u1e24adaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288192
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3cb7ecf15fc130c46990e423c23d7ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1326719645,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1326719645,
+    "wof:lastmodified":1537676209,
+    "wof:name":"Hadaf",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.01111,
+    24.79472,
+    56.01111,
+    24.79472
+],
+  "geometry": {"coordinates":[56.01111,24.79472],"type":"Point"}
+}

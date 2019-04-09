@@ -1,0 +1,70 @@
+{
+  "id": 1327030385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.76864,22.46483,59.76864,22.46483",
+    "geom:latitude":22.46483,
+    "geom:longitude":59.76864,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Mahattah",
+    "gn:country_code":"OM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411467,
+    "gn:latitude":22.46483,
+    "gn:longitude":59.76864,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ma\u1e29a\u0163\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u1e29a\u0163\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411467
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fe426c245d1e298a6213a36881f44e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1327030385,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1327030385,
+    "wof:lastmodified":1537676270,
+    "wof:name":"Al Mahattah",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.76864000000001,
+    22.46483,
+    59.76864000000001,
+    22.46483
+],
+  "geometry": {"coordinates":[59.76864000000001,22.46483],"type":"Point"}
+}

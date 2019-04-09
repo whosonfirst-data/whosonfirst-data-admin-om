@@ -1,0 +1,76 @@
+{
+  "id": 1276759553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.13827,22.99,59.13827,22.99",
+    "geom:latitude":22.99,
+    "geom:longitude":59.13827,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bamah",
+    "gn:country_code":"OM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288699,
+    "gn:latitude":22.99,
+    "gn:longitude":59.13827,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Bamah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bimma",
+        "Bimah",
+        "Bimmah",
+        "Bamah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288699
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"795de7233ebff2876b72a5bd2b8480df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1276759553,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1276759553,
+    "wof:lastmodified":1537676225,
+    "wof:name":"Bamah",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.13827,
+    22.99,
+    59.13827,
+    22.99
+],
+  "geometry": {"coordinates":[59.13827,22.99],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209502207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.29487,22.97091,58.29487,22.97091",
+    "geom:latitude":22.97091,
+    "geom:longitude":58.29487,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Ilayat al Musfah",
+    "gn:country_code":"OM",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442252,
+    "gn:latitude":22.97091,
+    "gn:longitude":58.29487,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"\u2018Il\u0101yat al Musf\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0627\u064a\u0629 \u0627\u0644\u0645\u0633\u0641\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Alayat Misfah",
+        "\u2018Il\u0101yat al Musf\u0101h",
+        "\u2018Il\u0101yat al Misf\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442252
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"534566de5780700825232228392c3021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1209502207,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1209502207,
+    "wof:lastmodified":1548974431,
+    "wof:name":"`Ilayat al Musfah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.29487,
+    22.97091,
+    58.29487,
+    22.97091
+],
+  "geometry": {"coordinates":[58.29487,22.97091],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276543585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.36889,26.24778,56.36889,26.24778",
+    "geom:latitude":26.24778,
+    "geom:longitude":56.36889,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ghabina",
+    "gn:country_code":"OM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390449,
+    "gn:latitude":26.24778,
+    "gn:longitude":56.36889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ghabina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390449
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"eef23664483dc1ab4b317cc5ae46c741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1276543585,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1276543585,
+    "wof:lastmodified":1536993478,
+    "wof:name":"Ghabina",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.36889,
+    26.24778,
+    56.36889,
+    26.24778
+],
+  "geometry": {"coordinates":[56.36889,26.24778],"type":"Point"}
+}

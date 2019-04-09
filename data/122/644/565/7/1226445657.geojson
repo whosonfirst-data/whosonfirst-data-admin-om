@@ -1,0 +1,76 @@
+{
+  "id": 1226445657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.29248,23.48231,57.29248,23.48231",
+    "geom:latitude":23.48231,
+    "geom:longitude":57.29248,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"An Nuzuh",
+    "gn:country_code":"OM",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286999,
+    "gn:latitude":23.48231,
+    "gn:longitude":57.29248,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"An Nuz\u016b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0648\u062d"
+    ],
+    "name:und_x_variant":[
+        "Nazwah",
+        "Nazw\u00e1",
+        "An Nuz\u016b\u1e29",
+        "An Niz\u016b\u1e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286999
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4ed61720a70557ab4124d511be44e9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1226445657,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1226445657,
+    "wof:lastmodified":1537676177,
+    "wof:name":"An Nuzuh",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.29248000000001,
+    23.48231,
+    57.29248000000001,
+    23.48231
+],
+  "geometry": {"coordinates":[57.29248000000001,23.48231],"type":"Point"}
+}

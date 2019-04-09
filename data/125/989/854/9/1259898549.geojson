@@ -1,0 +1,67 @@
+{
+  "id": 1259898549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.33381,22.01559,59.33381,22.01559",
+    "geom:latitude":22.01559,
+    "geom:longitude":59.33381,
+    "gn:asciiname":"Jalan Bani Bu Ali",
+    "gn:country_code":"OM",
+    "gn:dem":91,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11054687,
+    "gn:latitude":22.01559,
+    "gn:longitude":59.33381,
+    "gn:modification_date":"2016-02-02",
+    "gn:name":"Jalan Bani Bu Ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11054687
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"8d0e3cccfcffb8554e7d7465f8862ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721071,
+            "locality_id":1259898549,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1259898549,
+    "wof:lastmodified":1536757544,
+    "wof:name":"Jalan Bani Bu Ali",
+    "wof:parent_id":1108721071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.33381,
+    22.01559,
+    59.33381,
+    22.01559
+],
+  "geometry": {"coordinates":[59.33381,22.01559],"type":"Point"}
+}

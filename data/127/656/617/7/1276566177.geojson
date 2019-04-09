@@ -1,0 +1,75 @@
+{
+  "id": 1276566177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.9612,22.85487,57.9612,22.85487",
+    "geom:latitude":22.85487,
+    "geom:longitude":57.9612,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Kharma'",
+    "gn:country_code":"OM",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287619,
+    "gn:latitude":22.85487,
+    "gn:longitude":57.9612,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Kharm\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0645\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Ra\u1e29mah",
+        "Kharm\u0101\u2019",
+        "Al Kharm\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        1108721055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287619
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f6f29e83d49d78a356ebe000319f3670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721055,
+            "locality_id":1276566177,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1276566177,
+    "wof:lastmodified":1537676193,
+    "wof:name":"Al Kharma'",
+    "wof:parent_id":1108721055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.9612,
+    22.85487,
+    57.9612,
+    22.85487
+],
+  "geometry": {"coordinates":[57.9612,22.85487],"type":"Point"}
+}

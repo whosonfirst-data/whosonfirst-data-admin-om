@@ -1,0 +1,70 @@
+{
+  "id": 1360192169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.93333,20.53333,55.93333,20.53333",
+    "geom:latitude":20.53333,
+    "geom:longitude":55.93333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Zawliyah",
+    "gn:country_code":"OM",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285891,
+    "gn:latitude":20.53333,
+    "gn:longitude":55.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zawl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zawl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675685,
+        421189283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285891
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"10e2518f50e75fc67c08bd9a9615bf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189283,
+            "locality_id":1360192169,
+            "region_id":85675685
+        }
+    ],
+    "wof:id":1360192169,
+    "wof:lastmodified":1537676149,
+    "wof:name":"Zawliyah",
+    "wof:parent_id":421189283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.93333000000001,
+    20.53333,
+    55.93333000000001,
+    20.53333
+],
+  "geometry": {"coordinates":[55.93333000000001,20.53333],"type":"Point"}
+}

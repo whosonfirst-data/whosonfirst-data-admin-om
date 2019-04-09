@@ -1,0 +1,76 @@
+{
+  "id": 1310292147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.06354,22.37093,58.06354,22.37093",
+    "geom:latitude":22.37093,
+    "geom:longitude":58.06354,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al `Uyun",
+    "gn:country_code":"OM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286017,
+    "gn:latitude":22.37093,
+    "gn:longitude":58.06354,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Al \u2018Uy\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Uy\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u064a\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uy\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286017
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"92e38c721df2685f4d5015d3284165e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1310292147,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1310292147,
+    "wof:lastmodified":1537676152,
+    "wof:name":"Al `Uyun",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.06354,
+    22.37093,
+    58.06354,
+    22.37093
+],
+  "geometry": {"coordinates":[58.06354,22.37093],"type":"Point"}
+}

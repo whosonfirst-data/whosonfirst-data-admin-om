@@ -1,0 +1,75 @@
+{
+  "id": 1309919847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.43913,22.7844,57.43913,22.7844",
+    "geom:latitude":22.7844,
+    "geom:longitude":57.43913,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Mudaybi",
+    "gn:country_code":"OM",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287173,
+    "gn:latitude":22.7844,
+    "gn:longitude":57.43913,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Mu\u1e11ayb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0636\u064a\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e11ayb\u012b",
+        "Al Mu\u1e11ayb\u012b",
+        "Al Mu\u1e0dayb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287173
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e7f5281b1bfcabce6bfb0d992599c918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1309919847,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1309919847,
+    "wof:lastmodified":1537676182,
+    "wof:name":"Al Mudaybi",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.43913000000001,
+    22.7844,
+    57.43913000000001,
+    22.7844
+],
+  "geometry": {"coordinates":[57.43913000000001,22.7844],"type":"Point"}
+}

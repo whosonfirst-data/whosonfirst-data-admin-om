@@ -1,0 +1,74 @@
+{
+  "id": 1276331849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.19098,23.5262,58.19098,23.5262",
+    "geom:latitude":23.5262,
+    "geom:longitude":58.19098,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Jafnayn",
+    "gn:country_code":"OM",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289221,
+    "gn:latitude":23.5262,
+    "gn:longitude":58.19098,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Jafnayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0641\u0646\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Jifnayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421187061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289221,
+        "wk:page":"Al_Jafnayn"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3b88bb400a6588cfaafeec1b5302ed0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187061,
+            "locality_id":1276331849,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1276331849,
+    "wof:lastmodified":1537676241,
+    "wof:name":"Al Jafnayn",
+    "wof:parent_id":421187061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.19098,
+    23.5262,
+    58.19098,
+    23.5262
+],
+  "geometry": {"coordinates":[58.19098,23.5262],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309886885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.06812,24.01363,57.06812,24.01363",
+    "geom:latitude":24.01363,
+    "geom:longitude":57.06812,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qasabiyat al Hawasinah",
+    "gn:country_code":"OM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286899,
+    "gn:latitude":24.01363,
+    "gn:longitude":57.06812,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Qa\u015fab\u012byat al \u1e28aw\u0101sinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fab\u012byat al \u1e28aw\u0101sinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286899
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b9368785a0e00cc00ac2f7bebde11d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1309886885,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1309886885,
+    "wof:lastmodified":1537676175,
+    "wof:name":"Qasabiyat al Hawasinah",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.06811999999999,
+    24.01363,
+    57.06811999999999,
+    24.01363
+],
+  "geometry": {"coordinates":[57.06811999999999,24.01363],"type":"Point"}
+}

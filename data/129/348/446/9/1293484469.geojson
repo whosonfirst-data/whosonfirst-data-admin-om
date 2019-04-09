@@ -1,0 +1,71 @@
+{
+  "id": 1293484469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.41083,26.33694,56.41083,26.33694",
+    "geom:latitude":26.33694,
+    "geom:longitude":56.41083,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kumzar",
+    "gn:country_code":"OM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287504,
+    "gn:latitude":26.33694,
+    "gn:longitude":56.41083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kumz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Kumz\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287504,
+        "wk:page":"Kumzar"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"338fb9263f103c7f3ec02d72c8375320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1293484469,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1293484469,
+    "wof:lastmodified":1537676191,
+    "wof:name":"Kumzar",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.41083,
+    26.33694,
+    56.41083,
+    26.33694
+],
+  "geometry": {"coordinates":[56.41083,26.33694],"type":"Point"}
+}

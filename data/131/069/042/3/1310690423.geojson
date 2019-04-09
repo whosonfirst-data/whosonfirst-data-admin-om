@@ -1,0 +1,70 @@
+{
+  "id": 1310690423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.84806,24.25194,55.84806,24.25194",
+    "geom:latitude":24.25194,
+    "geom:longitude":55.84806,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tawi `Aqdah",
+    "gn:country_code":"OM",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394506,
+    "gn:latitude":24.25194,
+    "gn:longitude":55.84806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162aw\u012b \u2018Aqdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162aw\u012b \u2018Aqdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394506
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f0cc649fa397007e90e855b48307ffdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184225,
+            "locality_id":1310690423,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1310690423,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Tawi `Aqdah",
+    "wof:parent_id":421184225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.84806,
+    24.25194,
+    55.84806,
+    24.25194
+],
+  "geometry": {"coordinates":[55.84806,24.25194],"type":"Point"}
+}

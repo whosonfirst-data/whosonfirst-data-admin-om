@@ -1,0 +1,78 @@
+{
+  "id": 1343270681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.99525,23.68386,57.99525,23.68386",
+    "geom:latitude":23.68386,
+    "geom:longitude":57.99525,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ar Rumays",
+    "gn:country_code":"OM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286715,
+    "gn:latitude":23.68386,
+    "gn:longitude":57.99525,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ar Rumays",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0651\u0645\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ar Rumaidh",
+        "Rumaidh",
+        "Rumais",
+        "Rumays",
+        "Ar Rumays",
+        "Ar Rimays"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        890441841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286715
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d7b1f39d87a5b92e871d2c19f034c15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":890441841,
+            "locality_id":1343270681,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1343270681,
+    "wof:lastmodified":1537676171,
+    "wof:name":"Ar Rumays",
+    "wof:parent_id":890441841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.99525,
+    23.68386,
+    57.99525,
+    23.68386
+],
+  "geometry": {"coordinates":[57.99525,23.68386],"type":"Point"}
+}

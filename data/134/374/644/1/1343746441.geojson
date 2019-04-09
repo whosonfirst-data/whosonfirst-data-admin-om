@@ -1,0 +1,72 @@
+{
+  "id": 1343746441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.80502,23.63147,56.80502,23.63147",
+    "geom:latitude":23.63147,
+    "geom:longitude":56.80502,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sa`idah",
+    "gn:country_code":"OM",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286633,
+    "gn:latitude":23.63147,
+    "gn:longitude":56.80502,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sa\u2018\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suwaida",
+        "Suwayd\u0101\u2019",
+        "Sa\u2018\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286633
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"319339911e1c8f52146601e17704b7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1343746441,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1343746441,
+    "wof:lastmodified":1537676168,
+    "wof:name":"Sa`idah",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.80501999999999,
+    23.63147,
+    56.80501999999999,
+    23.63147
+],
+  "geometry": {"coordinates":[56.80501999999999,23.63147],"type":"Point"}
+}

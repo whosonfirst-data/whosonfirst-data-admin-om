@@ -1,0 +1,73 @@
+{
+  "id": 1343380893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.49589,17.15054,54.49589,17.15054",
+    "geom:latitude":17.15054,
+    "geom:longitude":54.49589,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hakab",
+    "gn:country_code":"OM",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558662,
+    "gn:latitude":17.15054,
+    "gn:longitude":54.49589,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u1e28\u0101k\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101k\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u0643\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421186703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558662
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"94dad80621f5f2062b986075f8bba6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186703,
+            "locality_id":1343380893,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343380893,
+    "wof:lastmodified":1537676311,
+    "wof:name":"Hakab",
+    "wof:parent_id":421186703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.49589,
+    17.15054,
+    54.49589,
+    17.15054
+],
+  "geometry": {"coordinates":[54.49589,17.15054],"type":"Point"}
+}

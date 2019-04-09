@@ -1,0 +1,75 @@
+{
+  "id": 1327225533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.23496,26.13062,56.23496,26.13062",
+    "geom:latitude":26.13062,
+    "geom:longitude":56.23496,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Ma`tib",
+    "gn:country_code":"OM",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388698,
+    "gn:latitude":26.13062,
+    "gn:longitude":56.23496,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Ma\u2018tib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u062a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2019atib",
+        "Al Ma\u2018tib",
+        "Al Mi\u2018tib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388698
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3d3366a64493b7d0a558bd71394aa1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1327225533,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1327225533,
+    "wof:lastmodified":1537676254,
+    "wof:name":"Al Ma`tib",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.23496,
+    26.13062,
+    56.23496,
+    26.13062
+],
+  "geometry": {"coordinates":[56.23496,26.13062],"type":"Point"}
+}

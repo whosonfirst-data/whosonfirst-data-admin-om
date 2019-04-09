@@ -1,0 +1,74 @@
+{
+  "id": 1344240761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.99,24.50028,55.99,24.50028",
+    "geom:latitude":24.50028,
+    "geom:longitude":55.99,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sharm",
+    "gn:country_code":"OM",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288995,
+    "gn:latitude":24.50028,
+    "gn:longitude":55.99,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sharm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Sharam",
+        "Ash Sharm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288995
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bec3b1d071f2ea70bfbe66ddb2969331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1344240761,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1344240761,
+    "wof:lastmodified":1537676231,
+    "wof:name":"Sharm",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.99,
+    24.50028,
+    55.99,
+    24.50028
+],
+  "geometry": {"coordinates":[55.99,24.50028],"type":"Point"}
+}

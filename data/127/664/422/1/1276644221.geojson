@@ -1,0 +1,70 @@
+{
+  "id": 1276644221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.86094,24.1744,56.86094,24.1744",
+    "geom:latitude":24.1744,
+    "geom:longitude":56.86094,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Ghuwaysah",
+    "gn:country_code":"OM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289295,
+    "gn:latitude":24.1744,
+    "gn:longitude":56.86094,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Al Ghuway\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ghuway\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289295
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7c7702a81b45e151bef269c7e4215b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1276644221,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276644221,
+    "wof:lastmodified":1537676245,
+    "wof:name":"Al Ghuwaysah",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.86094,
+    24.1744,
+    56.86094,
+    24.1744
+],
+  "geometry": {"coordinates":[56.86094,24.1744],"type":"Point"}
+}

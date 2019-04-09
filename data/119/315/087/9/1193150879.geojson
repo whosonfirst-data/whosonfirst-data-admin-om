@@ -1,0 +1,70 @@
+{
+  "id": 1193150879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.61399,23.08091,57.61399,23.08091",
+    "geom:latitude":23.08091,
+    "geom:longitude":57.61399,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al `Ala'",
+    "gn:country_code":"OM",
+    "gn:dem":1981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412149,
+    "gn:latitude":23.08091,
+    "gn:longitude":57.61399,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al \u2018Al\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Al\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412149
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ed64ddcd365ad18451be4873098e8bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1193150879,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1193150879,
+    "wof:lastmodified":1537676285,
+    "wof:name":"Al `Ala'",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.61399,
+    23.08091,
+    57.61399,
+    23.08091
+],
+  "geometry": {"coordinates":[57.61399,23.08091],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327225499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.40217,25.93584,56.40217,25.93584",
+    "geom:latitude":25.93584,
+    "geom:longitude":56.40217,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Dini",
+    "gn:country_code":"OM",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412611,
+    "gn:latitude":25.93584,
+    "gn:longitude":56.40217,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Dini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Dayn\u012b",
+        "D\u012bn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412611,
+        "wk:page":"Al_Dini"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9a0688cfe38a4c822b4580756539a7b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1327225499,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1327225499,
+    "wof:lastmodified":1537676293,
+    "wof:name":"Al Dini",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.40217,
+    25.93584,
+    56.40217,
+    25.93584
+],
+  "geometry": {"coordinates":[56.40217,25.93584],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310481827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.57178,23.07606,58.57178,23.07606",
+    "geom:latitude":23.07606,
+    "geom:longitude":58.57178,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mazra`",
+    "gn:country_code":"OM",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287247,
+    "gn:latitude":23.07606,
+    "gn:longitude":58.57178,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mazra\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287247
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"787acc42b2a57ce02c875e2ae712f7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1310481827,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1310481827,
+    "wof:lastmodified":1537676184,
+    "wof:name":"Mazra`",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.57178,
+    23.07606,
+    58.57178,
+    23.07606
+],
+  "geometry": {"coordinates":[58.57178,23.07606],"type":"Point"}
+}

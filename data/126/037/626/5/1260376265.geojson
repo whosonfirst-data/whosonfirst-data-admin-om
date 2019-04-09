@@ -1,0 +1,75 @@
+{
+  "id": 1260376265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.38083,17.15306,54.38083,17.15306",
+    "geom:latitude":17.15306,
+    "geom:longitude":54.38083,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dihan",
+    "gn:cc2":"OM",
+    "gn:country_code":"OM",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288502,
+    "gn:latitude":17.15306,
+    "gn:longitude":54.38083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dih\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dih\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Dahaan",
+        "Erqoot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288502
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"74221e43a82b4aaefa0bc5952d964b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1260376265,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1260376265,
+    "wof:lastmodified":1537676220,
+    "wof:name":"Dihan",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.38083,
+    17.15306,
+    54.38083,
+    17.15306
+],
+  "geometry": {"coordinates":[54.38083,17.15306],"type":"Point"}
+}

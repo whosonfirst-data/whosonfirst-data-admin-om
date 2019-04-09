@@ -1,0 +1,70 @@
+{
+  "id": 1260159047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.16944,23.4775,57.16944,23.4775",
+    "geom:latitude":23.4775,
+    "geom:longitude":57.16944,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Fijri",
+    "gn:country_code":"OM",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288375,
+    "gn:latitude":23.4775,
+    "gn:longitude":57.16944,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Fijr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Fijr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288375
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ba36a3dd2d88f6a705a3406268af6bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1260159047,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1260159047,
+    "wof:lastmodified":1537676215,
+    "wof:name":"Fijri",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.16944,
+    23.4775,
+    57.16944,
+    23.4775
+],
+  "geometry": {"coordinates":[57.16944,23.4775],"type":"Point"}
+}

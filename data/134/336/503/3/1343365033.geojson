@@ -1,0 +1,71 @@
+{
+  "id": 1343365033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.25315,22.42248,59.25315,22.42248",
+    "geom:latitude":22.42248,
+    "geom:longitude":59.25315,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Layh",
+    "gn:country_code":"OM",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286003,
+    "gn:latitude":22.42248,
+    "gn:longitude":59.25315,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b Layh",
+        "Lay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286003
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7183f4b00dbb893ff8fc16b929f32add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721063,
+            "locality_id":1343365033,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1343365033,
+    "wof:lastmodified":1537676152,
+    "wof:name":"Layh",
+    "wof:parent_id":1108721063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.25315,
+    22.42248,
+    59.25315,
+    22.42248
+],
+  "geometry": {"coordinates":[59.25315,22.42248],"type":"Point"}
+}

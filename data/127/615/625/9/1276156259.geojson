@@ -1,0 +1,76 @@
+{
+  "id": 1276156259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.29178,22.5682,59.29178,22.5682",
+    "geom:latitude":22.5682,
+    "geom:longitude":59.29178,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Wad",
+    "gn:country_code":"OM",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286009,
+    "gn:latitude":22.5682,
+    "gn:longitude":59.29178,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"W\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "W\u0101dd"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286009
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2595e5f1c8ee2b27decd097d679cb072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1276156259,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1276156259,
+    "wof:lastmodified":1537676152,
+    "wof:name":"Wad",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.29178,
+    22.5682,
+    59.29178,
+    22.5682
+],
+  "geometry": {"coordinates":[59.29178,22.5682],"type":"Point"}
+}

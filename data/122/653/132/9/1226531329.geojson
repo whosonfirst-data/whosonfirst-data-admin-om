@@ -1,0 +1,74 @@
+{
+  "id": 1226531329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.92923,23.60383,55.92923,23.60383",
+    "geom:latitude":23.60383,
+    "geom:longitude":55.92923,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Harmuzi",
+    "gn:country_code":"OM",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289271,
+    "gn:latitude":23.60383,
+    "gn:longitude":55.92923,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Al Harm\u016bz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0631\u0645\u0648\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Harm\u016bz\u012b",
+        "Harm\u016bz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        1108721057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289271
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"870a247d47da9f096fb9823f543d8cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721057,
+            "locality_id":1226531329,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1226531329,
+    "wof:lastmodified":1537676244,
+    "wof:name":"Al Harmuzi",
+    "wof:parent_id":1108721057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.92923,
+    23.60383,
+    55.92923,
+    23.60383
+],
+  "geometry": {"coordinates":[55.92923,23.60383],"type":"Point"}
+}

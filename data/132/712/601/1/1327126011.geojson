@@ -1,0 +1,74 @@
+{
+  "id": 1327126011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.24491,25.77715,56.24491,25.77715",
+    "geom:latitude":25.77715,
+    "geom:longitude":56.24491,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Hayr",
+    "gn:country_code":"OM",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390031,
+    "gn:latitude":25.77715,
+    "gn:longitude":56.24491,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al \u1e28ayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ayr",
+        "Al \u1e24\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390031
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"51df317bbf618f4c43dfa8dba84e2812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1327126011,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1327126011,
+    "wof:lastmodified":1537676259,
+    "wof:name":"Al Hayr",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.24491,
+    25.77715,
+    56.24491,
+    25.77715
+],
+  "geometry": {"coordinates":[56.24491,25.77715],"type":"Point"}
+}

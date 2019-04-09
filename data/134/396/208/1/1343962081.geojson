@@ -1,0 +1,73 @@
+{
+  "id": 1343962081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.26585,23.06511,57.26585,23.06511",
+    "geom:latitude":23.06511,
+    "geom:longitude":57.26585,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bilad Sayt",
+    "gn:country_code":"OM",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288708,
+    "gn:latitude":23.06511,
+    "gn:longitude":57.26585,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Bil\u0101d Sayt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u062f \u0633\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Bil\u0101d Sayt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421189279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288708
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"90e39a6f11ee33143b113e9d427f8324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189279,
+            "locality_id":1343962081,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1343962081,
+    "wof:lastmodified":1537676225,
+    "wof:name":"Bilad Sayt",
+    "wof:parent_id":421189279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.26585,
+    23.06511,
+    57.26585,
+    23.06511
+],
+  "geometry": {"coordinates":[57.26585,23.06511],"type":"Point"}
+}

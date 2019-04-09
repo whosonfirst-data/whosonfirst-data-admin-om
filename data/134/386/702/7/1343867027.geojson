@@ -1,0 +1,76 @@
+{
+  "id": 1343867027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.22417,23.51861,57.22417,23.51861",
+    "geom:latitude":23.51861,
+    "geom:longitude":57.22417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Disli",
+    "gn:country_code":"OM",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288484,
+    "gn:latitude":23.51861,
+    "gn:longitude":57.22417,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"D\u012bsl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Disl\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0633\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "D\u012bsl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288484
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"438c2ee8d02784f4ece07a78e3c41f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1343867027,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1343867027,
+    "wof:lastmodified":1537676219,
+    "wof:name":"Disli",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.22417,
+    23.51861,
+    57.22417,
+    23.51861
+],
+  "geometry": {"coordinates":[57.22417,23.51861],"type":"Point"}
+}

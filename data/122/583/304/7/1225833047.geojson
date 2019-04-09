@@ -1,0 +1,70 @@
+{
+  "id": 1225833047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.87861,24.13667,56.87861,24.13667",
+    "geom:latitude":24.13667,
+    "geom:longitude":56.87861,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Murtafa`at Saham",
+    "gn:country_code":"OM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412902,
+    "gn:latitude":24.13667,
+    "gn:longitude":56.87861,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Murtafa\u2018\u0101t \u015ea\u1e29am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murtafa\u2018\u0101t \u015ea\u1e29am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412902
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"79f9169dd641950f6ebafb2bbe5602aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1225833047,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1225833047,
+    "wof:lastmodified":1537676295,
+    "wof:name":"Murtafa`at Saham",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.87861,
+    24.13667,
+    56.87861,
+    24.13667
+],
+  "geometry": {"coordinates":[56.87861,24.13667],"type":"Point"}
+}

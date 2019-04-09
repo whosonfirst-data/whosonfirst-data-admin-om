@@ -1,0 +1,73 @@
+{
+  "id": 1209800877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.45185,17.18333,54.45185,17.18333",
+    "geom:latitude":17.18333,
+    "geom:longitude":54.45185,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Anqata`",
+    "gn:country_code":"OM",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558679,
+    "gn:latitude":17.18333,
+    "gn:longitude":54.45185,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Anqa\u0163a\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0642\u0637\u0639"
+    ],
+    "name:und_x_variant":[
+        "Anqa\u0163a\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558679
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"138bac4206f310d7941be01ce1d359ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1209800877,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209800877,
+    "wof:lastmodified":1537676311,
+    "wof:name":"Anqata`",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.45185,
+    17.18333,
+    54.45185,
+    17.18333
+],
+  "geometry": {"coordinates":[54.45185,17.18333],"type":"Point"}
+}

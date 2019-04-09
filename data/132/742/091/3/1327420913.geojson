@@ -1,0 +1,75 @@
+{
+  "id": 1327420913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.55716,22.96819,58.55716,22.96819",
+    "geom:latitude":22.96819,
+    "geom:longitude":58.55716,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Murtafa`at Harah",
+    "gn:country_code":"OM",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288048,
+    "gn:latitude":22.96819,
+    "gn:longitude":58.55716,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Murtafa\u2018\u0101t \u1e28\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062a\u0641\u0639\u0627\u062a \u062d\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101rrah",
+        "Murtafa\u2018\u0101t \u1e28\u0101rah",
+        "Murtafa\u2018\u0101t \u1e24\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288048
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"473af01ca044017ff73f7ecad4122898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1327420913,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1327420913,
+    "wof:lastmodified":1537676205,
+    "wof:name":"Murtafa`at Harah",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.55716,
+    22.96819,
+    58.55716,
+    22.96819
+],
+  "geometry": {"coordinates":[58.55716,22.96819],"type":"Point"}
+}

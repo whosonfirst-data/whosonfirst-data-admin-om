@@ -1,0 +1,70 @@
+{
+  "id": 1259572215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.84291,23.97403,55.84291,23.97403",
+    "geom:latitude":23.97403,
+    "geom:longitude":55.84291,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gharbi Hafit",
+    "gn:country_code":"OM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412414,
+    "gn:latitude":23.97403,
+    "gn:longitude":55.84291,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gharb\u012b \u1e28af\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gharb\u012b \u1e28af\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412414
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3af19d6fed82c736840a10c4bda6df1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184225,
+            "locality_id":1259572215,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1259572215,
+    "wof:lastmodified":1537676291,
+    "wof:name":"Gharbi Hafit",
+    "wof:parent_id":421184225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.84291,
+    23.97403,
+    55.84291,
+    23.97403
+],
+  "geometry": {"coordinates":[55.84291,23.97403],"type":"Point"}
+}

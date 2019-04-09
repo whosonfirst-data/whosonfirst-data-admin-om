@@ -1,0 +1,75 @@
+{
+  "id": 1243048155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.99118,22.82959,58.99118,22.82959",
+    "geom:latitude":22.82959,
+    "geom:longitude":58.99118,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Maqta`",
+    "gn:country_code":"OM",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442270,
+    "gn:latitude":22.82959,
+    "gn:longitude":58.99118,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Maq\u0163a\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0637\u0639"
+    ],
+    "name:und_x_variant":[
+        "Maq\u0163a\u2018ah",
+        "Maq\u0163a\u2018",
+        "Maq\u1e6da\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442270
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"55a416a821a251cd219bcb8b1babcd7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1243048155,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1243048155,
+    "wof:lastmodified":1537676304,
+    "wof:name":"Maqta`",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.99118000000001,
+    22.82959,
+    58.99118000000001,
+    22.82959
+],
+  "geometry": {"coordinates":[58.99118000000001,22.82959],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360276099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.44694,17.17861,54.44694,17.17861",
+    "geom:latitude":17.17861,
+    "geom:longitude":54.44694,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Khadrakoor",
+    "gn:country_code":"OM",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415424,
+    "gn:latitude":17.17861,
+    "gn:longitude":54.44694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khadrakoor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415424
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6dc31467959529ebd6309cfe2c9e18df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1360276099,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1360276099,
+    "wof:lastmodified":1536670067,
+    "wof:name":"Khadrakoor",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.44694000000001,
+    17.17861,
+    54.44694000000001,
+    17.17861
+],
+  "geometry": {"coordinates":[54.44694000000001,17.17861],"type":"Point"}
+}

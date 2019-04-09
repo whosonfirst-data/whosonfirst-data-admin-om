@@ -1,0 +1,75 @@
+{
+  "id": 1276768823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.23925,22.79929,59.23925,22.79929",
+    "geom:latitude":22.79929,
+    "geom:longitude":59.23925,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Harat Badah",
+    "gn:country_code":"OM",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288067,
+    "gn:latitude":22.79929,
+    "gn:longitude":59.23925,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"\u1e28\u0101rat Badah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0628\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101rat Bidih",
+        "\u1e28\u0101rat Badah",
+        "\u1e24\u0101rat Bidah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288067
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3abff42c7ec53de26d9d2a0d96296f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":1276768823,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1276768823,
+    "wof:lastmodified":1537676205,
+    "wof:name":"Harat Badah",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.23925,
+    22.79929,
+    59.23925,
+    22.79929
+],
+  "geometry": {"coordinates":[59.23925,22.79929],"type":"Point"}
+}

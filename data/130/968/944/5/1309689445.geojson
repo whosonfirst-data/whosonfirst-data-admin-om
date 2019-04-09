@@ -1,0 +1,75 @@
+{
+  "id": 1309689445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.53312,22.64612,58.53312,22.64612",
+    "geom:latitude":22.64612,
+    "geom:longitude":58.53312,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Masrun",
+    "gn:country_code":"OM",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287282,
+    "gn:latitude":22.64612,
+    "gn:longitude":58.53312,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Ma\u015fr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u0631\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Masr\u016bn",
+        "Ma\u015fr\u016bn",
+        "Ma\u1e63r\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287282
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b245dc3f06bd6872835901ad693f1edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721051,
+            "locality_id":1309689445,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1309689445,
+    "wof:lastmodified":1537676185,
+    "wof:name":"Masrun",
+    "wof:parent_id":1108721051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.53312,
+    22.64612,
+    58.53312,
+    22.64612
+],
+  "geometry": {"coordinates":[58.53312,22.64612],"type":"Point"}
+}

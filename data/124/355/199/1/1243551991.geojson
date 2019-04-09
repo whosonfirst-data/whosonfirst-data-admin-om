@@ -1,0 +1,78 @@
+{
+  "id": 1243551991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.51739,23.36637,58.51739,23.36637",
+    "geom:latitude":23.36637,
+    "geom:longitude":58.51739,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Himzi",
+    "gn:country_code":"OM",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028496,
+    "gn:latitude":23.36637,
+    "gn:longitude":58.51739,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Al \u1e28imz\u0327\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28im\u1e11\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0645\u0636\u064a",
+        "\u0627\u0644\u062d\u0645\u0638\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28imz\u0327\u012b",
+        "Al \u1e24\u012bm\u1e93\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028496
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e1d4f3da30f8bdea7ed4c8805f343a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1243551991,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1243551991,
+    "wof:lastmodified":1537676307,
+    "wof:name":"Al Himzi",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.51739,
+    23.36637,
+    58.51739,
+    23.36637
+],
+  "geometry": {"coordinates":[58.51739,23.36637],"type":"Point"}
+}

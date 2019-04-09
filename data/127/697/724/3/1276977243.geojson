@@ -1,0 +1,73 @@
+{
+  "id": 1276977243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.13616,16.69363,53.13616,16.69363",
+    "geom:latitude":16.69363,
+    "geom:longitude":53.13616,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ba`layt Ajnad",
+    "gn:country_code":"OM",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11556154,
+    "gn:latitude":16.69363,
+    "gn:longitude":53.13616,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ba\u2018layt Ajn\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0639\u0644\u064a\u062a \u0623\u062c\u0646\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ba\u2018layt Ajn\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556154
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"444cea33a20d88ba6f316b886d3290c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189277,
+            "locality_id":1276977243,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276977243,
+    "wof:lastmodified":1537676329,
+    "wof:name":"Ba`layt Ajnad",
+    "wof:parent_id":421189277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.13616,
+    16.69363,
+    53.13616,
+    16.69363
+],
+  "geometry": {"coordinates":[53.13616,16.69363],"type":"Point"}
+}

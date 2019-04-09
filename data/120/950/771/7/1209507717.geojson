@@ -1,0 +1,83 @@
+{
+  "id": 1209507717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.19841,23.62804,58.19841,23.62804",
+    "geom:latitude":23.62804,
+    "geom:longitude":58.19841,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Khawd",
+    "gn:country_code":"OM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289189,
+    "gn:latitude":23.62804,
+    "gn:longitude":58.19841,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Al Khawd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u0636"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khawd"
+    ],
+    "name:eng_x_variant":[
+        "Al Koudh",
+        "Al Koude"
+    ],
+    "name:und_x_variant":[
+        "Khaud",
+        "Khaw\u1e11",
+        "Khodh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421187061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289189,
+        "wk:page":"Al_Khawd"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0d1da59b3125340cdca7d309114e6c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187061,
+            "locality_id":1209507717,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1209507717,
+    "wof:lastmodified":1548974435,
+    "wof:name":"Al Khawd",
+    "wof:parent_id":421187061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.19841,
+    23.62804,
+    58.19841,
+    23.62804
+],
+  "geometry": {"coordinates":[58.19841,23.62804],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226626419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.02004,22.43095,58.02004,22.43095",
+    "geom:latitude":22.43095,
+    "geom:longitude":58.02004,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Yahmadi",
+    "gn:country_code":"OM",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289379,
+    "gn:latitude":22.43095,
+    "gn:longitude":58.02004,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Al Ya\u1e29mad\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u062d\u0645\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al A\u1e29mad\u012b",
+        "Al Ya\u1e29mad\u012b",
+        "Al Ya\u1e25mad\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289379
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e029e51f5582d3d69aa8f73a959b2400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1226626419,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1226626419,
+    "wof:lastmodified":1537676248,
+    "wof:name":"Al Yahmadi",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.02004,
+    22.43095,
+    58.02004,
+    22.43095
+],
+  "geometry": {"coordinates":[58.02004,22.43095],"type":"Point"}
+}

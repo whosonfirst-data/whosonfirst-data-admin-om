@@ -1,0 +1,70 @@
+{
+  "id": 1226650173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.74194,23.14,57.74194,23.14",
+    "geom:latitude":23.14,
+    "geom:longitude":57.74194,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hijar",
+    "gn:country_code":"OM",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287910,
+    "gn:latitude":23.14,
+    "gn:longitude":57.74194,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"\u1e28ij\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28ij\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        1108721091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287910
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bf6624f1fd9954d537b7b9778f6728f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721091,
+            "locality_id":1226650173,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1226650173,
+    "wof:lastmodified":1537676199,
+    "wof:name":"Hijar",
+    "wof:parent_id":1108721091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.74194,
+    23.14,
+    57.74194,
+    23.14
+],
+  "geometry": {"coordinates":[57.74194,23.14],"type":"Point"}
+}

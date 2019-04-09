@@ -1,0 +1,74 @@
+{
+  "id": 1310306899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.57825,18.28599,56.57825,18.28599",
+    "geom:latitude":18.28599,
+    "geom:longitude":56.57825,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaysad",
+    "gn:country_code":"OM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286880,
+    "gn:latitude":18.28599,
+    "gn:longitude":56.57825,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Qay\u015fad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0635\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qay\u015fad",
+        "Qay\u1e63ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675685,
+        421172087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286880
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ca61d555592b8861d88cfef20caa10ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172087,
+            "locality_id":1310306899,
+            "region_id":85675685
+        }
+    ],
+    "wof:id":1310306899,
+    "wof:lastmodified":1537676175,
+    "wof:name":"Qaysad",
+    "wof:parent_id":421172087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.57825,
+    18.28599,
+    56.57825,
+    18.28599
+],
+  "geometry": {"coordinates":[56.57825,18.28599],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242674683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.20606,25.7944,56.20606,25.7944",
+    "geom:latitude":25.7944,
+    "geom:longitude":56.20606,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sabtan",
+    "gn:country_code":"OM",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390028,
+    "gn:latitude":25.7944,
+    "gn:longitude":56.20606,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sab\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sub\u0163\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0628\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sab\u0163\u0101n",
+        "Sib\u1e6d\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390028
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2a8fddae2093758dd3188d7c340126a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1242674683,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1242674683,
+    "wof:lastmodified":1537676258,
+    "wof:name":"Sabtan",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.20606,
+    25.7944,
+    56.20606,
+    25.7944
+],
+  "geometry": {"coordinates":[56.20606,25.7944],"type":"Point"}
+}

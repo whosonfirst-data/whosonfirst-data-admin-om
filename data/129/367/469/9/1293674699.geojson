@@ -1,0 +1,70 @@
+{
+  "id": 1293674699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.26589,16.73591,53.26589,16.73591",
+    "geom:latitude":16.73591,
+    "geom:longitude":53.26589,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dahaq",
+    "gn:country_code":"OM",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11556116,
+    "gn:latitude":16.73591,
+    "gn:longitude":53.26589,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Dahaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11556116
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3b916dc7002d2b10ae7e6da82ffbf41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189277,
+            "locality_id":1293674699,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1293674699,
+    "wof:lastmodified":1537676327,
+    "wof:name":"Dahaq",
+    "wof:parent_id":421189277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.26589,
+    16.73591,
+    53.26589,
+    16.73591
+],
+  "geometry": {"coordinates":[53.26589,16.73591],"type":"Point"}
+}

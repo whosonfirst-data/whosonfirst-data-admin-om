@@ -1,0 +1,70 @@
+{
+  "id": 1209695989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.80553,22.96461,58.80553,22.96461",
+    "geom:latitude":22.96461,
+    "geom:longitude":58.80553,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Hajir",
+    "gn:country_code":"OM",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288164,
+    "gn:latitude":22.96461,
+    "gn:longitude":58.80553,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"\u1e28\u0101jir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101jir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288164
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"defa68902c67eb2d3c4053792a615258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1209695989,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1209695989,
+    "wof:lastmodified":1548974435,
+    "wof:name":"Hajir",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.80553000000001,
+    22.96461,
+    58.80553000000001,
+    22.96461
+],
+  "geometry": {"coordinates":[58.80553000000001,22.96461],"type":"Point"}
+}

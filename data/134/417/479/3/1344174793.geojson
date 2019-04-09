@@ -1,0 +1,70 @@
+{
+  "id": 1344174793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.0312,23.31353,57.0312,23.31353",
+    "geom:latitude":23.31353,
+    "geom:longitude":57.0312,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Huwaylayn",
+    "gn:country_code":"OM",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289232,
+    "gn:latitude":23.31353,
+    "gn:longitude":57.0312,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Al \u1e28uwaylayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28uwaylayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289232
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"33937e5c08ccdb77f09061dc833dd3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1344174793,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1344174793,
+    "wof:lastmodified":1537676241,
+    "wof:name":"Al Huwaylayn",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.0312,
+    23.31353,
+    57.0312,
+    23.31353
+],
+  "geometry": {"coordinates":[57.0312,23.31353],"type":"Point"}
+}

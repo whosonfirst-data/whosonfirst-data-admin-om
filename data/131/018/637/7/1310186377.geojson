@@ -1,0 +1,70 @@
+{
+  "id": 1310186377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.31914,24.48294,56.31914,24.48294",
+    "geom:latitude":24.48294,
+    "geom:longitude":56.31914,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Majhal",
+    "gn:country_code":"OM",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287383,
+    "gn:latitude":24.48294,
+    "gn:longitude":56.31914,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Majhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0647\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287383
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a8f197bd31f3aa71cdeda0d8f35d8cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721099,
+            "locality_id":1310186377,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1310186377,
+    "wof:lastmodified":1537676187,
+    "wof:name":"Majhal",
+    "wof:parent_id":1108721099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.31914,
+    24.48294,
+    56.31914,
+    24.48294
+],
+  "geometry": {"coordinates":[56.31914,24.48294],"type":"Point"}
+}

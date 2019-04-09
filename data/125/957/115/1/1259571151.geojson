@@ -1,0 +1,67 @@
+{
+  "id": 1259571151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.58861,24.49556,56.58861,24.49556",
+    "geom:latitude":24.49556,
+    "geom:longitude":56.58861,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"An Naqdah",
+    "gn:country_code":"OM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412882,
+    "gn:latitude":24.49556,
+    "gn:longitude":56.58861,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"An Naqdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412882
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"93b5fc7bdb00b1c151a8c569f2a29e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721099,
+            "locality_id":1259571151,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1259571151,
+    "wof:lastmodified":1536732905,
+    "wof:name":"An Naqdah",
+    "wof:parent_id":1108721099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.58861,
+    24.49556,
+    56.58861,
+    24.49556
+],
+  "geometry": {"coordinates":[56.58861,24.49556],"type":"Point"}
+}

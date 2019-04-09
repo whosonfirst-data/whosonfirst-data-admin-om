@@ -1,0 +1,73 @@
+{
+  "id": 1310581457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.07182,22.30201,58.07182,22.30201",
+    "geom:latitude":22.30201,
+    "geom:longitude":58.07182,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Barzaman",
+    "gn:country_code":"OM",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288784,
+    "gn:latitude":22.30201,
+    "gn:longitude":58.07182,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Barzam\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0632\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Barzam\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288784
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1f52fd4fe2ee59ebbb9d5672eef3dc77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1310581457,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1310581457,
+    "wof:lastmodified":1537676227,
+    "wof:name":"Barzaman",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.07182,
+    22.30201,
+    58.07182,
+    22.30201
+],
+  "geometry": {"coordinates":[58.07182,22.30201],"type":"Point"}
+}

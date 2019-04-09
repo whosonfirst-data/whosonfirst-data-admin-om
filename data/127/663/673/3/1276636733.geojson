@@ -1,0 +1,77 @@
+{
+  "id": 1276636733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.91595,23.69267,56.91595,23.69267",
+    "geom:latitude":23.69267,
+    "geom:longitude":56.91595,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Shakhbut",
+    "gn:country_code":"OM",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286481,
+    "gn:latitude":23.69267,
+    "gn:longitude":56.91595,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Shakhb\u016b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062e\u0628\u0648\u0637"
+    ],
+    "name:und_x_variant":[
+        "Al Ghub",
+        "Ghab",
+        "Shakhb\u016bt",
+        "Shakhb\u016b\u0163",
+        "Shakhb\u016b\u1e6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286481
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ebfc65120728f152c94ab2cfcbf50d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1276636733,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276636733,
+    "wof:lastmodified":1537676164,
+    "wof:name":"Shakhbut",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.91595,
+    23.69267,
+    56.91595,
+    23.69267
+],
+  "geometry": {"coordinates":[56.91595,23.69267],"type":"Point"}
+}

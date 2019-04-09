@@ -1,0 +1,75 @@
+{
+  "id": 1327042907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.32151,23.43117,57.32151,23.43117",
+    "geom:latitude":23.43117,
+    "geom:longitude":57.32151,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Hashah",
+    "gn:country_code":"OM",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288041,
+    "gn:latitude":23.43117,
+    "gn:longitude":57.32151,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al \u1e28ash\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0634\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ash\u0101",
+        "Al \u1e28ash\u0101h",
+        "Al \u1e24ash\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288041
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"93b762f738fd0c859a7a1a4b1d2938e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1327042907,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1327042907,
+    "wof:lastmodified":1537676204,
+    "wof:name":"Al Hashah",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.32151,
+    23.43117,
+    57.32151,
+    23.43117
+],
+  "geometry": {"coordinates":[57.32151,23.43117],"type":"Point"}
+}

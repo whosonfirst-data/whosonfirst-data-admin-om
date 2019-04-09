@@ -1,0 +1,75 @@
+{
+  "id": 1260264143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.4706,23.84036,57.4706,23.84036",
+    "geom:latitude":23.84036,
+    "geom:longitude":57.4706,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Bad`ah ash Sharqiyah",
+    "gn:country_code":"OM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288655,
+    "gn:latitude":23.84036,
+    "gn:longitude":57.4706,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Bad\u2018ah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u0639\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Buday\u2018ah",
+        "Al Bad\u2018ah ash Sharq\u012byah",
+        "Al Bad\u2018ah ash Sharqiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421184219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288655
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"59eba2807fbc8e3960d5fcfa0b6b9b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184219,
+            "locality_id":1260264143,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1260264143,
+    "wof:lastmodified":1537676223,
+    "wof:name":"Al Bad`ah ash Sharqiyah",
+    "wof:parent_id":421184219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.4706,
+    23.84036,
+    57.4706,
+    23.84036
+],
+  "geometry": {"coordinates":[57.4706,23.84036],"type":"Point"}
+}

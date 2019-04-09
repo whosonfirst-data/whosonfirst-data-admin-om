@@ -1,0 +1,71 @@
+{
+  "id": 1193016397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.17846,22.13364,59.17846,22.13364",
+    "geom:latitude":22.13364,
+    "geom:longitude":59.17846,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fulayj al Masha'ikh",
+    "gn:country_code":"OM",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288339,
+    "gn:latitude":22.13364,
+    "gn:longitude":59.17846,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fulayj al Mash\u0101\u2019ikh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fulayj al Mash\u0101yikh",
+        "Fulayj al Mash\u0101\u2019ikh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288339
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fd0751b4a9c7b36e8d718fc4d1267643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721069,
+            "locality_id":1193016397,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1193016397,
+    "wof:lastmodified":1537676213,
+    "wof:name":"Fulayj al Masha'ikh",
+    "wof:parent_id":1108721069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.17846,
+    22.13364,
+    59.17846,
+    22.13364
+],
+  "geometry": {"coordinates":[59.17846,22.13364],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310694077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.76084,23.24471,58.76084,23.24471",
+    "geom:latitude":23.24471,
+    "geom:longitude":58.76084,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"As Sumayr",
+    "gn:country_code":"OM",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287240,
+    "gn:latitude":23.24471,
+    "gn:longitude":58.76084,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"As Sumayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018 Sumayr",
+        "As Sumayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287240
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"407b765e8470341b87f015e9da5ed5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1310694077,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1310694077,
+    "wof:lastmodified":1537676184,
+    "wof:name":"As Sumayr",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.76084,
+    23.24471,
+    58.76084,
+    23.24471
+],
+  "geometry": {"coordinates":[58.76084,23.24471],"type":"Point"}
+}

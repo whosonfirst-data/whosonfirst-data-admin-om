@@ -1,0 +1,76 @@
+{
+  "id": 1343848871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.42189,16.74768,53.42189,16.74768",
+    "geom:latitude":16.74768,
+    "geom:longitude":53.42189,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rakhyut",
+    "gn:country_code":"OM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286790,
+    "gn:latitude":16.74768,
+    "gn:longitude":53.42189,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Rakhy\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062e\u064a\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Rakhuit",
+        "Raykh\u016bt",
+        "Rakyut",
+        "Rakhy\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286790
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"192196bd3348c634910704d5230efb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1343848871,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343848871,
+    "wof:lastmodified":1537676173,
+    "wof:name":"Rakhyut",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.42189000000001,
+    16.74768,
+    53.42189000000001,
+    16.74768
+],
+  "geometry": {"coordinates":[53.42189000000001,16.74768],"type":"Point"}
+}

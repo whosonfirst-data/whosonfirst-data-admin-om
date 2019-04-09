@@ -1,0 +1,75 @@
+{
+  "id": 1343845135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.28801,22.96071,58.28801,22.96071",
+    "geom:latitude":22.96071,
+    "geom:longitude":58.28801,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sufalat al Musfah",
+    "gn:country_code":"OM",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442250,
+    "gn:latitude":22.96071,
+    "gn:longitude":58.28801,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Suf\u0101lat al Musf\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0641\u0627\u0644\u0629 \u0627\u0644\u0645\u0633\u0641\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "Suf\u0101lat Misfah",
+        "Suf\u0101lat al Musf\u0101h",
+        "Suf\u0101lat al Misf\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442250
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"029917a8655a5bce6162736a88279bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1343845135,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1343845135,
+    "wof:lastmodified":1537676302,
+    "wof:name":"Sufalat al Musfah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.28801,
+    22.96071,
+    58.28801,
+    22.96071
+],
+  "geometry": {"coordinates":[58.28801,22.96071],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310023363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.97577,23.03752,57.97577,23.03752",
+    "geom:latitude":23.03752,
+    "geom:longitude":57.97577,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Qawasim",
+    "gn:country_code":"OM",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412166,
+    "gn:latitude":23.03752,
+    "gn:longitude":57.97577,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al Qaw\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Qaw\u0101sim",
+        "Al Quw\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412166
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bc36f11fd549c75387523de03cc4c9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1310023363,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1310023363,
+    "wof:lastmodified":1537676286,
+    "wof:name":"Al Qawasim",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.97577,
+    23.03752,
+    57.97577,
+    23.03752
+],
+  "geometry": {"coordinates":[57.97577,23.03752],"type":"Point"}
+}

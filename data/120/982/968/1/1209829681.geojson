@@ -1,0 +1,75 @@
+{
+  "id": 1209829681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.99397,22.81125,57.99397,22.81125",
+    "geom:latitude":22.81125,
+    "geom:longitude":57.99397,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khadra' Bani Daffa`",
+    "gn:country_code":"OM",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287647,
+    "gn:latitude":22.81125,
+    "gn:longitude":57.99397,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Kha\u1e11r\u0101\u2019 Ban\u012b Daff\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0636\u0631\u0627\u0621 \u0628\u0646\u064a \u062f\u0641\u0651\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Kha\u1e11r\u0101\u2019 Bin Daff\u0101\u2018",
+        "Kha\u1e11r\u0101\u2019 Ban\u012b Daff\u0101\u2018",
+        "Kha\u1e0dr\u0101\u2019 Ban\u012b Daff\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287647
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cff1f5439f2d40052888022808732858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1209829681,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1209829681,
+    "wof:lastmodified":1537676194,
+    "wof:name":"Khadra' Bani Daffa`",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.99397,
+    22.81125,
+    57.99397,
+    22.81125
+],
+  "geometry": {"coordinates":[57.99397,22.81125],"type":"Point"}
+}

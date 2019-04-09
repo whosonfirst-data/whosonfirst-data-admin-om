@@ -1,0 +1,74 @@
+{
+  "id": 1259472911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.43405,23.19551,56.43405,23.19551",
+    "geom:latitude":23.19551,
+    "geom:longitude":56.43405,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Maharij",
+    "gn:country_code":"OM",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411720,
+    "gn:latitude":23.19551,
+    "gn:longitude":56.43405,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Mah\u0101rij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0647\u0627\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "Mah\u0101rij",
+        "Mu\u2018askar \u2018Ibr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411720
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e83bef7d29c762f6e10e8dddd1315133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1259472911,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1259472911,
+    "wof:lastmodified":1537676271,
+    "wof:name":"Maharij",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.43405,
+    23.19551,
+    56.43405,
+    23.19551
+],
+  "geometry": {"coordinates":[56.43405,23.19551],"type":"Point"}
+}

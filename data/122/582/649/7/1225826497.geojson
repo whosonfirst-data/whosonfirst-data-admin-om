@@ -1,0 +1,70 @@
+{
+  "id": 1225826497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.91028,24.14222,56.91028,24.14222",
+    "geom:latitude":24.14222,
+    "geom:longitude":56.91028,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khawr Hammam",
+    "gn:country_code":"OM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287579,
+    "gn:latitude":24.14222,
+    "gn:longitude":56.91028,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Khawr \u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khawr \u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287579
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b95890ef02dcbaa678ba7bde32418e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1225826497,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1225826497,
+    "wof:lastmodified":1537676192,
+    "wof:name":"Khawr Hammam",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.91028000000001,
+    24.14222,
+    56.91028000000001,
+    24.14222
+],
+  "geometry": {"coordinates":[56.91028000000001,24.14222],"type":"Point"}
+}

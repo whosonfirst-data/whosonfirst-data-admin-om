@@ -1,0 +1,67 @@
+{
+  "id": 1193266483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.39247,23.86086,57.39247,23.86086",
+    "geom:latitude":23.86086,
+    "geom:longitude":57.39247,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qasini",
+    "gn:country_code":"OM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412196,
+    "gn:latitude":23.86086,
+    "gn:longitude":57.39247,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Qasini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421184219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412196
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"3c4494ee3c9dd4bea2ce206da79714cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184219,
+            "locality_id":1193266483,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1193266483,
+    "wof:lastmodified":1536375314,
+    "wof:name":"Qasini",
+    "wof:parent_id":421184219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.39247,
+    23.86086,
+    57.39247,
+    23.86086
+],
+  "geometry": {"coordinates":[57.39247,23.86086],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209412311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.98106,17.09418,53.98106,17.09418",
+    "geom:latitude":17.09418,
+    "geom:longitude":53.98106,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arhunut",
+    "gn:country_code":"OM",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8694791,
+    "gn:latitude":17.09418,
+    "gn:longitude":53.98106,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Arhun\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Arhun\u016bt"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0631\u0647\u0646\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Arhan\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694791
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"5d947ce455115c47a73de8f27036ac28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1209412311,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209412311,
+    "wof:lastmodified":1548974427,
+    "wof:name":"Arhunut",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.98106,
+    17.09418,
+    53.98106,
+    17.09418
+],
+  "geometry": {"coordinates":[53.98106,17.09418],"type":"Point"}
+}

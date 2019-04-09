@@ -1,0 +1,75 @@
+{
+  "id": 1310296713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.19785,26.03123,56.19785,26.03123",
+    "geom:latitude":26.03123,
+    "geom:longitude":56.19785,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sulayb",
+    "gn:country_code":"OM",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389907,
+    "gn:latitude":26.03123,
+    "gn:longitude":56.19785,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u015eulayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0644\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Silayb",
+        "\u015eulayb",
+        "\u1e62ilayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389907
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"53ac650e36bc623eb8a0434164f4bc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1310296713,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1310296713,
+    "wof:lastmodified":1537676257,
+    "wof:name":"Sulayb",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.19785,
+    26.03123,
+    56.19785,
+    26.03123
+],
+  "geometry": {"coordinates":[56.19785,26.03123],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293667357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.29944,23.89,57.29944,23.89",
+    "geom:latitude":23.89,
+    "geom:longitude":57.29944,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Diyan",
+    "gn:country_code":"OM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412192,
+    "gn:latitude":23.89,
+    "gn:longitude":57.29944,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"\u1e10iy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e10iy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412192
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a4b9863c84a94ce00b6968bd4ce16483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1293667357,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293667357,
+    "wof:lastmodified":1537676288,
+    "wof:name":"Diyan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.29944,
+    23.89,
+    57.29944,
+    23.89
+],
+  "geometry": {"coordinates":[57.29944,23.89],"type":"Point"}
+}

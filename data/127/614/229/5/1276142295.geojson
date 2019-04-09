@@ -1,0 +1,74 @@
+{
+  "id": 1276142295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.12437,17.11068,54.12437,17.11068",
+    "geom:latitude":17.11068,
+    "geom:longitude":54.12437,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Afardhkut",
+    "gn:country_code":"OM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558752,
+    "gn:latitude":17.11068,
+    "gn:longitude":54.12437,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Afardhkut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0641\u0631\u0636\u062e\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Afar\u1e11akhawt",
+        "Afardhkut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558752
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f539c65eb353a5ed18ba53fe106bfdb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1276142295,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276142295,
+    "wof:lastmodified":1537676314,
+    "wof:name":"Afardhkut",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.12436999999999,
+    17.11068,
+    54.12436999999999,
+    17.11068
+],
+  "geometry": {"coordinates":[54.12436999999999,17.11068],"type":"Point"}
+}

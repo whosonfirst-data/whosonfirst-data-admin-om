@@ -1,0 +1,78 @@
+{
+  "id": 1243535741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.36494,24.9739,56.36494,24.9739",
+    "geom:latitude":24.9739,
+    "geom:longitude":56.36494,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khatmat Milahah",
+    "gn:country_code":"OM",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287600,
+    "gn:latitude":24.9739,
+    "gn:longitude":56.36494,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Kha\u0163mat Mil\u0101\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0637\u0645\u0629 \u0645\u0644\u0627\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kha\u0163am Mal\u0101\u1e29ah",
+        "Kha\u0163mat al Mal\u0101\u1e29ah",
+        "Kha\u0163mat Mal\u0101\u1e29ah",
+        "Kha\u0163mat Mil\u0101\u1e29ah",
+        "Khi\u1e6dmat Mil\u0101\u1e25ah",
+        "Khi\u1e6dmat Mil\u0101\u1e25ah border checkpoint"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421183959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287600
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ed00972c4d05485e55cf8bb6ec8693f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421183959,
+            "locality_id":1243535741,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1243535741,
+    "wof:lastmodified":1537676193,
+    "wof:name":"Khatmat Milahah",
+    "wof:parent_id":421183959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.36494,
+    24.9739,
+    56.36494,
+    24.9739
+],
+  "geometry": {"coordinates":[56.36494,24.9739],"type":"Point"}
+}

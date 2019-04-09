@@ -1,0 +1,75 @@
+{
+  "id": 1343955715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.41359,17.20103,54.41359,17.20103",
+    "geom:latitude":17.20103,
+    "geom:longitude":54.41359,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Har Harut",
+    "gn:country_code":"OM",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288210,
+    "gn:latitude":17.20103,
+    "gn:longitude":54.41359,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u1e28ar \u1e28ar\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u062d\u0627\u0631\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28abar\u016bt",
+        "\u1e28ar \u1e28ar\u016bt",
+        "\u1e28\u0101r\u1e29\u0101r\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288210
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2d3bdf2ca79465246dddedf9149d6442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1343955715,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343955715,
+    "wof:lastmodified":1537676209,
+    "wof:name":"Har Harut",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.41359,
+    17.20103,
+    54.41359,
+    17.20103
+],
+  "geometry": {"coordinates":[54.41359,17.20103],"type":"Point"}
+}

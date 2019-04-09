@@ -1,0 +1,66 @@
+{
+  "id": 1243279231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.53909,23.14375,57.53909,23.14375",
+    "geom:latitude":23.14375,
+    "geom:longitude":57.53909,
+    "gn:asciiname":"Hayil Aldeyar",
+    "gn:country_code":"OM",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520920,
+    "gn:latitude":23.14375,
+    "gn:longitude":57.53909,
+    "gn:modification_date":"2013-04-11",
+    "gn:name":"Hayil Aldeyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520920
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"60a9775090d8d05b3afc946e4713ac52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1243279231,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1243279231,
+    "wof:lastmodified":1537044632,
+    "wof:name":"Hayil Aldeyar",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.53909,
+    23.14375,
+    57.53909,
+    23.14375
+],
+  "geometry": {"coordinates":[57.53909,23.14375],"type":"Point"}
+}

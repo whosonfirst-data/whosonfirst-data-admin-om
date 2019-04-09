@@ -1,0 +1,70 @@
+{
+  "id": 1276886659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.60987,23.18029,57.60987,23.18029",
+    "geom:latitude":23.18029,
+    "geom:longitude":57.60987,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"At Tikhah",
+    "gn:country_code":"OM",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":412110,
+    "gn:latitude":23.18029,
+    "gn:longitude":57.60987,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"At T\u012bkhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "At T\u012bkhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421169317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412110
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"faf6346e2c6173968e0c2f4a559aaf9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421169317,
+            "locality_id":1276886659,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1276886659,
+    "wof:lastmodified":1537676282,
+    "wof:name":"At Tikhah",
+    "wof:parent_id":421169317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.60987,
+    23.18029,
+    57.60987,
+    23.18029
+],
+  "geometry": {"coordinates":[57.60987,23.18029],"type":"Point"}
+}

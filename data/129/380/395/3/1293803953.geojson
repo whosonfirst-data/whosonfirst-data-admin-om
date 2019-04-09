@@ -1,0 +1,73 @@
+{
+  "id": 1293803953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.90639,17.04434,53.90639,17.04434",
+    "geom:latitude":17.04434,
+    "geom:longitude":53.90639,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shidad",
+    "gn:country_code":"OM",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695394,
+    "gn:latitude":17.04434,
+    "gn:longitude":53.90639,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Sh\u012bd\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sh\u012bd\u0101d"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u062f\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695394
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"caabea62292807410fe49c25736aea3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1293803953,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1293803953,
+    "wof:lastmodified":1537676323,
+    "wof:name":"Shidad",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.90639,
+    17.04434,
+    53.90639,
+    17.04434
+],
+  "geometry": {"coordinates":[53.90639,17.04434],"type":"Point"}
+}

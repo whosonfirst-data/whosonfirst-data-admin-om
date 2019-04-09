@@ -1,0 +1,70 @@
+{
+  "id": 1293871881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.39832,23.85086,57.39832,23.85086",
+    "geom:latitude":23.85086,
+    "geom:longitude":57.39832,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khadra'",
+    "gn:country_code":"OM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287650,
+    "gn:latitude":23.85086,
+    "gn:longitude":57.39832,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kha\u1e11r\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kha\u1e11r\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421184219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287650
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"7a7611483a8c52a08ec844314a45e4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184219,
+            "locality_id":1293871881,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1293871881,
+    "wof:lastmodified":1537676194,
+    "wof:name":"Khadra'",
+    "wof:parent_id":421184219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.39832,
+    23.85086,
+    57.39832,
+    23.85086
+],
+  "geometry": {"coordinates":[57.39832,23.85086],"type":"Point"}
+}

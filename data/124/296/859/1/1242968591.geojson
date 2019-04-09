@@ -1,0 +1,70 @@
+{
+  "id": 1242968591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.98443,23.18703,58.98443,23.18703",
+    "geom:latitude":23.18703,
+    "geom:longitude":58.98443,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bilad",
+    "gn:country_code":"OM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411266,
+    "gn:latitude":23.18703,
+    "gn:longitude":58.98443,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bil\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Bil\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411266
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d619ee1fb6a8de02bb0692b7d3829beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1242968591,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1242968591,
+    "wof:lastmodified":1537676269,
+    "wof:name":"Bilad",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.98443,
+    23.18703,
+    58.98443,
+    23.18703
+],
+  "geometry": {"coordinates":[58.98443,23.18703],"type":"Point"}
+}

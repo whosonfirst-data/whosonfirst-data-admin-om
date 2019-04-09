@@ -1,0 +1,74 @@
+{
+  "id": 1209512273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.93677,17.10943,53.93677,17.10943",
+    "geom:latitude":17.10943,
+    "geom:longitude":53.93677,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dahaqthri",
+    "gn:country_code":"OM",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8697007,
+    "gn:latitude":17.10943,
+    "gn:longitude":53.93677,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Dahaqthr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u0642 \u062b\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Dahaqthr\u012b",
+        "Dahaq Thar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8697007
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"eb267072e43c0235820b3488d10075da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1209512273,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1209512273,
+    "wof:lastmodified":1548974431,
+    "wof:name":"Dahaqthri",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.93677,
+    17.10943,
+    53.93677,
+    17.10943
+],
+  "geometry": {"coordinates":[53.93677,17.10943],"type":"Point"}
+}

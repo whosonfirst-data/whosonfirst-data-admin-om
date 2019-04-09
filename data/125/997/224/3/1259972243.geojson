@@ -1,0 +1,67 @@
+{
+  "id": 1259972243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.98555,23.18261,58.98555,23.18261",
+    "geom:latitude":23.18261,
+    "geom:longitude":58.98555,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jinnah",
+    "gn:country_code":"OM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411267,
+    "gn:latitude":23.18261,
+    "gn:longitude":58.98555,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Jinnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411267
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"238e62f5e5e347f5a9daf7b6ec3a7891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1259972243,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1259972243,
+    "wof:lastmodified":1536651166,
+    "wof:name":"Jinnah",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.98555,
+    23.18261,
+    58.98555,
+    23.18261
+],
+  "geometry": {"coordinates":[58.98555,23.18261],"type":"Point"}
+}

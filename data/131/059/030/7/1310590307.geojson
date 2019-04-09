@@ -1,0 +1,74 @@
+{
+  "id": 1310590307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.91003,24.67615,55.91003,24.67615",
+    "geom:latitude":24.67615,
+    "geom:longitude":55.91003,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"As Sumayni",
+    "gn:country_code":"OM",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286265,
+    "gn:latitude":24.67615,
+    "gn:longitude":55.91003,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"As Sumayn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0651\u0645\u064a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Sumayn\u012b",
+        "As Sumayn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286265
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6d0e9d4c393bd2952bd1639c139eb6db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184531,
+            "locality_id":1310590307,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1310590307,
+    "wof:lastmodified":1537676160,
+    "wof:name":"As Sumayni",
+    "wof:parent_id":421184531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.91003000000001,
+    24.67615,
+    55.91003000000001,
+    24.67615
+],
+  "geometry": {"coordinates":[55.91003000000001,24.67615],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276752909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.83044,23.9743,55.83044,23.9743",
+    "geom:latitude":23.9743,
+    "geom:longitude":55.83044,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bu Baqarah",
+    "gn:country_code":"OM",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288662,
+    "gn:latitude":23.9743,
+    "gn:longitude":55.83044,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"B\u016b Baqarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu Baqara",
+        "B\u016b Baqarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675717,
+        421184225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288662
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d6406e0bbc489f1e6e27c726cfa8ed3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184225,
+            "locality_id":1276752909,
+            "region_id":85675717
+        }
+    ],
+    "wof:id":1276752909,
+    "wof:lastmodified":1537676224,
+    "wof:name":"Bu Baqarah",
+    "wof:parent_id":421184225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.83044,
+    23.9743,
+    55.83044,
+    23.9743
+],
+  "geometry": {"coordinates":[55.83044,23.9743],"type":"Point"}
+}

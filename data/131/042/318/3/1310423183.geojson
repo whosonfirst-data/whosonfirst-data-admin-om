@@ -1,0 +1,70 @@
+{
+  "id": 1310423183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.00494,23.30884,58.00494,23.30884",
+    "geom:latitude":23.30884,
+    "geom:longitude":58.00494,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Murih",
+    "gn:country_code":"OM",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411958,
+    "gn:latitude":23.30884,
+    "gn:longitude":58.00494,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mur\u012bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mur\u012bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411958
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"1f31562ca7c64dc3c8f8fdeb00c1563e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1310423183,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1310423183,
+    "wof:lastmodified":1537676277,
+    "wof:name":"Murih",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.00494000000001,
+    23.30884,
+    58.00494000000001,
+    23.30884
+],
+  "geometry": {"coordinates":[58.00494000000001,23.30884],"type":"Point"}
+}

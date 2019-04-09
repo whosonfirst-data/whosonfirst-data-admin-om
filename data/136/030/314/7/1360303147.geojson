@@ -1,0 +1,75 @@
+{
+  "id": 1360303147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.0173,22.99966,58.0173,22.99966",
+    "geom:latitude":22.99966,
+    "geom:longitude":58.0173,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khillah",
+    "gn:country_code":"OM",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442232,
+    "gn:latitude":22.99966,
+    "gn:longitude":58.0173,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Khillah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kh\u012blah",
+        "Khillah",
+        "Khilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442232
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b443b5d99fddbd2bde41bf61f2488a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1360303147,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1360303147,
+    "wof:lastmodified":1537676301,
+    "wof:name":"Khillah",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.0173,
+    22.99966,
+    58.0173,
+    22.99966
+],
+  "geometry": {"coordinates":[58.0173,22.99966],"type":"Point"}
+}

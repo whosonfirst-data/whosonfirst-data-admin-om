@@ -1,0 +1,74 @@
+{
+  "id": 1327419285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.12609,17.27537,54.12609,17.27537",
+    "geom:latitude":17.27537,
+    "geom:longitude":54.12609,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sharbithat",
+    "gn:country_code":"OM",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558774,
+    "gn:latitude":17.27537,
+    "gn:longitude":54.12609,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Sharbith\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0628\u062a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Sharbith\u0101t",
+        "Sharbit\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558774
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"59b6736f686a75241e9a632809ea7a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1327419285,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1327419285,
+    "wof:lastmodified":1537676315,
+    "wof:name":"Sharbithat",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.12609000000001,
+    17.27537,
+    54.12609000000001,
+    17.27537
+],
+  "geometry": {"coordinates":[54.12609000000001,17.27537],"type":"Point"}
+}

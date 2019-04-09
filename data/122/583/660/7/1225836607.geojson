@@ -1,0 +1,75 @@
+{
+  "id": 1225836607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18489,26.12882,56.18489,26.12882",
+    "geom:latitude":26.12882,
+    "geom:longitude":56.18489,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wi`ab `Ali",
+    "gn:country_code":"OM",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":388701,
+    "gn:latitude":26.12882,
+    "gn:longitude":56.18489,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Wi\u2018\u0101b \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0639\u0627\u0628 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Wa\u2018b \u2018Al\u012b",
+        "Wa\u2018ab \u2018Al\u012b",
+        "Wi\u2018\u0101b \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388701
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ca00f5e97fe6a0760970d391f653d1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1225836607,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1225836607,
+    "wof:lastmodified":1537676255,
+    "wof:name":"Wi`ab `Ali",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18489,
+    26.12882,
+    56.18489,
+    26.12882
+],
+  "geometry": {"coordinates":[56.18489,26.12882],"type":"Point"}
+}

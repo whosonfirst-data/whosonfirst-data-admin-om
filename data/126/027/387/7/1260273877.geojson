@@ -1,0 +1,74 @@
+{
+  "id": 1260273877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.38367,17.14801,54.38367,17.14801",
+    "geom:latitude":17.14801,
+    "geom:longitude":54.38367,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Grthnut",
+    "gn:country_code":"OM",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558739,
+    "gn:latitude":17.14801,
+    "gn:longitude":54.38367,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Grthnut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u062b\u0646\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Jarthan\u016bt",
+        "Grthnut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558739
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c50429b5b5bcaf1bd7d13abd0362b805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1260273877,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1260273877,
+    "wof:lastmodified":1537676314,
+    "wof:name":"Grthnut",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.38367,
+    17.14801,
+    54.38367,
+    17.14801
+],
+  "geometry": {"coordinates":[54.38367,17.14801],"type":"Point"}
+}

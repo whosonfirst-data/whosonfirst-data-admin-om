@@ -1,0 +1,73 @@
+{
+  "id": 1360063391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.905,23.71611,56.905,23.71611",
+    "geom:latitude":23.71611,
+    "geom:longitude":56.905,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Fulayj",
+    "gn:country_code":"OM",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288341,
+    "gn:latitude":23.71611,
+    "gn:longitude":56.905,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Fulayj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Falaj al \u1e28adith",
+        "Falaj",
+        "Al Falaj",
+        "Fulayj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288341
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ac0b836fc03d91c90e05d163d91a4205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1360063391,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1360063391,
+    "wof:lastmodified":1537676213,
+    "wof:name":"Fulayj",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.905,
+    23.71611,
+    56.905,
+    23.71611
+],
+  "geometry": {"coordinates":[56.905,23.71611],"type":"Point"}
+}

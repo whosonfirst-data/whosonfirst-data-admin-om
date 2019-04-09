@@ -1,0 +1,77 @@
+{
+  "id": 1343255165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.47048,16.78839,53.47048,16.78839",
+    "geom:latitude":16.78839,
+    "geom:longitude":53.47048,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arqawf",
+    "gn:country_code":"OM",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7792134,
+    "gn:latitude":16.78839,
+    "gn:longitude":53.47048,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Arqawf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u063a\u0648\u0641"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0631\u0642\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Arghawf",
+        "Arqawf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421172085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792134
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b5c58042fd5a058ec35d5d5cd6447b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421172085,
+            "locality_id":1343255165,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1343255165,
+    "wof:lastmodified":1537676305,
+    "wof:name":"Arqawf",
+    "wof:parent_id":421172085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.47048,
+    16.78839,
+    53.47048,
+    16.78839
+],
+  "geometry": {"coordinates":[53.47048,16.78839],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209618147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.30912,23.46729,57.30912,23.46729",
+    "geom:latitude":23.46729,
+    "geom:longitude":57.30912,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Huwayl as Safil",
+    "gn:country_code":"OM",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289233,
+    "gn:latitude":23.46729,
+    "gn:longitude":57.30912,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"\u1e28uwayl as S\u0101fil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u0644 \u0627\u0644\u0633\u0627\u0641\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al Huwayl",
+        "\u1e28uwayl as S\u0101fil",
+        "\u1e24uwayl as S\u0101fil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289233
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"dafdc38366d29779bd2b7e629e5d112c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1209618147,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1209618147,
+    "wof:lastmodified":1548974436,
+    "wof:name":"Huwayl as Safil",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.30911999999999,
+    23.46729,
+    57.30911999999999,
+    23.46729
+],
+  "geometry": {"coordinates":[57.30911999999999,23.46729],"type":"Point"}
+}

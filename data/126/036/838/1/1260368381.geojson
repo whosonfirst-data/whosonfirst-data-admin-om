@@ -1,0 +1,75 @@
+{
+  "id": 1260368381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.73359,23.88833,56.73359,23.88833",
+    "geom:latitude":23.88833,
+    "geom:longitude":56.73359,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Liqnut",
+    "gn:country_code":"OM",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287688,
+    "gn:latitude":23.88833,
+    "gn:longitude":56.73359,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Liqn\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0642\u0646\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Kan\u016bt",
+        "Kan\u012bt",
+        "Liqn\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287688
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"af8a19fcfb07f7615bc2b6e30a90ba59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1260368381,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1260368381,
+    "wof:lastmodified":1537676195,
+    "wof:name":"Liqnut",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.73359,
+    23.88833,
+    56.73359,
+    23.88833
+],
+  "geometry": {"coordinates":[56.73359,23.88833],"type":"Point"}
+}

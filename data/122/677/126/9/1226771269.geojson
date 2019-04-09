@@ -1,0 +1,70 @@
+{
+  "id": 1226771269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.20472,26.07052,56.20472,26.07052",
+    "geom:latitude":26.07052,
+    "geom:longitude":56.20472,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bayt ash Shaykh",
+    "gn:country_code":"OM",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389900,
+    "gn:latitude":26.07052,
+    "gn:longitude":56.20472,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Bayt ash Shaykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0634\u0651\u064a\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389900
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"d6a6392f2bd827c8100ca16a4f270c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1226771269,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1226771269,
+    "wof:lastmodified":1537676256,
+    "wof:name":"Bayt ash Shaykh",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.20472,
+    26.07052,
+    56.20472,
+    26.07052
+],
+  "geometry": {"coordinates":[56.20472,26.07052],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421191159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.320341,16.729281,53.320341,16.729281",
+    "geom:latitude":16.729281,
+    "geom:longitude":53.320341,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kharfat",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0638\u0641\u0627\u0631",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1131378,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":2268188,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2268188,
+        "qs:id":1131378
+    },
+    "wof:country":"OM",
+    "wof:created":1459009682,
+    "wof:geomhash":"e728af2b9651fcae68855aa6f0d598d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189277,
+            "locality_id":421191159,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":421191159,
+    "wof:lastmodified":1500018171,
+    "wof:name":"Kharfat",
+    "wof:parent_id":421189277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.320341,
+    16.729281,
+    53.320341,
+    16.729281
+],
+  "geometry": {"coordinates":[53.320341,16.729281],"type":"Point"}
+}

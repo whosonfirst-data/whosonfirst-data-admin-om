@@ -1,0 +1,75 @@
+{
+  "id": 1209204381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.22206,23.44075,56.22206,23.44075",
+    "geom:latitude":23.44075,
+    "geom:longitude":56.22206,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abu Saylah",
+    "gn:country_code":"OM",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288621,
+    "gn:latitude":23.44075,
+    "gn:longitude":56.22206,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ab\u016b Saylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0633\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u016b Saylah",
+        "B\u016b Sayl\u012b",
+        "Ab\u016b Saylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288621
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"8e09b751a7fea85180e483f3f5cd3135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1209204381,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1209204381,
+    "wof:lastmodified":1548974424,
+    "wof:name":"Abu Saylah",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.22206,
+    23.44075,
+    56.22206,
+    23.44075
+],
+  "geometry": {"coordinates":[56.22206,23.44075],"type":"Point"}
+}

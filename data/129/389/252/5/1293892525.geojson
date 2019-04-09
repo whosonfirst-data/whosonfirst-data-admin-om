@@ -1,0 +1,77 @@
+{
+  "id": 1293892525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.44417,23.56306,57.44417,23.56306",
+    "geom:latitude":23.56306,
+    "geom:longitude":57.44417,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Falaj al Wusta",
+    "gn:country_code":"OM",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288418,
+    "gn:latitude":23.56306,
+    "gn:longitude":57.44417,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Falaj al Wus\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u062c \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:und_x_variant":[
+        "Falaj al Haw\u0101shim",
+        "Falaj Wus\u0163\u00e1",
+        "Falaj Wus\u0163ah",
+        "Falaj al Wus\u0163\u00e1",
+        "Falaj al Wus\u1e6d\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288418
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0d047fea9577314c8763256f700b9ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1293892525,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1293892525,
+    "wof:lastmodified":1537676216,
+    "wof:name":"Falaj al Wusta",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.44416999999999,
+    23.56306,
+    57.44416999999999,
+    23.56306
+],
+  "geometry": {"coordinates":[57.44416999999999,23.56306],"type":"Point"}
+}

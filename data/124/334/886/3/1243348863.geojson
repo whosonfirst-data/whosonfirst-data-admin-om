@@ -1,0 +1,74 @@
+{
+  "id": 1243348863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.45648,17.21935,54.45648,17.21935",
+    "geom:latitude":17.21935,
+    "geom:longitude":54.45648,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Afilhawt",
+    "gn:country_code":"OM",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558648,
+    "gn:latitude":17.21935,
+    "gn:longitude":54.45648,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Afilhawt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0641\u064a\u0644\u062d\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Af\u012bl\u1e29awt",
+        "Afilhawt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558648
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"416192857a89102c9352be68cd220f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1243348863,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1243348863,
+    "wof:lastmodified":1537676310,
+    "wof:name":"Afilhawt",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.45648000000001,
+    17.21935,
+    54.45648000000001,
+    17.21935
+],
+  "geometry": {"coordinates":[54.45648000000001,17.21935],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209335775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.25808,26.06576,56.25808,26.06576",
+    "geom:latitude":26.06576,
+    "geom:longitude":56.25808,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sadwi",
+    "gn:country_code":"OM",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390306,
+    "gn:latitude":26.06576,
+    "gn:longitude":56.25808,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sadw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u062f\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mawrid Sidwi",
+        "Sadw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390306
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"61c3bf160dae41de64efc7abf9342364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1209335775,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1209335775,
+    "wof:lastmodified":1548974425,
+    "wof:name":"Sadwi",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.25808000000001,
+    26.06576,
+    56.25808000000001,
+    26.06576
+],
+  "geometry": {"coordinates":[56.25808000000001,26.06576],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242995415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.38799,17.14478,54.38799,17.14478",
+    "geom:latitude":17.14478,
+    "geom:longitude":54.38799,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shadhrir",
+    "gn:country_code":"OM",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558740,
+    "gn:latitude":17.14478,
+    "gn:longitude":54.38799,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Sha\u1e11hrir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0636\u0631\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sha\u1e11hrir",
+        "Sha\u1e11r\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558740
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c4fa4663d42e275aea1e111d58023bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1242995415,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1242995415,
+    "wof:lastmodified":1537676314,
+    "wof:name":"Shadhrir",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.38799,
+    17.14477999999999,
+    54.38799,
+    17.14477999999999
+],
+  "geometry": {"coordinates":[54.38799,17.14477999999999],"type":"Point"}
+}

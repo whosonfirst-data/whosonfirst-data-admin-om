@@ -1,0 +1,70 @@
+{
+  "id": 1242775469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.99139,23.0325,58.99139,23.0325",
+    "geom:latitude":23.0325,
+    "geom:longitude":58.99139,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Suwayh",
+    "gn:country_code":"OM",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411289,
+    "gn:latitude":23.0325,
+    "gn:longitude":58.99139,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Suway\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suway\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411289
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"94fb8619aa1048958f482426772f9ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1242775469,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1242775469,
+    "wof:lastmodified":1537676270,
+    "wof:name":"Suwayh",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.99139,
+    23.0325,
+    58.99139,
+    23.0325
+],
+  "geometry": {"coordinates":[58.99139,23.0325],"type":"Point"}
+}

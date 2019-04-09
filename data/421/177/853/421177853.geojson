@@ -1,0 +1,114 @@
+{
+  "id": 421177853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.36955,22.70006,59.36955,22.70006",
+    "geom:latitude":22.70006,
+    "geom:longitude":59.36955,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0647\u0627\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Kalhat"
+    ],
+    "name:chi_x_preferred":[
+        "\u6e9d\u723e\u6f22"
+    ],
+    "name:cze_x_preferred":[
+        "Kalhat"
+    ],
+    "name:dut_x_preferred":[
+        "Qalhat"
+    ],
+    "name:eng_x_preferred":[
+        "Qalhat"
+    ],
+    "name:fre_x_preferred":[
+        "Qalhat"
+    ],
+    "name:ger_x_preferred":[
+        "Qalhat"
+    ],
+    "name:ita_x_preferred":[
+        "Qalhat"
+    ],
+    "name:nno_x_preferred":[
+        "Qalhat"
+    ],
+    "name:swe_x_preferred":[
+        "Qalhat"
+    ],
+    "name:unk_x_variant":[
+        "Kalh\u0101t"
+    ],
+    "qs:gn_country":"OM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":286929,
+    "qs:gn_pop":0,
+    "qs:name":"\u0645\u062f\u064a\u0646\u0629 \u0642\u0644\u062d\u062a",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1354439,
+    "qs:woe_adm0":23424898,
+    "qs:woe_id":2268234,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        421175629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286929,
+        "gp:id":2268234,
+        "qs:id":1354439,
+        "wd:id":"Q680322",
+        "wk:page":"Qalhat"
+    },
+    "wof:country":"OM",
+    "wof:created":1459009162,
+    "wof:geomhash":"e9f10b24520e506c1550663b23110743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175629,
+            "locality_id":421177853,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":421177853,
+    "wof:lastmodified":1548974416,
+    "wof:name":"\u0645\u062f\u064a\u0646\u0629 \u0642\u0644\u062d\u062a",
+    "wof:parent_id":421175629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.36955,
+    22.70006,
+    59.36955,
+    22.70006
+],
+  "geometry": {"coordinates":[59.36955,22.70006],"type":"Point"}
+}

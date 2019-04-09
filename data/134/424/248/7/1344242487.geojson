@@ -1,0 +1,76 @@
+{
+  "id": 1344242487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.28426,17.24078,54.28426,17.24078",
+    "geom:latitude":17.24078,
+    "geom:longitude":54.28426,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Adibdut",
+    "gn:country_code":"OM",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560961,
+    "gn:latitude":17.24078,
+    "gn:longitude":54.28426,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ad\u012bbd\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ad\u012bbd\u016bt"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0636\u0628\u064a\u062f\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11ib\u012bd\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560961
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bc8b1c86309dc8df1ac5878bb12e5d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1344242487,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1344242487,
+    "wof:lastmodified":1537676321,
+    "wof:name":"Adibdut",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.28426,
+    17.24077999999999,
+    54.28426,
+    17.24077999999999
+],
+  "geometry": {"coordinates":[54.28426,17.24077999999999],"type":"Point"}
+}

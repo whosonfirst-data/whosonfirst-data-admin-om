@@ -1,0 +1,74 @@
+{
+  "id": 1242870923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18449,26.08969,56.18449,26.08969",
+    "geom:latitude":26.08969,
+    "geom:longitude":56.18449,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Qash`ah",
+    "gn:country_code":"OM",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389893,
+    "gn:latitude":26.08969,
+    "gn:longitude":56.18449,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Qash\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0634\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qasha",
+        "Al Qash\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389893
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"73288b1edc00e6f81f55080af7459f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1242870923,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1242870923,
+    "wof:lastmodified":1537676256,
+    "wof:name":"Al Qash`ah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18449,
+    26.08969,
+    56.18449,
+    26.08969
+],
+  "geometry": {"coordinates":[56.18449,26.08969],"type":"Point"}
+}

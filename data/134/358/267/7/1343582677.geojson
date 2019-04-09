@@ -1,0 +1,76 @@
+{
+  "id": 1343582677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.3483,25.80167,56.3483,25.80167",
+    "geom:latitude":25.80167,
+    "geom:longitude":56.3483,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khawr Ma`la",
+    "gn:country_code":"OM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412602,
+    "gn:latitude":25.80167,
+    "gn:longitude":56.3483,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Khawr Ma\u2018l\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0631 \u0645\u0639\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Khawr M\u0101la",
+        "Khawr Ma\u2018l\u0101",
+        "Khawr Ma\u2018l\u00e1",
+        "Khawr Mi\u2018l\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412602
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a1ee00cabb84d0e0b7ed7e6d9cf86aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1343582677,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1343582677,
+    "wof:lastmodified":1537676292,
+    "wof:name":"Khawr Ma`la",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.3483,
+    25.80167,
+    56.3483,
+    25.80167
+],
+  "geometry": {"coordinates":[56.3483,25.80167],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1292900281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.27211,25.70584,56.27211,25.70584",
+    "geom:latitude":25.70584,
+    "geom:longitude":56.27211,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Zaghi",
+    "gn:country_code":"OM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286143,
+    "gn:latitude":25.70584,
+    "gn:longitude":56.27211,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Zagh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u063a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Thagh\u012b",
+        "Thagi",
+        "Zagh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286143
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b30d0ee31e01e9b5aa1a3e148c93600a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1292900281,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1292900281,
+    "wof:lastmodified":1537676155,
+    "wof:name":"Zaghi",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.27211,
+    25.70584,
+    56.27211,
+    25.70584
+],
+  "geometry": {"coordinates":[56.27211,25.70584],"type":"Point"}
+}

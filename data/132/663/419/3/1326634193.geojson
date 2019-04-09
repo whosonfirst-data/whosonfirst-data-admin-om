@@ -1,0 +1,67 @@
+{
+  "id": 1326634193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.83124,23.10486,57.83124,23.10486",
+    "geom:latitude":23.10486,
+    "geom:longitude":57.83124,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wughlah",
+    "gn:country_code":"OM",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285956,
+    "gn:latitude":23.10486,
+    "gn:longitude":57.83124,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Wughlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421185083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285956
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"69bcefd9e21528e63e13d00f26b4da51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185083,
+            "locality_id":1326634193,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1326634193,
+    "wof:lastmodified":1536835891,
+    "wof:name":"Wughlah",
+    "wof:parent_id":421185083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.83124,
+    23.10486,
+    57.83124,
+    23.10486
+],
+  "geometry": {"coordinates":[57.83124,23.10486],"type":"Point"}
+}

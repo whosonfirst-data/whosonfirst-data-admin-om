@@ -1,0 +1,74 @@
+{
+  "id": 1209336697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.61568,23.32597,58.61568,23.32597",
+    "geom:latitude":23.32597,
+    "geom:longitude":58.61568,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Hushayyah",
+    "gn:country_code":"OM",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026336,
+    "gn:latitude":23.32597,
+    "gn:longitude":58.61568,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Al \u1e28ushayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0634\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ushayyah",
+        "Al \u1e24ishayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026336
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c3983a22d6f576f16bd68d6f70b921a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1209336697,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1209336697,
+    "wof:lastmodified":1548974425,
+    "wof:name":"Al Hushayyah",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.61568000000001,
+    23.32597,
+    58.61568000000001,
+    23.32597
+],
+  "geometry": {"coordinates":[58.61568000000001,23.32597],"type":"Point"}
+}

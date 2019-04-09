@@ -1,0 +1,74 @@
+{
+  "id": 1260205879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.28996,17.25464,54.28996,17.25464",
+    "geom:latitude":17.25464,
+    "geom:longitude":54.28996,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nasah",
+    "gn:country_code":"OM",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558703,
+    "gn:latitude":17.25464,
+    "gn:longitude":54.28996,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Na\u015fa\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0635\u062d"
+    ],
+    "name:und_x_variant":[
+        "Na\u015fa\u1e29",
+        "Nu\u015fa\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558703
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bf8098cd8582d5ea9e88aa2f54f8761b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1260205879,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1260205879,
+    "wof:lastmodified":1537676312,
+    "wof:name":"Nasah",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.28996,
+    17.25464,
+    54.28996,
+    17.25464
+],
+  "geometry": {"coordinates":[54.28996,17.25464],"type":"Point"}
+}

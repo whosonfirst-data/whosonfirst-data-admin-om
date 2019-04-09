@@ -1,0 +1,78 @@
+{
+  "id": 1125898241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.52459,23.30324,57.52459,23.30324",
+    "geom:latitude":23.30324,
+    "geom:longitude":57.52459,
+    "gn:gn_country":"OM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10711,
+    "gn:population":10711,
+    "iso:country":"OM",
+    "lbl:latitude":23.30324,
+    "lbl:longitude":57.52459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"OM",
+    "qs_pg:gn_country":"OM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":412084,
+    "qs_pg:gn_pop":10711,
+    "qs_pg:name":"Bayt al \u2018Aw\u0101b\u012b",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1026836,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421169317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412084,
+        "qs_pg:id":1026836
+    },
+    "wof:country":"OM",
+    "wof:created":1497295683,
+    "wof:geomhash":"dd3272b76efb9c5f85c77622ac72a35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421169317,
+            "locality_id":1125898241,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1125898241,
+    "wof:lastmodified":1509399247,
+    "wof:name":"Bayt al \u2018Aw\u0101b\u012b",
+    "wof:parent_id":421169317,
+    "wof:placetype":"locality",
+    "wof:population":10711,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.52459,
+    23.30324,
+    57.52459,
+    23.30324
+],
+  "geometry": {"coordinates":[57.52459,23.30324],"type":"Point"}
+}

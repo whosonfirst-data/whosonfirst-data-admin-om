@@ -1,0 +1,80 @@
+{
+  "id": 1277098851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.55294,23.43213,58.55294,23.43213",
+    "geom:latitude":23.43213,
+    "geom:longitude":58.55294,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Mazra` al `Alawi",
+    "gn:country_code":"OM",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286001,
+    "gn:latitude":23.43213,
+    "gn:longitude":58.55294,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al Mazra\u2018 al \u2018Alaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0645\u064a\u062d"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639 \u0627\u0644\u0639\u0644\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018 al \u2018Alaw\u012b",
+        "W\u0101d\u012b May\u1e29",
+        "W\u0101d\u012b al May\u1e29",
+        "Al Mazra\u2018 al \u2018Alaw\u012b",
+        "Al Mazra\u2018 al Alw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286001
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bf9eeb0621a1404b949a67b5492a2f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1277098851,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1277098851,
+    "wof:lastmodified":1537676152,
+    "wof:name":"Al Mazra` al `Alawi",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.55294,
+    23.43213,
+    58.55294,
+    23.43213
+],
+  "geometry": {"coordinates":[58.55294,23.43213],"type":"Point"}
+}

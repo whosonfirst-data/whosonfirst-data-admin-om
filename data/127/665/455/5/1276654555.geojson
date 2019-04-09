@@ -1,0 +1,76 @@
+{
+  "id": 1276654555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.6789,23.37212,58.6789,23.37212",
+    "geom:latitude":23.37212,
+    "geom:longitude":58.6789,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Haymah",
+    "gn:country_code":"OM",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288126,
+    "gn:latitude":23.37212,
+    "gn:longitude":58.6789,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Al \u1e28aymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayf\u0101dh",
+        "\u1e28\u0101mah",
+        "Al \u1e28aymah",
+        "Al \u1e24aymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288126
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"daa05a085839e3fdfde43078ffd121bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1276654555,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1276654555,
+    "wof:lastmodified":1537676207,
+    "wof:name":"Al Haymah",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.6789,
+    23.37212,
+    58.6789,
+    23.37212
+],
+  "geometry": {"coordinates":[58.6789,23.37212],"type":"Point"}
+}

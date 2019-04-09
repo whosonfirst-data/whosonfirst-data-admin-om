@@ -1,0 +1,70 @@
+{
+  "id": 1326551383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.16548,25.64444,56.16548,25.64444",
+    "geom:latitude":25.64444,
+    "geom:longitude":56.16548,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Difan",
+    "gn:country_code":"OM",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396362,
+    "gn:latitude":25.64444,
+    "gn:longitude":56.16548,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Dif\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dif\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396362
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"067c665fdec3da3490d08b82a345a4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721075,
+            "locality_id":1326551383,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1326551383,
+    "wof:lastmodified":1537676265,
+    "wof:name":"Difan",
+    "wof:parent_id":1108721075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.16548,
+    25.64444,
+    56.16548,
+    25.64444
+],
+  "geometry": {"coordinates":[56.16548,25.64444],"type":"Point"}
+}

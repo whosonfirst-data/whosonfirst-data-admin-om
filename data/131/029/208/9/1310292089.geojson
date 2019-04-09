@@ -1,0 +1,71 @@
+{
+  "id": 1310292089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.61667,21.58333,58.61667,21.58333",
+    "geom:latitude":21.58333,
+    "geom:longitude":58.61667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Khaysah",
+    "gn:country_code":"OM",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289187,
+    "gn:latitude":21.58333,
+    "gn:longitude":58.61667,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Al Khaysah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Khaisa",
+        "Al Khaysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289187
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ed54db5de8c68d15edbccaaebfa546c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1310292089,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1310292089,
+    "wof:lastmodified":1537676239,
+    "wof:name":"Al Khaysah",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.61666999999999,
+    21.58333,
+    58.61666999999999,
+    21.58333
+],
+  "geometry": {"coordinates":[58.61666999999999,21.58333],"type":"Point"}
+}

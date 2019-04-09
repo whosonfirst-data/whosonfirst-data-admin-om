@@ -1,0 +1,74 @@
+{
+  "id": 1260064675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.39673,23.81452,56.39673,23.81452",
+    "geom:latitude":23.81452,
+    "geom:longitude":56.39673,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Mu`aydin",
+    "gn:country_code":"OM",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411784,
+    "gn:latitude":23.81452,
+    "gn:longitude":56.39673,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Mu\u2018aydin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u064a\u062f\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mayd\u0101n",
+        "Al Mu\u2018aydin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        1108721101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411784
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f53411f73875d9ba7cad2a2ba99727a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721101,
+            "locality_id":1260064675,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1260064675,
+    "wof:lastmodified":1537676272,
+    "wof:name":"Al Mu`aydin",
+    "wof:parent_id":1108721101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.39673000000001,
+    23.81452,
+    56.39673000000001,
+    23.81452
+],
+  "geometry": {"coordinates":[56.39673000000001,23.81452],"type":"Point"}
+}

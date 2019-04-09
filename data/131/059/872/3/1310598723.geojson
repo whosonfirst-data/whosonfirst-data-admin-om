@@ -1,0 +1,76 @@
+{
+  "id": 1310598723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.35449,23.538,58.35449,23.538",
+    "geom:latitude":23.538,
+    "geom:longitude":58.35449,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Ansab",
+    "gn:country_code":"OM",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287488,
+    "gn:latitude":23.538,
+    "gn:longitude":58.35449,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al An\u015fab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0646\u0635\u0628"
+    ],
+    "name:und_x_variant":[
+        "Lan\u015fab",
+        "Al An\u015fab",
+        "Al An\u1e63ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287488,
+        "wk:page":"Lansab"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"96dd4512fc5ab033715a0ce2a98a3fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200935,
+            "locality_id":1310598723,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1310598723,
+    "wof:lastmodified":1537676190,
+    "wof:name":"Al Ansab",
+    "wof:parent_id":421200935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.35449000000001,
+    23.538,
+    58.35449000000001,
+    23.538
+],
+  "geometry": {"coordinates":[58.35449000000001,23.538],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276454849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.51667,20.55,57.51667,20.55",
+    "geom:latitude":20.55,
+    "geom:longitude":57.51667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Raqi",
+    "gn:country_code":"OM",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286779,
+    "gn:latitude":20.55,
+    "gn:longitude":57.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u0101q\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "R\u0101q\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675685,
+        421184221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286779
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"919146b0edfc055a8ef5d6bed0640903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184221,
+            "locality_id":1276454849,
+            "region_id":85675685
+        }
+    ],
+    "wof:id":1276454849,
+    "wof:lastmodified":1537676173,
+    "wof:name":"Raqi",
+    "wof:parent_id":421184221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.51667,
+    20.55,
+    57.51667,
+    20.55
+],
+  "geometry": {"coordinates":[57.51667,20.55],"type":"Point"}
+}

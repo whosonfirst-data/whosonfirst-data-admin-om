@@ -1,0 +1,74 @@
+{
+  "id": 1276786357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.41353,17.17189,54.41353,17.17189",
+    "geom:latitude":17.17189,
+    "geom:longitude":54.41353,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"A` Tayrit",
+    "gn:country_code":"OM",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560945,
+    "gn:latitude":17.17189,
+    "gn:longitude":54.41353,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"A\u2018 \u0162ayr\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0639\u0637\u064a\u0631\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "A\u2018 \u0162ayr\u012bt",
+        "A\u2018a\u0163ayr\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421189275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560945
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"edd8369fb333ab1193dacb371689f252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189275,
+            "locality_id":1276786357,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1276786357,
+    "wof:lastmodified":1537676321,
+    "wof:name":"A` Tayrit",
+    "wof:parent_id":421189275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.41353,
+    17.17189,
+    54.41353,
+    17.17189
+],
+  "geometry": {"coordinates":[54.41353,17.17189],"type":"Point"}
+}

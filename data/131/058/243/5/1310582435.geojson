@@ -1,0 +1,70 @@
+{
+  "id": 1310582435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.74139,24.0075,56.74139,24.0075",
+    "geom:latitude":24.0075,
+    "geom:longitude":56.74139,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tawi al Qarinat",
+    "gn:country_code":"OM",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412906,
+    "gn:latitude":24.0075,
+    "gn:longitude":56.74139,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"\u0162aw\u012b al Qar\u012bn\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162aw\u012b al Qar\u012bn\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412906
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a24984c00d7290afe2c331068ba950dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1310582435,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1310582435,
+    "wof:lastmodified":1537676295,
+    "wof:name":"Tawi al Qarinat",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.74139,
+    24.0075,
+    56.74139,
+    24.0075
+],
+  "geometry": {"coordinates":[56.74139,24.0075],"type":"Point"}
+}

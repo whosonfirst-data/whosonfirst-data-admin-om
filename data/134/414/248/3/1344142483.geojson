@@ -1,0 +1,67 @@
+{
+  "id": 1344142483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.22787,17.19886,54.22787,17.19886",
+    "geom:latitude":17.19886,
+    "geom:longitude":54.22787,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ajayaa",
+    "gn:country_code":"OM",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558874,
+    "gn:latitude":17.19886,
+    "gn:longitude":54.22787,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ajayaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558874
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f27df191fe7a5d27d33aa79e0efb37e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1344142483,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1344142483,
+    "wof:lastmodified":1536757404,
+    "wof:name":"Ajayaa",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.22787,
+    17.19886,
+    54.22787,
+    17.19886
+],
+  "geometry": {"coordinates":[54.22787,17.19886],"type":"Point"}
+}

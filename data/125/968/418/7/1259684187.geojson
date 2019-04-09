@@ -1,0 +1,74 @@
+{
+  "id": 1259684187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.63333,22.05,59.63333,22.05",
+    "geom:latitude":22.05,
+    "geom:longitude":59.63333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Qumaylah",
+    "gn:country_code":"OM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286850,
+    "gn:latitude":22.05,
+    "gn:longitude":59.63333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Qumaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Jumaylah",
+        "Jumaila",
+        "Jumaylah",
+        "Jumailah",
+        "Qumaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675691,
+        1108721071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286850
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"e470977c639a91352ef29d2379f8b212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721071,
+            "locality_id":1259684187,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":1259684187,
+    "wof:lastmodified":1537676174,
+    "wof:name":"Qumaylah",
+    "wof:parent_id":1108721071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.63333000000001,
+    22.05,
+    59.63333000000001,
+    22.05
+],
+  "geometry": {"coordinates":[59.63333000000001,22.05],"type":"Point"}
+}

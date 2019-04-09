@@ -1,0 +1,70 @@
+{
+  "id": 1276544345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.29704,23.45631,58.29704,23.45631",
+    "geom:latitude":23.45631,
+    "geom:longitude":58.29704,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mazra` Ghulaylah",
+    "gn:country_code":"OM",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287242,
+    "gn:latitude":23.45631,
+    "gn:longitude":58.29704,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mazra\u2018 Ghulaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018 Ghulaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287242
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f171bc93ab7635827d86dc2b987a4636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200935,
+            "locality_id":1276544345,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1276544345,
+    "wof:lastmodified":1537676184,
+    "wof:name":"Mazra` Ghulaylah",
+    "wof:parent_id":421200935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.29704,
+    23.45631,
+    58.29704,
+    23.45631
+],
+  "geometry": {"coordinates":[58.29704,23.45631],"type":"Point"}
+}

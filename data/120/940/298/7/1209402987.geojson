@@ -1,0 +1,75 @@
+{
+  "id": 1209402987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.78263,23.8431,56.78263,23.8431",
+    "geom:latitude":23.8431,
+    "geom:longitude":56.78263,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bi`ayq",
+    "gn:country_code":"OM",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288663,
+    "gn:latitude":23.8431,
+    "gn:longitude":56.78263,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"B\u012b\u2018ayq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0639\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "B\u012b\u2018aq",
+        "Bu\u2018ayq",
+        "B\u012b\u2018ayq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288663
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"43afa9a4604ac59c3561f231abf6bc77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195843,
+            "locality_id":1209402987,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1209402987,
+    "wof:lastmodified":1548974428,
+    "wof:name":"Bi`ayq",
+    "wof:parent_id":421195843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.78263000000001,
+    23.8431,
+    56.78263000000001,
+    23.8431
+],
+  "geometry": {"coordinates":[56.78263000000001,23.8431],"type":"Point"}
+}

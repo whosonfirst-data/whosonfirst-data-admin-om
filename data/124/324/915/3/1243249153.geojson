@@ -1,0 +1,67 @@
+{
+  "id": 1243249153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.98333,17.05,53.98333,17.05",
+    "geom:latitude":17.05,
+    "geom:longitude":53.98333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ithaff",
+    "gn:country_code":"OM",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287817,
+    "gn:latitude":17.05,
+    "gn:longitude":53.98333,
+    "gn:modification_date":"2014-02-09",
+    "gn:name":"Ithaff",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287817
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"5529e1ea7ff4fa88917bd3b257a304f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1243249153,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1243249153,
+    "wof:lastmodified":1537086775,
+    "wof:name":"Ithaff",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.98333,
+    17.05,
+    53.98333,
+    17.05
+],
+  "geometry": {"coordinates":[53.98333,17.05],"type":"Point"}
+}

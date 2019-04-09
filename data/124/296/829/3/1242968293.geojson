@@ -1,0 +1,74 @@
+{
+  "id": 1242968293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.70928,23.32691,58.70928,23.32691",
+    "geom:latitude":23.32691,
+    "geom:longitude":58.70928,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Jurayfat",
+    "gn:country_code":"OM",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026294,
+    "gn:latitude":23.32691,
+    "gn:longitude":58.70928,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Al Jurayf\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u064a\u0641\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Jurayf\u0101t",
+        "Al Jirayf\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026294
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0da62386623f81ed093a9c7e54c0c1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1242968293,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1242968293,
+    "wof:lastmodified":1537676307,
+    "wof:name":"Al Jurayfat",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.70928000000001,
+    23.32691,
+    58.70928000000001,
+    23.32691
+],
+  "geometry": {"coordinates":[58.70928000000001,23.32691],"type":"Point"}
+}

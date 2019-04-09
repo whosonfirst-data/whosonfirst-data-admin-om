@@ -1,0 +1,70 @@
+{
+  "id": 1276781359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.66007,23.11629,57.66007,23.11629",
+    "geom:latitude":23.11629,
+    "geom:longitude":57.66007,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shanut",
+    "gn:country_code":"OM",
+    "gn:dem":2278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286465,
+    "gn:latitude":23.11629,
+    "gn:longitude":57.66007,
+    "gn:modification_date":"2013-04-11",
+    "gn:name":"Shanu\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shanu\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286465
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"260554b98ff74a45d350930a4f9dee3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1276781359,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1276781359,
+    "wof:lastmodified":1537676164,
+    "wof:name":"Shanut",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.66007,
+    23.11629,
+    57.66007,
+    23.11629
+],
+  "geometry": {"coordinates":[57.66007,23.11629],"type":"Point"}
+}

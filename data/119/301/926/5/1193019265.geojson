@@ -1,0 +1,75 @@
+{
+  "id": 1193019265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.54947,23.51142,57.54947,23.51142",
+    "geom:latitude":23.51142,
+    "geom:longitude":57.54947,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Mansur",
+    "gn:country_code":"OM",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287351,
+    "gn:latitude":23.51142,
+    "gn:longitude":57.54947,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Man\u015f\u016br",
+        "Al Man\u015f\u016br",
+        "Al Man\u1e63\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        421200941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287351
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2b7b7ff7fd55910bc21f78eb655304a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200941,
+            "locality_id":1193019265,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1193019265,
+    "wof:lastmodified":1537676186,
+    "wof:name":"Al Mansur",
+    "wof:parent_id":421200941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.54946999999999,
+    23.51142,
+    57.54946999999999,
+    23.51142
+],
+  "geometry": {"coordinates":[57.54946999999999,23.51142],"type":"Point"}
+}

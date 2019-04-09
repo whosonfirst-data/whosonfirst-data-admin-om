@@ -1,0 +1,73 @@
+{
+  "id": 1226629999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.31393,24.26172,56.31393,24.26172",
+    "geom:latitude":24.26172,
+    "geom:longitude":56.31393,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ath Thuqbah",
+    "gn:country_code":"OM",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":288942,
+    "gn:latitude":24.26172,
+    "gn:longitude":56.31393,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ath Thuqbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0651\u0642\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ath Thaqbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":288942
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"23fe260162a9f5a93677ded6133ca1b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1226629999,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1226629999,
+    "wof:lastmodified":1537676229,
+    "wof:name":"Ath Thuqbah",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.31393000000001,
+    24.26172,
+    56.31393000000001,
+    24.26172
+],
+  "geometry": {"coordinates":[56.31393000000001,24.26172],"type":"Point"}
+}

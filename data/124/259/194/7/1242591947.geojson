@@ -1,0 +1,70 @@
+{
+  "id": 1242591947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.13271,22.972,57.13271,22.972",
+    "geom:latitude":22.972,
+    "geom:longitude":57.13271,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sayfam",
+    "gn:country_code":"OM",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286535,
+    "gn:latitude":22.972,
+    "gn:longitude":57.13271,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Sayfam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0641\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421189279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286535
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"6c504e378461252059e2c3076182c643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421189279,
+            "locality_id":1242591947,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1242591947,
+    "wof:lastmodified":1537676166,
+    "wof:name":"Sayfam",
+    "wof:parent_id":421189279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.13271,
+    22.972,
+    57.13271,
+    22.972
+],
+  "geometry": {"coordinates":[57.13271,22.972],"type":"Point"}
+}

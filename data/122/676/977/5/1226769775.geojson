@@ -1,0 +1,74 @@
+{
+  "id": 1226769775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.97171,17.14633,53.97171,17.14633",
+    "geom:latitude":17.14633,
+    "geom:longitude":53.97171,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Minarah",
+    "gn:country_code":"OM",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8694783,
+    "gn:latitude":17.14633,
+    "gn:longitude":53.97171,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Al Min\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Min\u0101rah",
+        "Al Man\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421200939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694783
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b9f6766fc9afbaad7f2daad85af97886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200939,
+            "locality_id":1226769775,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1226769775,
+    "wof:lastmodified":1537676322,
+    "wof:name":"Al Minarah",
+    "wof:parent_id":421200939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.97171,
+    17.14633,
+    53.97171,
+    17.14633
+],
+  "geometry": {"coordinates":[53.97171,17.14633],"type":"Point"}
+}

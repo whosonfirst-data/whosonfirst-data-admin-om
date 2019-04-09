@@ -1,0 +1,74 @@
+{
+  "id": 1276536605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.45511,24.15246,56.45511,24.15246",
+    "geom:latitude":24.15246,
+    "geom:longitude":56.45511,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ath Thuwayb",
+    "gn:country_code":"OM",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":286097,
+    "gn:latitude":24.15246,
+    "gn:longitude":56.45511,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ath Thuwayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0651\u0648\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Tuwaybah",
+        "Ath Thuwayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286097
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"cf109695b1bf3a151bb0e84ffeb764d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1276536605,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1276536605,
+    "wof:lastmodified":1537676153,
+    "wof:name":"Ath Thuwayb",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.45511,
+    24.15246,
+    56.45511,
+    24.15246
+],
+  "geometry": {"coordinates":[56.45511,24.15246],"type":"Point"}
+}

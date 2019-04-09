@@ -1,0 +1,71 @@
+{
+  "id": 1243367611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.02729,23.3505,57.02729,23.3505",
+    "geom:latitude":23.3505,
+    "geom:longitude":57.02729,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shanitah",
+    "gn:country_code":"OM",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286466,
+    "gn:latitude":23.3505,
+    "gn:longitude":57.02729,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Shan\u012b\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan\u0101\u0163ir",
+        "Shan\u012b\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286466
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a3ef8983c9dc8323541f2396958ff108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1243367611,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1243367611,
+    "wof:lastmodified":1537676164,
+    "wof:name":"Shanitah",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.02729,
+    23.3505,
+    57.02729,
+    23.3505
+],
+  "geometry": {"coordinates":[57.02729,23.3505],"type":"Point"}
+}

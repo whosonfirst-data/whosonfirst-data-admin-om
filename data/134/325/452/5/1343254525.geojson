@@ -1,0 +1,75 @@
+{
+  "id": 1343254525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.26641,23.46912,58.26641,23.46912",
+    "geom:latitude":23.46912,
+    "geom:longitude":58.26641,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Misfah al Gharbiyah",
+    "gn:country_code":"OM",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287201,
+    "gn:latitude":23.46912,
+    "gn:longitude":58.26641,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Misf\u0101h al Gharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u0641\u0627\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Misf\u0101h as S\u0101fil",
+        "Al Misf\u0101h al Gharb\u012byah",
+        "Al Misf\u0101h al Gharbiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287201
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"02f38e73fe4491da8cfa016fd09b0d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200935,
+            "locality_id":1343254525,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1343254525,
+    "wof:lastmodified":1537676182,
+    "wof:name":"Al Misfah al Gharbiyah",
+    "wof:parent_id":421200935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.26641,
+    23.46912,
+    58.26641,
+    23.46912
+],
+  "geometry": {"coordinates":[58.26641,23.46912],"type":"Point"}
+}

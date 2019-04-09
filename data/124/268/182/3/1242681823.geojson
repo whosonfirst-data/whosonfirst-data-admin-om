@@ -1,0 +1,74 @@
+{
+  "id": 1242681823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.73469,23.13917,57.73469,23.13917",
+    "geom:latitude":23.13917,
+    "geom:longitude":57.73469,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Qawrah",
+    "gn:country_code":"OM",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412131,
+    "gn:latitude":23.13917,
+    "gn:longitude":57.73469,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Al Qawrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Q\u016brah",
+        "Al Qawrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675727,
+        1108721091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412131
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"f5f4b004f7d75db57bbe300e53c90823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721091,
+            "locality_id":1242681823,
+            "region_id":85675727
+        }
+    ],
+    "wof:id":1242681823,
+    "wof:lastmodified":1537676283,
+    "wof:name":"Al Qawrah",
+    "wof:parent_id":1108721091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.73469,
+    23.13917,
+    57.73469,
+    23.13917
+],
+  "geometry": {"coordinates":[57.73469,23.13917],"type":"Point"}
+}

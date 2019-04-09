@@ -1,0 +1,75 @@
+{
+  "id": 1242599047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18681,26.12586,56.18681,26.12586",
+    "geom:latitude":26.12586,
+    "geom:longitude":56.18681,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ar Ramiyah",
+    "gn:country_code":"OM",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":414863,
+    "gn:latitude":26.12586,
+    "gn:longitude":56.18681,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ar Ram\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0651\u0645\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Ramyah",
+        "Ar Ram\u012byah",
+        "Ar Rammiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414863
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"45311eacbdc09dc41961f3979f76bddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1242599047,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1242599047,
+    "wof:lastmodified":1537676298,
+    "wof:name":"Ar Ramiyah",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18681,
+    26.12586,
+    56.18681,
+    26.12586
+],
+  "geometry": {"coordinates":[56.18681,26.12586],"type":"Point"}
+}

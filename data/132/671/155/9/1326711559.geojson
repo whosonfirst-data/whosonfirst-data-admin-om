@@ -1,0 +1,76 @@
+{
+  "id": 1326711559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.362,24.35858,56.362,24.35858",
+    "geom:latitude":24.35858,
+    "geom:longitude":56.362,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Zabyan",
+    "gn:country_code":"OM",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285909,
+    "gn:latitude":24.35858,
+    "gn:longitude":56.362,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Z\u0327aby\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0628\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327abyat",
+        "Z\u0327abyah",
+        "Z\u0327aby\u0101n",
+        "\u1e92aby\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285909
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2a066f27a5b552a0b207f12ff94334b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721099,
+            "locality_id":1326711559,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1326711559,
+    "wof:lastmodified":1537676149,
+    "wof:name":"Zabyan",
+    "wof:parent_id":1108721099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.362,
+    24.35858,
+    56.362,
+    24.35858
+],
+  "geometry": {"coordinates":[56.362,24.35858],"type":"Point"}
+}

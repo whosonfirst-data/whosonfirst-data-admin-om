@@ -1,0 +1,75 @@
+{
+  "id": 1276785231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.28398,23.54893,56.28398,23.54893",
+    "geom:latitude":23.54893,
+    "geom:longitude":56.28398,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Ilayat Dank",
+    "gn:country_code":"OM",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411818,
+    "gn:latitude":23.54893,
+    "gn:longitude":56.28398,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"\u2018Il\u0101yat \u1e10ank",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0627\u064a\u0629 \u0636\u0646\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u0101yat \u1e10ank",
+        "\u2018Il\u0101yat \u1e10ank",
+        "\u2018Il\u0101yat \u1e0cank"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        1108721085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411818
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"fd26e525bee343961efc14817dfb8e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721085,
+            "locality_id":1276785231,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1276785231,
+    "wof:lastmodified":1537676273,
+    "wof:name":"`Ilayat Dank",
+    "wof:parent_id":1108721085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.28398000000001,
+    23.54893,
+    56.28398000000001,
+    23.54893
+],
+  "geometry": {"coordinates":[56.28398000000001,23.54893],"type":"Point"}
+}

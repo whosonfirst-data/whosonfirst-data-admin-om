@@ -1,0 +1,73 @@
+{
+  "id": 1209103457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.1163,22.87256,59.1163,22.87256",
+    "geom:latitude":22.87256,
+    "geom:longitude":59.1163,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Salmah",
+    "gn:country_code":"OM",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026170,
+    "gn:latitude":22.87256,
+    "gn:longitude":59.1163,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Salm\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0645\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Salm\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421186553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026170
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"dbc36a3f21af6b4d27df1d24efffcbc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186553,
+            "locality_id":1209103457,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1209103457,
+    "wof:lastmodified":1548974418,
+    "wof:name":"Salmah",
+    "wof:parent_id":421186553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.1163,
+    22.87256,
+    59.1163,
+    22.87256
+],
+  "geometry": {"coordinates":[59.1163,22.87256],"type":"Point"}
+}

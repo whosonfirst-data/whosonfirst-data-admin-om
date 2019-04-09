@@ -1,0 +1,70 @@
+{
+  "id": 1344143973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.57361,23.09833,58.57361,23.09833",
+    "geom:latitude":23.09833,
+    "geom:longitude":58.57361,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Hida",
+    "gn:country_code":"OM",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411240,
+    "gn:latitude":23.09833,
+    "gn:longitude":58.57361,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Hid\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Hid\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411240
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a5f4f9b6e5bfa7b1bf8c8871c356f2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721077,
+            "locality_id":1344143973,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1344143973,
+    "wof:lastmodified":1537676268,
+    "wof:name":"Hida",
+    "wof:parent_id":1108721077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.57361,
+    23.09833,
+    58.57361,
+    23.09833
+],
+  "geometry": {"coordinates":[58.57361,23.09833],"type":"Point"}
+}

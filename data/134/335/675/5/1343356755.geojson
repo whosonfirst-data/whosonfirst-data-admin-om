@@ -1,0 +1,73 @@
+{
+  "id": 1343356755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.5701,23.23219,58.5701,23.23219",
+    "geom:latitude":23.23219,
+    "geom:longitude":58.5701,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kabkab",
+    "gn:country_code":"OM",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411226,
+    "gn:latitude":23.23219,
+    "gn:longitude":58.5701,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kabkab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Keb\u2019 Keb"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0628\u0643\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675713,
+        421200933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411226
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"5aa75ea6d7c8b99ad3486f98bc4eb2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421200933,
+            "locality_id":1343356755,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":1343356755,
+    "wof:lastmodified":1537676268,
+    "wof:name":"Kabkab",
+    "wof:parent_id":421200933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.5701,
+    23.23219,
+    58.5701,
+    23.23219
+],
+  "geometry": {"coordinates":[58.5701,23.23219],"type":"Point"}
+}

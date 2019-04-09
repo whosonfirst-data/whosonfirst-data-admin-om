@@ -1,0 +1,77 @@
+{
+  "id": 1226156767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.0785,22.90596,58.0785,22.90596",
+    "geom:latitude":22.90596,
+    "geom:longitude":58.0785,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Jububiyat",
+    "gn:country_code":"OM",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442237,
+    "gn:latitude":22.90596,
+    "gn:longitude":58.0785,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Jub\u016bb\u012by\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Juw\u012bb\u012by\u0101t"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0628\u0648\u0628\u064a\u0651\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Jub\u016bb\u012by\u0101t",
+        "Al Jib\u016bbiyy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        421195841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442237
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"bb21450a9c569badf09744af1a42abe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195841,
+            "locality_id":1226156767,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1226156767,
+    "wof:lastmodified":1537676302,
+    "wof:name":"Al Jububiyat",
+    "wof:parent_id":421195841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.0785,
+    22.90596,
+    58.0785,
+    22.90596
+],
+  "geometry": {"coordinates":[58.0785,22.90596],"type":"Point"}
+}

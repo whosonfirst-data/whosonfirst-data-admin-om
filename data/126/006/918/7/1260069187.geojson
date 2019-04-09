@@ -1,0 +1,75 @@
+{
+  "id": 1260069187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.29478,24.19283,56.29478,24.19283",
+    "geom:latitude":24.19283,
+    "geom:longitude":56.29478,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Huwaylat Ghala",
+    "gn:country_code":"OM",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287533,
+    "gn:latitude":24.19283,
+    "gn:longitude":56.29478,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"\u1e28uwayl\u0101t Ghal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u0644\u0627\u062a \u063a\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Khuwaylah",
+        "\u1e28uwayl\u0101t Ghal\u0101",
+        "\u1e24iwayl\u0101t Ghal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421195037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287533
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2a420b530fee63ed78910644354cd847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421195037,
+            "locality_id":1260069187,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1260069187,
+    "wof:lastmodified":1537676192,
+    "wof:name":"Huwaylat Ghala",
+    "wof:parent_id":421195037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.29478,
+    24.19283,
+    56.29478,
+    24.19283
+],
+  "geometry": {"coordinates":[56.29478,24.19283],"type":"Point"}
+}

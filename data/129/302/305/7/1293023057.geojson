@@ -1,0 +1,74 @@
+{
+  "id": 1293023057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.4925,17.10815,54.4925,17.10815",
+    "geom:latitude":17.10815,
+    "geom:longitude":54.4925,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kizetakhayf",
+    "gn:country_code":"OM",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287508,
+    "gn:latitude":17.10815,
+    "gn:longitude":54.4925,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kizetakhayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0632\u064a\u062a \u0623\u062e\u064a\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Kiz\u012bt Akhyayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675695,
+        421186703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287508,
+        "wk:page":"Kizetakhayf"
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"4a3bcb8a47713c425e9c1162ba792ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186703,
+            "locality_id":1293023057,
+            "region_id":85675695
+        }
+    ],
+    "wof:id":1293023057,
+    "wof:lastmodified":1537676191,
+    "wof:name":"Kizetakhayf",
+    "wof:parent_id":421186703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.4925,
+    17.10815,
+    54.4925,
+    17.10815
+],
+  "geometry": {"coordinates":[54.4925,17.10815],"type":"Point"}
+}

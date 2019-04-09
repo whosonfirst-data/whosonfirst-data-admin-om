@@ -1,0 +1,70 @@
+{
+  "id": 1226563307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.41778,26.30944,56.41778,26.30944",
+    "geom:latitude":26.30944,
+    "geom:longitude":56.41778,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La'aqaybah",
+    "gn:country_code":"OM",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":390551,
+    "gn:latitude":26.30944,
+    "gn:longitude":56.41778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La\u2019aqaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u2019aqaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390551
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"a1fd466d79027713a21f75d2c0b4a7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721073,
+            "locality_id":1226563307,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1226563307,
+    "wof:lastmodified":1537676264,
+    "wof:name":"La'aqaybah",
+    "wof:parent_id":1108721073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.41778000000001,
+    26.30944,
+    56.41778000000001,
+    26.30944
+],
+  "geometry": {"coordinates":[56.41778000000001,26.30944],"type":"Point"}
+}

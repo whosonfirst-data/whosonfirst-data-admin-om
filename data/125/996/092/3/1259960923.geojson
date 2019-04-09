@@ -1,0 +1,70 @@
+{
+  "id": 1259960923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.45111,23.82806,57.45111,23.82806",
+    "geom:latitude":23.82806,
+    "geom:longitude":57.45111,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Siyaq",
+    "gn:country_code":"OM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":286317,
+    "gn:latitude":23.82806,
+    "gn:longitude":57.45111,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Siy\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Siy\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        421184219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":286317
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"2334a2bb2d5b0ca189eb11b6d73360e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421184219,
+            "locality_id":1259960923,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1259960923,
+    "wof:lastmodified":1537676161,
+    "wof:name":"Siyaq",
+    "wof:parent_id":421184219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.45111,
+    23.82806,
+    57.45111,
+    23.82806
+],
+  "geometry": {"coordinates":[57.45111,23.82806],"type":"Point"}
+}

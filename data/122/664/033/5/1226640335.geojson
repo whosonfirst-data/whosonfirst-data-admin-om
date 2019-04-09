@@ -1,0 +1,74 @@
+{
+  "id": 1226640335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18427,25.89911,56.18427,25.89911",
+    "geom:latitude":25.89911,
+    "geom:longitude":56.18427,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ghubayb",
+    "gn:country_code":"OM",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389885,
+    "gn:latitude":25.89911,
+    "gn:longitude":56.18427,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ghubayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0628\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ghab\u012bb",
+        "Ghubayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675709,
+        1108721065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389885
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"b28d51036ec83aa34e89de980fcc14b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721065,
+            "locality_id":1226640335,
+            "region_id":85675709
+        }
+    ],
+    "wof:id":1226640335,
+    "wof:lastmodified":1537676255,
+    "wof:name":"Ghubayb",
+    "wof:parent_id":1108721065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18427,
+    25.89911,
+    56.18427,
+    25.89911
+],
+  "geometry": {"coordinates":[56.18427,25.89911],"type":"Point"}
+}

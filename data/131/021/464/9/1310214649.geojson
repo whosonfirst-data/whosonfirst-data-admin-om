@@ -1,0 +1,76 @@
+{
+  "id": 1310214649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.55841,23.14911,57.55841,23.14911",
+    "geom:latitude":23.14911,
+    "geom:longitude":57.55841,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"As Sarab",
+    "gn:country_code":"OM",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412118,
+    "gn:latitude":23.14911,
+    "gn:longitude":57.55841,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"As Sar\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sir\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0651\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "As Sar\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675681,
+        421186667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412118
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"ece27472a7768e06d0394f55a6f0d8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421186667,
+            "locality_id":1310214649,
+            "region_id":85675681
+        }
+    ],
+    "wof:id":1310214649,
+    "wof:lastmodified":1537676282,
+    "wof:name":"As Sarab",
+    "wof:parent_id":421186667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.55841,
+    23.14911,
+    57.55841,
+    23.14911
+],
+  "geometry": {"coordinates":[57.55841,23.14911],"type":"Point"}
+}

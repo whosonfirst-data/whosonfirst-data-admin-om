@@ -1,0 +1,70 @@
+{
+  "id": 1260162145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.87417,24.19611,56.87417,24.19611",
+    "geom:latitude":24.19611,
+    "geom:longitude":56.87417,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Abu Durus",
+    "gn:country_code":"OM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289463,
+    "gn:latitude":24.19611,
+    "gn:longitude":56.87417,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ab\u016b \u1e10ur\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ab\u016b \u1e10ur\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675703,
+        1108721083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289463
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"c4d18c0d578508f6b5260a44be988326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721083,
+            "locality_id":1260162145,
+            "region_id":85675703
+        }
+    ],
+    "wof:id":1260162145,
+    "wof:lastmodified":1537676250,
+    "wof:name":"Abu Durus",
+    "wof:parent_id":1108721083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.87416999999999,
+    24.19611,
+    56.87416999999999,
+    24.19611
+],
+  "geometry": {"coordinates":[56.87416999999999,24.19611],"type":"Point"}
+}

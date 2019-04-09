@@ -1,0 +1,67 @@
+{
+  "id": 1310415519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.77986,23.44419,56.77986,23.44419",
+    "geom:latitude":23.44419,
+    "geom:longitude":56.77986,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Insaid",
+    "gn:country_code":"OM",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":287823,
+    "gn:latitude":23.44419,
+    "gn:longitude":56.77986,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Insaid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675699,
+        421187063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":287823
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"0576660e1f7b9aa35a89f8f9d72add11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421187063,
+            "locality_id":1310415519,
+            "region_id":85675699
+        }
+    ],
+    "wof:id":1310415519,
+    "wof:lastmodified":1537044882,
+    "wof:name":"Insaid",
+    "wof:parent_id":421187063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.77986,
+    23.44419,
+    56.77986,
+    23.44419
+],
+  "geometry": {"coordinates":[56.77986,23.44419],"type":"Point"}
+}

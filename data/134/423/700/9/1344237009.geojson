@@ -1,0 +1,70 @@
+{
+  "id": 1344237009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.12946,22.5454,59.12946,22.5454",
+    "geom:latitude":22.5454,
+    "geom:longitude":59.12946,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Ayn ash Shadniyah",
+    "gn:country_code":"OM",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412285,
+    "gn:latitude":22.5454,
+    "gn:longitude":59.12946,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"\u2018Ayn ash Shadn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Muscat",
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn ash Shadn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        85675721,
+        1108721089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412285
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"9616ee4978b1886e15b53fc60fe60027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":1108721089,
+            "locality_id":1344237009,
+            "region_id":85675721
+        }
+    ],
+    "wof:id":1344237009,
+    "wof:lastmodified":1537676291,
+    "wof:name":"`Ayn ash Shadniyah",
+    "wof:parent_id":1108721089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.12946,
+    22.5454,
+    59.12946,
+    22.5454
+],
+  "geometry": {"coordinates":[59.12946,22.5454],"type":"Point"}
+}

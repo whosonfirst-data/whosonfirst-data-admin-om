@@ -1,0 +1,113 @@
+{
+  "id": 85903753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18961194.414856,
+    "geom:bbox":"58.615076,23.566902,58.615076,23.566902",
+    "geom:latitude":23.566902,
+    "geom:longitude":58.615076,
+    "gn:id":"",
+    "iso:country":"OM",
+    "lbl:latitude":23.566902,
+    "lbl:longitude":58.615076,
+    "mps:latitude":23.567198,
+    "mps:longitude":58.61909,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_colloquial":[
+        "Al Bustaan",
+        "Al Bustan"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "Al Bust\u00e5n"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "qs:gn_adm0_cc":"OM",
+    "qs:gn_id":0,
+    "qs:gn_local":287286,
+    "qs:gn_nam_loc":"\u0645\u0633\u0642\u0637, \u0645\u0633\u0642\u0637, \u0645\u0633\u0642\u0637, OM",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":1860,
+    "qs:local_sum":6504,
+    "qs:localhoods":14,
+    "qs:name":"\u0627\u0644\u0628\u0633\u062a\u0627\u0646",
+    "qs:name_adm0":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm1":"\u0645\u0633\u0642\u0637",
+    "qs:name_adm2":"\u0645\u0633\u0642\u0637",
+    "qs:name_local":"\u0645\u0633\u0642\u0637",
+    "qs:photo_max":58,
+    "qs:photo_sum":149,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424898,
+    "qs:woe_adm1":2346260,
+    "qs:woe_adm2":55927093,
+    "qs:woe_lau":0,
+    "qs:woe_local":2268284,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        421185635,
+        85675713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55872691,
+        "qs:id":1211426,
+        "qs_pg:id":1111460
+    },
+    "wof:country":"OM",
+    "wof:geomhash":"89f87f1957405913ce4833529c767649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421185635,
+            "locality_id":-1,
+            "neighbourhood_id":85903753,
+            "region_id":85675713
+        }
+    ],
+    "wof:id":85903753,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936086,
+    "wof:name":"\u0627\u0644\u0628\u0633\u062a\u0627\u0646",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.615076,
+    23.566902,
+    58.615076,
+    23.566902
+],
+  "geometry": {"coordinates":[58.615076,23.566902],"type":"Point"}
+}
