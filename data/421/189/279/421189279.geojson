@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.39516,
-    "geom:area_square_m":4507212102.824418,
+    "geom:area_square_m":4507212102.824023,
     "geom:bbox":"56.7590280939,22.2400207748,57.5131699011,23.2149315271",
     "geom:latitude":22.714949,
     "geom:longitude":57.098964,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Bahla Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":22.696795,
     "lbl:longitude":57.187553,
     "meso:adm1":"Ad Dakhliyah",
@@ -144,11 +156,11 @@
         }
     ],
     "wof:id":421189279,
-    "wof:lastmodified":1553816378,
+    "wof:lastmodified":1555037086,
     "wof:name":"Bahla",
     "wof:parent_id":85675681,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":58234,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-om",

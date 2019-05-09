@@ -10,6 +10,18 @@
     "geom:latitude":22.36257,
     "geom:longitude":59.1764,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Al Kamil Wa Al Wafi Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":22.377289,
     "lbl:longitude":59.197695,
     "meso:adm1":"Ash Sharqiyah South",
@@ -68,11 +80,11 @@
         }
     ],
     "wof:id":1108721063,
-    "wof:lastmodified":1536615585,
+    "wof:lastmodified":1554506235,
     "wof:name":"Al Kamil Wa Al Wafi",
     "wof:parent_id":85675691,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":22816,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-om",

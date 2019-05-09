@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166505,
-    "geom:area_square_m":1901238369.426348,
+    "geom:area_square_m":1901238369.426596,
     "geom:bbox":"59.0152684761,22.2260642741,59.837917328,22.8832130748",
     "geom:latitude":22.565124,
     "geom:longitude":59.417467,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Sur Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":22.534547,
     "lbl:longitude":59.374364,
     "meso:adm1":"Ash Sharqiyah South",
@@ -216,11 +228,11 @@
         }
     ],
     "wof:id":421175629,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1555037136,
     "wof:name":"Sur",
     "wof:parent_id":85675691,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":64988,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-om",

@@ -10,6 +10,18 @@
     "geom:latitude":23.579807,
     "geom:longitude":58.184979,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "As Seeb Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":23.57762,
     "lbl:longitude":58.183079,
     "meso:adm1":"Muscat",
@@ -92,11 +104,11 @@
         }
     ],
     "wof:id":421187061,
-    "wof:lastmodified":1536616036,
+    "wof:lastmodified":1554506200,
     "wof:name":"As Seeb",
     "wof:parent_id":85675713,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":302992,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-om",

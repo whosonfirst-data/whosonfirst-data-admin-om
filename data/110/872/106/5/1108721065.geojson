@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010801,
-    "geom:area_square_m":119970154.345875,
+    "geom:area_square_m":119970154.346083,
     "geom:bbox":"56.087001801,25.8960490518,56.2187397844,26.2301736672",
     "geom:latitude":26.073341,
     "geom:longitude":56.16447,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Bukha Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":26.098026,
     "lbl:longitude":56.148997,
     "meso:adm1":"Musandam",
@@ -96,11 +108,11 @@
         }
     ],
     "wof:id":1108721065,
-    "wof:lastmodified":1553816490,
+    "wof:lastmodified":1555037328,
     "wof:name":"Bukha",
     "wof:parent_id":85675709,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":3025,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-om",

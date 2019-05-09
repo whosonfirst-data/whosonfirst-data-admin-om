@@ -10,6 +10,18 @@
     "geom:latitude":24.061914,
     "geom:longitude":56.07019,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Al Buraymi Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":24.090189,
     "lbl:longitude":56.246878,
     "meso:adm1":"Al Buraymi",
@@ -129,11 +141,11 @@
         }
     ],
     "wof:id":421184225,
-    "wof:lastmodified":1536616019,
+    "wof:lastmodified":1554506199,
     "wof:name":"Al Buraymi",
     "wof:parent_id":85675717,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":63159,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-om",

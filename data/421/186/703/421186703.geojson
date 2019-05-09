@@ -10,6 +10,18 @@
     "geom:latitude":17.085423,
     "geom:longitude":54.666575,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Mirbat Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":17.1147,
     "lbl:longitude":54.666601,
     "meso:adm1":"Dhofar",
@@ -129,11 +141,11 @@
         }
     ],
     "wof:id":421186703,
-    "wof:lastmodified":1536616036,
+    "wof:lastmodified":1554506200,
     "wof:name":"Mirbat",
     "wof:parent_id":85675695,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":13919,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-om",

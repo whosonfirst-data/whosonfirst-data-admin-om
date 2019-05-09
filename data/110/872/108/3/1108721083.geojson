@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132972,
-    "geom:area_square_m":1502622359.811121,
+    "geom:area_square_m":1502622359.811327,
     "geom:bbox":"56.5554845439,23.5970326252,57.0545061882,24.2398123995",
     "geom:latitude":23.952703,
     "geom:longitude":56.789803,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Saham Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":24.081133,
     "lbl:longitude":56.810598,
     "meso:adm1":"Al Batinah North",
@@ -177,11 +189,11 @@
         }
     ],
     "wof:id":1108721083,
-    "wof:lastmodified":1553816490,
+    "wof:lastmodified":1555037327,
     "wof:name":"Saham",
     "wof:parent_id":85675703,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":93438,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-om",

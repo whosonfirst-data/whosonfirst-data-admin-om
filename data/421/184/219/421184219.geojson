@@ -10,6 +10,18 @@
     "geom:latitude":23.762739,
     "geom:longitude":57.266512,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "As Suwayq Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":23.784954,
     "lbl:longitude":57.266535,
     "meso:adm1":"Al Batinah North",
@@ -92,11 +104,11 @@
         }
     ],
     "wof:id":421184219,
-    "wof:lastmodified":1536616018,
+    "wof:lastmodified":1554506199,
     "wof:name":"As Suwayq",
     "wof:parent_id":85675703,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":111711,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-om",

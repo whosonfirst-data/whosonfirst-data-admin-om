@@ -10,6 +10,18 @@
     "geom:latitude":22.086989,
     "geom:longitude":58.250217,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Al Mudaybi Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":22.112449,
     "lbl:longitude":58.167125,
     "meso:adm1":"Ash Sharqiyah North",
@@ -92,11 +104,11 @@
         }
     ],
     "wof:id":421195841,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1554506201,
     "wof:name":"Al Mudaybi",
     "wof:parent_id":85675721,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":69377,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-om",

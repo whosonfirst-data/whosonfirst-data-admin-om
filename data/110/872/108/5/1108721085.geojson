@@ -10,6 +10,18 @@
     "geom:latitude":23.667668,
     "geom:longitude":56.23005,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Dank Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":23.792677,
     "lbl:longitude":56.122081,
     "meso:adm1":"Adh Dhahirah",
@@ -81,11 +93,11 @@
         }
     ],
     "wof:id":1108721085,
-    "wof:lastmodified":1536615586,
+    "wof:lastmodified":1554506236,
     "wof:name":"Dank",
     "wof:parent_id":85675699,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":17191,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-om",

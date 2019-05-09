@@ -10,6 +10,18 @@
     "geom:latitude":21.821699,
     "geom:longitude":59.401483,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Jaalan Bani Bu Ali Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":21.921303,
     "lbl:longitude":59.440489,
     "meso:adm1":"Ash Sharqiyah South",
@@ -68,11 +80,11 @@
         }
     ],
     "wof:id":1108721071,
-    "wof:lastmodified":1536615585,
+    "wof:lastmodified":1554506235,
     "wof:name":"Jaalan Bani Bu Ali",
     "wof:parent_id":85675691,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":61356,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-om",

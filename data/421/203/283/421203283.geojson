@@ -10,6 +10,18 @@
     "geom:latitude":17.306378,
     "geom:longitude":54.956415,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Sadah Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":17.267688,
     "lbl:longitude":54.997348,
     "meso:adm1":"Dhofar",
@@ -117,11 +129,11 @@
         }
     ],
     "wof:id":421203283,
-    "wof:lastmodified":1536616152,
+    "wof:lastmodified":1554506202,
     "wof:name":"Sadah",
     "wof:parent_id":85675695,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":6384,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-om",

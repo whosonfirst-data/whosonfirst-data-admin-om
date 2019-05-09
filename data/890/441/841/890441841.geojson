@@ -5,13 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060774,
-    "geom:area_square_m":688367543.652455,
+    "geom:area_square_m":688367543.652536,
     "geom:bbox":"57.6460093614,23.5374561789,58.0939250552,23.8530447424",
     "geom:latitude":23.648953,
     "geom:longitude":57.865395,
     "gn:country":"OM",
     "gp:adm0":23424898,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Barka Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":23.643445,
     "lbl:longitude":57.861899,
     "meso:adm1":"Al Batinah South",
@@ -154,6 +166,7 @@
     "qs:photos_sr":4,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -194,11 +207,11 @@
         }
     ],
     "wof:id":890441841,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1555037026,
     "wof:name":"Barka",
     "wof:parent_id":85675727,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":96407,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-om",

@@ -10,6 +10,18 @@
     "geom:latitude":24.522339,
     "geom:longitude":56.020865,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Mahadah Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":24.517187,
     "lbl:longitude":55.996977,
     "meso:adm1":"Al Buraymi",
@@ -92,11 +104,11 @@
         }
     ],
     "wof:id":421184531,
-    "wof:lastmodified":1536616021,
+    "wof:lastmodified":1554506200,
     "wof:name":"Mahadah",
     "wof:parent_id":85675717,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":8373,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-om",

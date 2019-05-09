@@ -10,6 +10,18 @@
     "geom:latitude":19.270808,
     "geom:longitude":57.273585,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Ad Duqm Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":19.236123,
     "lbl:longitude":57.395857,
     "meso:adm1":"Al Wusta",
@@ -92,11 +104,11 @@
         }
     ],
     "wof:id":421184415,
-    "wof:lastmodified":1536616020,
+    "wof:lastmodified":1554506200,
     "wof:name":"Ad Duqm",
     "wof:parent_id":85675685,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":11217,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-om",

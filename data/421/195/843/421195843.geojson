@@ -10,6 +10,18 @@
     "geom:latitude":23.816959,
     "geom:longitude":56.913808,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Al Khaburah Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":23.776176,
     "lbl:longitude":57.019505,
     "meso:adm1":"Al Batinah North",
@@ -92,11 +104,11 @@
         }
     ],
     "wof:id":421195843,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1554506201,
     "wof:name":"Al Khaburah",
     "wof:parent_id":85675703,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":52294,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-om",

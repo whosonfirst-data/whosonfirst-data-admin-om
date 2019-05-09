@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008107,
-    "geom:area_square_m":91862764.565171,
+    "geom:area_square_m":91862764.565163,
     "geom:bbox":"58.4728136338,23.5310374882,58.5923689548,23.680416107",
     "geom:latitude":23.591427,
     "geom:longitude":58.537623,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Mutrah Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":23.599077,
     "lbl:longitude":58.541743,
     "meso:adm1":"Muscat",
@@ -192,11 +204,11 @@
         }
     ],
     "wof:id":1108721095,
-    "wof:lastmodified":1553816490,
+    "wof:lastmodified":1555037326,
     "wof:name":"Mutrah",
     "wof:parent_id":85675713,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":150124,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-om",

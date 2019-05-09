@@ -10,6 +10,18 @@
     "geom:latitude":20.215268,
     "geom:longitude":56.230949,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Hayma Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":20.231223,
     "lbl:longitude":56.208429,
     "meso:adm1":"Al Wusta",
@@ -92,11 +104,11 @@
         }
     ],
     "wof:id":421189283,
-    "wof:lastmodified":1536616076,
+    "wof:lastmodified":1554506201,
     "wof:name":"Hayma",
     "wof:parent_id":85675685,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":10473,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-om",

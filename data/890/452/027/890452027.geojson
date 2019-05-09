@@ -12,6 +12,18 @@
     "gn:country":"OM",
     "gp:adm0":23424898,
     "iso:country":"OM",
+    "label:ara_latn_x_preferred_placetype":[
+        "wilayah"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0648\u0644\u0627\u064a\u0629\u200e"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Al Musanaah Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":23.704685,
     "lbl:longitude":57.583675,
     "meso:adm1":"Al Batinah South",
@@ -85,11 +97,11 @@
         }
     ],
     "wof:id":890452027,
-    "wof:lastmodified":1536617386,
+    "wof:lastmodified":1554506202,
     "wof:name":"Al Musanaah",
     "wof:parent_id":85675727,
     "wof:placetype":"county",
-    "wof:placetype_local":"wilayah",
+    "wof:placetype_local":"province",
     "wof:population":68571,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-om",
