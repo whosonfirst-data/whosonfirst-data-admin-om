@@ -14,19 +14,16 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u963f\u723e\u91d1\u8332"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ras al-Jinz"
     ],
     "name:eng_x_preferred":[
         "Ras al-Jinz"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ras al-Jinz"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Ras al-Jinz"
     ],
     "name:nno_x_preferred":[
@@ -34,6 +31,9 @@
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u0425\u0430\u0434\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u963f\u723e\u91d1\u8332"
     ],
     "qs:name":"Ras Al Jniz",
     "qs:name_adm0":"\u0639\u0645\u0627\u0646",
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":890451533,
-    "wof:lastmodified":1514494812,
+    "wof:lastmodified":1561776669,
     "wof:name":"Ras Al Jniz",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

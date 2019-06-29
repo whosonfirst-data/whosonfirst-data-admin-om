@@ -42,16 +42,16 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0636\u0646\u0643"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Zank"
+    ],
+    "name:deu_x_preferred":[
+        "Dank"
     ],
     "name:eng_x_preferred":[
         "Dank"
     ],
-    "name:ger_x_preferred":[
-        "Dank"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0636\u0646\u06a9"
     ],
     "name:und_x_variant":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1108721085,
-    "wof:lastmodified":1554506236,
+    "wof:lastmodified":1561776664,
     "wof:name":"Dank",
     "wof:parent_id":85675699,
     "wof:placetype":"county",

@@ -16,20 +16,14 @@
     "name:deu_x_preferred":[
         "Ar-Rusail"
     ],
-    "name:dut_x_preferred":[
-        "Rusayl"
-    ],
     "name:eng_x_preferred":[
         "Rusayl"
     ],
     "name:fra_x_preferred":[
         "Rusayl"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Rusayl"
-    ],
-    "name:ger_x_preferred":[
-        "Ar-Rusail"
     ],
     "name:nno_x_preferred":[
         "Rusayl"
@@ -86,7 +80,7 @@
         }
     ],
     "wof:id":421188307,
-    "wof:lastmodified":1527716272,
+    "wof:lastmodified":1561776666,
     "wof:name":"Rusail",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",

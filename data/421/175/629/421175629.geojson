@@ -43,41 +43,38 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0635\u0648\u0631"
     ],
-    "name:baq_x_preferred":[
-        "Sur"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b0"
     ],
     "name:cat_x_preferred":[
         "Sur"
     ],
-    "name:chi_x_preferred":[
-        "\u82cf\u5c14"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "S\u00far"
     ],
     "name:dan_x_preferred":[
         "Sur"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sur"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Sur"
     ],
+    "name:eus_x_preferred":[
+        "Sur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Sur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sour"
-    ],
-    "name:ger_x_preferred":[
-        "Sur"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0ab0"
@@ -112,7 +109,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sur"
+    ],
+    "name:nld_x_preferred":[
         "Sur"
     ],
     "name:nno_x_preferred":[
@@ -120,9 +120,6 @@
     ],
     "name:nob_x_preferred":[
         "Sur"
-    ],
-    "name:per_x_preferred":[
-        "\u0635\u0648\u0631"
     ],
     "name:pol_x_preferred":[
         "Sur"
@@ -168,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "Sur"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u5c14"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -228,7 +228,7 @@
         }
     ],
     "wof:id":421175629,
-    "wof:lastmodified":1555037136,
+    "wof:lastmodified":1561776667,
     "wof:name":"Sur",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

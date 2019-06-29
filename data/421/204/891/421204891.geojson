@@ -19,26 +19,26 @@
     "name:ben_x_preferred":[
         "\u0987\u099c\u0995\u09bf"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Izki"
     ],
     "name:dan_x_preferred":[
         "Izki"
     ],
-    "name:dut_x_preferred":[
-        "Izki"
+    "name:ell_x_preferred":[
+        "\u038a\u03b6\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Izki"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Izki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Izki"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03b6\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a9d\u0a95\u0ac0"
@@ -70,7 +70,10 @@
     "name:mar_x_preferred":[
         "\u0907\u091c\u0915\u093f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Izki"
+    ],
+    "name:nld_x_preferred":[
         "Izki"
     ],
     "name:nno_x_preferred":[
@@ -78,9 +81,6 @@
     ],
     "name:nob_x_preferred":[
         "Izki"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u06a9\u06cc"
     ],
     "name:pol_x_preferred":[
         "Izki"
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":421204891,
-    "wof:lastmodified":1514494825,
+    "wof:lastmodified":1561776665,
     "wof:name":"\u0627\u0632\u0643\u064a",
     "wof:parent_id":1108721055,
     "wof:placetype":"locality",

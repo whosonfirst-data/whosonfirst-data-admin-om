@@ -39,26 +39,23 @@
     "name:ast_x_preferred":[
         "Dhofar"
     ],
-    "name:baq_x_preferred":[
-        "Dhofar"
-    ],
     "name:ben_x_preferred":[
         "\u09a7\u09cb\u09ab\u09be\u09b0 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
     "name:cat_x_preferred":[
         "Dhofar"
     ],
-    "name:chi_x_preferred":[
-        "\u4f50\u6cd5\u723e\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Daf\u00e1r"
     ],
     "name:dan_x_preferred":[
         "Dhofar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dhofar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c6\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Zufar"
@@ -71,17 +68,17 @@
     "name:epo_x_preferred":[
         "Dofaro"
     ],
+    "name:eus_x_preferred":[
+        "Dhofar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0638\u0641\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Dhofar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dhofar"
-    ],
-    "name:ger_x_preferred":[
-        "Dhofar"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03bf\u03c6\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aa2\u0acb\u0aab\u0abe\u0ab0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -116,17 +113,17 @@
     "name:mar_x_preferred":[
         "\u0922\u094b\u092b\u093e\u0930 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dhofar Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Dhofar"
     ],
     "name:nno_x_preferred":[
         "Dhofar guvernement"
     ],
     "name:nob_x_preferred":[
         "Dhofar"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0638\u0641\u0627\u0631"
     ],
     "name:pol_x_preferred":[
         "Muhafazat Zufar"
@@ -178,6 +175,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Dhofar"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f50\u6cd5\u723e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"OMN",
@@ -299,7 +299,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550480,
+    "wof:lastmodified":1561776653,
     "wof:name":"Dhofar",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

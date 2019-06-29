@@ -51,17 +51,17 @@
     "name:cat_x_preferred":[
         "Matrah"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u6258\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Matra"
     ],
     "name:dan_x_preferred":[
         "Muttrah"
     ],
-    "name:dut_x_preferred":[
-        "Muttrah"
+    "name:deu_x_preferred":[
+        "Matrah"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c4\u03c1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Mutrah"
@@ -69,17 +69,14 @@
     "name:epo_x_preferred":[
         "Matrah"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0637\u0631\u062d"
+    ],
     "name:fin_x_preferred":[
         "Matrah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Matrah"
-    ],
-    "name:ger_x_preferred":[
-        "Matrah"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c4\u03c1\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0a9f\u0acd\u0ab0\u0abe\u0ab9"
@@ -117,7 +114,10 @@
     "name:mar_x_preferred":[
         "\u092e\u0942\u0924\u091f\u094d\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Muttrah"
+    ],
+    "name:nld_x_preferred":[
         "Muttrah"
     ],
     "name:nno_x_preferred":[
@@ -125,9 +125,6 @@
     ],
     "name:nob_x_preferred":[
         "Muttrah"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0637\u0631\u062d"
     ],
     "name:pol_x_preferred":[
         "Matrah"
@@ -168,6 +165,9 @@
     "name:vie_x_preferred":[
         "Muttrah"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6258\u62c9"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -204,7 +204,7 @@
         }
     ],
     "wof:id":1108721095,
-    "wof:lastmodified":1555037326,
+    "wof:lastmodified":1561776663,
     "wof:name":"Mutrah",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

@@ -48,32 +48,29 @@
     "name:bul_x_preferred":[
         "\u041a\u0445\u0430\u0441\u0430\u0431"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u585e\u535c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chasab"
     ],
     "name:dan_x_preferred":[
         "Khasab"
     ],
-    "name:dut_x_preferred":[
-        "Khasab"
+    "name:deu_x_preferred":[
+        "Al-Chasab"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03ac\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Khasab"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0635\u0628"
+    ],
     "name:fin_x_preferred":[
         "Khasab"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khasab"
-    ],
-    "name:ger_x_preferred":[
-        "Al-Chasab"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03ac\u03bc\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0ab8\u0aac"
@@ -108,7 +105,10 @@
     "name:mar_x_preferred":[
         "\u0916\u0938\u092c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Khasab"
+    ],
+    "name:nld_x_preferred":[
         "Khasab"
     ],
     "name:nno_x_preferred":[
@@ -116,9 +116,6 @@
     ],
     "name:nob_x_preferred":[
         "Khasab"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0635\u0628"
     ],
     "name:pol_x_preferred":[
         "Chasab"
@@ -162,6 +159,9 @@
     "name:vie_x_preferred":[
         "Khasab"
     ],
+    "name:zho_x_preferred":[
+        "\u6d77\u585e\u535c"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":1108721073,
-    "wof:lastmodified":1554506236,
+    "wof:lastmodified":1561776663,
     "wof:name":"Khasab",
     "wof:parent_id":85675709,
     "wof:placetype":"county",

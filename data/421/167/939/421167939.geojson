@@ -16,19 +16,19 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0631\u064a\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Jabrin"
+    "name:deu_x_preferred":[
+        "Schloss von Jabrin"
     ],
     "name:eng_x_preferred":[
         "Jabrin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jabrin"
     ],
-    "name:ger_x_preferred":[
-        "Schloss von Jabrin"
-    ],
     "name:ita_x_preferred":[
+        "Jabrin"
+    ],
+    "name:nld_x_preferred":[
         "Jabrin"
     ],
     "name:nno_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421167939,
-    "wof:lastmodified":1514494825,
+    "wof:lastmodified":1561776665,
     "wof:name":"\u062c\u0628\u0631\u064a\u0646",
     "wof:parent_id":421189279,
     "wof:placetype":"locality",

@@ -40,10 +40,7 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Masqat"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u65af\u5580\u7279\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Maskat"
     ],
     "name:dan_x_preferred":[
@@ -55,8 +52,8 @@
     "name:deu_x_variant":[
         "Maskat"
     ],
-    "name:dut_x_preferred":[
-        "Masqat"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03c3\u03ba\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Masqat"
@@ -65,20 +62,17 @@
         "Muscat Governorate",
         "Muscat"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0633\u0642\u0637"
+    ],
     "name:fin_x_preferred":[
         "Muscatin kuvernoraatti"
     ],
     "name:fra_x_preferred":[
         "Muscat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Mascate"
-    ],
-    "name:ger_x_preferred":[
-        "Maskat"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c5\u03c3\u03ba\u03ac\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab8\u0acd\u0a95\u0a9f \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -116,20 +110,20 @@
     "name:mar_x_preferred":[
         "\u092e\u0938\u094d\u0915\u091f \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Muscat Governorate"
     ],
     "name:nld_x_preferred":[
         "Muscat"
+    ],
+    "name:nld_x_variant":[
+        "Masqat"
     ],
     "name:nno_x_preferred":[
         "Muscat guvernement"
     ],
     "name:nob_x_preferred":[
         "Muskat"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0633\u0642\u0637"
     ],
     "name:pol_x_preferred":[
         "Muhafazat Maskat"
@@ -187,6 +181,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05de\u05d5\u05e1\u05e7\u05d0\u05d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u65af\u5580\u7279\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"OMN",
@@ -311,7 +308,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550478,
+    "wof:lastmodified":1561776656,
     "wof:name":"Muscat",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

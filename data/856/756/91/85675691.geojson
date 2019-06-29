@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.06027,
-    "geom:area_square_m":12166965873.769794,
+    "geom:area_square_m":12166965873.769737,
     "geom:bbox":"58.5894990537,20.158721924,59.837917328,22.8832130748",
     "geom:latitude":21.86228,
     "geom:longitude":59.202252,
@@ -41,20 +41,14 @@
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed a\u0161-\u0160ark\u00edja"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u5357\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Ji\u017en\u00ed a\u0161-\u0160ark\u00edja"
-    ],
     "name:dan_x_preferred":[
         "Ash Sharqiyah South Governorate"
     ],
     "name:deu_x_preferred":[
         "Dschanub asch-Scharqiyya"
     ],
-    "name:dut_x_preferred":[
-        "Ash Sharqiyah gouvernement"
+    "name:ell_x_preferred":[
+        "\u0391\u03c2 \u03a3\u03b1\u03c1\u03ba\u03b9\u03b3\u03b9\u03ac\u03c7"
     ],
     "name:eng_x_preferred":[
         "Ash Sharqiyah"
@@ -70,14 +64,8 @@
     "name:fin_x_preferred":[
         "Ash-\u0160arqiyyan etel\u00e4inen kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat Ach-Charqiya du Sud"
-    ],
-    "name:ger_x_preferred":[
-        "Dschanub asch-Scharqiyya"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c2 \u03a3\u03b1\u03c1\u03ba\u03b9\u03b3\u03b9\u03ac\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab6 \u0ab6\u0abe\u0ab0\u0acd\u0a95\u0abf\u0aaf\u0abe\u0ab9"
@@ -109,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0936\u0936\u0930\u093f\u092f\u093e\u0939 \u0938\u093e\u090a\u0925 \u0917\u0935\u094d\u0939\u0930\u0928\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ash Sharqiyah South Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Ash Sharqiyah gouvernement"
     ],
     "name:nno_x_preferred":[
         "Ash Sharqiyah S\u00f8r guvernement"
@@ -120,9 +111,6 @@
     ],
     "name:nor_x_preferred":[
         "S\u00f8r-Ash Sharqiyah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0634\u0631\u0642\u06cc\u0647 \u062c\u0646\u0648\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Prowincja Po\u0142udniowo-Wschodnia"
@@ -231,7 +219,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553814811,
+    "wof:lastmodified":1561776653,
     "wof:name":"Ash Sharqiyah South",
     "wof:parent_id":85632207,
     "wof:placetype":"region",
