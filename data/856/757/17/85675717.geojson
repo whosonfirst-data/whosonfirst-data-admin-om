@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.663373,
-    "geom:area_square_m":7486682234.782988,
+    "geom:area_square_m":7486682234.783645,
     "geom:bbox":"55.4177383891,23.3370308799,56.402688297,25.005936",
     "geom:latitude":24.114599,
     "geom:longitude":55.915546,
@@ -35,17 +35,17 @@
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09ac\u09c1\u09b0\u09be\u0987\u09ae\u09bf \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u8cf4\u7c73\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Al-Burajmi"
     ],
     "name:dan_x_preferred":[
         "Al Buraimi Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Al Buraimi"
+    "name:deu_x_preferred":[
+        "Buraimi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039c\u03c0\u03bf\u03c5\u03c1\u03b1\u0390\u03bc\u03b9 \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Buraymi"
@@ -55,17 +55,14 @@
         "Al Buraymi",
         "Al Buraimi Governorate"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u06cc\u0645\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Al-Buraimi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat d'Al Buraymi"
-    ],
-    "name:ger_x_preferred":[
-        "Buraimi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u039c\u03c0\u03bf\u03c5\u03c1\u03b1\u0390\u03bc\u03b9 \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0aac\u0ac1\u0ab0\u0ac8\u0aae\u0ac0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -103,17 +100,17 @@
     "name:mar_x_preferred":[
         "\u0905\u0932 \u092c\u0941\u0930\u0947\u092e\u0940 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Al Buraimi Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Al Buraimi"
     ],
     "name:nno_x_preferred":[
         "Al Buraimi guvernement"
     ],
     "name:nob_x_preferred":[
         "Al Buraimi"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u06cc\u0645\u06cc"
     ],
     "name:pol_x_preferred":[
         "Muhafazat al-Burajmi"
@@ -162,6 +159,9 @@
     ],
     "name:vie_x_preferred":[
         "Buraimi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8cf4\u7c73\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"OMN",
@@ -288,7 +288,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553814811,
+    "wof:lastmodified":1561776655,
     "wof:name":"Al Buraymi",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

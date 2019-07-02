@@ -37,41 +37,38 @@
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0638\u0627\u0647\u0631\u0629",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0638\u0627\u0647\u0631\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Ad Dhahirah"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09a6 \u09a6\u09be\u09b9\u09bf\u09b0\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
     "name:cat_x_preferred":[
         "Dhahirah"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u5e0c\u62c9\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ad-Zah\u00edra"
     ],
     "name:dan_x_preferred":[
         "Ad Dhahirah Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Az Zahirah"
+    "name:deu_x_preferred":[
+        "Az-Zahirah"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0 \u039d\u03c4\u03b1\u03c7\u03af\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Az Zahirah"
     ],
+    "name:eus_x_preferred":[
+        "Ad Dhahirah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0638\u0627\u0647\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "Al-Zahira"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ad Dhahirah"
-    ],
-    "name:ger_x_preferred":[
-        "Az-Zahirah"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03c0 \u039d\u03c4\u03b1\u03c7\u03af\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa1 \u0aa7\u0abe\u0ab9\u0abf\u0ab0\u0abe\u0ab9 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -106,17 +103,17 @@
     "name:mar_x_preferred":[
         "\u090d\u0921 \u0927\u093e\u0930\u093f\u0939 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ad Dhahirah Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Az Zahirah"
     ],
     "name:nno_x_preferred":[
         "Ad Dhahirah guvernement"
     ],
     "name:nob_x_preferred":[
         "Ad Dhahirah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0638\u0627\u0647\u0631\u0647"
     ],
     "name:pol_x_preferred":[
         "Muhafazat az-Zahira"
@@ -165,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ad Dhahirah"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u5e0c\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"OMN",
@@ -289,7 +289,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550477,
+    "wof:lastmodified":1561776654,
     "wof:name":"Adh Dhahirah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

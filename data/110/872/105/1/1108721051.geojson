@@ -42,22 +42,22 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0625\u0628\u0631\u0627\u0621"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ibra"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ibra"
     ],
     "name:eng_x_preferred":[
         "Ibra"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0628\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ibra"
     ],
-    "name:fre_x_preferred":[
-        "Ibra"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ibra"
     ],
     "name:ita_x_preferred":[
@@ -66,14 +66,14 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30d6\u30e9\u30fc"
     ],
+    "name:nld_x_preferred":[
+        "Ibra"
+    ],
     "name:nno_x_preferred":[
         "Ibra"
     ],
     "name:nob_x_preferred":[
         "Ibra"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0628\u0631\u0627"
     ],
     "name:por_x_preferred":[
         "Ibra"
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1108721051,
-    "wof:lastmodified":1555037329,
+    "wof:lastmodified":1561776662,
     "wof:name":"Ibra",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

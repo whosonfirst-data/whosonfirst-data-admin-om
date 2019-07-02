@@ -43,35 +43,32 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0645\u0635\u064a\u0631\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Masira"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041c\u0430\u0441\u0456\u0440\u0430"
     ],
     "name:cat_x_preferred":[
         "Masira"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u897f\u62c9\u5cf6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mas\u00edra"
     ],
-    "name:dut_x_preferred":[
-        "Masirah"
+    "name:deu_x_preferred":[
+        "Masira"
     ],
     "name:eng_x_preferred":[
         "Masirah"
     ],
+    "name:eus_x_preferred":[
+        "Masira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0635\u06cc\u0631\u0629"
+    ],
     "name:fin_x_preferred":[
         "Masira"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Masirah"
-    ],
-    "name:ger_x_preferred":[
-        "Masira"
     ],
     "name:ita_x_preferred":[
         "Ma\u1e63\u012bra"
@@ -85,14 +82,14 @@
     "name:lit_x_preferred":[
         "Masira"
     ],
+    "name:nld_x_preferred":[
+        "Masirah"
+    ],
     "name:nno_x_preferred":[
         "Masirah"
     ],
     "name:nob_x_preferred":[
         "Masirah"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0635\u06cc\u0631\u0629"
     ],
     "name:pol_x_preferred":[
         "Masira"
@@ -114,6 +111,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u0645\u0635\u06cc\u0631\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u897f\u62c9\u5cf6"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":421175631,
-    "wof:lastmodified":1554506199,
+    "wof:lastmodified":1561776667,
     "wof:name":"Masirah",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

@@ -146,9 +146,6 @@
     "name:cym_x_preferred":[
         "Oman"
     ],
-    "name:cze_x_preferred":[
-        "Om\u00e1n"
-    ],
     "name:dan_x_preferred":[
         "Oman"
     ],
@@ -727,9 +724,6 @@
     "name:zho_x_preferred":[
         "\u963f\u66fc"
     ],
-    "name:zho_x_variant":[
-        "\u963f\u66fc"
-    ],
     "name:zho_yue_x_preferred":[
         "\u963f\u66fc"
     ],
@@ -883,7 +877,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1548974449,
+    "wof:lastmodified":1561776651,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

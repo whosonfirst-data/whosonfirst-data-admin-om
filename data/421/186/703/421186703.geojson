@@ -43,19 +43,19 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0645\u0631\u0628\u0627\u0637"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mirbat"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mirbat"
     ],
     "name:eng_x_preferred":[
         "Mirbat"
     ],
-    "name:fre_x_preferred":[
-        "Mirbat"
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0628\u0627\u0637"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mirbat"
     ],
     "name:ita_x_preferred":[
@@ -64,14 +64,14 @@
     "name:jpn_x_preferred":[
         "\u30df\u30eb\u30d0\u30c8"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Mirbat"
+    ],
+    "name:nld_x_preferred":[
         "Mirbat"
     ],
     "name:nno_x_preferred":[
         "Mirbat"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u0628\u0627\u0637"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u0431\u0430\u0442"
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":421186703,
-    "wof:lastmodified":1554506200,
+    "wof:lastmodified":1561776667,
     "wof:name":"Mirbat",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

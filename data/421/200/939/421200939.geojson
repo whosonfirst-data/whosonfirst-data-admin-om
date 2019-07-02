@@ -52,17 +52,17 @@
     "name:cat_x_preferred":[
         "Salalah"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u62c9\u83b1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sal\u00e1la"
     ],
     "name:dan_x_preferred":[
         "Salalah"
     ],
-    "name:dut_x_preferred":[
-        "Salalah"
+    "name:deu_x_preferred":[
+        "Salala"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03ac\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Salalah"
@@ -70,17 +70,14 @@
     "name:epo_x_preferred":[
         "Salala"
     ],
+    "name:fas_x_preferred":[
+        "\u0635\u0644\u0627\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Salala"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Salalah"
-    ],
-    "name:ger_x_preferred":[
-        "Salala"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bb\u03ac\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab2\u0abe\u0ab2\u0abe\u0ab9"
@@ -124,7 +121,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0932\u093e\u0932\u093e\u0939"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Salalah"
+    ],
+    "name:nld_x_preferred":[
         "Salalah"
     ],
     "name:nno_x_preferred":[
@@ -132,9 +132,6 @@
     ],
     "name:nob_x_preferred":[
         "Salalah"
-    ],
-    "name:per_x_preferred":[
-        "\u0635\u0644\u0627\u0644\u0647"
     ],
     "name:pol_x_preferred":[
         "Salala"
@@ -180,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "Salalah"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u62c9\u83b1"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -240,7 +240,7 @@
         }
     ],
     "wof:id":421200939,
-    "wof:lastmodified":1554506201,
+    "wof:lastmodified":1561776667,
     "wof:name":"Salalah",
     "wof:parent_id":85675695,
     "wof:placetype":"county",
