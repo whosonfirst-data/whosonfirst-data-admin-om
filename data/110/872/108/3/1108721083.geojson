@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b9\u09be\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "\u015ea\u1e29am"
+    ],
     "name:ces_x_preferred":[
         "Saham"
     ],
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1108721083,
-    "wof:lastmodified":1561776663,
+    "wof:lastmodified":1563298839,
     "wof:name":"Saham",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

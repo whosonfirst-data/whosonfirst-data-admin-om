@@ -43,11 +43,17 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0645\u0635\u064a\u0631\u0629"
     ],
+    "name:aze_x_preferred":[
+        "Masira adas\u0131"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041c\u0430\u0441\u0456\u0440\u0430"
     ],
     "name:cat_x_preferred":[
         "Masira"
+    ],
+    "name:ceb_x_preferred":[
+        "Jaz\u012brat Ma\u015f\u012brah"
     ],
     "name:ces_x_preferred":[
         "Mas\u00edra"
@@ -57,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Masirah"
+    ],
+    "name:eng_x_variant":[
+        "Masirah Island"
     ],
     "name:eus_x_preferred":[
         "Masira"
@@ -70,6 +79,9 @@
     "name:fra_x_preferred":[
         "Masirah"
     ],
+    "name:glg_x_preferred":[
+        "Masirah"
+    ],
     "name:ita_x_preferred":[
         "Ma\u1e63\u012bra"
     ],
@@ -78,6 +90,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uc2dc\ub77c \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc2dc\ub77c\uc12c"
     ],
     "name:lit_x_preferred":[
         "Masira"
@@ -105,6 +120,9 @@
     ],
     "name:tur_x_preferred":[
         "Mesire Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0441\u0456\u0440\u0430"
     ],
     "name:und_x_variant":[
         "\u0645\u0635\u064a\u0631\u0629"
@@ -174,7 +192,7 @@
         }
     ],
     "wof:id":421175631,
-    "wof:lastmodified":1561776667,
+    "wof:lastmodified":1563298895,
     "wof:name":"Masirah",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

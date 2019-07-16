@@ -48,6 +48,9 @@
     "name:eng_x_preferred":[
         "Liwa"
     ],
+    "name:eng_x_variant":[
+        "Liwa Province"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u06cc"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108721099,
-    "wof:lastmodified":1561776662,
+    "wof:lastmodified":1563298834,
     "wof:name":"Liwa",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

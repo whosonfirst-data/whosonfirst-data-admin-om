@@ -52,6 +52,9 @@
     "name:cat_x_preferred":[
         "Suhar"
     ],
+    "name:ceb_x_preferred":[
+        "Al Sohar"
+    ],
     "name:ces_x_preferred":[
         "Suh\u00e1r"
     ],
@@ -133,6 +136,9 @@
     "name:por_x_preferred":[
         "Sohar"
     ],
+    "name:por_x_variant":[
+        "Soar"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0445\u0430\u0440"
     ],
@@ -153,6 +159,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e0b\u0e2e\u0e32\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e28\u0e38\u0e2e\u0e32\u0e23"
     ],
     "name:tur_x_preferred":[
         "Sahar"
@@ -231,7 +240,7 @@
         }
     ],
     "wof:id":421195037,
-    "wof:lastmodified":1561776665,
+    "wof:lastmodified":1563298883,
     "wof:name":"Sohar",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

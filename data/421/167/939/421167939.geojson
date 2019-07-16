@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Jabrin"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0631\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Jabrin"
     ],
@@ -32,6 +35,9 @@
         "Jabrin"
     ],
     "name:nno_x_preferred":[
+        "Jabrin"
+    ],
+    "name:por_x_preferred":[
         "Jabrin"
     ],
     "name:unk_x_variant":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421167939,
-    "wof:lastmodified":1561776665,
+    "wof:lastmodified":1563298884,
     "wof:name":"\u062c\u0628\u0631\u064a\u0646",
     "wof:parent_id":421189279,
     "wof:placetype":"locality",

@@ -40,11 +40,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Masqat"
     ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at Masqa\u0163"
+    ],
     "name:ces_x_preferred":[
         "Maskat"
     ],
     "name:dan_x_preferred":[
         "Muskat"
+    ],
+    "name:dan_x_variant":[
+        "Muscat Governorate"
     ],
     "name:deu_x_preferred":[
         "Muscat"
@@ -62,6 +68,12 @@
         "Muscat Governorate",
         "Muscat"
     ],
+    "name:epo_x_preferred":[
+        "Gubernio Maskato"
+    ],
+    "name:eus_x_preferred":[
+        "Maskat"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0645\u0633\u0642\u0637"
     ],
@@ -72,7 +84,8 @@
         "Muscat"
     ],
     "name:fra_x_variant":[
-        "Gouvernorat de Mascate"
+        "Gouvernorat de Mascate",
+        "Mascate"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab8\u0acd\u0a95\u0a9f \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -95,17 +108,26 @@
     "name:jpn_x_preferred":[
         "\u30de\u30b9\u30ab\u30c3\u30c8"
     ],
+    "name:jpn_x_variant":[
+        "\u30de\u30b9\u30ab\u30c3\u30c8\u7279\u5225\u884c\u653f\u533a"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cb8\u0ccd\u0c95\u0c9f\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uba38\uc2a4\ucea3"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\uc2a4\uce74\ud2b8 \uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Muskatas muh\u0101faza"
     ],
     "name:lit_x_preferred":[
         "Muskatas"
+    ],
+    "name:lit_x_variant":[
+        "Muskato gubernija"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0938\u094d\u0915\u091f \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
@@ -131,8 +153,14 @@
     "name:por_x_preferred":[
         "Governamento de Muscat"
     ],
+    "name:ron_x_preferred":[
+        "guvernoratul Muscat"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0441\u043a\u0430\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0441\u043a\u0430\u0442"
     ],
     "name:sco_x_preferred":[
         "Muscat"
@@ -142,6 +170,9 @@
     ],
     "name:spa_x_preferred":[
         "Mascat"
+    ],
+    "name:spa_x_variant":[
+        "Gobernaci\u00f3n Muscat"
     ],
     "name:swa_x_preferred":[
         "Maskat"
@@ -158,11 +189,17 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e21\u0e31\u0e2a\u0e01\u0e31\u0e15"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e21\u0e31\u0e2a\u0e01\u0e31\u0e15"
+    ],
     "name:tur_x_preferred":[
         "Maskat valili\u011fi"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0441\u043a\u0430\u0442"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0441\u043a\u0430\u0442"
     ],
     "name:und_x_preferred":[
         "Mascate"
@@ -308,7 +345,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561776656,
+    "wof:lastmodified":1563298705,
     "wof:name":"Muscat",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

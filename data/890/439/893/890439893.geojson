@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0635\u0644\u0627\u0644\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Salalah"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b2\u09be\u09b2\u09be\u09b9"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:cat_x_preferred":[
         "Salalah"
+    ],
+    "name:ceb_x_preferred":[
+        "\u015eal\u0101lah"
     ],
     "name:ces_x_preferred":[
         "Sal\u00e1la"
@@ -142,8 +148,14 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e25\u0e32\u0e25\u0e32\u0e2b\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e28\u0e32\u0e30\u0e25\u0e32\u0e25\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Selale"
+    ],
+    "name:tur_x_variant":[
+        "Salalah"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043b\u0430"
@@ -282,7 +294,7 @@
         }
     ],
     "wof:id":890439893,
-    "wof:lastmodified":1561776668,
+    "wof:lastmodified":1563298912,
     "wof:name":"\u015eal\u0101lah",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

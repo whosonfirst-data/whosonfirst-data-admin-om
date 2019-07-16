@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Yiti"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u062a\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Yiti"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421187655,
-    "wof:lastmodified":1561776666,
+    "wof:lastmodified":1563298888,
     "wof:name":"\u064a\u062a\u064a",
     "wof:parent_id":421185635,
     "wof:placetype":"locality",

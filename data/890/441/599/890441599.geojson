@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Al-Rustak"
     ],
+    "name:ceb_x_preferred":[
+        "Rustaq"
+    ],
     "name:ces_x_preferred":[
         "Rustak"
     ],
@@ -62,17 +65,26 @@
     "name:pol_x_preferred":[
         "Ar-Rustak"
     ],
+    "name:por_x_preferred":[
+        "Rustaque"
+    ],
     "name:ron_x_preferred":[
         "Rustaq"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u0442\u0430\u043a\u0430"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e23\u0e23\u0e38\u0e2a\u0e15\u0e32\u0e01"
+    ],
     "name:unk_x_variant":[
         "Qal\u2018at Kasr\u00e1"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0633\u062a\u0627\u0642\u060c \u0639\u0645\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u0633\u062a\u0627\u0642"
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u65af\u5854\u514b"
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":890441599,
-    "wof:lastmodified":1561776668,
+    "wof:lastmodified":1563298911,
     "wof:name":"Ar Rust\u0101q",
     "wof:parent_id":421200941,
     "wof:placetype":"locality",

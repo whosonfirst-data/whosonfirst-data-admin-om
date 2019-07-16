@@ -45,6 +45,9 @@
     "name:cat_x_preferred":[
         "Dhofar"
     ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at Z\u0327uf\u0101r"
+    ],
     "name:ces_x_preferred":[
         "Daf\u00e1r"
     ],
@@ -157,6 +160,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e38\u0e1f\u0e32\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e0b\u0e38\u0e1f\u0e32\u0e23"
     ],
     "name:tur_x_preferred":[
         "Zufar valili\u011fi"
@@ -299,7 +305,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561776653,
+    "wof:lastmodified":1563298698,
     "wof:name":"Dhofar",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

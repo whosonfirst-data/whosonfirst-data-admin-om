@@ -19,7 +19,13 @@
     "name:eng_x_preferred":[
         "Rusayl"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0633\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
+        "Rusayl"
+    ],
+    "name:ita_x_preferred":[
         "Rusayl"
     ],
     "name:nld_x_preferred":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421188307,
-    "wof:lastmodified":1561776666,
+    "wof:lastmodified":1563298891,
     "wof:name":"Rusail",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",
