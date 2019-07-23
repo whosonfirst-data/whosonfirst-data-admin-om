@@ -51,6 +51,9 @@
     "name:eng_x_preferred":[
         "Dank"
     ],
+    "name:eng_x_variant":[
+        "Dhank"
+    ],
     "name:fas_x_preferred":[
         "\u0636\u0646\u06a9"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108721085,
-    "wof:lastmodified":1561776664,
+    "wof:lastmodified":1563298839,
     "wof:name":"Dank",
     "wof:parent_id":85675699,
     "wof:placetype":"county",

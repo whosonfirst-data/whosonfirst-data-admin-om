@@ -42,6 +42,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u062e\u0627"
     ],
+    "name:bar_x_preferred":[
+        "Bucha"
+    ],
     "name:ces_x_preferred":[
         "Buch\u00e1"
     ],
@@ -64,6 +67,9 @@
         "Bukha"
     ],
     "name:pol_x_preferred":[
+        "Bukha"
+    ],
+    "name:swe_x_preferred":[
         "Bukha"
     ],
     "name:tur_x_preferred":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108721065,
-    "wof:lastmodified":1561776663,
+    "wof:lastmodified":1563298837,
     "wof:name":"Bukha",
     "wof:parent_id":85675709,
     "wof:placetype":"county",

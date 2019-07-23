@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Dhahirah"
     ],
+    "name:ceb_x_preferred":[
+        "Az\u0327 Z\u0327\u0101hirah"
+    ],
     "name:ces_x_preferred":[
         "Ad-Zah\u00edra"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:eng_x_preferred":[
         "Az Zahirah"
+    ],
+    "name:eng_x_variant":[
+        "Ad Dhahirah Governorate"
     ],
     "name:eus_x_preferred":[
         "Ad Dhahirah"
@@ -144,6 +150,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e14\u0e14\u0e30\u0e04\u0e34\u0e25\u0e34\u0e23\u0e30\u0e2b\u0e4c \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e0b\u0e0b\u0e2d\u0e2e\u0e34\u0e40\u0e23\u0e32\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Ez Zahira B\u00f6lgesi"
@@ -289,7 +298,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561776654,
+    "wof:lastmodified":1563298700,
     "wof:name":"Adh Dhahirah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

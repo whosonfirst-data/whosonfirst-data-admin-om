@@ -27,6 +27,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c0\u09ac"
     ],
+    "name:ceb_x_preferred":[
+        "As S\u012bb al Jad\u012bdah"
+    ],
     "name:ces_x_preferred":[
         "S\u00edb"
     ],
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":890430371,
-    "wof:lastmodified":1561776668,
+    "wof:lastmodified":1563298913,
     "wof:name":"As S\u012bb al Jad\u012bdah",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",

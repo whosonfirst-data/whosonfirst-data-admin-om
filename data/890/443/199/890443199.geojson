@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Sur"
     ],
+    "name:ceb_x_preferred":[
+        "\u015e\u016br"
+    ],
     "name:ces_x_preferred":[
         "S\u00far"
     ],
@@ -116,6 +119,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dbb\u0dca"
     ],
+    "name:sin_x_variant":[
+        "\u0dc3\u0dbb\u0dca,\u0d95\u0db8\u0dcf\u0db1\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Sur"
     ],
@@ -131,6 +137,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e2d"
     ],
+    "name:tha_x_variant":[
+        "\u0e28\u0e39\u0e23"
+    ],
     "name:tur_x_preferred":[
         "Sur"
     ],
@@ -142,6 +151,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0631\u060c \u0639\u0645\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0635\u0648\u0631"
     ],
     "name:vie_x_preferred":[
         "Sur"
@@ -272,7 +284,7 @@
         }
     ],
     "wof:id":890443199,
-    "wof:lastmodified":1561776669,
+    "wof:lastmodified":1563298915,
     "wof:name":"\u015e\u016br",
     "wof:parent_id":421175629,
     "wof:placetype":"locality",

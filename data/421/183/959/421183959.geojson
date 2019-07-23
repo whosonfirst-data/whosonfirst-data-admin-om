@@ -43,6 +43,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0634\u0646\u0627\u0635"
     ],
+    "name:ceb_x_preferred":[
+        "Shin\u0101\u015f"
+    ],
     "name:deu_x_preferred":[
         "Schinas"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:pol_x_preferred":[
         "Szinas"
+    ],
+    "name:por_x_preferred":[
+        "Xinas"
     ],
     "name:und_x_variant":[
         "\u0634\u0646\u0627\u0635"
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":421183959,
-    "wof:lastmodified":1561776668,
+    "wof:lastmodified":1563298905,
     "wof:name":"Shinas",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

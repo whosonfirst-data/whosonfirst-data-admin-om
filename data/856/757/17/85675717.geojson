@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09ac\u09c1\u09b0\u09be\u0987\u09ae\u09bf \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al Buraym\u012b"
+    ],
     "name:ces_x_preferred":[
         "Al-Burajmi"
     ],
@@ -55,6 +58,9 @@
         "Al Buraymi",
         "Al Buraimi Governorate"
     ],
+    "name:eus_x_preferred":[
+        "Al Buraimi"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u06cc\u0645\u06cc"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:fra_x_preferred":[
         "Gouvernorat d'Al Buraymi"
+    ],
+    "name:fra_x_variant":[
+        "Al Buraymi"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0aac\u0ac1\u0ab0\u0ac8\u0aae\u0ac0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -141,6 +150,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25 \u0e1a\u0e39\u0e44\u0e23\u0e21\u0e34 \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e25\u0e1a\u0e38\u0e23\u0e47\u0e2d\u0e22\u0e21\u0e35"
     ],
     "name:tur_x_preferred":[
         "El Buraymi valili\u011fi"
@@ -288,7 +300,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561776655,
+    "wof:lastmodified":1563298702,
     "wof:name":"Al Buraymi",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

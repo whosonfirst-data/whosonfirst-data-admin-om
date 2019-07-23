@@ -66,6 +66,9 @@
     "name:eng_x_preferred":[
         "Mutrah"
     ],
+    "name:eng_x_variant":[
+        "Muttrah"
+    ],
     "name:epo_x_preferred":[
         "Matrah"
     ],
@@ -129,6 +132,9 @@
     "name:pol_x_preferred":[
         "Matrah"
     ],
+    "name:por_x_preferred":[
+        "Matara"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0442\u0440\u0430\u0445"
     ],
@@ -162,11 +168,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0637\u0631\u062d\u060c \u0639\u0645\u0627\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0637\u0631\u062d"
+    ],
     "name:vie_x_preferred":[
         "Muttrah"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u6258\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u7279\u62c9\u8d6b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -204,7 +216,7 @@
         }
     ],
     "wof:id":1108721095,
-    "wof:lastmodified":1561776663,
+    "wof:lastmodified":1563298835,
     "wof:name":"Mutrah",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

@@ -15,7 +15,118 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0633\u0648\u064a\u0642"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09af\u09bc\u09c7\u0995"
+    ],
+    "name:ceb_x_preferred":[
+        "As Suwayq"
+    ],
+    "name:dan_x_preferred":[
+        "Suwayq"
+    ],
+    "name:deu_x_preferred":[
+        "As-Suwaiq"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03ac\u03b9\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Suwayq"
+    ],
+    "name:epo_x_preferred":[
+        "Suvajk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06cc\u0642"
+    ],
+    "name:fin_x_preferred":[
+        "Suwayq"
+    ],
+    "name:fra_x_preferred":[
+        "Suwayq"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac1\u0ab5\u0ac7\u0a95"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u0935\u0947\u0915"
+    ],
+    "name:ind_x_preferred":[
+        "Suwayq"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Suwayq"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ef\u30a4\u30af"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc1\u0cb5\u0cc7\u0c95\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc218\uc640\ud06c"
+    ],
+    "name:lav_x_preferred":[
+        "Suvaika"
+    ],
+    "name:lit_x_preferred":[
+        "Suvaikas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0941\u0935\u0947\u0915"
+    ],
+    "name:msa_x_preferred":[
+        "Suwayq"
+    ],
+    "name:nld_x_preferred":[
+        "Suwayq"
+    ],
+    "name:nno_x_preferred":[
+        "Suwayq"
+    ],
+    "name:nob_x_preferred":[
+        "Suwayq"
+    ],
+    "name:pol_x_preferred":[
+        "As-Suwajk"
+    ],
+    "name:por_x_preferred":[
+        "Suaique"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0432\u0435\u0439\u043a"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dca"
+    ],
+    "name:swe_x_preferred":[
+        "Suwayq"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bb9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c41\u0c35\u0c47\u0c15\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e38\u0e40\u0e27\u0e22\u0e4c\u0e04\u0e34\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Suwayq"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441-\u0421\u0443\u0432\u0430\u0439\u043a"
+    ],
     "name:unk_x_variant":[
+        "Suwayq"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0648\u0627\u06cc\u0642"
+    ],
+    "name:vie_x_preferred":[
         "Suwayq"
     ],
     "qs:name":"As Suwayq",
@@ -49,7 +160,7 @@
         }
     ],
     "wof:id":890441597,
-    "wof:lastmodified":1527727231,
+    "wof:lastmodified":1563298911,
     "wof:name":"As Suwayq",
     "wof:parent_id":85675703,
     "wof:placetype":"locality",

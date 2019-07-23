@@ -52,11 +52,17 @@
     "name:eng_x_preferred":[
         "Dalkut"
     ],
+    "name:eng_x_variant":[
+        "Dhalkut"
+    ],
     "name:fas_x_preferred":[
         "\u0636\u0644\u06a9\u0648\u062a"
     ],
     "name:nld_x_preferred":[
         "Dalkut"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043b\u044c\u043a\u0443\u0442"
     ],
     "name:und_x_variant":[
         "\u0636\u0644\u0643\u0648\u062a"
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421189277,
-    "wof:lastmodified":1561776666,
+    "wof:lastmodified":1563298890,
     "wof:name":"Dalkut",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

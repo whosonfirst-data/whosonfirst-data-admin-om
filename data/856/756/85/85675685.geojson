@@ -36,8 +36,14 @@
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u0633\u0637\u0649",
         "Al Wus\u0163\u00e1"
     ],
+    "name:bar_x_preferred":[
+        "al-Wusta"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u0989\u09b8\u09cd\u09a4\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al Wus\u0163\u00e1"
     ],
     "name:ces_x_preferred":[
         "Al-Wusta"
@@ -58,6 +64,9 @@
         "Central Oman",
         "Oman Proper",
         "Al Wusta Governorate"
+    ],
+    "name:epo_x_preferred":[
+        "Meza Gubernio"
     ],
     "name:eus_x_preferred":[
         "Al Wusta"
@@ -94,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc911\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Vustas muh\u0101faza"
@@ -145,6 +157,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e2d\u0e31\u0e25\u0e27\u0e38\u0e2a\u0e15\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e25\u0e27\u0e38\u0e2a\u0e0f\u0e2d"
     ],
     "name:tur_x_preferred":[
         "El Vusta B\u00f6lgesi"
@@ -288,7 +303,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561776655,
+    "wof:lastmodified":1563298701,
     "wof:name":"Al Wusta",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

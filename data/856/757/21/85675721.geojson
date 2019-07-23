@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09b6 \u09b6\u09be\u09b0\u0995\u09bf\u09af\u09bc\u09be\u09b9 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at Sham\u0101l ash Sharq\u012byah"
+    ],
     "name:ces_x_preferred":[
         "Severn\u00ed a\u0161-\u0160ark\u00edja"
     ],
@@ -57,6 +60,12 @@
         "Eastern",
         "Ash Sharqiyah North",
         "Ash Sharqiyah North Governorate"
+    ],
+    "name:epo_x_preferred":[
+        "Nordorienta Gubernio"
+    ],
+    "name:eus_x_preferred":[
+        "Ipar Ash Sharqiyah"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0634\u0631\u0642\u06cc\u0647 \u0634\u0645\u0627\u0644\u06cc"
@@ -81,6 +90,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u5317\u30b7\u30e3\u30eb\u30ad\u30fc\u30e4\u884c\u653f\u533a"
+    ],
+    "name:jpn_x_variant":[
+        "\u5317\u30b7\u30e3\u30eb\u30ad\u30fc\u30e4\u5730\u65b9"
     ],
     "name:kan_x_preferred":[
         "\u0c86\u0cb7\u0ccd \u0cb6\u0cb0\u0ccd\u0c95\u0cbf\u0caf\u0cbe \u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
@@ -138,6 +150,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e01\u0e32\u0e23\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e2d\u0e32\u0e0a\u0e32\u0e23\u0e4c\u0e01\u0e35\u0e22\u0e30\u0e2e\u0e4c \u0e15\u0e2d\u0e19\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e0a\u0e0a\u0e31\u0e23\u0e01\u0e35\u0e22\u0e30\u0e2e\u0e4c\u0e40\u0e2b\u0e19\u0e37\u0e2d"
     ],
     "name:tur_x_preferred":[
         "Ash Sharqiyah Kuzey Y\u00f6netimi"
@@ -216,7 +231,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561776656,
+    "wof:lastmodified":1563298703,
     "wof:name":"Ash Sharqiyah North",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

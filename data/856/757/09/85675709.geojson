@@ -58,6 +58,9 @@
     "name:eng_x_preferred":[
         "Musandam"
     ],
+    "name:eng_x_variant":[
+        "Musandam Governorate"
+    ],
     "name:est_x_preferred":[
         "Musandami provints"
     ],
@@ -165,6 +168,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e39\u0e41\u0e0b\u0e19\u0e14\u0e33 \u0e01\u0e2d\u0e1f\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e25\u0e17"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e21\u0e38\u0e0b\u0e31\u0e19\u0e14\u0e31\u0e21"
     ],
     "name:tur_x_preferred":[
         "Musandam valili\u011fi"
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561776656,
+    "wof:lastmodified":1563298703,
     "wof:name":"Musandam",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

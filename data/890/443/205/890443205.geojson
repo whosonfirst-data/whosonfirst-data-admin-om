@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Nizwa"
     ],
+    "name:ceb_x_preferred":[
+        "Nizw\u00e1"
+    ],
     "name:ces_x_preferred":[
         "Nazv\u00e1"
     ],
@@ -45,6 +48,9 @@
         "\u039d\u03af\u03b6\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Nizwa"
+    ],
+    "name:eus_x_preferred":[
         "Nizwa"
     ],
     "name:fas_x_preferred":[
@@ -109,6 +115,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0437\u0432\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0430\u0437\u0432\u0430"
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0dd2\u0dc3\u0dca\u0dc0\u0dcf"
@@ -273,7 +282,7 @@
         }
     ],
     "wof:id":890443205,
-    "wof:lastmodified":1561776668,
+    "wof:lastmodified":1563298914,
     "wof:name":"Nizw\u00e1",
     "wof:parent_id":421186667,
     "wof:placetype":"locality",

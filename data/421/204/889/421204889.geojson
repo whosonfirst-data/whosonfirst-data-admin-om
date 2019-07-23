@@ -13,8 +13,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0623\u062f\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100dam"
+    ],
+    "name:eng_x_preferred":[
+        "Adam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Adam"
+    ],
+    "name:ita_x_preferred":[
+        "Adam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c0\u30e0"
+    ],
+    "name:nld_x_preferred":[
+        "Adam"
+    ],
+    "name:por_x_preferred":[
+        "Ad\u00e3o"
+    ],
     "name:unk_x_variant":[
         "\u0100dam"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u062f\u0645"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u7576"
     ],
     "qs:gn_country":"OM",
     "qs:gn_fcode":"PPL",
@@ -63,7 +96,7 @@
         }
     ],
     "wof:id":421204889,
-    "wof:lastmodified":1505340790,
+    "wof:lastmodified":1563298885,
     "wof:name":"\u0627\u062f\u0645",
     "wof:parent_id":1108721053,
     "wof:placetype":"locality",

@@ -28,11 +28,23 @@
     "name:eng_x_preferred":[
         "Qalhat"
     ],
+    "name:fin_x_preferred":[
+        "Qalhat"
+    ],
     "name:fra_x_preferred":[
         "Qalhat"
     ],
+    "name:hrv_x_preferred":[
+        "Kalhat"
+    ],
+    "name:hun_x_preferred":[
+        "Kalh\u00e1t"
+    ],
     "name:ita_x_preferred":[
         "Qalhat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30cf\u30c3\u30c8"
     ],
     "name:nld_x_preferred":[
         "Qalhat"
@@ -40,14 +52,26 @@
     "name:nno_x_preferred":[
         "Qalhat"
     ],
+    "name:por_x_preferred":[
+        "Calaiate"
+    ],
     "name:swe_x_preferred":[
+        "Qalhat"
+    ],
+    "name:tur_x_preferred":[
         "Qalhat"
     ],
     "name:unk_x_variant":[
         "Kalh\u0101t"
     ],
+    "name:vie_x_preferred":[
+        "Qalhat"
+    ],
     "name:zho_x_preferred":[
         "\u6e9d\u723e\u6f22"
+    ],
+    "name:zho_x_variant":[
+        "\u76d6\u52d2\u54c8\u7279"
     ],
     "qs:gn_country":"OM",
     "qs:gn_fcode":"PPL",
@@ -95,7 +119,7 @@
         }
     ],
     "wof:id":421177853,
-    "wof:lastmodified":1561776668,
+    "wof:lastmodified":1563298904,
     "wof:name":"\u0645\u062f\u064a\u0646\u0629 \u0642\u0644\u062d\u062a",
     "wof:parent_id":421175629,
     "wof:placetype":"locality",
