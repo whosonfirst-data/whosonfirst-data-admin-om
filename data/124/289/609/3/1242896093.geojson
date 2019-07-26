@@ -28,10 +28,25 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0633\u0648\u062a"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0633\u0648\u062a"
+    ],
+    "name:ita_x_preferred":[
+        "Raysut"
+    ],
+    "name:msa_x_preferred":[
+        "Raysut"
+    ],
+    "name:nno_x_preferred":[
+        "Raysut"
+    ],
     "name:und_x_variant":[
         "Rayz\u016bt",
         "R\u012bs\u016bt",
         "Rays\u016bt"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0633\u0648\u062a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1242896093,
-    "wof:lastmodified":1537676172,
+    "wof:lastmodified":1564149400,
     "wof:name":"Raysut",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

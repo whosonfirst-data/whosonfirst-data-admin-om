@@ -28,10 +28,61 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0645\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Bima"
+    ],
+    "name:deu_x_preferred":[
+        "Bima"
+    ],
+    "name:fra_x_preferred":[
+        "Bima"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Bima"
+    ],
+    "name:ita_x_preferred":[
+        "Bima"
+    ],
+    "name:jav_x_preferred":[
+        "Kutha Bima"
+    ],
+    "name:mlg_x_preferred":[
+        "Kota Bima"
+    ],
+    "name:msa_x_preferred":[
+        "Kota Bima"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u093f\u092e\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Bima"
+    ],
+    "name:pol_x_preferred":[
+        "Bima"
+    ],
+    "name:por_x_preferred":[
+        "Bima"
+    ],
+    "name:spa_x_preferred":[
+        "Bima"
+    ],
+    "name:sqi_x_preferred":[
+        "Bima"
+    ],
+    "name:swe_x_preferred":[
+        "Bima"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "B\u012bm\u0101",
         "B\u012bmah",
         "B\u012bma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0645\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1293893077,
-    "wof:lastmodified":1537676276,
+    "wof:lastmodified":1564149206,
     "wof:name":"Bima",
     "wof:parent_id":421200941,
     "wof:placetype":"locality",

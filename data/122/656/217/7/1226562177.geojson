@@ -26,6 +26,9 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Qadhait"
+    ],
     "name:und_x_variant":[
         "Qadheit",
         "Qadhait"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226562177,
-    "wof:lastmodified":1537676176,
+    "wof:lastmodified":1564149474,
     "wof:name":"Qadhait",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

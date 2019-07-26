@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u063a\u062f\u0648"
     ],
+    "name:nno_x_preferred":[
+        "Hayawt"
+    ],
     "name:und_x_variant":[
         "\u1e28ayawt",
         "Hayut",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259778851,
-    "wof:lastmodified":1537676204,
+    "wof:lastmodified":1564149440,
     "wof:name":"Ghadu",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

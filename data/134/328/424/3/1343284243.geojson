@@ -26,6 +26,9 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Sarkhar"
+    ],
     "name:und_x_variant":[
         "Sarkaan",
         "Sarkhaar",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343284243,
-    "wof:lastmodified":1537676167,
+    "wof:lastmodified":1564149166,
     "wof:name":"Sarkhar",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

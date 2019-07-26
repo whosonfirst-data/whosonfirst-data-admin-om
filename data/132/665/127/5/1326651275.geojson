@@ -28,6 +28,57 @@
     "name:ara_x_preferred":[
         "\u015e\u012bb\u012b"
     ],
+    "name:cat_x_preferred":[
+        "Sibi"
+    ],
+    "name:ceb_x_preferred":[
+        "Sibi"
+    ],
+    "name:est_x_preferred":[
+        "Sibi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0628\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Sibi"
+    ],
+    "name:ita_x_preferred":[
+        "Sibi"
+    ],
+    "name:lit_x_preferred":[
+        "Sibis"
+    ],
+    "name:msa_x_preferred":[
+        "Sibi"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Sibi"
+    ],
+    "name:por_x_preferred":[
+        "Sibi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0431\u0438"
+    ],
+    "name:snd_x_preferred":[
+        "\u0633\u0628\u064a"
+    ],
+    "name:spa_x_preferred":[
+        "Sibi"
+    ],
+    "name:swe_x_preferred":[
+        "Sibi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0431\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +102,7 @@
         }
     ],
     "wof:id":1326651275,
-    "wof:lastmodified":1537676162,
+    "wof:lastmodified":1564149128,
     "wof:name":"Sibi",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

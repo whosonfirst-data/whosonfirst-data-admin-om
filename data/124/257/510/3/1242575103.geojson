@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "\u1e62\u0101d"
     ],
+    "name:urd_x_preferred":[
+        "\u0635\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1242575103,
-    "wof:lastmodified":1537676170,
+    "wof:lastmodified":1564149402,
     "wof:name":"Sad",
     "wof:parent_id":421200935,
     "wof:placetype":"locality",

@@ -31,8 +31,17 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0628\u064a\u0631"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0631"
+    ],
+    "name:nno_x_preferred":[
+        "Al Bir"
+    ],
     "name:und_x_variant":[
         "Al B\u012br"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1209419029,
-    "wof:lastmodified":1548974432,
+    "wof:lastmodified":1564149269,
     "wof:name":"Al Bir",
     "wof:parent_id":421185083,
     "wof:placetype":"locality",

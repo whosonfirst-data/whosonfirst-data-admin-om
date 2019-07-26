@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062d\u064a\u062a"
     ],
+    "name:nno_x_preferred":[
+        "Shuhayt"
+    ],
     "name:und_x_variant":[
         "Shahait",
         "Shu\u1e29ay\u0163",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1225864759,
-    "wof:lastmodified":1537676163,
+    "wof:lastmodified":1564149479,
     "wof:name":"Shihayt",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

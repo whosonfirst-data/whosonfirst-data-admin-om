@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u062e\u0627\u0631\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0627\u0631\u0627\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Kharas"
+    ],
+    "name:ceb_x_preferred":[
+        "Kh\u0101r\u0101s"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05e8\u05d0\u05e1"
+    ],
+    "name:nno_x_preferred":[
+        "Kharas"
+    ],
+    "name:pol_x_preferred":[
+        "Kharas"
+    ],
     "name:und_x_variant":[
         "Kh\u0101ras",
         "Kh\u0101ris"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1210012055,
-    "wof:lastmodified":1537676318,
+    "wof:lastmodified":1564149291,
     "wof:name":"Kharas",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

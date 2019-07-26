@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0627\u0644"
     ],
+    "name:cat_x_preferred":[
+        "Manal"
+    ],
+    "name:fra_x_preferred":[
+        "Manal"
+    ],
+    "name:por_x_preferred":[
+        "Manal"
+    ],
+    "name:spa_x_preferred":[
+        "Manal"
+    ],
     "name:und_x_variant":[
         "Wab\u0101l",
         "Man\u0101l"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226460343,
-    "wof:lastmodified":1537676152,
+    "wof:lastmodified":1564149487,
     "wof:name":"Manal",
     "wof:parent_id":421185083,
     "wof:placetype":"locality",

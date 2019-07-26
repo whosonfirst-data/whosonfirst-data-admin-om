@@ -32,6 +32,9 @@
         "\u1e28\u012b\u015f\u0101",
         "\u062d\u064a\u0635\u0627"
     ],
+    "name:nno_x_preferred":[
+        "Hezar"
+    ],
     "name:und_x_variant":[
         "Hezaar",
         "\u1e28ay\u1e63al"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1327129629,
-    "wof:lastmodified":1537676200,
+    "wof:lastmodified":1564149109,
     "wof:name":"Haysal",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

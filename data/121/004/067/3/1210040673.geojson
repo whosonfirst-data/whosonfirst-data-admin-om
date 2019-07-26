@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "Mus\u0101w\u00e1"
     ],
+    "name:ceb_x_preferred":[
+        "Musawa"
+    ],
+    "name:fra_x_preferred":[
+        "Musawa"
+    ],
+    "name:hau_x_preferred":[
+        "Musawa"
+    ],
+    "name:ita_x_preferred":[
+        "Musawa"
+    ],
+    "name:spa_x_preferred":[
+        "Musawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1210040673,
-    "wof:lastmodified":1537676270,
+    "wof:lastmodified":1564149293,
     "wof:name":"Musawa",
     "wof:parent_id":1108721071,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Gharnut"
+    ],
     "name:und_x_variant":[
         "Garnoot",
         "Gharn\u016bt"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209936571,
-    "wof:lastmodified":1537676212,
+    "wof:lastmodified":1564149278,
     "wof:name":"Gharnut",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

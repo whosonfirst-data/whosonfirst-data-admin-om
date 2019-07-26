@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0633\u0643\u0646"
     ],
+    "name:cym_x_preferred":[
+        "Meisgyn"
+    ],
+    "name:deu_x_preferred":[
+        "Meisgyn"
+    ],
+    "name:eus_x_preferred":[
+        "Miskin"
+    ],
     "name:und_x_variant":[
         "Al Maskan",
         "Miskin",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1293897171,
-    "wof:lastmodified":1537676185,
+    "wof:lastmodified":1564149207,
     "wof:name":"Miskin",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

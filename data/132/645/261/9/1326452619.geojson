@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0638\u064a\u062a"
     ],
+    "name:nno_x_preferred":[
+        "Qarthit"
+    ],
     "name:und_x_variant":[
         "Qarthet",
         "Qarthit",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1326452619,
-    "wof:lastmodified":1537676176,
+    "wof:lastmodified":1564149101,
     "wof:name":"Qarthit",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",

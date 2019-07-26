@@ -25,6 +25,9 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Bayt Fiqayt"
+    ],
     "name:und_x_variant":[
         "Bayt Fiqait",
         "Bayt Fiqayt",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209091845,
-    "wof:lastmodified":1548974417,
+    "wof:lastmodified":1564149257,
     "wof:name":"Bayt Fiqayt",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Sahalnawt"
+    ],
     "name:und_x_variant":[
         "\u015eahalnawt"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u0627\u0644\u0646\u0648\u062a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1309705541,
-    "wof:lastmodified":1537676169,
+    "wof:lastmodified":1564149358,
     "wof:name":"Sahalnawt",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

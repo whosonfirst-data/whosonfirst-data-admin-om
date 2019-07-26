@@ -28,11 +28,35 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621"
+    ],
+    "name:ces_x_preferred":[
+        "Al-Hamra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
+    ],
+    "name:fra_x_preferred":[
+        "Al Hamra"
+    ],
+    "name:nor_x_preferred":[
+        "Al Hamra"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Hamra"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u043c\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Hamra",
         "\u1e28amrah",
         "Al \u1e28amr\u0101\u2019",
         "Al \u1e24amr\u0101\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1242791945,
-    "wof:lastmodified":1537676244,
+    "wof:lastmodified":1564149422,
     "wof:name":"Al Hamra'",
     "wof:parent_id":85675681,
     "wof:placetype":"locality",

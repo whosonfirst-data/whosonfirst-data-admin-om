@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0644\u064a\u0644"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u06cc\u0644"
+    ],
+    "name:nno_x_preferred":[
+        "Al Ghalil"
+    ],
     "name:und_x_variant":[
         "Al Ghal\u012bl"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310493205,
-    "wof:lastmodified":1537676293,
+    "wof:lastmodified":1564149322,
     "wof:name":"Al Ghalil",
     "wof:parent_id":1108721075,
     "wof:placetype":"locality",

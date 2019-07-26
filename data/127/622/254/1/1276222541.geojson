@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "Ind\u0101f"
     ],
+    "name:nno_x_preferred":[
+        "Indaf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276222541,
-    "wof:lastmodified":1537676198,
+    "wof:lastmodified":1564149238,
     "wof:name":"Indaf",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

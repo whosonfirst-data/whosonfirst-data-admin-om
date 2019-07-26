@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0637\u0648\u064a\u0627\u0646 \u064a\u062a\u064a"
     ],
+    "name:nno_x_preferred":[
+        "Tawiyan Yiti"
+    ],
     "name:und_x_variant":[
         "\u0162awiy\u0101n Yi\u0163\u012b",
         "\u0162uwy\u0101n Yit\u012b",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1242675437,
-    "wof:lastmodified":1537676156,
+    "wof:lastmodified":1564149407,
     "wof:name":"Tuwyan Yiti",
     "wof:parent_id":421185635,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u062f\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u064a\u062f\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Raydah"
+    ],
+    "name:deu_x_preferred":[
+        "Raida"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u062f\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Rayda"
+    ],
+    "name:nld_x_preferred":[
+        "Raydah"
+    ],
+    "name:nno_x_preferred":[
+        "Raydah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1309791373,
-    "wof:lastmodified":1537676306,
+    "wof:lastmodified":1564149359,
     "wof:name":"Raydah",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

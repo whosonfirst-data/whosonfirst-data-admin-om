@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0639\u0631\u0627\u0645"
     ],
+    "name:nno_x_preferred":[
+        "Buyut Aram"
+    ],
     "name:und_x_variant":[
         "Buy\u016bt Aram",
         "Aram"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276652317,
-    "wof:lastmodified":1537676222,
+    "wof:lastmodified":1564149253,
     "wof:name":"`Aram",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

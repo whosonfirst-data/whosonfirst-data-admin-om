@@ -31,6 +31,36 @@
     "name:ara_x_variant":[
         "\u0634\u0627\u0645"
     ],
+    "name:ceb_x_preferred":[
+        "Sham"
+    ],
+    "name:deu_x_preferred":[
+        "Sham"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Sham"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05e9\u05d0\u05dd"
+    ],
+    "name:ita_x_preferred":[
+        "Sham"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30e0"
+    ],
+    "name:ron_x_preferred":[
+        "Sham"
+    ],
+    "name:spa_x_preferred":[
+        "Sham"
+    ],
+    "name:swe_x_preferred":[
+        "Sham"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1209395949,
-    "wof:lastmodified":1548974428,
+    "wof:lastmodified":1564149261,
     "wof:name":"Sham",
     "wof:parent_id":421195037,
     "wof:placetype":"locality",

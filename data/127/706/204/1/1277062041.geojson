@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "Qrsh\u0101t"
     ],
+    "name:nno_x_preferred":[
+        "Karshayt"
+    ],
     "name:und_x_variant":[
         "Kartheit",
         "Karshayt"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1277062041,
-    "wof:lastmodified":1537676195,
+    "wof:lastmodified":1564149215,
     "wof:name":"Karshayt",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",

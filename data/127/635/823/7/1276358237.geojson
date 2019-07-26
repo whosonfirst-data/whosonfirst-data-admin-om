@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u0631\u064a\u0627\u0645"
     ],
+    "name:nno_x_preferred":[
+        "Riyam"
+    ],
     "name:und_x_variant":[
         "Riy\u0101n"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276358237,
-    "wof:lastmodified":1537676171,
+    "wof:lastmodified":1564149231,
     "wof:name":"Riyam",
     "wof:parent_id":1108721095,
     "wof:placetype":"locality",

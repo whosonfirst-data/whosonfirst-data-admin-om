@@ -28,6 +28,30 @@
     "name:ara_x_preferred":[
         "Mush\u012br"
     ],
+    "name:fra_x_preferred":[
+        "Mushir"
+    ],
+    "name:ind_x_preferred":[
+        "Mushir"
+    ],
+    "name:ita_x_preferred":[
+        "Mush\u012br"
+    ],
+    "name:msa_x_preferred":[
+        "Mushir"
+    ],
+    "name:spa_x_preferred":[
+        "Mushir"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0448\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Muschir"
+    ],
+    "name:tur_x_preferred":[
+        "M\u00fc\u015f\u00eer"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1327318115,
-    "wof:lastmodified":1537676273,
+    "wof:lastmodified":1564149098,
     "wof:name":"Mushir",
     "wof:parent_id":1108721101,
     "wof:placetype":"locality",

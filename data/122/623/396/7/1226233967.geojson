@@ -28,10 +28,22 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0642\u0631\u064a\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u0631\u06cc\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u0631\u06cc\u0646"
+    ],
+    "name:spa_x_preferred":[
+        "Abu Qurayn"
+    ],
     "name:und_x_variant":[
         "Ab\u016b Qarayt",
         "Ab\u016b Qurayn",
         "Ab\u016b Qirayn"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5e03\u53e4\u6765\u6069"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1226233967,
-    "wof:lastmodified":1537676261,
+    "wof:lastmodified":1564149483,
     "wof:name":"Abu Qurayn",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",
