@@ -28,6 +28,66 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644"
     ],
+    "name:arg_x_preferred":[
+        "Sal"
+    ],
+    "name:ast_x_preferred":[
+        "Sal"
+    ],
+    "name:cat_x_preferred":[
+        "Sal"
+    ],
+    "name:ceb_x_preferred":[
+        "Sal"
+    ],
+    "name:ces_x_preferred":[
+        "Sal"
+    ],
+    "name:dan_x_preferred":[
+        "Sal"
+    ],
+    "name:fin_x_preferred":[
+        "Sal"
+    ],
+    "name:fra_x_preferred":[
+        "Sal"
+    ],
+    "name:glg_x_preferred":[
+        "Sal"
+    ],
+    "name:hat_x_preferred":[
+        "Sal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Sal"
+    ],
+    "name:nds_x_preferred":[
+        "Sal"
+    ],
+    "name:nld_x_preferred":[
+        "Sal"
+    ],
+    "name:nno_x_preferred":[
+        "Sal"
+    ],
+    "name:nor_x_preferred":[
+        "Sal"
+    ],
+    "name:por_x_preferred":[
+        "Sal"
+    ],
+    "name:slk_x_preferred":[
+        "Sal"
+    ],
+    "name:spa_x_preferred":[
+        "Sal"
+    ],
+    "name:swe_x_preferred":[
+        "Sal"
+    ],
     "name:und_x_variant":[
         "Sall",
         "S\u0101l"
@@ -55,7 +115,7 @@
         }
     ],
     "wof:id":1276759045,
-    "wof:lastmodified":1537676257,
+    "wof:lastmodified":1564149221,
     "wof:name":"Sal",
     "wof:parent_id":1108721065,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0631\u0627\u0645\u0644"
     ],
+    "name:nno_x_preferred":[
+        "Haramil"
+    ],
     "name:und_x_variant":[
         "\u1e28ar\u0101mil",
         "Haramil",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1209812951,
-    "wof:lastmodified":1537676289,
+    "wof:lastmodified":1564149288,
     "wof:name":"Haramil",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

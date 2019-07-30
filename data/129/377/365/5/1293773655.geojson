@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0644\u062a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u062a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293773655,
-    "wof:lastmodified":1537676225,
+    "wof:lastmodified":1564149185,
     "wof:name":"Bilt",
     "wof:parent_id":1108721085,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badi"
+    ],
+    "name:deu_x_preferred":[
+        "Badi"
+    ],
+    "name:ita_x_preferred":[
+        "Badi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Badi"
+    ],
+    "name:tur_x_preferred":[
+        "Badi"
+    ],
     "name:und_x_variant":[
         "Bad\u012b"
     ],
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1343575357,
-    "wof:lastmodified":1537676278,
+    "wof:lastmodified":1564149154,
     "wof:name":"Badi",
     "wof:parent_id":421185083,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0635\u062d"
     ],
+    "name:bak_x_preferred":[
+        "\u041c\u04d9\u0441\u0435\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0445"
+    ],
+    "name:sqi_x_preferred":[
+        "Mes'h"
+    ],
     "name:und_x_variant":[
         "Ma\u015fa\u1e29",
         "Ma\u1e63a\u1e25"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1309989785,
-    "wof:lastmodified":1537676185,
+    "wof:lastmodified":1564149355,
     "wof:name":"Masah",
     "wof:parent_id":421184531,
     "wof:placetype":"locality",

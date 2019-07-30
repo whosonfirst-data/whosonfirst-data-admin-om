@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0635\u0644\u0649"
     ],
+    "name:nno_x_preferred":[
+        "Al Musalla"
+    ],
     "name:und_x_variant":[
         "Mu\u015fall\u00e1",
         "Al Mu\u015fall\u00e1",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1226729923,
-    "wof:lastmodified":1537676179,
+    "wof:lastmodified":1564149462,
     "wof:name":"Al Musalla",
     "wof:parent_id":421195841,
     "wof:placetype":"locality",

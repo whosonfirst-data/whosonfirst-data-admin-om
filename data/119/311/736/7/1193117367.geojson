@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0637\u0651\u064a\u0646"
     ],
+    "name:ltz_x_preferred":[
+        "Battin"
+    ],
     "name:und_x_variant":[
         "Ba\u0163\u012bn",
         "Ba\u0163\u0163\u012bn",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1193117367,
-    "wof:lastmodified":1537676227,
+    "wof:lastmodified":1564149302,
     "wof:name":"Battin",
     "wof:parent_id":1108721059,
     "wof:placetype":"locality",

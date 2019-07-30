@@ -26,9 +26,15 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Sailal"
+    ],
     "name:und_x_variant":[
         "Arkabait",
         "Sailal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0644\u0627\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260065939,
-    "wof:lastmodified":1537676168,
+    "wof:lastmodified":1564149308,
     "wof:name":"Sailal",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

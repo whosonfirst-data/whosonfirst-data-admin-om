@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "\u0628\u062f\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Bidi"
+    ],
+    "name:deu_x_preferred":[
+        "Bidi"
+    ],
+    "name:spa_x_preferred":[
+        "Bidi"
+    ],
+    "name:swe_x_preferred":[
+        "Bidi"
+    ],
     "name:und_x_variant":[
         "Bid\u012b"
     ],
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1242790469,
-    "wof:lastmodified":1537676282,
+    "wof:lastmodified":1564149422,
     "wof:name":"Bidi",
     "wof:parent_id":421169317,
     "wof:placetype":"locality",

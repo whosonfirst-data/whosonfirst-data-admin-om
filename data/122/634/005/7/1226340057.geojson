@@ -29,7 +29,32 @@
         "Qury\u0101t"
     ],
     "name:ara_x_variant":[
-        "\u0642\u0631\u064a\u0627\u062a"
+        "\u0642\u0631\u064a\u0627\u062a",
+        "\u0648\u0644\u0627\u064a\u0629 \u0642\u0631\u064a\u0627\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0647 \u0642\u0631\u064a\u0627\u062a"
+    ],
+    "name:deu_x_preferred":[
+        "Quriat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u06cc\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Qurayyat"
+    ],
+    "name:pol_x_preferred":[
+        "Kurajjat"
+    ],
+    "name:por_x_preferred":[
+        "Curiate"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u0439\u044f\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u044f\u0442"
     ],
     "name:und_x_variant":[
         "Al Quraiy\u0101t",
@@ -41,6 +66,12 @@
         "Kury\u00e1t",
         "Qaryat al-Kab\u012brah",
         "Quray\u0101t"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0631\u06cc\u0627\u062a"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u8d56\u4e9a\u7279"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +97,7 @@
         }
     ],
     "wof:id":1226340057,
-    "wof:lastmodified":1537676174,
+    "wof:lastmodified":1564149472,
     "wof:name":"Qurayyat",
     "wof:parent_id":421186553,
     "wof:placetype":"locality",

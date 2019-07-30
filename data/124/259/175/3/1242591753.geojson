@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0645\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Rimi"
+    ],
+    "name:deu_x_preferred":[
+        "Rimi"
+    ],
+    "name:ita_x_preferred":[
+        "Rimi"
+    ],
+    "name:swe_x_preferred":[
+        "Rimi"
+    ],
     "name:und_x_variant":[
         "\u015ea\u2018abah",
         "R\u012bm\u012b",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1242591753,
-    "wof:lastmodified":1537676167,
+    "wof:lastmodified":1564149405,
     "wof:name":"Rimi",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

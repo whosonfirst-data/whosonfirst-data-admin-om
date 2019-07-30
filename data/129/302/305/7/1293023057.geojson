@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0632\u064a\u062a \u0623\u062e\u064a\u064a\u0641"
     ],
+    "name:nno_x_preferred":[
+        "Kizetakhayf"
+    ],
     "name:und_x_variant":[
         "Kiz\u012bt Akhyayf"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293023057,
-    "wof:lastmodified":1537676191,
+    "wof:lastmodified":1564149198,
     "wof:name":"Kizetakhayf",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",

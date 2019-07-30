@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "Bid\u012b"
     ],
+    "name:ceb_x_preferred":[
+        "Bidi"
+    ],
+    "name:deu_x_preferred":[
+        "Bidi"
+    ],
+    "name:spa_x_preferred":[
+        "Bidi"
+    ],
+    "name:swe_x_preferred":[
+        "Bidi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259374735,
-    "wof:lastmodified":1537676265,
+    "wof:lastmodified":1564149436,
     "wof:name":"Bidi",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

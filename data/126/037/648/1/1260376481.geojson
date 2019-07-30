@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u062d\u0627\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Har"
+    ],
+    "name:isl_x_preferred":[
+        "H\u00e1r"
+    ],
+    "name:por_x_preferred":[
+        "Har"
+    ],
+    "name:swe_x_preferred":[
+        "Har"
+    ],
     "name:und_x_variant":[
         "\u1e28\u0101r",
         "\u1e24\u0101r"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1260376481,
-    "wof:lastmodified":1537676327,
+    "wof:lastmodified":1564149307,
     "wof:name":"Har",
     "wof:parent_id":421172085,
     "wof:placetype":"locality",

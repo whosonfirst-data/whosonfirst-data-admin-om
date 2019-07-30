@@ -28,9 +28,15 @@
     "name:ara_x_preferred":[
         "\u062a\u0646\u0639\u0645"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u0627\u0645"
+    ],
     "name:und_x_variant":[
         "Tana\u2019am",
         "Tan\u2018am"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0646\u0645"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1209510971,
-    "wof:lastmodified":1548974429,
+    "wof:lastmodified":1564149281,
     "wof:name":"Tan`am",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

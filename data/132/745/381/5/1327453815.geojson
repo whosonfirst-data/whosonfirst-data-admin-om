@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0645"
     ],
+    "name:bos_x_preferred":[
+        "Dim"
+    ],
+    "name:ceb_x_preferred":[
+        "Dim"
+    ],
+    "name:fra_x_preferred":[
+        "Dim"
+    ],
+    "name:swe_x_preferred":[
+        "Dim"
+    ],
     "name:und_x_variant":[
         "D\u012bm"
     ],
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1327453815,
-    "wof:lastmodified":1537676329,
+    "wof:lastmodified":1564149132,
     "wof:name":"Dim",
     "wof:parent_id":421189277,
     "wof:placetype":"locality",

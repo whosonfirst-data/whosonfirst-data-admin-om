@@ -35,6 +35,12 @@
         "Al Koudh",
         "Al Koude"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u062f"
+    ],
+    "name:nno_x_preferred":[
+        "Al Khawd"
+    ],
     "name:und_x_variant":[
         "Khaud",
         "Khaw\u1e11",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1209507717,
-    "wof:lastmodified":1548974435,
+    "wof:lastmodified":1564149274,
     "wof:name":"Al Khawd",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",

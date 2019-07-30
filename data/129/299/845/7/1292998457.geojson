@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0635\u0651\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Bandar Jissah"
+    ],
+    "name:nno_x_preferred":[
+        "Bandar Jissah"
+    ],
     "name:und_x_variant":[
         "Jissah",
         "Al Ji\u015f\u015fah",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1292998457,
-    "wof:lastmodified":1537676228,
+    "wof:lastmodified":1564149201,
     "wof:name":"Al Jissah",
     "wof:parent_id":421185635,
     "wof:placetype":"locality",

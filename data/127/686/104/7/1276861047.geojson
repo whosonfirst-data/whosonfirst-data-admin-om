@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0636\u0646\u0643"
     ],
+    "name:deu_x_preferred":[
+        "Dank"
+    ],
     "name:und_x_variant":[
         "\u1e10anak",
         "Dhank",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276861047,
-    "wof:lastmodified":1537676221,
+    "wof:lastmodified":1564149219,
     "wof:name":"Dank",
     "wof:parent_id":1108721085,
     "wof:placetype":"locality",

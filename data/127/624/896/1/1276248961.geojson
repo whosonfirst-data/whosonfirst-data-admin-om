@@ -28,9 +28,57 @@
     "name:ara_x_preferred":[
         "\u0623\u062c\u062f\u064a\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u062c\u062f\u06cc\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Ajdir"
+    ],
+    "name:deu_x_preferred":[
+        "Ajdir"
+    ],
+    "name:est_x_preferred":[
+        "Ajdir"
+    ],
+    "name:eus_x_preferred":[
+        "Ajdir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062c\u062f\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Ajdir"
+    ],
+    "name:ita_x_preferred":[
+        "Ajdir"
+    ],
+    "name:kab_x_preferred":[
+        "Ajdir"
+    ],
+    "name:nld_x_preferred":[
+        "Ajdir"
+    ],
+    "name:nor_x_preferred":[
+        "Ajdir"
+    ],
+    "name:pol_x_preferred":[
+        "Ad\u017cdir"
+    ],
+    "name:por_x_preferred":[
+        "Ajdir"
+    ],
+    "name:spa_x_preferred":[
+        "Axdir"
+    ],
+    "name:swe_x_preferred":[
+        "Ajdir"
+    ],
     "name:und_x_variant":[
         "Ajd\u012br",
         "Ajdir"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6770\u8fea\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +103,7 @@
         }
     ],
     "wof:id":1276248961,
-    "wof:lastmodified":1537676318,
+    "wof:lastmodified":1564149241,
     "wof:name":"Ajdir",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

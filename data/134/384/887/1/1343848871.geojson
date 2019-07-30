@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0631\u062e\u064a\u0648\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0631\u062e\u064a\u0648\u062a"
+    ],
+    "name:ces_x_preferred":[
+        "Rachj\u00fat"
+    ],
+    "name:deu_x_preferred":[
+        "Rachyut"
+    ],
     "name:und_x_variant":[
         "Rakhuit",
         "Raykh\u016bt",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1343848871,
-    "wof:lastmodified":1537676173,
+    "wof:lastmodified":1564149147,
     "wof:name":"Rakhyut",
     "wof:parent_id":421172085,
     "wof:placetype":"locality",

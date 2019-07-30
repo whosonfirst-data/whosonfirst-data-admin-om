@@ -25,6 +25,15 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0645\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Ghamid"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u093c\u092e\u094d\u0926 \u0915\u093c\u092c\u0940\u0932\u093e"
+    ],
     "name:und_x_variant":[
         "Gham\u1e11"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259507377,
-    "wof:lastmodified":1537676290,
+    "wof:lastmodified":1564149447,
     "wof:name":"Ghamd",
     "wof:parent_id":421175629,
     "wof:placetype":"locality",

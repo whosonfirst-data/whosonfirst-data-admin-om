@@ -31,6 +31,24 @@
     "name:ara_x_variant":[
         "\u0634\u0627\u0647\u0627\u0628"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0627\u0628"
+    ],
+    "name:ita_x_preferred":[
+        "Shahab"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30cf\u30d6"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0430\u0431"
+    ],
+    "name:swe_x_preferred":[
+        "Shahab"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eahab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1226428017,
-    "wof:lastmodified":1537676317,
+    "wof:lastmodified":1564149468,
     "wof:name":"Shahab",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

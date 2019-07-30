@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "Arz\u0101t"
     ],
+    "name:nno_x_preferred":[
+        "Arzat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242800067,
-    "wof:lastmodified":1537676231,
+    "wof:lastmodified":1564149399,
     "wof:name":"Arzat",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

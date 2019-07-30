@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f \u0633\u064a\u062a"
     ],
+    "name:fra_x_preferred":[
+        "Bilad Sayt"
+    ],
+    "name:nno_x_preferred":[
+        "Bilad Sayt"
+    ],
     "name:und_x_variant":[
         "Bil\u0101d Sayt",
         "Balad Sayt"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1209729687,
-    "wof:lastmodified":1537676225,
+    "wof:lastmodified":1564149289,
     "wof:name":"Balad Sayt",
     "wof:parent_id":421200941,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u1e10\u0101hir"
     ],
+    "name:deu_x_preferred":[
+        "Dahir"
+    ],
+    "name:ita_x_preferred":[
+        "Dahir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0445\u0438\u0440"
+    ],
     "name:und_x_variant":[
         "Akbul",
         "Aqbal"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276430081,
-    "wof:lastmodified":1537676221,
+    "wof:lastmodified":1564149222,
     "wof:name":"Dahir",
     "wof:parent_id":421184531,
     "wof:placetype":"locality",

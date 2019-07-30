@@ -29,7 +29,11 @@
         "Al Kh\u016br"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u062e\u0648\u0631"
+        "\u0627\u0644\u062e\u0648\u0631",
+        "\u062e\u0648\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Al Khawr"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276672111,
-    "wof:lastmodified":1537676286,
+    "wof:lastmodified":1564149231,
     "wof:name":"Al Khawr",
     "wof:parent_id":421185083,
     "wof:placetype":"locality",

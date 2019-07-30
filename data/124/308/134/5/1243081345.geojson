@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0631"
     ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0645\u0648\u0642\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243081345,
-    "wof:lastmodified":1537676270,
+    "wof:lastmodified":1564149396,
     "wof:name":"Muqur",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

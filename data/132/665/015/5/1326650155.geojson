@@ -26,6 +26,9 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Khidr Marghuth"
+    ],
     "name:und_x_variant":[
         "Khudr Margot",
         "Khidr Margh\u016bth"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326650155,
-    "wof:lastmodified":1537676192,
+    "wof:lastmodified":1564149127,
     "wof:name":"Khidr Marghuth",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

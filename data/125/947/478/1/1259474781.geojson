@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0623\u064a\u0646\u064a"
     ],
+    "name:aym_x_preferred":[
+        "Ayni"
+    ],
+    "name:deu_x_preferred":[
+        "Ayni"
+    ],
+    "name:fra_x_preferred":[
+        "Ayni"
+    ],
+    "name:que_x_preferred":[
+        "Ayni"
+    ],
+    "name:spa_x_preferred":[
+        "Ayni"
+    ],
     "name:und_x_variant":[
         "Aini",
         "Ayn\u012b",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1259474781,
-    "wof:lastmodified":1537676258,
+    "wof:lastmodified":1564149444,
     "wof:name":"Ayni",
     "wof:parent_id":1108721075,
     "wof:placetype":"locality",

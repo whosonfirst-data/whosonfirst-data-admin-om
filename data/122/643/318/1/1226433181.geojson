@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u062b\u0645\u0631\u064a\u062a"
     ],
+    "name:nno_x_preferred":[
+        "Thamarit"
+    ],
     "name:und_x_variant":[
         "Midway",
         "Markaz Thamar\u012bd",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226433181,
-    "wof:lastmodified":1537676154,
+    "wof:lastmodified":1564149464,
     "wof:name":"Thamarit",
     "wof:parent_id":421184227,
     "wof:placetype":"locality",

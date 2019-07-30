@@ -26,6 +26,9 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Khawr Rawri"
+    ],
     "name:und_x_variant":[
         "Khor Rori",
         "Khawr Rawr\u012b"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293314941,
-    "wof:lastmodified":1537676192,
+    "wof:lastmodified":1564149176,
     "wof:name":"Khawr Rawri",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",

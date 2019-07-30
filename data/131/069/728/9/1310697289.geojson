@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "Ark\u016bt"
     ],
+    "name:nno_x_preferred":[
+        "Arkut"
+    ],
     "name:und_x_variant":[
         "Erkot"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1310697289,
-    "wof:lastmodified":1537676231,
+    "wof:lastmodified":1564149339,
     "wof:name":"Arkut",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

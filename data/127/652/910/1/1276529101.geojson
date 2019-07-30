@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0644\u062d\u0644"
     ],
+    "name:nno_x_preferred":[
+        "Halhal"
+    ],
     "name:und_x_variant":[
         "\u1e28al\u1e29\u0101l",
         "\u1e28al\u1e29al",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276529101,
-    "wof:lastmodified":1537676207,
+    "wof:lastmodified":1564149248,
     "wof:name":"Halhal",
     "wof:parent_id":421195843,
     "wof:placetype":"locality",

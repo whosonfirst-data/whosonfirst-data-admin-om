@@ -25,7 +25,13 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Qarn Alam"
+    ],
     "name:eng_x_preferred":[
+        "Qarn Alam"
+    ],
+    "name:nno_x_preferred":[
         "Qarn Alam"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226044317,
-    "wof:lastmodified":1537676176,
+    "wof:lastmodified":1564149475,
     "wof:name":"Qarn Alam",
     "wof:parent_id":1108721053,
     "wof:placetype":"locality",

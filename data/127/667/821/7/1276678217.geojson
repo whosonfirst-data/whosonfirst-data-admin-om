@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0646\u062d\u0627\u062a"
     ],
+    "name:nno_x_preferred":[
+        "Kinhat"
+    ],
     "name:und_x_variant":[
         "Kin\u1e29\u0101t"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276678217,
-    "wof:lastmodified":1537676191,
+    "wof:lastmodified":1564149231,
     "wof:name":"Kinhat",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

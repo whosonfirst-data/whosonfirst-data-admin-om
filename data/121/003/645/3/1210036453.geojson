@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0641\u0637\u0648\u062a"
     ],
+    "name:nno_x_preferred":[
+        "Qaftat"
+    ],
     "name:und_x_variant":[
         "Qaf\u0163at",
         "Qaf\u0163awt",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1210036453,
-    "wof:lastmodified":1537676176,
+    "wof:lastmodified":1564149292,
     "wof:name":"Qaftawt",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

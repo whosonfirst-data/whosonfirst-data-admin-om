@@ -25,6 +25,60 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0627\u0644\u064a"
+    ],
+    "name:bcl_x_preferred":[
+        "Silay City"
+    ],
+    "name:ceb_x_preferred":[
+        "Silay"
+    ],
+    "name:deu_x_preferred":[
+        "Silay City"
+    ],
+    "name:fra_x_preferred":[
+        "Silay"
+    ],
+    "name:ilo_x_preferred":[
+        "Silay"
+    ],
+    "name:ind_x_preferred":[
+        "Silay"
+    ],
+    "name:ita_x_preferred":[
+        "Silay"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e4\ub77c\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Silay"
+    ],
+    "name:pag_x_preferred":[
+        "Silay"
+    ],
+    "name:pam_x_preferred":[
+        "Silay"
+    ],
+    "name:pol_x_preferred":[
+        "Silay"
+    ],
+    "name:spa_x_preferred":[
+        "Silay"
+    ],
+    "name:swe_x_preferred":[
+        "Silay"
+    ],
+    "name:tgl_x_preferred":[
+        "Silay"
+    ],
+    "name:war_x_preferred":[
+        "Silay"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u840a\u5e02"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +102,7 @@
         }
     ],
     "wof:id":1243194459,
-    "wof:lastmodified":1536671806,
+    "wof:lastmodified":1564149431,
     "wof:name":"Silay",
     "wof:parent_id":421186553,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "B\u0101r\u016bt"
     ],
+    "name:deu_x_preferred":[
+        "Liebenhain"
+    ],
+    "name:pol_x_preferred":[
+        "Barut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1260197205,
-    "wof:lastmodified":1537676227,
+    "wof:lastmodified":1564149316,
     "wof:name":"Barut",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

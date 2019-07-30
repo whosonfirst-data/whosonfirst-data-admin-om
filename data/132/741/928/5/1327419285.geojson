@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0634\u0631\u0628\u062a\u0627\u062a"
     ],
+    "name:ita_x_preferred":[
+        "Sharbithat"
+    ],
+    "name:nno_x_preferred":[
+        "Sharbithat"
+    ],
     "name:und_x_variant":[
         "Sharbith\u0101t",
         "Sharbit\u0101t"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327419285,
-    "wof:lastmodified":1537676315,
+    "wof:lastmodified":1564149111,
     "wof:name":"Sharbithat",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

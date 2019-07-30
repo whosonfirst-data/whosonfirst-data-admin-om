@@ -40,7 +40,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0639\u0648\u0627\u0628\u064a"
+    ],
     "name:eng_x_preferred":[
+        "Al Awabi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0648\u0627\u0628\u06cc"
+    ],
+    "name:nno_x_preferred":[
         "Al Awabi"
     ],
     "name:und_x_variant":[
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421169317,
-    "wof:lastmodified":1554506199,
+    "wof:lastmodified":1564149368,
     "wof:name":"Al Awabi",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

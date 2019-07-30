@@ -28,6 +28,33 @@
     "name:ara_x_preferred":[
         "Dum\u012b"
     ],
+    "name:bih_x_preferred":[
+        "\u091a\u094c\u0930\u092a\u093e\u091f\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Dumkibas"
+    ],
+    "name:fra_x_preferred":[
+        "Duni"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0941\u0928\u0940"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0941\u0928\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Dumi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0941\u0928\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0941\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Dumkibas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1343662779,
-    "wof:lastmodified":1537676289,
+    "wof:lastmodified":1564149153,
     "wof:name":"Dumi",
     "wof:parent_id":1108721069,
     "wof:placetype":"locality",

@@ -28,11 +28,23 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0627 \u0627\u0644\u0628\u064a\u0639\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062f\u0628\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "Diba al-Baja"
+    ],
     "name:eng_x_preferred":[
         "Dibba Al-Baya"
     ],
     "name:eng_x_variant":[
         "Dibba, Oman"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0627\u0621 \u0627\u0644\u0628\u06cc\u0639\u0629"
+    ],
+    "name:ita_x_preferred":[
+        "Daba Al Bayah"
     ],
     "name:und_x_variant":[
         "Bay\u2018ah",
@@ -65,7 +77,7 @@
         }
     ],
     "wof:id":1310693245,
-    "wof:lastmodified":1537676227,
+    "wof:lastmodified":1564149338,
     "wof:name":"Dibba Al-Baya",
     "wof:parent_id":1108721075,
     "wof:placetype":"locality",

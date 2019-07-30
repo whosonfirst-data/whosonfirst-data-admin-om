@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u2018Arj\u0101\u2019"
     ],
+    "name:fin_x_preferred":[
+        "Arja"
+    ],
+    "name:swe_x_preferred":[
+        "Arja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1193118405,
-    "wof:lastmodified":1537676232,
+    "wof:lastmodified":1564149302,
     "wof:name":"Arja",
     "wof:parent_id":421195037,
     "wof:placetype":"locality",

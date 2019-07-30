@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0632\u0645\u064a\u0645"
     ],
+    "name:nno_x_preferred":[
+        "Bisaftir"
+    ],
     "name:und_x_variant":[
         "Bisafteer",
         "Bisaft\u012br",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326452633,
-    "wof:lastmodified":1537676224,
+    "wof:lastmodified":1564149101,
     "wof:name":"Kazmim",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

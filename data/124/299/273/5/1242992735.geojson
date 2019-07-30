@@ -25,6 +25,9 @@
     "iso:country":"OM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Ghoff"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1242992735,
-    "wof:lastmodified":1537570180,
+    "wof:lastmodified":1564149427,
     "wof:name":"Ghoff",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

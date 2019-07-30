@@ -28,9 +28,21 @@
     "name:ara_x_preferred":[
         "\u0648\u0643\u0627\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Wukan"
+    ],
+    "name:epo_x_preferred":[
+        "Wukan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u06a9\u0627\u0646"
+    ],
     "name:und_x_variant":[
         "Wak\u0101n",
         "Wuk\u0101n"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u574e\u6751"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1326639467,
-    "wof:lastmodified":1537676151,
+    "wof:lastmodified":1564149124,
     "wof:name":"Wukan",
     "wof:parent_id":1108721091,
     "wof:placetype":"locality",

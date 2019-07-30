@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "Kus\u0101t"
     ],
+    "name:nno_x_preferred":[
+        "Kusat"
+    ],
     "name:und_x_variant":[
         "Kusaat"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276646947,
-    "wof:lastmodified":1537676191,
+    "wof:lastmodified":1564149249,
     "wof:name":"Kusat",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",
