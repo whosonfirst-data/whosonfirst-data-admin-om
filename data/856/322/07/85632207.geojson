@@ -16,6 +16,9 @@
     "itu:country_code":[
         "968"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OM"
+    ],
     "lbl:latitude":22.113181,
     "lbl:longitude":57.34568,
     "mps:latitude":22.113181,
@@ -967,7 +970,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298697,
+    "wof:lastmodified":1565732196,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

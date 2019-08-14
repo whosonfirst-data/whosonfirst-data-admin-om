@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SS"
+    ],
     "lbl:latitude":22.027281,
     "lbl:longitude":59.330837,
     "meso:name_loc":"\u062c\u0646\u0648\u0628 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
@@ -231,16 +234,13 @@
         }
     ],
     "wof:id":85675691,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298699,
+    "wof:lastmodified":1565732197,
     "wof:name":"Ash Sharqiyah South",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

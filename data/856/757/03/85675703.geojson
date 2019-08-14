@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BN"
+    ],
     "lbl:latitude":24.092153,
     "lbl:longitude":56.646583,
     "meso:name_loc":"\u0634\u0643\u0627\u0641 \u0627\u0641\u0628\u0627\u0638\u0644\u0629",
@@ -221,7 +224,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298701,
+    "wof:lastmodified":1565732197,
     "wof:name":"Al Batnah North",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

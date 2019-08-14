@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":23.360211,
     "lbl:longitude":58.635482,
     "meso:name_loc":"\u0645\u0633\u0642\u0637",
@@ -336,16 +339,13 @@
         }
     ],
     "wof:id":85675713,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298705,
+    "wof:lastmodified":1565732198,
     "wof:name":"Muscat",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

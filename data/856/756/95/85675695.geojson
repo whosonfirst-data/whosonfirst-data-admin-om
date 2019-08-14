@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JA"
+    ],
     "lbl:latitude":18.347601,
     "lbl:longitude":54.095568,
     "meso:name_loc":"\u0638\u0641\u0627\u0631",
@@ -296,16 +299,13 @@
         }
     ],
     "wof:id":85675695,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298698,
+    "wof:lastmodified":1565732197,
     "wof:name":"Dhofar",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

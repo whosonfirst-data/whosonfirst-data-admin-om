@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DA"
+    ],
     "lbl:latitude":21.684322,
     "lbl:longitude":57.229482,
     "meso:name_loc":"\u0627\u0641\u062f\u0627\u062e\u0641\u064d\u0629",
@@ -295,16 +298,13 @@
         }
     ],
     "wof:id":85675681,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298699,
+    "wof:lastmodified":1565732197,
     "wof:name":"Ad Dakhliyah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

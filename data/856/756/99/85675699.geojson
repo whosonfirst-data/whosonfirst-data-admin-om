@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DH"
+    ],
     "lbl:latitude":22.727642,
     "lbl:longitude":56.06229,
     "meso:name_loc":"\u0627\u0641\u0639\u0627\u0645\u0631\u0629",
@@ -289,16 +292,13 @@
         }
     ],
     "wof:id":85675699,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298700,
+    "wof:lastmodified":1565732197,
     "wof:name":"Adh Dhahirah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

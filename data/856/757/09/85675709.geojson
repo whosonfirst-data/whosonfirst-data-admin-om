@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MU"
+    ],
     "lbl:latitude":25.927075,
     "lbl:longitude":56.28861,
     "meso:name_loc":"\u0643\u0633\u0644\u062f\u0643",
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85675709,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298703,
+    "wof:lastmodified":1565732198,
     "wof:name":"Musandam",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WU"
+    ],
     "lbl:latitude":20.023645,
     "lbl:longitude":56.452954,
     "meso:name_loc":"\u0627\u0641\u0646\u0633\u0638\u064c",
@@ -294,16 +297,13 @@
         }
     ],
     "wof:id":85675685,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298701,
+    "wof:lastmodified":1565732197,
     "wof:name":"Al Wusta",
     "wof:parent_id":85632207,
     "wof:placetype":"region",
