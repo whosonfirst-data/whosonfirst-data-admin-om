@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":24.723079,
     "lbl:longitude":56.341081,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Al Batinah North",
     "meso:adm1_loc":"\u0634\u0643\u0627\u0641 \u0627\u0641\u0628\u0627\u0638\u0644\u0629",
     "meso:hasc_id":"OM.BN.SH",
@@ -39,6 +41,7 @@
     "mps:longitude":56.341081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0634\u0646\u0627\u0635"
@@ -79,9 +82,6 @@
     "name:por_x_preferred":[
         "Xinas"
     ],
-    "name:und_x_variant":[
-        "\u0634\u0646\u0627\u0635"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0646\u0627\u0635"
     ],
@@ -107,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -129,7 +129,7 @@
     "wof:concordances":{
         "gp:id":55927096,
         "hasc:id":"OM.BN.SH",
-        "qs:id":986740,
+        "qs_pg:id":986740,
         "wd:id":"Q3482179"
     },
     "wof:country":"OM",
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":421183959,
-    "wof:lastmodified":1563298905,
+    "wof:lastmodified":1566672870,
     "wof:name":"Shinas",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

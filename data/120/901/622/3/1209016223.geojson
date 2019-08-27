@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.43565,19.34184,56.47565,19.38184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mukhaizna"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209016223,
-    "wof:lastmodified":1548974414,
+    "wof:lastmodified":1566672791,
     "wof:name":"Mukhaizna",
     "wof:parent_id":421189283,
     "wof:placetype":"locality",

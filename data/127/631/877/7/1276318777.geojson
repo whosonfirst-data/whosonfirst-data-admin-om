@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.29667,17.13,54.33667,17.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Ash Shawr"
     ],
     "name:und_x_variant":[
-        "Shair",
-        "Ash Shawr"
+        "Shair"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276318777,
-    "wof:lastmodified":1564149255,
+    "wof:lastmodified":1566672788,
     "wof:name":"Ash Shawr",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

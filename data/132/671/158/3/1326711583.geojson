@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.76222,24.29778,56.80222,24.33778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28illat al Bal\u016bsh"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326711583,
-    "wof:lastmodified":1537676199,
+    "wof:lastmodified":1566672707,
     "wof:name":"Hillat al Balush",
     "wof:parent_id":421195037,
     "wof:placetype":"locality",

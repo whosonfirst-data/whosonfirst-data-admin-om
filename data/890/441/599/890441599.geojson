@@ -11,10 +11,14 @@
     "geom:longitude":57.42444,
     "gn:country":"OM",
     "gn:fcode":"PPL",
-    "gn:pop":79383,
+    "gn:population":79383,
     "iso:country":"OM",
+    "lbl:bbox":"57.40444,23.37083,57.44444,23.41083",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "Rust\u0101q"
     ],
@@ -77,7 +81,7 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e23\u0e23\u0e38\u0e2a\u0e15\u0e32\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qal\u2018at Kasr\u00e1"
     ],
     "name:urd_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":289011,
         "gp:id":56445890,
-        "qs:id":124046,
+        "qs_pg:id":124046,
         "wd:id":"Q542678"
     },
     "wof:country":"OM",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":890441599,
-    "wof:lastmodified":1563298911,
+    "wof:lastmodified":1566672872,
     "wof:name":"Ar Rust\u0101q",
     "wof:parent_id":421200941,
     "wof:placetype":"locality",

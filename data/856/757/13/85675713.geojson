@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":23.360211,
     "lbl:longitude":58.635482,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0645\u0633\u0642\u0637",
     "mps:latitude":23.128614,
     "mps:longitude":58.767082,
@@ -184,7 +185,7 @@
         "Muskat"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bb8\u0bcd\u0b95\u0b9f\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
+        "\u0bae\u0bb8\u0bcd\u0b95\u0b9f\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c38\u0c4d\u0c15\u0c1f\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -204,13 +205,7 @@
     "name:ukr_x_variant":[
         "\u041c\u0430\u0441\u043a\u0430\u0442"
     ],
-    "name:und_x_preferred":[
-        "Mascate"
-    ],
     "name:und_x_variant":[
-        "\u0645\u0633\u0642\u0637"
-    ],
-    "name:unk_x_variant":[
         "Min\u0163aqat Masqa\u0163"
     ],
     "name:urd_x_preferred":[
@@ -297,9 +292,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"3,500",
     "statoids:area_mi":"1,400",
     "statoids:as_of_date":"2010-12-12",
@@ -325,7 +320,7 @@
         "gp:id":2346260,
         "hasc:id":"OM.MA",
         "iso:id":"OM-MA",
-        "qs:id":1135163,
+        "qs_pg:id":1135163,
         "unlc:id":"OM-MA",
         "wd:id":"Q544762"
     },
@@ -345,11 +340,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565732198,
+    "wof:lastmodified":1566672744,
     "wof:name":"Muscat",
     "wof:parent_id":85632207,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":775878,
     "wof:population_rank":11,

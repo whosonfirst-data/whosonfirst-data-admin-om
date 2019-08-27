@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":20.314535,
     "lbl:longitude":58.703395,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Ash Sharqiyah South",
     "meso:adm1_loc":"\u062c\u0646\u0648\u0628 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     "meso:hasc_id":"OM.SS.MA",
@@ -39,6 +41,7 @@
     "mps:longitude":58.703395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0645\u0635\u064a\u0631\u0629"
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -177,7 +180,7 @@
     "wof:concordances":{
         "gp:id":55927100,
         "hasc:id":"OM.SS.MA",
-        "qs:id":383462,
+        "qs_pg:id":383462,
         "wd:id":"Q1793853"
     },
     "wof:country":"OM",
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":421175631,
-    "wof:lastmodified":1563298895,
+    "wof:lastmodified":1566672864,
     "wof:name":"Masirah",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

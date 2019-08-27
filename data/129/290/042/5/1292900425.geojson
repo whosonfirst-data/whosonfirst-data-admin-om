@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.27599,26.02922,56.31599,26.06922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0646\u0628 \u0631\u0643\u0651\u0627\u0628"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1292900425,
-    "wof:lastmodified":1537676260,
+    "wof:lastmodified":1566672759,
     "wof:name":"Danab Rakkab",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

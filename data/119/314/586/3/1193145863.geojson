@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.30169,23.42476,57.34169,23.46476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u064a\u0639\u0629"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1193145863,
-    "wof:lastmodified":1537676164,
+    "wof:lastmodified":1566672812,
     "wof:name":"Ash Shari`ah",
     "wof:parent_id":421200941,
     "wof:placetype":"locality",

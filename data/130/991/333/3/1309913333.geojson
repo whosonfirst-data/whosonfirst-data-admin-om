@@ -23,8 +23,12 @@
     "gn:population":1294,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.25575,19.93931,56.29575,19.97931",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0645\u0627\u0621"
     ],
@@ -69,7 +73,6 @@
         "\u0425\u0430\u0439\u043c\u0430"
     ],
     "name:und_x_variant":[
-        "Haima",
         "Haym\u0101\u2019",
         "Haym\u0101"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1309913333,
-    "wof:lastmodified":1564149356,
+    "wof:lastmodified":1566672852,
     "wof:name":"Hayma'",
     "wof:parent_id":421189283,
     "wof:placetype":"locality",

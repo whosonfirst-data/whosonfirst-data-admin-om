@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":23.271828,
     "lbl:longitude":57.560286,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Al Batinah South",
     "meso:adm1_loc":"\u062c\u0644\u0646\u0628 \u0627\u0641\u0628\u0627\u0638\u0644\u0629",
     "meso:hasc_id":"OM.BS.AW",
@@ -39,6 +41,7 @@
     "mps:longitude":57.560286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0639\u0648\u0627\u0628\u064a"
@@ -77,9 +80,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gp:id":55927079,
         "hasc:id":"OM.BS.AW",
-        "qs:id":776481
+        "qs_pg:id":776481
     },
     "wof:country":"OM",
     "wof:created":1459008804,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421169317,
-    "wof:lastmodified":1564149368,
+    "wof:lastmodified":1566672859,
     "wof:name":"Al Awabi",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

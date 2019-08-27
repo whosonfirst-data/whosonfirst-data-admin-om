@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6010095.944309,
+    "geom:area_square_m":0.0,
     "geom:bbox":"58.547821,23.593075,58.547821,23.593075",
     "geom:latitude":23.593075,
     "geom:longitude":58.547821,
-    "gn:gn_country":"OM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"OM",
+    "gn:fcode":"PPL",
     "gn:latitude":23.59483,
     "gn:longitude":58.54283,
+    "gn:population":0,
     "iso:country":"OM",
+    "lbl:bbox":"58.542821,23.588075,58.552821,23.598075",
     "lbl:latitude":23.593075,
     "lbl:longitude":58.547821,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.587789,
     "mps:longitude":58.545729,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     "name:eng_x_variant":[
         "Ruw\u012b",
         "Ruwi"
-    ],
-    "name:unk_x_variant":[
-        "\u0631\u0648\u064a"
     ],
     "qs:gn_adm0_cc":"OM",
     "qs:gn_fcode":"PPL",
@@ -93,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675713,
         102191569,
@@ -104,7 +103,6 @@
     "wof:concordances":{
         "gn:id":286696,
         "gp:id":2268245,
-        "qs:id":1354441,
         "qs_pg:id":1354441
     },
     "wof:country":"OM",
@@ -123,7 +121,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379392,
+    "wof:lastmodified":1566672738,
     "wof:name":"\u0631\u0648\u064a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

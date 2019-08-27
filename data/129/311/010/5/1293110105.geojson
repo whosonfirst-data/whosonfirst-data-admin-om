@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.52846,18.19224,56.56846,18.23224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u0643\u0628\u064a"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293110105,
-    "wof:lastmodified":1537676190,
+    "wof:lastmodified":1566672762,
     "wof:name":"Al Lakbi",
     "wof:parent_id":421172087,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.39803,26.16826,56.43803,26.20826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rolprent"
     ],
@@ -441,8 +445,7 @@
     ],
     "name:und_x_variant":[
         "Filam",
-        "Fiiam",
-        "Film"
+        "Fiiam"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0644\u0645"
@@ -488,7 +491,7 @@
         }
     ],
     "wof:id":1243357885,
-    "wof:lastmodified":1564149418,
+    "wof:lastmodified":1566672888,
     "wof:name":"Film",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

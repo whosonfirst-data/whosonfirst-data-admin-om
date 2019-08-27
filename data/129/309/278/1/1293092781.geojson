@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.16778,25.63722,56.20778,25.67722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293092781,
-    "wof:lastmodified":1536857858,
+    "wof:lastmodified":1566672745,
     "wof:name":"Salil",
     "wof:parent_id":1108721075,
     "wof:placetype":"locality",

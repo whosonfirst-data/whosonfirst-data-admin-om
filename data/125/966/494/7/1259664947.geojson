@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.61285,24.42707,56.65285,24.46707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0648\u064a\u0631\u064a\u0651\u0629"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259664947,
-    "wof:lastmodified":1537676294,
+    "wof:lastmodified":1566672907,
     "wof:name":"Al Khuwayriyah",
     "wof:parent_id":421195037,
     "wof:placetype":"locality",

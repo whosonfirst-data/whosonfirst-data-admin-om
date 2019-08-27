@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":23.784954,
     "lbl:longitude":57.266535,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Al Batinah North",
     "meso:adm1_loc":"\u0634\u0643\u0627\u0641 \u0627\u0641\u0628\u0627\u0638\u0644\u0629",
     "meso:hasc_id":"OM.BN.SU",
@@ -39,6 +41,7 @@
     "mps:longitude":57.266535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "As Suwayq"
@@ -68,9 +71,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gp:id":55927052,
         "hasc:id":"OM.BN.SU",
-        "qs:id":991471
+        "qs_pg:id":991471
     },
     "wof:country":"OM",
     "wof:created":1459009404,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421184219,
-    "wof:lastmodified":1554506199,
+    "wof:lastmodified":1566672868,
     "wof:name":"As Suwayq",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.52028,17.10361,54.56028,17.14361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0627\u0642"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259503553,
-    "wof:lastmodified":1537676295,
+    "wof:lastmodified":1566672906,
     "wof:name":"Fayraq",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",

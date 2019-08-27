@@ -10,10 +10,14 @@
     "geom:latitude":25.67444,
     "geom:longitude":56.26417,
     "iso:country":"OM",
+    "lbl:bbox":"56.24417,25.65444,56.28417,25.69444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bay\u2018ah"
     ],
     "qs:gn_country":"OM",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":407223,
         "gp:id":2268133,
-        "qs:id":479553
+        "qs_pg:id":479553
     },
     "wof:country":"OM",
     "wof:created":1459009289,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421181233,
-    "wof:lastmodified":1527716324,
+    "wof:lastmodified":1566672863,
     "wof:name":"Bayah",
     "wof:parent_id":1108721075,
     "wof:placetype":"locality",

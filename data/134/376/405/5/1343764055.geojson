@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.94667,19.08,56.98667,19.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0638\u0647\u0631"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343764055,
-    "wof:lastmodified":1564149150,
+    "wof:lastmodified":1566672725,
     "wof:name":"Zahr",
     "wof:parent_id":421184415,
     "wof:placetype":"locality",

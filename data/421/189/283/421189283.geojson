@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":20.231223,
     "lbl:longitude":56.208429,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Al Wusta",
     "meso:adm1_loc":"\u0627\u0641\u0646\u0633\u0638\u064c",
     "meso:hasc_id":"OM.WU.HA",
@@ -39,6 +41,7 @@
     "mps:longitude":56.208429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Hayma"
@@ -68,9 +71,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gp:id":55927065,
         "hasc:id":"OM.WU.HA",
-        "qs:id":1111553
+        "qs_pg:id":1111553
     },
     "wof:country":"OM",
     "wof:created":1459009616,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421189283,
-    "wof:lastmodified":1554506201,
+    "wof:lastmodified":1566672862,
     "wof:name":"Hayma",
     "wof:parent_id":85675685,
     "wof:placetype":"county",

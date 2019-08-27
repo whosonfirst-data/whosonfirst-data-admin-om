@@ -11,11 +11,15 @@
     "geom:longitude":57.09838,
     "gn:country":"OM",
     "gn:fcode":"PPL",
-    "gn:pop":50223,
+    "gn:population":50223,
     "iso:country":"OM",
+    "lbl:bbox":"57.07838,23.96864,57.11838,24.00864",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Khabura"
     ],
     "qs:name":"Al Kh\u0101b\u016brah",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":289199,
         "gp:id":55926568,
-        "qs:id":124049
+        "qs_pg:id":124049
     },
     "wof:country":"OM",
     "wof:created":1469052330,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441603,
-    "wof:lastmodified":1505343583,
+    "wof:lastmodified":1566672872,
     "wof:name":"Al Kh\u0101b\u016brah",
     "wof:parent_id":421195843,
     "wof:placetype":"locality",

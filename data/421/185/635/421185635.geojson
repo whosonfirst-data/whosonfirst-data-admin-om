@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":23.448666,
     "lbl:longitude":58.713338,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Muscat",
     "meso:adm1_loc":"\u0645\u0633\u0642\u0637",
     "meso:hasc_id":"OM.MA.MS",
@@ -39,6 +41,7 @@
     "mps:longitude":58.713338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Muskat"
@@ -385,9 +388,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u043a\u0430\u0442"
     ],
-    "name:und_x_variant":[
-        "\u0645\u0633\u0642\u0637"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0633\u0642\u0637"
     ],
@@ -440,9 +440,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -462,7 +462,7 @@
     "wof:concordances":{
         "gp:id":55927093,
         "hasc:id":"OM.MA.MS",
-        "qs:id":899372
+        "qs_pg:id":899372
     },
     "wof:country":"OM",
     "wof:created":1459009449,
@@ -476,7 +476,7 @@
         }
     ],
     "wof:id":421185635,
-    "wof:lastmodified":1564149387,
+    "wof:lastmodified":1566672872,
     "wof:name":"Muscat",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

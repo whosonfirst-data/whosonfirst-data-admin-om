@@ -10,13 +10,16 @@
     "geom:latitude":23.62241,
     "geom:longitude":58.53887,
     "iso:country":"OM",
+    "lbl:bbox":"58.53387,23.61741,58.54387,23.62741",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0633\u064a\u062a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mars\u00e1 D\u0101rsayt"
     ],
     "qs:gn_country":"OM",
@@ -39,16 +42,16 @@
     "qs:woe_id":2267158,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85675713,
         102191569,
         85632207,
-        1108721095,
-        85675713
+        1108721095
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":288560,
         "gp:id":2267158,
-        "qs:id":1018651
+        "qs_pg:id":1018651
     },
     "wof:country":"OM",
     "wof:created":1459009434,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421185153,
-    "wof:lastmodified":1531858573,
+    "wof:lastmodified":1566672872,
     "wof:name":"\u062f\u0627\u0631\u0633\u064a\u062a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

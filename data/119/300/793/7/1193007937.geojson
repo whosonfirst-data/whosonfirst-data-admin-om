@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.35781,23.85536,56.39781,23.89536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u015ead\u0101mat al Khan\u0101bish"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193007937,
-    "wof:lastmodified":1537676273,
+    "wof:lastmodified":1566672810,
     "wof:name":"Sadamat al Khanabish",
     "wof:parent_id":1108721101,
     "wof:placetype":"locality",

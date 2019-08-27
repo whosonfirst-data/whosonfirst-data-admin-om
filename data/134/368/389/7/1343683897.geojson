@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.38138,23.51953,58.42138,23.55953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0641\u0644\u062c"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343683897,
-    "wof:lastmodified":1537676217,
+    "wof:lastmodified":1566672727,
     "wof:name":"Aflaj",
     "wof:parent_id":421200935,
     "wof:placetype":"locality",

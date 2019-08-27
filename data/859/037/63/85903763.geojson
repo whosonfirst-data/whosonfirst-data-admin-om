@@ -9,14 +9,16 @@
     "geom:bbox":"58.600525,23.595163,58.600525,23.595163",
     "geom:latitude":23.595163,
     "geom:longitude":58.600525,
-    "gn:gn_country":"OM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"OM",
+    "gn:fcode":"PPL",
     "gn:latitude":23.59391,
     "gn:longitude":58.59583,
+    "gn:population":0,
     "iso:country":"OM",
+    "lbl:bbox":"58.595525,23.590163,58.605525,23.600163",
     "lbl:latitude":23.595163,
     "lbl:longitude":58.600525,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.589749,
     "mps:longitude":58.600294,
     "mz:hierarchy_label":0,
@@ -49,10 +51,6 @@
     ],
     "name:nno_x_preferred":[
         "Sidab"
-    ],
-    "name:unk_x_variant":[
-        "\u0633\u062f\u0627\u0628",
-        "Sedab"
     ],
     "qs:gn_adm0_cc":"OM",
     "qs:gn_fcode":"PPL",
@@ -103,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675713,
         102191569,
@@ -114,7 +112,6 @@
     "wof:concordances":{
         "gn:id":286346,
         "gp:id":2267882,
-        "qs:id":479533,
         "qs_pg:id":479533,
         "wd:id":"Q7507969",
         "wk:page":"Sidab"
@@ -135,7 +132,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563298692,
+    "wof:lastmodified":1566672738,
     "wof:name":"\u0633\u062f\u0627\u0628",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

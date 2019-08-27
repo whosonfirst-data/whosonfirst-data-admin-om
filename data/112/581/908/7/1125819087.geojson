@@ -9,17 +9,20 @@
     "geom:bbox":"57.88908,23.70739,57.88908,23.70739",
     "geom:latitude":23.70739,
     "geom:longitude":57.88908,
-    "gn:gn_country":"OM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":81647,
+    "gn:country":"OM",
+    "gn:fcode":"PPL",
     "gn:population":81647,
     "iso:country":"OM",
+    "lbl:bbox":"57.86908,23.68739,57.90908,23.72739",
     "lbl:latitude":23.70739,
     "lbl:longitude":57.88908,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barkah"
     ],
     "qs_pg:aaroncc":"OM",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":124042,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125819087,
-    "wof:lastmodified":1509393979,
+    "wof:lastmodified":1566672875,
     "wof:name":"Bark\u0101\u2019",
     "wof:parent_id":890441841,
     "wof:placetype":"locality",

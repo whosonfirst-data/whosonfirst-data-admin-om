@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.11552,23.65773,58.15552,23.69773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0628\u064a\u0644\u0629 \u0627\u0644\u0634\u0651\u0645\u0627\u0644\u064a\u0651\u0629"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226440127,
-    "wof:lastmodified":1537676189,
+    "wof:lastmodified":1566672916,
     "wof:name":"Al Mu`baylah ash Shamaliyah",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",

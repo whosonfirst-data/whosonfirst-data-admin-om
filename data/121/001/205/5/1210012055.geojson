@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.23805,17.20184,54.27805,17.24184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u0631\u0633"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1210012055,
-    "wof:lastmodified":1564149291,
+    "wof:lastmodified":1566672807,
     "wof:name":"Kharas",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

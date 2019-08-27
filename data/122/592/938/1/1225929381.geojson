@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.20057,17.24379,54.24057,17.28379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "A\u2019s\u016bm"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225929381,
-    "wof:lastmodified":1537676321,
+    "wof:lastmodified":1566672913,
     "wof:name":"A'sum",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11572081.637299,
+    "geom:area_square_m":0.0,
     "geom:bbox":"54.128675,17.010295,54.128675,17.010295",
     "geom:latitude":17.010295,
     "geom:longitude":54.128675,
     "gn:id":"",
     "iso:country":"OM",
+    "lbl:bbox":"54.123675,17.005295,54.133675,17.015295",
     "lbl:latitude":17.010295,
     "lbl:longitude":54.128675,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.027985,
     "mps:longitude":54.128156,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Hasselahi"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062d\u0635\u064a\u0644\u062d\u064a"
     ],
     "qs:gn_adm0_cc":"OM",
     "qs:gn_id":0,
@@ -63,17 +62,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675695,
         102191569,
         85632207,
-        421200939,
-        85675695
+        421200939
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55926924,
-        "qs:id":1062211,
         "qs_pg:id":1062211
     },
     "wof:country":"OM",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939453,
+    "wof:lastmodified":1566672740,
     "wof:name":"\u0627\u0644\u062d\u0635\u064a\u0644\u062d\u064a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

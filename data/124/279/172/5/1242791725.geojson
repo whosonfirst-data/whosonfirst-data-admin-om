@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.99477,22.86811,58.03477,22.90811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0631\u064a\u064a\u0646"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242791725,
-    "wof:lastmodified":1537676212,
+    "wof:lastmodified":1566672891,
     "wof:name":"Al Gharyayn",
     "wof:parent_id":421195841,
     "wof:placetype":"locality",

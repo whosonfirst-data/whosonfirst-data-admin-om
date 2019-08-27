@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.08175,17.24714,54.12175,17.28714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0631\u0641"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209500575,
-    "wof:lastmodified":1548974429,
+    "wof:lastmodified":1566672798,
     "wof:name":"Zurf",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

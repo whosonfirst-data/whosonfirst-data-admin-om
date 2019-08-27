@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":21.51988,
     "lbl:longitude":59.033333,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Ash Sharqiyah South",
     "meso:adm1_loc":"\u062c\u0646\u0648\u0628 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     "meso:hasc_id":"OM.SS.JH",
@@ -39,6 +41,7 @@
     "mps:longitude":59.033333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Jaalan Bani Bu Hasan"
     ],
@@ -46,9 +49,9 @@
         "\u062c\u0639\u0644\u0627\u0646\u00a0\u0628\u0646\u064a\u00a0\u0628\u0648\u062d\u0633\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108721069,
-    "wof:lastmodified":1554506235,
+    "wof:lastmodified":1566672826,
     "wof:name":"Jaalan Bani Bu Hasan",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

@@ -10,8 +10,11 @@
     "geom:latitude":17.00456,
     "geom:longitude":54.06301,
     "iso:country":"OM",
+    "lbl:bbox":"54.05801,16.99956,54.06801,17.00956",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0631\u0628\u064a\u0629"
@@ -22,7 +25,7 @@
     "name:eng_x_preferred":[
         "Salalah Al Gharbiyah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Gharb\u012byah"
     ],
     "qs:gn_country":"OM",
@@ -45,16 +48,16 @@
     "qs:woe_id":55926838,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85675695,
         102191569,
         85632207,
-        421200939,
-        85675695
+        421200939
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7630434,
         "gp:id":55926838,
-        "qs:id":1017140
+        "qs_pg:id":1017140
     },
     "wof:country":"OM",
     "wof:created":1459009431,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421185045,
-    "wof:lastmodified":1531858558,
+    "wof:lastmodified":1566672872,
     "wof:name":"\u0635\u0644\u0627\u0644\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

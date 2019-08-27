@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.9812,22.76447,58.0212,22.80447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0627\u0632\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242581717,
-    "wof:lastmodified":1537676187,
+    "wof:lastmodified":1566672884,
     "wof:name":"Al Majazah",
     "wof:parent_id":421195841,
     "wof:placetype":"locality",

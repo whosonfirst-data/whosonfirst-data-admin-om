@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.39443,17.16282,54.43443,17.20282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Rey \u2018Abub"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259768903,
-    "wof:lastmodified":1537676300,
+    "wof:lastmodified":1566672905,
     "wof:name":"Reoob",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

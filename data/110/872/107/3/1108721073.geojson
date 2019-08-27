@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":26.017165,
     "lbl:longitude":56.291059,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Musandam",
     "meso:adm1_loc":"\u0643\u0633\u0644\u062f\u0643",
     "meso:hasc_id":"OM.MU.KH",
@@ -39,6 +41,7 @@
     "mps:longitude":56.291059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u062e\u0635\u0628"
     ],
@@ -159,9 +162,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0425\u0430\u0441\u0430\u0431"
     ],
-    "name:und_x_variant":[
-        "\u062e\u0635\u0628"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u0635\u0628\u060c \u0639\u0645\u0627\u0646"
     ],
@@ -175,9 +175,9 @@
         "\u6d77\u585e\u535c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -210,7 +210,7 @@
         }
     ],
     "wof:id":1108721073,
-    "wof:lastmodified":1563298836,
+    "wof:lastmodified":1566672826,
     "wof:name":"Khasab",
     "wof:parent_id":85675709,
     "wof:placetype":"county",

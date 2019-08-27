@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":24.194179,
     "lbl:longitude":56.489908,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Al Batinah North",
     "meso:adm1_loc":"\u0634\u0643\u0627\u0641 \u0627\u0641\u0628\u0627\u0638\u0644\u0629",
     "meso:hasc_id":"OM.BN.SO",
@@ -39,6 +41,7 @@
     "mps:longitude":56.489908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0635\u062d\u0627\u0631"
@@ -169,9 +172,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0445\u0430\u0440"
     ],
-    "name:und_x_variant":[
-        "\u0635\u062d\u0627\u0631"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u062d\u0627\u0631"
     ],
@@ -203,9 +203,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -225,7 +225,7 @@
     "wof:concordances":{
         "gp:id":55927078,
         "hasc:id":"OM.BN.SO",
-        "qs:id":169506,
+        "qs_pg:id":169506,
         "wd:id":"Q943270"
     },
     "wof:country":"OM",
@@ -240,7 +240,7 @@
         }
     ],
     "wof:id":421195037,
-    "wof:lastmodified":1563298883,
+    "wof:lastmodified":1566672858,
     "wof:name":"Sohar",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

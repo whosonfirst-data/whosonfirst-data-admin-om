@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.64655,23.52626,56.68655,23.56626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062c\u0632\u064a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326825959,
-    "wof:lastmodified":1537676187,
+    "wof:lastmodified":1566672706,
     "wof:name":"Majzi",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

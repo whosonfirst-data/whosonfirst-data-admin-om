@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.04167,23.99611,57.08167,24.03611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qa\u015fab\u012byat al Burayk",
         "Qa\u015fb\u012byat al Burayk",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242765869,
-    "wof:lastmodified":1537676175,
+    "wof:lastmodified":1566672891,
     "wof:name":"Qasabiyat Yal Burayk",
     "wof:parent_id":421195843,
     "wof:placetype":"locality",

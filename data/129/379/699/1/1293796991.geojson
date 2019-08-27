@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.02001,23.67863,58.06001,23.71863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0651\u062e\u0627\u062e\u064a\u0637"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293796991,
-    "wof:lastmodified":1537676164,
+    "wof:lastmodified":1566672750,
     "wof:name":"Ash Shakhakhit",
     "wof:parent_id":890441841,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10670614.088962,
+    "geom:area_square_m":0.0,
     "geom:bbox":"58.427078,23.583875,58.427078,23.583875",
     "geom:latitude":23.583875,
     "geom:longitude":58.427078,
     "gn:id":"",
     "iso:country":"OM",
+    "lbl:bbox":"58.422078,23.578875,58.432078,23.588875",
     "lbl:latitude":23.583875,
     "lbl:longitude":58.427078,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.583889,
     "mps:longitude":58.432337,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Khuwair"
-    ],
-    "name:unk_x_variant":[
-        "\u062e\u0648\u064a\u0631"
     ],
     "qs:gn_adm0_cc":"OM",
     "qs:gn_id":0,
@@ -65,17 +64,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675713,
         102191569,
         85632207,
-        421200935,
-        85675713
+        421200935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55926583,
-        "qs:id":476341,
         "qs_pg:id":476341
     },
     "wof:country":"OM",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939449,
+    "wof:lastmodified":1566672739,
     "wof:name":"\u062e\u0648\u064a\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

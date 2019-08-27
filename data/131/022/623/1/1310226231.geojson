@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.30806,26.14083,56.34806,26.18083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ar Ruwais",
         "Ruways"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310226231,
-    "wof:lastmodified":1537676263,
+    "wof:lastmodified":1566672829,
     "wof:name":"Ruways",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.58786,23.17229,58.62786,23.21229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mazra\u2018at Qayd"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276896385,
-    "wof:lastmodified":1537676268,
+    "wof:lastmodified":1566672772,
     "wof:name":"Mazra`at Qayd",
     "wof:parent_id":421200933,
     "wof:placetype":"locality",

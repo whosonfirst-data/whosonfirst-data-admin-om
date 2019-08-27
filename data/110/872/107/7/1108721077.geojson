@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":23.037905,
     "lbl:longitude":58.640269,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Ash Sharqiyah North",
     "meso:adm1_loc":"\u0634\u0645\u0627\u0644 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     "meso:hasc_id":"OM.SN.DA",
@@ -39,6 +41,7 @@
     "mps:longitude":58.640269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dama Wa At Taiyyin"
     ],
@@ -46,9 +49,9 @@
         "\u062f\u0645\u0627\u0621\u00a0\u0648\u00a0\u0627\u0644\u0637\u0627\u0626\u064a\u064a\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108721077,
-    "wof:lastmodified":1554506235,
+    "wof:lastmodified":1566672825,
     "wof:name":"Dama Wa At Taiyin",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

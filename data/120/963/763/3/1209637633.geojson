@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"59.06643,22.87682,59.10643,22.91682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u2018Umq"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209637633,
-    "wof:lastmodified":1548974434,
+    "wof:lastmodified":1566672792,
     "wof:name":"`Umq ar Rabakh",
     "wof:parent_id":421186553,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.71422,23.48085,58.75422,23.52085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al Kh\u012br\u0101n"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1276219597,
-    "wof:lastmodified":1564149224,
+    "wof:lastmodified":1566672771,
     "wof:name":"Al Khiran",
     "wof:parent_id":421185635,
     "wof:placetype":"locality",

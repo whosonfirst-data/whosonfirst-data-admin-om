@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.92088,24.09261,56.96088,24.13261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Ja\u2018\u0101r\u012bf",
         "Umm al Ja\u2018\u0101r\u012bf"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326911569,
-    "wof:lastmodified":1537676153,
+    "wof:lastmodified":1566672710,
     "wof:name":"Umm al Ja`arif",
     "wof:parent_id":1108721083,
     "wof:placetype":"locality",

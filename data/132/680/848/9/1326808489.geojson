@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.795,24.16028,56.835,24.20028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rakab\u012b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326808489,
-    "wof:lastmodified":1537676173,
+    "wof:lastmodified":1566672697,
     "wof:name":"Rakabi",
     "wof:parent_id":1108721083,
     "wof:placetype":"locality",

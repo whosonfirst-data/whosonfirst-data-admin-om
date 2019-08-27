@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"55.99111,24.77472,56.03111,24.81472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u062f\u0641"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326719645,
-    "wof:lastmodified":1537676209,
+    "wof:lastmodified":1566672707,
     "wof:name":"Hadaf",
     "wof:parent_id":421184531,
     "wof:placetype":"locality",

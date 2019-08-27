@@ -11,8 +11,11 @@
     "geom:longitude":56.74681,
     "gn:country":"OM",
     "gn:fcode":"PPLA",
-    "gn:pop":108274,
+    "gn:population":108274,
     "iso:country":"OM",
+    "lbl:bbox":"56.72681,24.3443,56.76681,24.3843",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -173,7 +176,7 @@
     "wof:concordances":{
         "gn:id":286282,
         "gp:id":55926246,
-        "qs:id":1026717
+        "qs_pg:id":1026717
     },
     "wof:country":"OM",
     "wof:created":1469052411,
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":890443201,
-    "wof:lastmodified":1505343592,
+    "wof:lastmodified":1566672874,
     "wof:name":"Al Sohar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

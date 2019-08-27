@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.1543,17.26655,54.1943,17.30655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Sh\u0101h\u0101b"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226428017,
-    "wof:lastmodified":1564149468,
+    "wof:lastmodified":1566672918,
     "wof:name":"Shahab",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"53.95572,17.08093,53.99572,17.12093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Adh\u016bb"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327355849,
-    "wof:lastmodified":1537676322,
+    "wof:lastmodified":1566672705,
     "wof:name":"Adhub",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

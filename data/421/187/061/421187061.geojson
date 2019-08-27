@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":23.57762,
     "lbl:longitude":58.183079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Muscat",
     "meso:adm1_loc":"\u0645\u0633\u0642\u0637",
     "meso:hasc_id":"OM.MA.SE",
@@ -39,6 +41,7 @@
     "mps:longitude":58.183079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "As Seeb"
@@ -68,9 +71,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gp:id":55927080,
         "hasc:id":"OM.MA.SE",
-        "qs:id":1079194
+        "qs_pg:id":1079194
     },
     "wof:country":"OM",
     "wof:created":1459009500,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421187061,
-    "wof:lastmodified":1554506200,
+    "wof:lastmodified":1566672861,
     "wof:name":"As Seeb",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

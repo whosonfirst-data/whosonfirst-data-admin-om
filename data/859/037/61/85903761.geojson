@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10345357.757174,
+    "geom:area_square_m":0.0,
     "geom:bbox":"58.576448,23.623612,58.576448,23.623612",
     "geom:latitude":23.623612,
     "geom:longitude":58.576448,
     "gn:id":"",
     "iso:country":"OM",
+    "lbl:bbox":"58.571448,23.618612,58.581448,23.628612",
     "lbl:latitude":23.623612,
     "lbl:longitude":58.576448,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.636247,
     "mps:longitude":58.577844,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     "name:ara_x_variant":[
         "Riy\u00e5m",
         "Riy\u00e5n"
-    ],
-    "name:unk_x_variant":[
-        "\u0631\u064a\u0627\u0645"
     ],
     "qs:gn_adm0_cc":"OM",
     "qs:gn_id":0,
@@ -68,17 +67,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675713,
         102191569,
         85632207,
-        1108721095,
-        85675713
+        1108721095
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2267760,
-        "qs:id":1131344,
         "qs_pg:id":1131344
     },
     "wof:country":"OM",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936089,
+    "wof:lastmodified":1566672737,
     "wof:name":"\u0631\u064a\u0627\u0645",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

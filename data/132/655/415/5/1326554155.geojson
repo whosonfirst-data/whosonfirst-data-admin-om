@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"59.69576,22.47387,59.73576,22.51387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khawr al Jar\u0101mah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326554155,
-    "wof:lastmodified":1537676270,
+    "wof:lastmodified":1566672708,
     "wof:name":"Khawr al Jaramah",
     "wof:parent_id":421175629,
     "wof:placetype":"locality",

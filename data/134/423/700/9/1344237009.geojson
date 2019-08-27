@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"59.10946,22.5254,59.14946,22.5654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ayn ash Shadn\u012byah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344237009,
-    "wof:lastmodified":1537676291,
+    "wof:lastmodified":1566672720,
     "wof:name":"`Ayn ash Shadniyah",
     "wof:parent_id":1108721089,
     "wof:placetype":"locality",

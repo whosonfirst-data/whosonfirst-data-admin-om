@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.42606,17.04042,54.46606,17.08042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Qrsh\u0101t"
     ],
@@ -32,8 +36,7 @@
         "Karshayt"
     ],
     "name:und_x_variant":[
-        "Kartheit",
-        "Karshayt"
+        "Kartheit"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1277062041,
-    "wof:lastmodified":1564149215,
+    "wof:lastmodified":1566672766,
     "wof:name":"Karshayt",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",

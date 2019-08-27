@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.6946,23.89817,56.7346,23.93817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0638\u0648\u064a\u0647\u0631"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260159067,
-    "wof:lastmodified":1537676228,
+    "wof:lastmodified":1566672815,
     "wof:name":"Az Zuwayhir",
     "wof:parent_id":421195843,
     "wof:placetype":"locality",

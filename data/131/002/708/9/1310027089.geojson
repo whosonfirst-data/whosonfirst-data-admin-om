@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.2,25.99861,56.24,26.03861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Qanha",
         "Al Qan\u1e29ah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310027089,
-    "wof:lastmodified":1537676256,
+    "wof:lastmodified":1566672839,
     "wof:name":"Al Qanhah",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",
