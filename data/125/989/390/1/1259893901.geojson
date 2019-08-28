@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.06576,23.43763,57.10576,23.47763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259893901,
-    "wof:lastmodified":1536764406,
+    "wof:lastmodified":1566672911,
     "wof:name":"Mahbab",
     "wof:parent_id":421200941,
     "wof:placetype":"locality",

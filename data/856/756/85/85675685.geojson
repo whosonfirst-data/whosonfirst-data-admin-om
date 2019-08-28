@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":20.023645,
     "lbl:longitude":56.452954,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0641\u0646\u0633\u0638\u064c",
     "mps:latitude":20.603964,
     "mps:longitude":56.859379,
@@ -153,7 +154,7 @@
         "Al Wusta"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb2\u0bcd  \u0bb5\u0bcd\u0b89\u0bb8\u0bcd\u0ba4\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0b85\u0bb2\u0bcd \u0bb5\u0bcd\u0b89\u0bb8\u0bcd\u0ba4\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c4d \u0c35\u0c41\u0c38\u0c4d\u0c1f\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -172,9 +173,6 @@
     ],
     "name:und_x_variant":[
         "\u0627\u0641\u0646\u0633\u0638\u064c"
-    ],
-    "name:unk_x_variant":[
-        "Al Wus\u0163\u00e1"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0648\u0633\u0637\u06cc"
@@ -257,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"79,700",
     "statoids:area_mi":"30,800",
     "statoids:as_of_date":"2010-12-12",
@@ -284,7 +282,7 @@
         "gp:id":2346257,
         "hasc:id":"OM.WU",
         "iso:id":"OM-WU",
-        "qs:id":1135161,
+        "qs_pg:id":1135161,
         "wd:id":"Q958518"
     },
     "wof:country":"OM",
@@ -303,11 +301,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565732197,
+    "wof:lastmodified":1566672742,
     "wof:name":"Al Wusta",
     "wof:parent_id":85632207,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":42111,
     "wof:population_rank":7,

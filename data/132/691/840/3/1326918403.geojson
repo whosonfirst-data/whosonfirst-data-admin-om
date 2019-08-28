@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.38908,23.96207,56.42908,24.00207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al \u2018Aq\u012br"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326918403,
-    "wof:lastmodified":1537676247,
+    "wof:lastmodified":1566672710,
     "wof:name":"`Uqayr Bani `Isa",
     "wof:parent_id":421195037,
     "wof:placetype":"locality",

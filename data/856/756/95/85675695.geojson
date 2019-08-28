@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.347601,
     "lbl:longitude":54.095568,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0638\u0641\u0627\u0631",
     "mps:latitude":18.380092,
     "mps:longitude":54.218676,
@@ -156,7 +157,7 @@
         "Dhofar"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bcb\u0baa\u0bbe\u0bb0\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0ba4\u0bcb\u0baa\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c4b\u0c2b\u0c3e\u0c30\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -172,12 +173,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0444\u0430\u0440"
-    ],
-    "name:und_x_variant":[
-        "\u0638\u0641\u0627\u0631"
-    ],
-    "name:unk_x_variant":[
-        "Z\u0327uf\u0101r"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0638\u0641\u0627\u0631"
@@ -260,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"99,300",
     "statoids:area_mi":"38,300",
     "statoids:as_of_date":"2010-12-12",
@@ -286,7 +281,7 @@
         "gp:id":2346258,
         "hasc:id":"OM.JA",
         "iso:id":"OM-ZU",
-        "qs:id":1135162,
+        "qs_pg:id":1135162,
         "wd:id":"Q1207752"
     },
     "wof:country":"OM",
@@ -305,11 +300,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565732197,
+    "wof:lastmodified":1566672741,
     "wof:name":"Dhofar",
     "wof:parent_id":85632207,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":249729,
     "wof:population_rank":10,

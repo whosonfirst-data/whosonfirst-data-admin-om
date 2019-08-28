@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.52378,17.10873,54.56378,17.14873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0645\u0648\u0631"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276894185,
-    "wof:lastmodified":1537676296,
+    "wof:lastmodified":1566672772,
     "wof:name":"Smoor",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":22.113181,
     "lbl:longitude":57.34568,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":22.113181,
     "mps:longitude":57.34568,
     "mz:hierarchy_label":1,
@@ -741,11 +743,8 @@
     "name:ukr_x_preferred":[
         "\u041e\u043c\u0430\u043d"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Saltanat 'Uman",
-        "\u00d3man"
-    ],
-    "name:unk_x_variant":[
         "Sal\u0163anat \u2018Um\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -902,7 +901,6 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "src:population_date":"2016",
@@ -949,7 +947,7 @@
         "mzb:id":"oman",
         "ne:adm0_a3":"OMN",
         "nyt:id":"59435910662161694721",
-        "qs:id":1263252,
+        "qs_pg:id":1263252,
         "wd:id":"Q842",
         "wk:page":"Oman",
         "wmo:id":"OM"
@@ -970,7 +968,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565732196,
+    "wof:lastmodified":1566672740,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

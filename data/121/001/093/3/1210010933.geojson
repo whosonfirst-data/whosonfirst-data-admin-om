@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.59501,23.29784,56.63501,23.33784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0631\u064a\u0632"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1210010933,
-    "wof:lastmodified":1537676250,
+    "wof:lastmodified":1566672808,
     "wof:name":"Ad Dariz",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

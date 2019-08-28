@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":23.124733,
     "lbl:longitude":58.898205,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Muscat",
     "meso:adm1_loc":"\u0645\u0633\u0642\u0637",
     "meso:hasc_id":"OM.MA.QU",
@@ -39,6 +41,7 @@
     "mps:longitude":58.898205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Qurayyat"
@@ -293,9 +296,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -315,7 +318,7 @@
     "wof:concordances":{
         "gp:id":55927048,
         "hasc:id":"OM.MA.QU",
-        "qs:id":1073977,
+        "qs_pg:id":1073977,
         "wd:id":"Q3414795"
     },
     "wof:country":"OM",
@@ -330,7 +333,7 @@
         }
     ],
     "wof:id":421186553,
-    "wof:lastmodified":1563298893,
+    "wof:lastmodified":1566672863,
     "wof:name":"Qurayyat",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

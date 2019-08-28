@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.49028,22.30642,56.53028,22.34642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u1e28aql Fuh\u016bd"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360300693,
-    "wof:lastmodified":1564149346,
+    "wof:lastmodified":1566672845,
     "wof:name":"Fahud",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

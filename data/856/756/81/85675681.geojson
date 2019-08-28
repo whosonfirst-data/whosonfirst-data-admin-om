@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":21.684322,
     "lbl:longitude":57.229482,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0641\u062f\u0627\u062e\u0641\u064d\u0629",
     "mps:latitude":22.307299,
     "mps:longitude":57.23682,
@@ -153,7 +154,7 @@
         "Ad Dakhiliyah"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0b9f  \u0b9f\u0b95\u0bcd\u0bb9\u0bbf\u0bb2\u0bbf\u0baf\u0bcd\u0baf\u0bb9\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+        "\u0b85\u0b9f \u0b9f\u0b95\u0bcd\u0bb9\u0bbf\u0bb2\u0bbf\u0baf\u0bcd\u0baf\u0bb9\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c26\u0c4d \u0c26\u0c3e\u0c16\u0c3f\u0c32\u0c4d\u0c2f\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -171,9 +172,7 @@
         "\u0415\u0434-\u0414\u0430\u0445\u0456\u043b\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "\u0627\u0641\u062f\u0627\u062e\u0641\u064d\u0629"
-    ],
-    "name:unk_x_variant":[
+        "\u0627\u0641\u062f\u0627\u062e\u0641\u064d\u0629",
         "Al Min\u0163aqah ad D\u0101khil\u012byah"
     ],
     "name:urd_x_preferred":[
@@ -257,9 +256,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"31,900",
     "statoids:area_mi":"12,300",
     "statoids:as_of_date":"2010-12-12",
@@ -284,7 +283,7 @@
         "gp:id":2346261,
         "hasc:id":"OM.DA",
         "iso:id":"OM-DA",
-        "qs:id":1135164,
+        "qs_pg:id":1135164,
         "unlc:id":"OM-DA",
         "wd:id":"Q792550"
     },
@@ -304,11 +303,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565732197,
+    "wof:lastmodified":1566672741,
     "wof:name":"Ad Dakhliyah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":326651,
     "wof:population_rank":10,

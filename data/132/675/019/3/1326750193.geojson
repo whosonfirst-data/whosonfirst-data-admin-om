@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.00972,17.08389,54.04972,17.12389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Azeyrenawt"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326750193,
-    "wof:lastmodified":1564149100,
+    "wof:lastmodified":1566672696,
     "wof:name":"Azeyrenawt",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

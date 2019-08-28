@@ -10,8 +10,12 @@
     "geom:latitude":16.729281,
     "geom:longitude":53.320341,
     "iso:country":"OM",
+    "lbl:bbox":"53.300341,16.709281,53.340341,16.749281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2268188,
-        "qs:id":1131378
+        "qs_pg:id":1131378
     },
     "wof:country":"OM",
     "wof:created":1459009682,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421191159,
-    "wof:lastmodified":1500018171,
+    "wof:lastmodified":1566672864,
     "wof:name":"Kharfat",
     "wof:parent_id":421189277,
     "wof:placetype":"locality",

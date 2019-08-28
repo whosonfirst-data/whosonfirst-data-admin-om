@@ -11,10 +11,14 @@
     "geom:longitude":56.24774,
     "gn:country":"OM",
     "gn:fcode":"PPLA",
-    "gn:pop":17904,
+    "gn:population":17904,
     "iso:country":"OM",
+    "lbl:bbox":"56.22774,26.15993,56.26774,26.19993",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062e\u0635\u0628"
     ],
@@ -144,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0425\u0430\u0441\u0430\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Kha\u015fab"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +179,7 @@
     "wof:concordances":{
         "gn:id":287614,
         "gp:id":2267486,
-        "qs:id":1026722,
+        "qs_pg:id":1026722,
         "wd:id":"Q426646",
         "wk:page":"Khasab"
     },
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":890443207,
-    "wof:lastmodified":1563298915,
+    "wof:lastmodified":1566672874,
     "wof:name":"Kha\u015fab",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

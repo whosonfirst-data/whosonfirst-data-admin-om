@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.49667,20.53,57.53667,20.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "R\u0101q\u012b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276454849,
-    "wof:lastmodified":1537676173,
+    "wof:lastmodified":1566672771,
     "wof:name":"Raqi",
     "wof:parent_id":421184221,
     "wof:placetype":"locality",

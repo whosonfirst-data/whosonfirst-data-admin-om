@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.73996,24.32905,56.77996,24.36905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28\u0101rat a\u015f \u015eub\u0101rah",
         "A\u015f \u015eub\u0101rah"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344144995,
-    "wof:lastmodified":1537676206,
+    "wof:lastmodified":1566672719,
     "wof:name":"As Subarah",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

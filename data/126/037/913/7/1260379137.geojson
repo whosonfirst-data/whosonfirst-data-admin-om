@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.96157,24.05771,57.00157,24.09771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "D\u012bl",
         "D\u012bl Y\u0101l Burayk"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260379137,
-    "wof:lastmodified":1537676219,
+    "wof:lastmodified":1566672818,
     "wof:name":"Dil Yal Burayk",
     "wof:parent_id":1108721083,
     "wof:placetype":"locality",

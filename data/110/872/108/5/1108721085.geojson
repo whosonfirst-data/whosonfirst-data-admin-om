@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":23.792677,
     "lbl:longitude":56.122081,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Adh Dhahirah",
     "meso:adm1_loc":"\u0627\u0641\u0639\u0627\u0645\u0631\u0629",
     "meso:hasc_id":"OM.DH.DA",
@@ -39,6 +41,7 @@
     "mps:longitude":56.122081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0636\u0646\u0643"
     ],
@@ -61,9 +64,9 @@
         "\u0636\u0646\u0643"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108721085,
-    "wof:lastmodified":1563298839,
+    "wof:lastmodified":1566672828,
     "wof:name":"Dank",
     "wof:parent_id":85675699,
     "wof:placetype":"county",

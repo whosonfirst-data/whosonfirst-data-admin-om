@@ -26,6 +26,8 @@
     ],
     "lbl:latitude":23.704685,
     "lbl:longitude":57.583675,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Al Batinah South",
     "meso:adm1_loc":"\u062c\u0644\u0646\u0628 \u0627\u0641\u0628\u0627\u0638\u0644\u0629",
     "meso:hasc_id":"OM.BS.MU",
@@ -41,6 +43,7 @@
     "mps:longitude":57.583675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Al Musanaah"
     ],
@@ -61,9 +64,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gp:id":55927098,
         "hasc:id":"OM.BS.MU",
-        "qs:id":231737
+        "qs_pg:id":231737
     },
     "wof:country":"OM",
     "wof:created":1469052801,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890452027,
-    "wof:lastmodified":1554506202,
+    "wof:lastmodified":1566672873,
     "wof:name":"Al Musanaah",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

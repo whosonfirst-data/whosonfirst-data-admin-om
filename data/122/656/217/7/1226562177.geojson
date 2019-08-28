@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.43528,17.09111,54.47528,17.13111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Qadhait"
     ],
     "name:und_x_variant":[
-        "Qadheit",
-        "Qadhait"
+        "Qadheit"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226562177,
-    "wof:lastmodified":1564149474,
+    "wof:lastmodified":1566672921,
     "wof:name":"Qadhait",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

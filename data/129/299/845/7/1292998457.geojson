@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.61915,23.52959,58.65915,23.56959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0635\u0651\u0629"
     ],
@@ -41,7 +45,6 @@
         "Bandar al Jissa",
         "Bandar Ji\u015f\u015fah",
         "Bunder Jissa",
-        "Bandar Jissah",
         "Bundar Jissah",
         "Al Ji\u1e63\u1e63ah"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1292998457,
-    "wof:lastmodified":1564149201,
+    "wof:lastmodified":1566672759,
     "wof:name":"Al Jissah",
     "wof:parent_id":421185635,
     "wof:placetype":"locality",

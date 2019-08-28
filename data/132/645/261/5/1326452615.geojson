@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.33273,17.11758,54.37273,17.15758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Akh\u0101rus"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326452615,
-    "wof:lastmodified":1537676313,
+    "wof:lastmodified":1566672697,
     "wof:name":"Akharus",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

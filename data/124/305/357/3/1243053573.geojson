@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.27499,17.09604,54.31499,17.13604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "K\u012br"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243053573,
-    "wof:lastmodified":1537676313,
+    "wof:lastmodified":1566672889,
     "wof:name":"Kir",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

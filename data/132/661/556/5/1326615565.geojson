@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"53.40645,16.75564,53.44645,16.79564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u062f\u0648\u0631"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326615565,
-    "wof:lastmodified":1537676305,
+    "wof:lastmodified":1566672699,
     "wof:name":"Jidawr",
     "wof:parent_id":421172085,
     "wof:placetype":"locality",

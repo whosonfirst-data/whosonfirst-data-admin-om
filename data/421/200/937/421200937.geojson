@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":22.140943,
     "lbl:longitude":58.824308,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Ash Sharqiyah North",
     "meso:adm1_loc":"\u0634\u0645\u0627\u0644 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     "meso:hasc_id":"OM.SN.BI",
@@ -39,6 +41,7 @@
     "mps:longitude":58.824308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u062f\u064a\u0629"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
     "wof:concordances":{
         "gp:id":55927071,
         "hasc:id":"OM.SN.BI",
-        "qs:id":900289,
+        "qs_pg:id":900289,
         "wd:id":"Q4904193"
     },
     "wof:country":"OM",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421200937,
-    "wof:lastmodified":1563298901,
+    "wof:lastmodified":1566672867,
     "wof:name":"Bidiyah",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

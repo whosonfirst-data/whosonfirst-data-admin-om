@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.66413,23.18754,58.70413,23.22754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u015eiy\u0101\u2019"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260281211,
-    "wof:lastmodified":1537676161,
+    "wof:lastmodified":1566672822,
     "wof:name":"Siya'",
     "wof:parent_id":421186553,
     "wof:placetype":"locality",

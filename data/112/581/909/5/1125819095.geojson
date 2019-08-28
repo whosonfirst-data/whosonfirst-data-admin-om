@@ -9,15 +9,18 @@
     "geom:bbox":"58.8,22.45,58.8,22.45",
     "geom:latitude":22.45,
     "geom:longitude":58.8,
-    "gn:gn_country":"OM",
-    "gn:gn_fcode":"PPLS",
-    "gn:gn_pop":18479,
+    "gn:country":"OM",
+    "gn:fcode":"PPLS",
     "gn:population":18479,
     "iso:country":"OM",
+    "lbl:bbox":"58.78,22.43,58.82,22.47",
     "lbl:latitude":22.45,
     "lbl:longitude":58.8,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Badiyah"
@@ -25,7 +28,7 @@
     "name:nno_x_preferred":[
         "Badiyah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Badiya"
     ],
     "qs_pg:aaroncc":"OM",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":124044,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125819095,
-    "wof:lastmodified":1514494781,
+    "wof:lastmodified":1566672875,
     "wof:name":"Bad\u012byah",
     "wof:parent_id":421200937,
     "wof:placetype":"locality",

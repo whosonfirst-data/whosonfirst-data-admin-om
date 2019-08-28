@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":23.599077,
     "lbl:longitude":58.541743,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Muscat",
     "meso:adm1_loc":"\u0645\u0633\u0642\u0637",
     "meso:hasc_id":"OM.MA.MT",
@@ -39,6 +41,7 @@
     "mps:longitude":58.541743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0645\u0637\u0631\u062d"
     ],
@@ -162,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0440\u0430\u0445"
     ],
-    "name:und_x_variant":[
-        "\u0645\u0637\u0631\u062d"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0637\u0631\u062d\u060c \u0639\u0645\u0627\u0646"
     ],
@@ -181,9 +181,9 @@
         "\u9a6c\u7279\u62c9\u8d6b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -216,7 +216,7 @@
         }
     ],
     "wof:id":1108721095,
-    "wof:lastmodified":1563298835,
+    "wof:lastmodified":1566672825,
     "wof:name":"Mutrah",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

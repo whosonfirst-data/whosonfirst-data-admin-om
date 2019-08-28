@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.82928,23.49716,57.86928,23.53716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "W\u0101si\u0163"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360098075,
-    "wof:lastmodified":1537676150,
+    "wof:lastmodified":1566672844,
     "wof:name":"Al Wasit",
     "wof:parent_id":1108721087,
     "wof:placetype":"locality",

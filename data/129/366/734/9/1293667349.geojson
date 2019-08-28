@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.44591,24.73108,56.48591,24.77108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al \u2018Um\u0101n\u012b"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293667349,
-    "wof:lastmodified":1537676297,
+    "wof:lastmodified":1566672755,
     "wof:name":"Al `Umani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

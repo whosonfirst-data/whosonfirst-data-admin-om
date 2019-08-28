@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.16449,26.06969,56.20449,26.10969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0634\u0639\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242870923,
-    "wof:lastmodified":1537676256,
+    "wof:lastmodified":1566672880,
     "wof:name":"Al Qash`ah",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

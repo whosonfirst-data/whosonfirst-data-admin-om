@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"53.95486,16.99268,53.99486,17.03268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "D\u012bdj\u0101n"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344252489,
-    "wof:lastmodified":1537676322,
+    "wof:lastmodified":1566672718,
     "wof:name":"Didjan",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

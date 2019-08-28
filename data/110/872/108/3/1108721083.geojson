@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":24.081133,
     "lbl:longitude":56.810598,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1":"Al Batinah North",
     "meso:adm1_loc":"\u0634\u0643\u0627\u0641 \u0627\u0641\u0628\u0627\u0638\u0644\u0629",
     "meso:hasc_id":"OM.BN.SA",
@@ -39,6 +41,7 @@
     "mps:longitude":56.810598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0635\u062d\u0645"
     ],
@@ -147,9 +150,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0445\u043c"
     ],
-    "name:und_x_variant":[
-        "\u0635\u062d\u0645"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06c1\u0645"
     ],
@@ -157,9 +157,9 @@
         "Saham"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-12",
+    "src:population_date":"2010-12-12",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-12-12",
     "statoids:capital":"",
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":1108721083,
-    "wof:lastmodified":1563298839,
+    "wof:lastmodified":1566672827,
     "wof:name":"Saham",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

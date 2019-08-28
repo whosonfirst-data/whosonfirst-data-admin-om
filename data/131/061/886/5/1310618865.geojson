@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.66615,23.27511,56.70615,23.31511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0648\u0647\u0631\u0629"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310618865,
-    "wof:lastmodified":1537676234,
+    "wof:lastmodified":1566672838,
     "wof:name":"Al Wahrah",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

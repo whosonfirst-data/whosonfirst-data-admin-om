@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.31611,26.09917,56.35611,26.13917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al B\u016bt"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327428581,
-    "wof:lastmodified":1537676263,
+    "wof:lastmodified":1566672713,
     "wof:name":"Al But",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.43,17.01333,54.47,17.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Khawr Rawri"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293314941,
-    "wof:lastmodified":1564149176,
+    "wof:lastmodified":1566672746,
     "wof:name":"Khawr Rawri",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",

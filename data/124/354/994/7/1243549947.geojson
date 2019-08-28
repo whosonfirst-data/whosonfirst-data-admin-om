@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.30167,17.08722,54.34167,17.12722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jebel Khasbar",
         "Jabal Khasbar"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243549947,
-    "wof:lastmodified":1537676299,
+    "wof:lastmodified":1566672877,
     "wof:name":"Jabal Khasbar",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":17.13333,
     "geom:longitude":54.01667,
     "iso:country":"OM",
+    "lbl:bbox":"53.99667,17.11333,54.03667,17.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "N\u0101hiz"
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":287037,
         "gp:id":2268223,
-        "qs:id":901846,
+        "qs_pg:id":901846,
         "wd:id":"Q6959276",
         "wk:page":"Nahiz"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421200965,
-    "wof:lastmodified":1561776667,
+    "wof:lastmodified":1566672866,
     "wof:name":"\u0648\u0627\u062f\u064a \u0646\u062d\u064a\u0632",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

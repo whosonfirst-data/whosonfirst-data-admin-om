@@ -10,8 +10,12 @@
     "geom:latitude":16.943103,
     "geom:longitude":53.997588,
     "iso:country":"OM",
+    "lbl:bbox":"53.9775875,16.923103,54.0175875,16.963103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55926211,
-        "qs:id":973300
+        "qs_pg:id":973300
     },
     "wof:country":"OM",
     "wof:created":1459009366,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421183337,
-    "wof:lastmodified":1500018169,
+    "wof:lastmodified":1566672870,
     "wof:name":"\u0645\u064a\u0646\u0627\u0621 \u0635\u0644\u0627\u0644\u0629",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

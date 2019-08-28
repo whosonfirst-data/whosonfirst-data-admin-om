@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.48384,19.15502,54.52384,19.19502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Qitb\u012bt"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243259635,
-    "wof:lastmodified":1537676306,
+    "wof:lastmodified":1566672887,
     "wof:name":"Qitbit",
     "wof:parent_id":421170285,
     "wof:placetype":"locality",

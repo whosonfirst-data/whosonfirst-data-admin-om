@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.90843,23.02794,58.94843,23.06794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Firq as Sa\u2019d\u012by\u0101n"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260205859,
-    "wof:lastmodified":1537676270,
+    "wof:lastmodified":1566672820,
     "wof:name":"Firq as Sa'diyan",
     "wof:parent_id":421186553,
     "wof:placetype":"locality",

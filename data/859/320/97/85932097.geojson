@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13669454.339923,
+    "geom:area_square_m":0.0,
     "geom:bbox":"58.388014,23.583783,58.388014,23.583783",
     "geom:latitude":23.583783,
     "geom:longitude":58.388014,
     "gn:id":"",
     "iso:country":"OM",
+    "lbl:bbox":"58.383014,23.578783,58.393014,23.588783",
     "lbl:latitude":23.583783,
     "lbl:longitude":58.388014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.593379,
     "mps:longitude":58.377425,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Al Udhaybah Ash Shamaliyah",
         "Hail A'shamaliyah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0639\u0630\u064a\u0628\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
     "qs:gn_adm0_cc":"OM",
     "qs:gn_id":0,
@@ -66,17 +65,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675713,
         102191569,
         85632207,
-        421200935,
-        85675713
+        421200935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55926593,
-        "qs:id":1091919,
         "qs_pg:id":1091919
     },
     "wof:country":"OM",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939450,
+    "wof:lastmodified":1566672739,
     "wof:name":"\u0627\u0644\u0639\u0630\u064a\u0628\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

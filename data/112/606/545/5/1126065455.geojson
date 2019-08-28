@@ -9,16 +9,19 @@
     "geom:bbox":"58.54707,23.60058,58.54707,23.60058",
     "geom:latitude":23.60058,
     "geom:longitude":58.54707,
-    "gn:gn_country":"OM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"OM",
+    "gn:fcode":"PPL",
     "gn:latitude":23.60058,
     "gn:longitude":58.54707,
+    "gn:population":0,
     "iso:country":"OM",
+    "lbl:bbox":"58.54207,23.59558,58.55207,23.60558",
     "lbl:latitude":23.60058,
     "lbl:longitude":58.54707,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Bayt Al Falaj"
@@ -37,8 +40,7 @@
     "name:nno_x_preferred":[
         "Bayt al Falaj"
     ],
-    "name:unk_x_variant":[
-        "Bayt Al Falaj",
+    "name:und_x_variant":[
         "Bait el Falaj"
     ],
     "qs_pg:aaroncc":"OM",
@@ -62,7 +64,7 @@
     "qs_pg:woe_adm0":23424898,
     "qs_pg:woe_id":2267097,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424898,
     "woe:name_adm0":"\u0639\u0645\u0627\u0646",
     "woe:name_adm1":"\u0645\u0633\u0642\u0637",
@@ -77,7 +79,6 @@
     "wof:concordances":{
         "gn:id":288752,
         "gp:id":2267097,
-        "qs:id":1045954,
         "qs_pg:id":1045954,
         "wd:id":"Q4874956",
         "wk:page":"Bayt al Falaj"
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1126065455,
-    "wof:lastmodified":1563298918,
+    "wof:lastmodified":1566672875,
     "wof:name":"Bayt Al Falaj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

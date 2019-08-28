@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.19842,23.63717,57.23842,23.67717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wad\u012byat al \u2018Uly\u0101\u2019",
         "Wad\u012byah al \u2018Uly\u0101\u2019"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225823509,
-    "wof:lastmodified":1537676151,
+    "wof:lastmodified":1566672934,
     "wof:name":"Wadiyah al `Ulya'",
     "wof:parent_id":421184219,
     "wof:placetype":"locality",

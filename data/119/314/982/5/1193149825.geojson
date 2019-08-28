@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.66649,23.46449,57.70649,23.50449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Kh\u0101tum"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1193149825,
-    "wof:lastmodified":1537676193,
+    "wof:lastmodified":1566672812,
     "wof:name":"Al Khatm",
     "wof:parent_id":1108721091,
     "wof:placetype":"locality",

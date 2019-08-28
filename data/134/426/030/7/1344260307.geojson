@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"57.81802,23.7063,57.85802,23.7463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0641\u0631\u064a \u0627\u0644\u0633\u0651\u0627\u062d\u0644"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344260307,
-    "wof:lastmodified":1537676200,
+    "wof:lastmodified":1566672731,
     "wof:name":"Al Hafri as Sahil",
     "wof:parent_id":890441841,
     "wof:placetype":"locality",

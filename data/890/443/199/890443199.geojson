@@ -11,8 +11,11 @@
     "geom:longitude":59.52889,
     "gn:country":"OM",
     "gn:fcode":"PPLA",
-    "gn:pop":71152,
+    "gn:population":71152,
     "iso:country":"OM",
+    "lbl:bbox":"59.50889,22.54667,59.54889,22.58667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -146,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "As S\u016br"
     ],
     "name:urd_x_preferred":[
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":286245,
         "gp:id":2268266,
-        "qs:id":1026714,
+        "qs_pg:id":1026714,
         "wd:id":"Q737270"
     },
     "wof:country":"OM",
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":890443199,
-    "wof:lastmodified":1563298915,
+    "wof:lastmodified":1566672874,
     "wof:name":"\u015e\u016br",
     "wof:parent_id":421175629,
     "wof:placetype":"locality",

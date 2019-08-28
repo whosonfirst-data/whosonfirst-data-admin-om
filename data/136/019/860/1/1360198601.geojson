@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.29889,23.16139,58.33889,23.20139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mazra\u2018at al Abya\u1e11"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360198601,
-    "wof:lastmodified":1537676278,
+    "wof:lastmodified":1566672852,
     "wof:name":"Mazra`at al Abyad",
     "wof:parent_id":1108721067,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.67063,16.97638,54.71063,17.01638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0645\u0631\u0628\u0627\u0637"
     ],
@@ -62,8 +66,7 @@
     "name:und_x_variant":[
         "Murb\u0101t",
         "Marb\u0101t",
-        "Merbat",
-        "Mirbat"
+        "Merbat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1326550001,
-    "wof:lastmodified":1564149122,
+    "wof:lastmodified":1566672708,
     "wof:name":"Mirbat",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",

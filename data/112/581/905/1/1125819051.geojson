@@ -9,15 +9,18 @@
     "geom:bbox":"58.53337,22.69057,58.53337,22.69057",
     "geom:latitude":22.69057,
     "geom:longitude":58.53337,
-    "gn:gn_country":"OM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":25265,
+    "gn:country":"OM",
+    "gn:fcode":"PPL",
     "gn:population":25265,
     "iso:country":"OM",
+    "lbl:bbox":"58.51337,22.67057,58.55337,22.71057",
     "lbl:latitude":22.69057,
     "lbl:longitude":58.53337,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Ibr\u0101"
@@ -29,7 +32,7 @@
     "name:rus_x_preferred":[
         "\u0418\u0431\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bira"
     ],
     "qs_pg:aaroncc":"OM",
@@ -44,7 +47,7 @@
     "qs_pg:qs_id":124033,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125819051,
-    "wof:lastmodified":1509393976,
+    "wof:lastmodified":1566672875,
     "wof:name":"Ibr\u0101\u2019",
     "wof:parent_id":1108721051,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.34953,17.18082,54.38953,17.22082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "A\u015f\u0101rfu\u0101t"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209605861,
-    "wof:lastmodified":1548974434,
+    "wof:lastmodified":1566672801,
     "wof:name":"Asarfuat",
     "wof:parent_id":421189275,
     "wof:placetype":"locality",

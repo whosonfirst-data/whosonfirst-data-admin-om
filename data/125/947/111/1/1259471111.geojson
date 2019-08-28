@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.76312,24.05452,56.80312,24.09452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Falaj al Hirith",
         "Falaj al \u1e28arth"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259471111,
-    "wof:lastmodified":1537676217,
+    "wof:lastmodified":1566672903,
     "wof:name":"Falaj al Harth",
     "wof:parent_id":1108721083,
     "wof:placetype":"locality",

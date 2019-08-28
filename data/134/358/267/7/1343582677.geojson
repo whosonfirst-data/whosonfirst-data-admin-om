@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.3283,25.78167,56.3683,25.82167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u0631 \u0645\u0639\u0644\u0649"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343582677,
-    "wof:lastmodified":1537676292,
+    "wof:lastmodified":1566672729,
     "wof:name":"Khawr Ma`la",
     "wof:parent_id":1108721075,
     "wof:placetype":"locality",

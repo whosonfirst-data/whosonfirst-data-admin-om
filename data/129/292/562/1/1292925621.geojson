@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"55.94667,18.28,55.98667,18.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hajlat al Yah\u012b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292925621,
-    "wof:lastmodified":1537676207,
+    "wof:lastmodified":1566672749,
     "wof:name":"Hajlat al Yahi",
     "wof:parent_id":1108721081,
     "wof:placetype":"locality",

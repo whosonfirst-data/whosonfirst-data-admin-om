@@ -10,8 +10,12 @@
     "geom:latitude":23.50813,
     "geom:longitude":58.65539,
     "iso:country":"OM",
+    "lbl:bbox":"58.63539,23.48813,58.67539,23.52813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "Yit\u012b"
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":285919,
         "gp:id":2268283,
-        "qs:id":1083737,
+        "qs_pg:id":1083737,
         "wd:id":"Q8053883",
         "wk:page":"Yiti"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421187655,
-    "wof:lastmodified":1563298888,
+    "wof:lastmodified":1566672861,
     "wof:name":"\u064a\u062a\u064a",
     "wof:parent_id":421185635,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"58.58181,23.57372,58.62181,23.61372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0631\u0627\u0645\u0644"
     ],
@@ -33,7 +37,6 @@
     ],
     "name:und_x_variant":[
         "\u1e28ar\u0101mil",
-        "Haramil",
         "\u1e24ar\u0101mil"
     ],
     "src:geom":"geonames",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1209812951,
-    "wof:lastmodified":1564149288,
+    "wof:lastmodified":1566672806,
     "wof:name":"Haramil",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

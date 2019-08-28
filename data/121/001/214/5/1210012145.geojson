@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"53.98871,17.10041,54.02871,17.14041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Junawl"
     ],
     "name:und_x_variant":[
         "Junawt",
-        "Junawl",
         "Jnoot"
     ],
     "src:geom":"geonames",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1210012145,
-    "wof:lastmodified":1564149292,
+    "wof:lastmodified":1566672808,
     "wof:name":"Junawl",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

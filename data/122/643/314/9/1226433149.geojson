@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.17425,17.03613,54.21425,17.07613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u062d\u0644\u0646\u0648\u062a \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226433149,
-    "wof:lastmodified":1537676314,
+    "wof:lastmodified":1566672915,
     "wof:name":"South Sahnawt",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

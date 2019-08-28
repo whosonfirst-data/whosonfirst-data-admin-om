@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"53.95278,17.02472,53.99278,17.06472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Sehab"
     ],
     "name:und_x_variant":[
-        "Sehaf",
-        "Sehab"
+        "Sehaf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1309925841,
-    "wof:lastmodified":1564149364,
+    "wof:lastmodified":1566672856,
     "wof:name":"Sehab",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

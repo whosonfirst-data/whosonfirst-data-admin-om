@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"56.23294,23.99268,56.27294,24.03268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0651\u0629"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260164695,
-    "wof:lastmodified":1537676175,
+    "wof:lastmodified":1566672821,
     "wof:name":"Qurayyah",
     "wof:parent_id":421184225,
     "wof:placetype":"locality",

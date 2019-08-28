@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Muscat",
     "iso:country":"OM",
+    "lbl:bbox":"54.18379,17.20056,54.22379,17.24056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u062c\u062f\u064a\u0631"
     ],
@@ -74,8 +78,7 @@
         "Ajdir"
     ],
     "name:und_x_variant":[
-        "Ajd\u012br",
-        "Ajdir"
+        "Ajd\u012br"
     ],
     "name:zho_x_preferred":[
         "\u963f\u6770\u8fea\u5c14"
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1276248961,
-    "wof:lastmodified":1564149241,
+    "wof:lastmodified":1566672781,
     "wof:name":"Ajdir",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

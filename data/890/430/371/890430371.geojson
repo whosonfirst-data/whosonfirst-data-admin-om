@@ -11,8 +11,11 @@
     "geom:longitude":58.18911,
     "gn:country":"OM",
     "gn:fcode":"PPL",
-    "gn:pop":237816,
+    "gn:population":237816,
     "iso:country":"OM",
+    "lbl:bbox":"58.16911,23.65027,58.20911,23.69027",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -141,9 +144,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0441-\u0421\u0456\u0431"
     ],
-    "name:unk_x_variant":[
-        "Sib"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0633\u06cc\u0628"
     ],
@@ -260,7 +260,7 @@
     "wof:concordances":{
         "gn:id":288967,
         "gp:id":56121501,
-        "qs:id":124056,
+        "qs_pg:id":124056,
         "wd:id":"Q948050"
     },
     "wof:country":"OM",
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":890430371,
-    "wof:lastmodified":1563298913,
+    "wof:lastmodified":1566672873,
     "wof:name":"As S\u012bb al Jad\u012bdah",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",
