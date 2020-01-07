@@ -43,7 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675695
+        85675695,
+        1511838389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,15 @@
         {
             "continent_id":102191569,
             "country_id":85632207,
+            "county_id":1511838389,
             "locality_id":1259768833,
             "region_id":85675695
         }
     ],
     "wof:id":1259768833,
-    "wof:lastmodified":1566672905,
+    "wof:lastmodified":1578437489,
     "wof:name":"Shifya",
-    "wof:parent_id":85675695,
+    "wof:parent_id":1511838389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",
     "wof:superseded_by":[],

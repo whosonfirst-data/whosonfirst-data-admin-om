@@ -36,7 +36,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675681
+        85675681,
+        1511838391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,15 @@
         {
             "continent_id":102191569,
             "country_id":85632207,
+            "county_id":1511838391,
             "locality_id":1226252363,
             "region_id":85675681
         }
     ],
     "wof:id":1226252363,
-    "wof:lastmodified":1566672925,
+    "wof:lastmodified":1578437502,
     "wof:name":"Dar al Qal`ah",
-    "wof:parent_id":85675681,
+    "wof:parent_id":1511838391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",
     "wof:superseded_by":[],
