@@ -106,6 +106,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459008804,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78b5856b94be7d920bca4afeaa099bf1",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421169317,
-    "wof:lastmodified":1566672859,
+    "wof:lastmodified":1582321496,
     "wof:name":"Al Awabi",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

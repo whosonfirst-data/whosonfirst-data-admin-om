@@ -122,6 +122,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459010146,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ecd22db6fdd33428095f3cc9c030fcb8",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421203283,
-    "wof:lastmodified":1566672860,
+    "wof:lastmodified":1582321496,
     "wof:name":"Sadah",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

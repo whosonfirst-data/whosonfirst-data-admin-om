@@ -97,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009414,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"30efb4497ac63d33801f81f31dd46c48",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421184531,
-    "wof:lastmodified":1566672869,
+    "wof:lastmodified":1582321498,
     "wof:name":"Mahadah",
     "wof:parent_id":85675717,
     "wof:placetype":"county",

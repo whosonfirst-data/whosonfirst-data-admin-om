@@ -230,6 +230,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d6b07c0c52e5200f201b10acfae2ec27",
     "wof:hierarchy":[
         {
@@ -240,7 +243,7 @@
         }
     ],
     "wof:id":421195037,
-    "wof:lastmodified":1566672858,
+    "wof:lastmodified":1582321496,
     "wof:name":"Sohar",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

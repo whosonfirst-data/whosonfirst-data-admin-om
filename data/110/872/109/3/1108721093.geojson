@@ -165,6 +165,9 @@
     },
     "wof:country":"OM",
     "wof:created":1476131205,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"6d7731abb598401e754a3fa84884a044",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1108721093,
-    "wof:lastmodified":1566672825,
+    "wof:lastmodified":1582321495,
     "wof:name":"Madha",
     "wof:parent_id":85675709,
     "wof:placetype":"county",

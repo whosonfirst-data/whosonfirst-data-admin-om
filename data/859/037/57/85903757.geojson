@@ -87,6 +87,9 @@
         "wk:page":"Bayt al Falaj"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4677fa384294ef6aa95fd9c74521e298",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379392,
+    "wof:lastmodified":1582321491,
     "wof:name":"Bayt Al Falaj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

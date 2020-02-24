@@ -97,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009861,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f9a23ce1aa29cb8017d244725f134eb",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421195841,
-    "wof:lastmodified":1566672858,
+    "wof:lastmodified":1582321496,
     "wof:name":"Al Mudaybi",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

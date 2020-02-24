@@ -97,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009861,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f67effa203cb101d2475bfdad1e18f4",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421195843,
-    "wof:lastmodified":1566672858,
+    "wof:lastmodified":1582321496,
     "wof:name":"Al Khaburah",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

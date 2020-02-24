@@ -466,6 +466,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009449,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62835f8bb00fcb61ba97e6e0b9fd0dd2",
     "wof:hierarchy":[
         {
@@ -476,7 +479,7 @@
         }
     ],
     "wof:id":421185635,
-    "wof:lastmodified":1566672872,
+    "wof:lastmodified":1582321498,
     "wof:name":"Muscat",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

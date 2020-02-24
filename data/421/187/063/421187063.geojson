@@ -163,6 +163,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009500,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d8d081b1b51072fcfc8480f7219469c",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":421187063,
-    "wof:lastmodified":1566672861,
+    "wof:lastmodified":1582321496,
     "wof:name":"Ibri",
     "wof:parent_id":85675699,
     "wof:placetype":"county",

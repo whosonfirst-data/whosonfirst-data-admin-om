@@ -242,6 +242,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459010046,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"730ae0bc35009a1a01d99169827bc58b",
     "wof:hierarchy":[
         {
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":421200939,
-    "wof:lastmodified":1566672867,
+    "wof:lastmodified":1582321497,
     "wof:name":"Salalah",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

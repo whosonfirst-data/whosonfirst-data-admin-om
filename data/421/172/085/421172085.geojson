@@ -106,6 +106,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459008919,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efba77d8c35bfefd673502a00c433aef",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421172085,
-    "wof:lastmodified":1566672862,
+    "wof:lastmodified":1582321497,
     "wof:name":"Rakhyut",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

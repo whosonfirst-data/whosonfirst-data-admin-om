@@ -299,6 +299,9 @@
         "wd:id":"Q372144"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b356859aecac0ddeafcb17d066295af3",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566672743,
+    "wof:lastmodified":1582321493,
     "wof:name":"Musandam",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

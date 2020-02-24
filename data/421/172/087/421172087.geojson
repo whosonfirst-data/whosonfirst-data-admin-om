@@ -113,6 +113,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459008920,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be30270c93626f3c31c4102360085754",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421172087,
-    "wof:lastmodified":1566672863,
+    "wof:lastmodified":1582321497,
     "wof:name":"Al Jazir",
     "wof:parent_id":85675685,
     "wof:placetype":"county",

@@ -155,6 +155,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009616,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e3c123edae88548e692a37d836b4cfe",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421189279,
-    "wof:lastmodified":1566672862,
+    "wof:lastmodified":1582321497,
     "wof:name":"Bahla",
     "wof:parent_id":85675681,
     "wof:placetype":"county",

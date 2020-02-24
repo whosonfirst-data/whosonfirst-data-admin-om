@@ -226,6 +226,9 @@
         "wd:id":"Q4501894"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"050b6e1a1f9f328efcef2da97e592794",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566672741,
+    "wof:lastmodified":1582321492,
     "wof:name":"Ash Sharqiyah South",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

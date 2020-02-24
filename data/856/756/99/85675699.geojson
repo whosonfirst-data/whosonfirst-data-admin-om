@@ -281,6 +281,9 @@
         "wk:page":"Ad Dhahirah Governorate"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e0a1a086a8b368e744ff07e156caea2",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566672742,
+    "wof:lastmodified":1582321492,
     "wof:name":"Adh Dhahirah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

@@ -97,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009404,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8ecbd85fb69c12201fc3292dd6a9975",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421184221,
-    "wof:lastmodified":1566672868,
+    "wof:lastmodified":1582321498,
     "wof:name":"Mahawt",
     "wof:parent_id":85675685,
     "wof:placetype":"county",

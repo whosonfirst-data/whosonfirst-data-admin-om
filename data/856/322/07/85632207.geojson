@@ -954,6 +954,12 @@
     },
     "wof:country":"OM",
     "wof:country_alpha3":"OMN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"14c0448d79b1e5c987296fc535ab6607",
     "wof:hierarchy":[
         {
@@ -968,7 +974,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566672740,
+    "wof:lastmodified":1582321491,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

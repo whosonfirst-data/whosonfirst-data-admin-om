@@ -284,6 +284,9 @@
         "wk:page":"Al Buraimi Governorate"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7399648f9e058f298b2fbb53174224e8",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566672743,
+    "wof:lastmodified":1582321493,
     "wof:name":"Al Buraymi",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

@@ -197,6 +197,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009432,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a56184e5d0f6d5a436a8a288dd2f81b2",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421185083,
-    "wof:lastmodified":1566672871,
+    "wof:lastmodified":1582321498,
     "wof:name":"Samail",
     "wof:parent_id":85675681,
     "wof:placetype":"county",
