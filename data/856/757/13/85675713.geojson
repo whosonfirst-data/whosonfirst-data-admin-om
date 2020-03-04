@@ -325,6 +325,9 @@
         "wd:id":"Q544762"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea5ce38d4eee7c85f8a2870e12057251",
     "wof:hierarchy":[
         {
@@ -340,7 +343,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566672744,
+    "wof:lastmodified":1582321493,
     "wof:name":"Muscat",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

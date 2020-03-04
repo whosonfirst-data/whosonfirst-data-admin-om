@@ -69,7 +69,6 @@
     "qs:woe_id":55927067,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -98,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459010046,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"44af3389ac74a524b242313b865dce88",
     "wof:hierarchy":[
         {
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":421200933,
-    "wof:lastmodified":1566672867,
+    "wof:lastmodified":1582321497,
     "wof:name":"Al Amrat",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

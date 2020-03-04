@@ -119,6 +119,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009616,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f5406878f0da6c9e0607bf1fe8baf38",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421189277,
-    "wof:lastmodified":1566672862,
+    "wof:lastmodified":1582321496,
     "wof:name":"Dalkut",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

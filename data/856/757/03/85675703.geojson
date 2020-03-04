@@ -210,6 +210,9 @@
         "wd:id":"Q4703565"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"832b99158ff81118fb23d9151ff45c40",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566672743,
+    "wof:lastmodified":1582321493,
     "wof:name":"Al Batnah North",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

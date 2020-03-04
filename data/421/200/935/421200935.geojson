@@ -140,6 +140,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459010046,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7070c8fce8e2406a3625432f94a1cd2c",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421200935,
-    "wof:lastmodified":1566672867,
+    "wof:lastmodified":1582321497,
     "wof:name":"Bawshar",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

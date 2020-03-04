@@ -119,6 +119,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009615,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e516e5e8a0077a8312fd3f589ca5b488",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421189275,
-    "wof:lastmodified":1566672861,
+    "wof:lastmodified":1582321496,
     "wof:name":"Taqah",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

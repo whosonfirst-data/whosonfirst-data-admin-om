@@ -185,6 +185,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009074,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"31d4eb29d76540a35e4da4b0356294f5",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421175631,
-    "wof:lastmodified":1566672864,
+    "wof:lastmodified":1582321497,
     "wof:name":"Masirah",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

@@ -286,6 +286,9 @@
         "wd:id":"Q958518"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2156ae230d60da6301c03c1a72a9d3e",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566672742,
+    "wof:lastmodified":1582321493,
     "wof:name":"Al Wusta",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

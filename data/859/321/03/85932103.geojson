@@ -85,6 +85,9 @@
         "wk:page":"Kalbuh"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"399ff06380075b5a9256e60d031561d6",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379392,
+    "wof:lastmodified":1582321491,
     "wof:name":"\u0643\u0644\u0628\u0648\u062d",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

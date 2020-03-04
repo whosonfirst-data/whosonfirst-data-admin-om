@@ -97,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009500,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b0e32f9d93b96bd742958ae7c3e86a06",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421187061,
-    "wof:lastmodified":1566672861,
+    "wof:lastmodified":1582321496,
     "wof:name":"As Seeb",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

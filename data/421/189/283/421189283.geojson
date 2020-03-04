@@ -97,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009616,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e83263373bfdfa584656f3bb30faa947",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421189283,
-    "wof:lastmodified":1566672862,
+    "wof:lastmodified":1582321496,
     "wof:name":"Hayma",
     "wof:parent_id":85675685,
     "wof:placetype":"county",

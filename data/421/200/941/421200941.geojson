@@ -97,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459010046,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8cb0320859fe2d4ae2bc6db8e61835cf",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421200941,
-    "wof:lastmodified":1566672867,
+    "wof:lastmodified":1582321497,
     "wof:name":"Ar Rustaq",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

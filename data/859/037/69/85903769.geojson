@@ -106,6 +106,9 @@
         "qs_pg:id":1354441
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2742a4be5b5a3509f9d964ab3701ab37",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566672738,
+    "wof:lastmodified":1582321491,
     "wof:name":"\u0631\u0648\u064a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

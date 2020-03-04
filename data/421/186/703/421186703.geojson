@@ -131,6 +131,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009489,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"823e6a49f9012b31ea399927f41f3765",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421186703,
-    "wof:lastmodified":1566672863,
+    "wof:lastmodified":1582321497,
     "wof:name":"Mirbat",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

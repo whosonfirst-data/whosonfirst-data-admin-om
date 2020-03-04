@@ -69,7 +69,6 @@
     "qs:woe_id":55927068,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -98,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459008846,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67786d9e9670765f1f9a87f834b7bc62",
     "wof:hierarchy":[
         {
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":421170285,
-    "wof:lastmodified":1566672869,
+    "wof:lastmodified":1582321498,
     "wof:name":"Muqshin",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

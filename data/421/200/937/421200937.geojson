@@ -119,6 +119,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459010046,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f72641ea26fd900da4d36ea55ff04f92",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421200937,
-    "wof:lastmodified":1566672867,
+    "wof:lastmodified":1582321497,
     "wof:name":"Bidiyah",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

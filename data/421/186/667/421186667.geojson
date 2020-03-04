@@ -224,6 +224,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009488,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"981c4d392bcfbe8cb5c87d0caa631fe4",
     "wof:hierarchy":[
         {
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421186667,
-    "wof:lastmodified":1566672863,
+    "wof:lastmodified":1582321497,
     "wof:name":"Nizwa",
     "wof:parent_id":85675681,
     "wof:placetype":"county",

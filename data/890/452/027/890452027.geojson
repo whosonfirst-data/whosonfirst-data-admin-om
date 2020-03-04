@@ -90,6 +90,9 @@
     },
     "wof:country":"OM",
     "wof:created":1469052801,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bebd81d469715fefe8fbb42a4eecbd62",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890452027,
-    "wof:lastmodified":1566672873,
+    "wof:lastmodified":1582321498,
     "wof:name":"Al Musanaah",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

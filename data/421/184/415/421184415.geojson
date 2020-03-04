@@ -97,6 +97,9 @@
     },
     "wof:country":"OM",
     "wof:created":1459009410,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4285233ed1bfbe3bee0064e72f809f30",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421184415,
-    "wof:lastmodified":1566672869,
+    "wof:lastmodified":1582321498,
     "wof:name":"Ad Duqm",
     "wof:parent_id":85675685,
     "wof:placetype":"county",

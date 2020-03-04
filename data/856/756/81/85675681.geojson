@@ -288,6 +288,9 @@
         "wd:id":"Q792550"
     },
     "wof:country":"OM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"277ebd5ea41af3ec4bd3f8db34ec788d",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566672741,
+    "wof:lastmodified":1582321492,
     "wof:name":"Ad Dakhliyah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",
