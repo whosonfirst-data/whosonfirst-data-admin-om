@@ -931,9 +931,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Oman",
-        "digitalenvoy:country_code":[
-            512
-        ],
+        "digitalenvoy:country_code":512,
         "fb:id":"en.oman",
         "fifa:id":"OMA",
         "fips:code":"MU",
@@ -977,7 +975,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529202,
+    "wof:lastmodified":1583797410,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
