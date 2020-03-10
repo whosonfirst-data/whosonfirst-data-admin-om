@@ -315,9 +315,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25874
-        ],
+        "digitalenvoy:region_code":25874,
         "fips:code":"MU06",
         "gn:id":411740,
         "gp:id":2346260,
@@ -346,7 +344,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538435,
+    "wof:lastmodified":1583882914,
     "wof:name":"Muscat",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

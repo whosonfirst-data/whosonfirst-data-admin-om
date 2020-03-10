@@ -202,9 +202,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            29714
-        ],
+        "digitalenvoy:region_code":29714,
         "fips:code":"MU11",
         "gp:id":7038775,
         "hasc:id":"OM.BN",
@@ -231,7 +229,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538435,
+    "wof:lastmodified":1583882914,
     "wof:name":"Al Batnah North",
     "wof:parent_id":85632207,
     "wof:placetype":"region",
