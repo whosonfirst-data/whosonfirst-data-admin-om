@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1970~",
     "geom:area":26.741142,
-    "geom:area_square_m":309302375732.710083,
+    "geom:area_square_m":309302374506.22168,
     "geom:bbox":"52.0,16.650084,59.837917,26.505472",
     "geom:latitude":20.597544,
     "geom:longitude":56.105754,
@@ -63,6 +63,9 @@
     ],
     "name:arg_x_preferred":[
         "Om\u00e1n"
+    ],
+    "name:ary_x_preferred":[
+        "\u0639\u0648\u0645\u0627\u0646"
     ],
     "name:arz_x_preferred":[
         "\u0633\u0644\u0637\u0646\u0629 \u0639\u0645\u0627\u0646"
@@ -166,6 +169,12 @@
     "name:dan_x_preferred":[
         "Oman"
     ],
+    "name:deu_at_x_preferred":[
+        "Oman"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Oman"
+    ],
     "name:deu_x_preferred":[
         "Oman"
     ],
@@ -183,6 +192,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039f\u03bc\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Oman"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Oman"
     ],
     "name:eng_x_preferred":[
         "Oman"
@@ -236,6 +251,9 @@
         "Omaan"
     ],
     "name:gag_x_preferred":[
+        "Oman"
+    ],
+    "name:gcr_x_preferred":[
         "Oman"
     ],
     "name:ger_x_variant":[
@@ -488,6 +506,9 @@
     "name:mon_x_preferred":[
         "\u041e\u043c\u0430\u043d"
     ],
+    "name:mri_x_preferred":[
+        "Om\u0101na"
+    ],
     "name:msa_x_preferred":[
         "Oman"
     ],
@@ -590,6 +611,9 @@
     "name:pol_x_preferred":[
         "Oman"
     ],
+    "name:por_br_x_preferred":[
+        "Om\u00e3"
+    ],
     "name:por_x_colloquial":[
         "Oma"
     ],
@@ -668,6 +692,15 @@
     "name:sqi_x_preferred":[
         "Omani"
     ],
+    "name:srd_x_preferred":[
+        "Om\u00e0n"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041e\u043c\u0430\u043d"
+    ],
+    "name:srp_el_x_preferred":[
+        "Oman"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043c\u0430\u043d"
     ],
@@ -685,6 +718,9 @@
     ],
     "name:szl_x_preferred":[
         "U\u016fm\u016fn"
+    ],
+    "name:szy_x_preferred":[
+        "Oman"
     ],
     "name:tam_x_preferred":[
         "\u0b93\u0bae\u0bbe\u0ba9\u0bcd"
@@ -706,6 +742,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u041e\u043c\u0430\u043d"
+    ],
+    "name:tgk_x_variant":[
+        "\u0423\u043c\u043e\u043d"
     ],
     "name:tgl_x_preferred":[
         "Oman"
@@ -975,7 +1014,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583797410,
+    "wof:lastmodified":1587429096,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
