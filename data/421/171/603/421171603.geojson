@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0627 \u0627\u0644\u0628\u064a\u0639\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Dibba Al Baya'a"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -44,7 +50,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459008900,
-    "wof:geomhash":"39eb65012998dc5064b2f929afd24bae",
+    "wof:geomhash":"d31214ac8368b1bebeac77cae1493085",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":421171603,
-    "wof:lastmodified":1476131661,
-    "wof:name":"\u062f\u0628\u0627 \u0627\u0644\u0628\u064a\u0639\u0647",
+    "wof:lastmodified":1601068396,
+    "wof:name":"Dibba Al Baya'a",
     "wof:parent_id":85675709,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-om",

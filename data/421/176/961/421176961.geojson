@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0636"
+    ],
+    "name:eng_x_preferred":[
+        "Khoudh"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421176961,
-    "wof:lastmodified":1566672871,
-    "wof:name":"\u062e\u0648\u0636",
+    "wof:lastmodified":1601068396,
+    "wof:name":"Khoudh",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",

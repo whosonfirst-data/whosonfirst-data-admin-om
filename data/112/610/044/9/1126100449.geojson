@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Roy"
+    ],
     "qs_pg:aaroncc":"OM",
     "qs_pg:gn_country":"OM",
     "qs_pg:gn_fcode":"PPL",
@@ -72,8 +78,8 @@
         }
     ],
     "wof:id":1126100449,
-    "wof:lastmodified":1534379392,
-    "wof:name":"\u0631\u0648\u064a",
+    "wof:lastmodified":1601068396,
+    "wof:name":"Roy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-om",
