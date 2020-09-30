@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"53.9975875,16.943103,53.9975875,16.943103",
+    "geom:bbox":"53.997588,16.943103,53.997588,16.943103",
     "geom:latitude":16.943103,
     "geom:longitude":53.997588,
     "iso:country":"OM",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0635\u0644\u0627\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Salalah Port"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675695,
-        421200939
+        421200939,
+        85675695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009366,
-    "wof:geomhash":"18caa62193fea5509bead63dc23439ae",
+    "wof:geomhash":"e631b457b838ad2e04c50e4b926acd73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421183337,
-    "wof:lastmodified":1566672870,
-    "wof:name":"\u0645\u064a\u0646\u0627\u0621 \u0635\u0644\u0627\u0644\u0629",
+    "wof:lastmodified":1601423092,
+    "wof:name":"Salalah Port",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    53.9975875,
+    53.997588,
     16.943103,
-    53.9975875,
+    53.997588,
     16.943103
 ],
-  "geometry": {"coordinates":[53.9975875,16.943103],"type":"Point"}
+  "geometry": {"coordinates":[53.997588,16.943103],"type":"Point"}
 }

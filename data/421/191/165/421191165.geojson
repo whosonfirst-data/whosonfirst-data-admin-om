@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Sheir"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675695,
-        421200939
+        421200939,
+        85675695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421191165,
-    "wof:lastmodified":1566672865,
-    "wof:name":"\u0634\u064a\u0631",
+    "wof:lastmodified":1601423092,
+    "wof:name":"Sheir",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",

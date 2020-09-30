@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u064a\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khuwayriyyah"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675703,
-        421195037
+        421195037,
+        85675703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421186547,
-    "wof:lastmodified":1566672863,
-    "wof:name":"\u0627\u0644\u062e\u0648\u064a\u0631\u064a\u0629",
+    "wof:lastmodified":1601423084,
+    "wof:name":"Al Khuwayriyyah",
     "wof:parent_id":421195037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",

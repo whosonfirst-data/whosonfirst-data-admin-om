@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.283073,26.2161295,56.283073,26.2161295",
+    "geom:bbox":"56.283073,26.21613,56.283073,26.21613",
     "geom:latitude":26.21613,
     "geom:longitude":56.283073,
     "gn:country":"OM",
@@ -20,6 +20,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u0643\u0645\u0632\u0631\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Harat Al Kamzara"
+    ],
     "qs_pg:aaroncc":"OM",
     "qs_pg:gn_country":"OM",
     "qs_pg:name":"\u062d\u0627\u0631\u0629 \u0627\u0644\u0643\u0645\u0632\u0631\u0627\u0621",
@@ -53,7 +59,7 @@
     },
     "wof:country":"OM",
     "wof:created":1497296064,
-    "wof:geomhash":"b94c509214d13077c7b92fdb1143ef3c",
+    "wof:geomhash":"c86ecbfd93d5d925fb3ca44189d482f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,8 +69,8 @@
         }
     ],
     "wof:id":1125908551,
-    "wof:lastmodified":1566672875,
-    "wof:name":"\u062d\u0627\u0631\u0629 \u0627\u0644\u0643\u0645\u0632\u0631\u0627\u0621",
+    "wof:lastmodified":1601423089,
+    "wof:name":"Harat Al Kamzara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",
@@ -74,9 +80,9 @@
 },
   "bbox": [
     56.283073,
-    26.2161295,
+    26.21613,
     56.283073,
-    26.2161295
+    26.21613
 ],
-  "geometry": {"coordinates":[56.283073,26.2161295],"type":"Point"}
+  "geometry": {"coordinates":[56.283073,26.21613],"type":"Point"}
 }

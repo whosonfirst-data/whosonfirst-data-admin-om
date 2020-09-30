@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"58.2017465,23.5886435,58.2017465,23.5886435",
+    "geom:bbox":"58.201746,23.588643,58.201746,23.588643",
     "geom:latitude":23.588643,
     "geom:longitude":58.201746,
     "iso:country":"OM",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0633\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rusayl"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675713,
-        421187061
+        421187061,
+        85675713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009681,
-    "wof:geomhash":"cfbc328f0f54115ad6596c4cdd602279",
+    "wof:geomhash":"20b2d6a12b06bee572c10dd12a79922b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421191139,
-    "wof:lastmodified":1566672866,
-    "wof:name":"\u0627\u0644\u0631\u0633\u064a\u0644",
+    "wof:lastmodified":1601423085,
+    "wof:name":"Al Rusayl",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    58.2017465,
-    23.5886435,
-    58.2017465,
-    23.5886435
+    58.201746,
+    23.588643,
+    58.201746,
+    23.588643
 ],
-  "geometry": {"coordinates":[58.2017465,23.5886435],"type":"Point"}
+  "geometry": {"coordinates":[58.201746,23.588643],"type":"Point"}
 }

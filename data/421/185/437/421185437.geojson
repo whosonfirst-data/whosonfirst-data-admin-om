@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.733741,24.3635555,56.733741,24.3635555",
+    "geom:bbox":"56.733741,24.363556,56.733741,24.363556",
     "geom:latitude":24.363556,
     "geom:longitude":56.733741,
     "iso:country":"OM",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0635\u062d\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Sahar"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675703,
-        421195037
+        421195037,
+        85675703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009443,
-    "wof:geomhash":"57699c0fbc858922801d2911469b05f8",
+    "wof:geomhash":"1b20b85723327281cadbf1bb91c05125",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421185437,
-    "wof:lastmodified":1566672872,
-    "wof:name":"\u0635\u062d\u0627\u0631",
+    "wof:lastmodified":1601423092,
+    "wof:name":"Sahar",
     "wof:parent_id":421195037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     56.733741,
-    24.3635555,
+    24.363556,
     56.733741,
-    24.3635555
+    24.363556
 ],
-  "geometry": {"coordinates":[56.733741,24.3635555],"type":"Point"}
+  "geometry": {"coordinates":[56.733741,24.363556],"type":"Point"}
 }

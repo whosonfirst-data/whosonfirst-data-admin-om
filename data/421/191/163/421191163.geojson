@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.1050905,17.01696,54.1050905,17.01696",
+    "geom:bbox":"54.105091,17.01696,54.105091,17.01696",
     "geom:latitude":17.01696,
     "geom:longitude":54.105091,
     "iso:country":"OM",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0635\u0644\u0627\u0644\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Salalah East"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675695,
-        421200939
+        421200939,
+        85675695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009682,
-    "wof:geomhash":"f477e422cf7dc926c5dcba6b522ee81a",
+    "wof:geomhash":"71fa168580c430141ac74d2b72f72293",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421191163,
-    "wof:lastmodified":1566672865,
-    "wof:name":"\u0635\u0644\u0627\u0644\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "wof:lastmodified":1601423092,
+    "wof:name":"Salalah East",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.1050905,
+    54.105091,
     17.01696,
-    54.1050905,
+    54.105091,
     17.01696
 ],
-  "geometry": {"coordinates":[54.1050905,17.01696],"type":"Point"}
+  "geometry": {"coordinates":[54.105091,17.01696],"type":"Point"}
 }
