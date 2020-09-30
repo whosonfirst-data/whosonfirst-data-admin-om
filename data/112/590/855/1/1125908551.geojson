@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.283073,26.2161295,56.283073,26.2161295",
+    "geom:bbox":"56.283073,26.21613,56.283073,26.21613",
     "geom:latitude":26.21613,
     "geom:longitude":56.283073,
     "gn:country":"OM",
@@ -59,7 +59,7 @@
     },
     "wof:country":"OM",
     "wof:created":1497296064,
-    "wof:geomhash":"b94c509214d13077c7b92fdb1143ef3c",
+    "wof:geomhash":"c86ecbfd93d5d925fb3ca44189d482f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1125908551,
-    "wof:lastmodified":1601068395,
+    "wof:lastmodified":1601423089,
     "wof:name":"Harat Al Kamzara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -80,9 +80,9 @@
 },
   "bbox": [
     56.283073,
-    26.2161295,
+    26.21613,
     56.283073,
-    26.2161295
+    26.21613
 ],
-  "geometry": {"coordinates":[56.283073,26.2161295],"type":"Point"}
+  "geometry": {"coordinates":[56.283073,26.21613],"type":"Point"}
 }

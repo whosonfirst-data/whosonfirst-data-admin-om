@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"58.194118,23.6194395,58.194118,23.6194395",
+    "geom:bbox":"58.194118,23.619439,58.194118,23.619439",
     "geom:latitude":23.619439,
     "geom:longitude":58.194118,
     "iso:country":"OM",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675713,
-        421187061
+        421187061,
+        85675713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009128,
-    "wof:geomhash":"3f60e206b8bb9786ae8e2e24a89570b7",
+    "wof:geomhash":"caa0eaeb186912678596fcf1c9c1c4d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421176961,
-    "wof:lastmodified":1601068396,
+    "wof:lastmodified":1601423090,
     "wof:name":"Khoudh",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",
@@ -77,9 +77,9 @@
 },
   "bbox": [
     58.194118,
-    23.6194395,
+    23.619439,
     58.194118,
-    23.6194395
+    23.619439
 ],
-  "geometry": {"coordinates":[58.194118,23.6194395],"type":"Point"}
+  "geometry": {"coordinates":[58.194118,23.619439],"type":"Point"}
 }

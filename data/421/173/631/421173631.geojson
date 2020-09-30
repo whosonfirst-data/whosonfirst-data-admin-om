@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675709,
-        1108721073
+        1108721073,
+        85675709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421173631,
-    "wof:lastmodified":1601068390,
+    "wof:lastmodified":1601423086,
     "wof:name":"Al Saniya",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

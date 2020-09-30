@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.1050905,17.01696,54.1050905,17.01696",
+    "geom:bbox":"54.105091,17.01696,54.105091,17.01696",
     "geom:latitude":17.01696,
     "geom:longitude":54.105091,
     "iso:country":"OM",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675695,
-        421200939
+        421200939,
+        85675695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009682,
-    "wof:geomhash":"f477e422cf7dc926c5dcba6b522ee81a",
+    "wof:geomhash":"71fa168580c430141ac74d2b72f72293",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191163,
-    "wof:lastmodified":1601068397,
+    "wof:lastmodified":1601423092,
     "wof:name":"Salalah East",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.1050905,
+    54.105091,
     17.01696,
-    54.1050905,
+    54.105091,
     17.01696
 ],
-  "geometry": {"coordinates":[54.1050905,17.01696],"type":"Point"}
+  "geometry": {"coordinates":[54.105091,17.01696],"type":"Point"}
 }

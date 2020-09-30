@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675713,
-        421187061
+        421187061,
+        85675713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421171395,
-    "wof:lastmodified":1601068396,
+    "wof:lastmodified":1601423089,
     "wof:name":"Hail South",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",

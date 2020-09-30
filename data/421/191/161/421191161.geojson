@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"59.5086045,22.577079,59.5086045,22.577079",
+    "geom:bbox":"59.508604,22.577079,59.508604,22.577079",
     "geom:latitude":22.577079,
     "geom:longitude":59.508604,
     "iso:country":"OM",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675691,
-        421175629
+        421175629,
+        85675691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009682,
-    "wof:geomhash":"2d5f36589a5801621bf8178ec31e9e58",
+    "wof:geomhash":"c75daf92668ed4890d01846e02a8c62e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191161,
-    "wof:lastmodified":1601068398,
+    "wof:lastmodified":1601423092,
     "wof:name":"Sur",
     "wof:parent_id":421175629,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    59.5086045,
+    59.508604,
     22.577079,
-    59.5086045,
+    59.508604,
     22.577079
 ],
-  "geometry": {"coordinates":[59.5086045,22.577079],"type":"Point"}
+  "geometry": {"coordinates":[59.508604,22.577079],"type":"Point"}
 }

@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675681,
-        421189279
+        421189279,
+        85675681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421183061,
-    "wof:lastmodified":1601068389,
+    "wof:lastmodified":1601423084,
     "wof:name":"Al Khurm",
     "wof:parent_id":421189279,
     "wof:placetype":"locality",

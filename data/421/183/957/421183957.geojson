@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"59.076037,23.0339035,59.076037,23.0339035",
+    "geom:bbox":"59.076037,23.033904,59.076037,23.033904",
     "geom:latitude":23.033904,
     "geom:longitude":59.076037,
     "iso:country":"OM",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675713,
-        421186553
+        421186553,
+        85675713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009396,
-    "wof:geomhash":"8896a5423edbad5343f82f90997c88dc",
+    "wof:geomhash":"5a62c0024c61d05ee47285c36e2c7a04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421183957,
-    "wof:lastmodified":1601068399,
+    "wof:lastmodified":1601423090,
     "wof:name":"Kitar",
     "wof:parent_id":421186553,
     "wof:placetype":"locality",
@@ -77,9 +77,9 @@
 },
   "bbox": [
     59.076037,
-    23.0339035,
+    23.033904,
     59.076037,
-    23.0339035
+    23.033904
 ],
-  "geometry": {"coordinates":[59.076037,23.0339035],"type":"Point"}
+  "geometry": {"coordinates":[59.076037,23.033904],"type":"Point"}
 }

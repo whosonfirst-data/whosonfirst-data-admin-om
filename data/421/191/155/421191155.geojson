@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.5148155,23.23614,56.5148155,23.23614",
+    "geom:bbox":"56.514815,23.23614,56.514815,23.23614",
     "geom:latitude":23.23614,
     "geom:longitude":56.514815,
     "iso:country":"OM",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675699,
-        421187063
+        421187063,
+        85675699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009682,
-    "wof:geomhash":"93e31947356382254dd1ae320919252a",
+    "wof:geomhash":"19a6731105204559ce996c959921d223",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191155,
-    "wof:lastmodified":1601068398,
+    "wof:lastmodified":1601423089,
     "wof:name":"Ibri",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.5148155,
+    56.514815,
     23.23614,
-    56.5148155,
+    56.514815,
     23.23614
 ],
-  "geometry": {"coordinates":[56.5148155,23.23614],"type":"Point"}
+  "geometry": {"coordinates":[56.514815,23.23614],"type":"Point"}
 }

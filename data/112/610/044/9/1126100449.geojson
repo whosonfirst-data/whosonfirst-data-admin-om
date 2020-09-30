@@ -53,10 +53,10 @@
     "woe:name_adm1":"\u0645\u0633\u0642\u0637",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85675713,
         102191569,
         85632207,
-        1108721095
+        1108721095,
+        85675713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1126100449,
-    "wof:lastmodified":1601068396,
+    "wof:lastmodified":1601423092,
     "wof:name":"Roy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

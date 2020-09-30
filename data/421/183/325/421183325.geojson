@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675713,
-        421186553
+        421186553,
+        85675713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421183325,
-    "wof:lastmodified":1601068396,
+    "wof:lastmodified":1601423089,
     "wof:name":"Harima",
     "wof:parent_id":421186553,
     "wof:placetype":"locality",

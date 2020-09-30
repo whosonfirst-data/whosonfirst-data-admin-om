@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675695,
-        421189277
+        421189277,
+        85675695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191127,
-    "wof:lastmodified":1601068398,
+    "wof:lastmodified":1601423088,
     "wof:name":"Dhalkut",
     "wof:parent_id":421189277,
     "wof:placetype":"locality",

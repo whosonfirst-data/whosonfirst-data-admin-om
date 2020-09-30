@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675713,
-        421187061
+        421187061,
+        85675713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421201901,
-    "wof:lastmodified":1601068392,
+    "wof:lastmodified":1601423085,
     "wof:name":"Al Murtafia'a",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",

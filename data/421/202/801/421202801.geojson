@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675695,
-        421200939
+        421200939,
+        85675695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421202801,
-    "wof:lastmodified":1601068399,
+    "wof:lastmodified":1601423083,
     "wof:name":"Ain Razat",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",

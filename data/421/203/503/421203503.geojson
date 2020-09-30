@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675695,
-        1108721081
+        1108721081,
+        85675695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421203503,
-    "wof:lastmodified":1601068391,
+    "wof:lastmodified":1601423087,
     "wof:name":"Ash Shuwaymiya",
     "wof:parent_id":1108721081,
     "wof:placetype":"locality",

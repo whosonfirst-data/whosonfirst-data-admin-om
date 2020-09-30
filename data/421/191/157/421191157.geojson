@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"58.1106585,23.4610215,58.1106585,23.4610215",
+    "geom:bbox":"58.110658,23.461022,58.110658,23.461022",
     "geom:latitude":23.461022,
     "geom:longitude":58.110658,
     "iso:country":"OM",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675681,
-        1108721067
+        1108721067,
+        85675681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"OM",
     "wof:created":1459009682,
-    "wof:geomhash":"15a993ca7e0c0b1a1ccee4d217b04507",
+    "wof:geomhash":"8ea92179c0a83040e07b5d818013f15f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191157,
-    "wof:lastmodified":1601068399,
+    "wof:lastmodified":1601423089,
     "wof:name":"Fanja",
     "wof:parent_id":1108721067,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    58.1106585,
-    23.4610215,
-    58.1106585,
-    23.4610215
+    58.110658,
+    23.461022,
+    58.110658,
+    23.461022
 ],
-  "geometry": {"coordinates":[58.1106585,23.4610215],"type":"Point"}
+  "geometry": {"coordinates":[58.110658,23.461022],"type":"Point"}
 }

@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675695,
-        421172085
+        421172085,
+        85675695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421181153,
-    "wof:lastmodified":1601068395,
+    "wof:lastmodified":1601423089,
     "wof:name":"Hakam",
     "wof:parent_id":421172085,
     "wof:placetype":"locality",

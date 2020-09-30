@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675691,
-        421175629
+        421175629,
+        85675691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421188279,
-    "wof:lastmodified":1601068401,
+    "wof:lastmodified":1601423091,
     "wof:name":"Nessma",
     "wof:parent_id":421175629,
     "wof:placetype":"locality",

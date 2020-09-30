@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675721,
-        1108721089
+        1108721089,
+        85675721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421181149,
-    "wof:lastmodified":1601068401,
+    "wof:lastmodified":1601423094,
     "wof:name":"Wadi Bani Khalid",
     "wof:parent_id":1108721089,
     "wof:placetype":"locality",

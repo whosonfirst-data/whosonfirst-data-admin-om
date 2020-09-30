@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675685,
-        421184221
+        421184221,
+        85675685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421199393,
-    "wof:lastmodified":1601068397,
+    "wof:lastmodified":1601423092,
     "wof:name":"Shinna",
     "wof:parent_id":421184221,
     "wof:placetype":"locality",

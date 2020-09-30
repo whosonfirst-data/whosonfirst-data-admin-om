@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675703,
-        421184219
+        421184219,
+        85675703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191143,
-    "wof:lastmodified":1601068390,
+    "wof:lastmodified":1601423086,
     "wof:name":"Al Suwayq",
     "wof:parent_id":421184219,
     "wof:placetype":"locality",

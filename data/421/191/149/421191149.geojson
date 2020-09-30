@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675721,
-        421200937
+        421200937,
+        85675721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191149,
-    "wof:lastmodified":1601068392,
+    "wof:lastmodified":1601423085,
     "wof:name":"Al Mountreb",
     "wof:parent_id":421200937,
     "wof:placetype":"locality",

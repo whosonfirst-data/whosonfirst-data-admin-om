@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        85675709,
-        1108721073
+        1108721073,
+        85675709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191129,
-    "wof:lastmodified":1601068389,
+    "wof:lastmodified":1601423084,
     "wof:name":"Al Harf",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

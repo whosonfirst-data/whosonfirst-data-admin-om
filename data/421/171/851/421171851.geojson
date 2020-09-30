@@ -42,10 +42,10 @@
     "qs:woe_id":55926233,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85675695,
         102191569,
         85632207,
-        421200939
+        421200939,
+        85675695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":421171851,
-    "wof:lastmodified":1601068393,
+    "wof:lastmodified":1601423086,
     "wof:name":"Al Wadi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
