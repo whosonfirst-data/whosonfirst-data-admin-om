@@ -187,6 +187,9 @@
         "Tunis"
     ],
     "name:hun_x_preferred":[
+        "Tunis"
+    ],
+    "name:hun_x_variant":[
         "Tunisz"
     ],
     "name:hye_x_preferred":[
@@ -452,7 +455,7 @@
         }
     ],
     "wof:id":1309798497,
-    "wof:lastmodified":1566672854,
+    "wof:lastmodified":1636496572,
     "wof:name":"Tunis",
     "wof:parent_id":421200933,
     "wof:placetype":"locality",

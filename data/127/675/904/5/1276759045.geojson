@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Sal"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Sal"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:dan_x_preferred":[
         "Sal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644"
     ],
     "name:fin_x_preferred":[
         "Sal"
@@ -92,9 +98,15 @@
     "name:swe_x_preferred":[
         "Sal"
     ],
+    "name:tur_x_preferred":[
+        "Sal"
+    ],
     "name:und_x_variant":[
         "Sall",
         "S\u0101l"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Sal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1276759045,
-    "wof:lastmodified":1566672769,
+    "wof:lastmodified":1636496572,
     "wof:name":"Sal",
     "wof:parent_id":1108721065,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.691793171,16.9924369496,54.691793171,16.9924369496",
+    "geom:bbox":"54.691793,16.992437,54.691793,16.992437",
     "geom:latitude":16.992437,
     "geom:longitude":54.691793,
     "iso:country":"OM",
@@ -21,16 +21,34 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0645\u0631\u0628\u0627\u0637"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09b0\u09ac\u09be\u09a4"
+    ],
     "name:ces_x_preferred":[
         "Mirbat"
     ],
     "name:deu_x_preferred":[
         "Mirbat"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c1\u03bc\u03c0\u03ac\u03c4"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0631\u0628\u0627\u0637"
     ],
     "name:fra_x_preferred":[
+        "Mirbat"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e8\u05d1\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0930\u094d\u092c\u093e\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Mirbat"
+    ],
+    "name:ind_x_preferred":[
         "Mirbat"
     ],
     "name:ita_x_preferred":[
@@ -39,17 +57,47 @@
     "name:jpn_x_preferred":[
         "\u30df\u30eb\u30d0\u30c8"
     ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ub974\ubc14\ud2b8"
+    ],
     "name:msa_x_preferred":[
         "Mirbat"
     ],
     "name:nno_x_preferred":[
         "Mirbat"
     ],
+    "name:pol_x_preferred":[
+        "Mirbat"
+    ],
+    "name:por_x_preferred":[
+        "Mirbat"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u0431\u0430\u0442"
     ],
+    "name:spa_x_preferred":[
+        "Mirbat"
+    ],
+    "name:swe_x_preferred":[
+        "Mirbat"
+    ],
     "name:tur_x_preferred":[
         "Marbat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u0431\u0430\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0631\u0628\u0627\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Mirbat"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7c73\u5c14\u5df4\u7279"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7c73\u723e\u5df4\u7279"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Oman",
@@ -157,7 +205,7 @@
     "wof:concordances":{},
     "wof:country":"OM",
     "wof:created":1499130701,
-    "wof:geomhash":"f753d9c5d2edabfb10b74982bcebf70c",
+    "wof:geomhash":"0b30747bf83773654bab2447cee57d49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,7 +216,7 @@
         }
     ],
     "wof:id":1141907251,
-    "wof:lastmodified":1566672936,
+    "wof:lastmodified":1636496574,
     "wof:name":"Mirbat",
     "wof:parent_id":421186703,
     "wof:placetype":"locality",
@@ -178,10 +226,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.69179317100475,
-    16.99243694962871,
-    54.69179317100475,
-    16.99243694962871
+    54.691793,
+    16.992437,
+    54.691793,
+    16.992437
 ],
-  "geometry": {"coordinates":[54.69179317100475,16.99243694962871],"type":"Point"}
+  "geometry": {"coordinates":[54.691793,16.992437],"type":"Point"}
 }

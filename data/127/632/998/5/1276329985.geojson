@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hun_x_preferred":[
+        "Sadah"
+    ],
     "name:und_x_variant":[
         "\u015ead\u1e29"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276329985,
-    "wof:lastmodified":1566672775,
+    "wof:lastmodified":1636496572,
     "wof:name":"Sadah",
     "wof:parent_id":421203283,
     "wof:placetype":"locality",

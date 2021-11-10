@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Ibri"
     ],
+    "name:hun_x_preferred":[
+        "Ibri"
+    ],
+    "name:spa_x_preferred":[
+        "Ibri"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -45,8 +51,8 @@
     "wof:belongsto":[
         102191569,
         85632207,
-        421187063,
-        85675699
+        85675699,
+        421187063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":421191155,
-    "wof:lastmodified":1601423089,
+    "wof:lastmodified":1636496574,
     "wof:name":"Ibri",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",
