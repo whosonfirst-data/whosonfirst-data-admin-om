@@ -60,6 +60,9 @@
     "name:fra_x_preferred":[
         "Yanqul"
     ],
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u043a\u0443\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "\u064a\u0646\u0642\u0644"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108721101,
-    "wof:lastmodified":1627522488,
+    "wof:lastmodified":1690850218,
     "wof:name":"Yanqul",
     "wof:parent_id":85675699,
     "wof:placetype":"county",

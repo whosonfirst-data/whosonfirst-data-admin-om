@@ -26,6 +26,12 @@
         "\u0646\u0632\u0648\u0649",
         "\u0648\u0644\u0627\u064a\u0629 \u0646\u0632\u0648\u0649"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0647 \u0646\u0632\u0648\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Nizwa"
+    ],
     "name:aze_x_preferred":[
         "Nizv\u0430"
     ],
@@ -50,6 +56,9 @@
     "name:ell_x_preferred":[
         "\u039d\u03af\u03b6\u03b2\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03b9\u03b6\u03bf\u03c5\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Nizwa"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0928\u093f\u091c\u093c\u0935\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u0566\u057e\u0561"
     ],
     "name:ind_x_preferred":[
         "Nizwa"
@@ -125,6 +137,9 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dd2\u0dc3\u0dca\u0dc0\u0dcf"
     ],
+    "name:slv_x_preferred":[
+        "Nizva"
+    ],
     "name:spa_x_preferred":[
         "Nizwa"
     ],
@@ -154,6 +169,9 @@
     ],
     "name:vie_x_preferred":[
         "Nizwa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d0\u10d6\u10d5\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u5179\u74e6"
@@ -285,7 +303,7 @@
         }
     ],
     "wof:id":890443205,
-    "wof:lastmodified":1566672874,
+    "wof:lastmodified":1690850230,
     "wof:name":"Nizw\u00e1",
     "wof:parent_id":421186667,
     "wof:placetype":"locality",

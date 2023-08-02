@@ -38,6 +38,9 @@
         "Muscat",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0633\u0642\u0637"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0441\u043a\u0430\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b8\u09cd\u0995\u09be\u099f \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -125,7 +128,8 @@
         "\uba38\uc2a4\ucea3"
     ],
     "name:kor_x_variant":[
-        "\ubb34\uc2a4\uce74\ud2b8 \uc8fc"
+        "\ubb34\uc2a4\uce74\ud2b8 \uc8fc",
+        "\ubb34\uc2a4\uce74\ud2b8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Muskatas muh\u0101faza"
@@ -153,6 +157,9 @@
     ],
     "name:nob_x_preferred":[
         "Muskat"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0645\u0633\u0642\u0637"
     ],
     "name:pol_x_preferred":[
         "Muhafazat Maskat"
@@ -190,6 +197,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bb8\u0bcd\u0b95\u0b9f\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bb8\u0bcd\u0b95\u0b9f\u0bcd \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0b95\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c38\u0c4d\u0c15\u0c1f\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
@@ -216,6 +226,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Muscat"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u65af\u5580\u7279\u7701"
     ],
     "name:yid_x_preferred":[
         "\u05de\u05d5\u05e1\u05e7\u05d0\u05d8"
@@ -347,7 +360,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636496572,
+    "wof:lastmodified":1690850216,
     "wof:name":"Muscat",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

@@ -114,6 +114,9 @@
     "name:kor_x_preferred":[
         "\ub2e4\ud0ac\ub9ac\uc57c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e4\ud0ac\ub9ac\uc57c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "D\u0101hil\u012bjas mintaka"
     ],
@@ -147,6 +150,9 @@
     "name:sin_x_preferred":[
         "\u0d85\u0da9\u0dca \u0da9\u0d9a\u0dd2\u0dbd\u0dd2\u0dba\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Ad Dakhiliyah Governorate"
+    ],
     "name:spa_x_preferred":[
         "Interior"
     ],
@@ -158,6 +164,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0b9f \u0b9f\u0b95\u0bcd\u0bb9\u0bbf\u0bb2\u0bbf\u0baf\u0bcd\u0baf\u0bb9\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b86\u0ba4\u0bcd \u0ba4\u0b95\u0bbf\u0bb2\u0bbf\u0baf\u0bbe \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0b95\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c26\u0c4d \u0c26\u0c3e\u0c16\u0c3f\u0c32\u0c4d\u0c2f\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -183,6 +192,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ad Dakhiliyah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5185\u5730\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5167\u5730\u7701"
@@ -309,7 +321,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636496570,
+    "wof:lastmodified":1690850214,
     "wof:name":"Ad Dakhliyah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

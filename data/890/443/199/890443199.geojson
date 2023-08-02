@@ -26,6 +26,9 @@
         "\u0635\u0648\u0631",
         "\u0648\u0644\u0627\u064a\u0629 \u0635\u0648\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Sur"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b0"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05d5\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d5\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u0930"
@@ -160,6 +166,9 @@
     ],
     "name:vie_x_preferred":[
         "Sur"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10e3\u10e0\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u82cf\u5c14"
@@ -287,7 +296,7 @@
         }
     ],
     "wof:id":890443199,
-    "wof:lastmodified":1566672874,
+    "wof:lastmodified":1690850230,
     "wof:name":"\u015e\u016br",
     "wof:parent_id":421175629,
     "wof:placetype":"locality",

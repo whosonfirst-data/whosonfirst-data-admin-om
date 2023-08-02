@@ -32,6 +32,9 @@
     "name:dan_x_preferred":[
         "Bidbid"
     ],
+    "name:deu_x_preferred":[
+        "Bidbid"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03af\u03bd\u03c4\u03bc\u03c0\u03b9\u03bd\u03c4"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421203345,
-    "wof:lastmodified":1566672860,
+    "wof:lastmodified":1690850222,
     "wof:name":"\u0628\u062f\u0628\u062f",
     "wof:parent_id":1108721067,
     "wof:placetype":"locality",
