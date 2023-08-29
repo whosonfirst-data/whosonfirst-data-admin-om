@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0648\u0644\u0627\u064a\u0629 \u062e\u0635\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062e\u0635\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Khasab"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b8\u09be\u09ac"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c3\u03ac\u03bc\u03c0"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03c3\u03ac\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Khasab"
@@ -115,6 +124,9 @@
     "name:nob_x_preferred":[
         "Khasab"
     ],
+    "name:pnb_x_preferred":[
+        "\u062e\u0635\u0628"
+    ],
     "name:pol_x_preferred":[
         "Chasab"
     ],
@@ -160,6 +172,9 @@
     "name:vie_x_preferred":[
         "Khasab"
     ],
+    "name:xmf_x_preferred":[
+        "\u10ee\u10d0\u10e1\u10d0\u10d1\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u6d77\u585e\u535c"
     ],
@@ -196,7 +211,7 @@
         }
     ],
     "wof:id":890443207,
-    "wof:lastmodified":1566672874,
+    "wof:lastmodified":1690850230,
     "wof:name":"Kha\u015fab",
     "wof:parent_id":1108721073,
     "wof:placetype":"locality",

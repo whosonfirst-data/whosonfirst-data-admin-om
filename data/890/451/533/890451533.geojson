@@ -18,11 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u062c\u0646\u0632"
+    ],
     "name:aze_x_preferred":[
         "Ras-\u0259l-Cins"
     ],
     "name:deu_x_preferred":[
         "Ras al-Jinz"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c2 \u03b1\u03bb-\u0396\u03bf\u03c5\u03bd\u03b1\u0390\u03b6"
     ],
     "name:eng_x_preferred":[
         "Ras al-Jinz"
@@ -39,8 +45,14 @@
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u0425\u0430\u0434\u0434"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u043b\u044c-\u0414\u0436\u0438\u043d\u0441"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u65af\u963f\u723e\u91d1\u8332"
+    ],
+    "name:zho_x_variant":[
+        "\u91d1\u8332\u89d2"
     ],
     "qs:name":"Ras Al Jniz",
     "qs:name_adm0":"\u0639\u0645\u0627\u0646",
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":890451533,
-    "wof:lastmodified":1566672874,
+    "wof:lastmodified":1690850230,
     "wof:name":"Ras Al Jniz",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

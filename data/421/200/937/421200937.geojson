@@ -49,6 +49,9 @@
     "name:deu_x_preferred":[
         "Bidiyya"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bd\u03c4\u03af\u03b3\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Bidiyah"
     ],
@@ -58,8 +61,14 @@
     "name:fas_x_preferred":[
         "\u0628\u062f\u06cc\u0629"
     ],
+    "name:fin_x_preferred":[
+        "Bidiya"
+    ],
     "name:fra_x_preferred":[
         "Bidiyah"
+    ],
+    "name:fra_x_variant":[
+        "Bidiya"
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30c7\u30a3\u30fc\u30e4"
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":421200937,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1690850226,
     "wof:name":"Bidiyah",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

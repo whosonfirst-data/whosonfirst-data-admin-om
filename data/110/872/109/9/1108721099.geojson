@@ -45,6 +45,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0644\u0648\u0649"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0644\u0648\u0649"
+    ],
     "name:deu_x_preferred":[
         "Liwa"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30fc\u30ef\u5dde"
+    ],
+    "name:nld_x_preferred":[
+        "Liwa"
     ],
     "name:nno_x_preferred":[
         "Liwa-provinsen"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108721099,
-    "wof:lastmodified":1627522487,
+    "wof:lastmodified":1690850218,
     "wof:name":"Liwa",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

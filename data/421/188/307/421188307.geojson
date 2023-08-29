@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Rusayl"
+    ],
     "name:deu_x_preferred":[
         "Ar-Rusail"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421188307,
-    "wof:lastmodified":1566672862,
+    "wof:lastmodified":1690850224,
     "wof:name":"Rusail",
     "wof:parent_id":421187061,
     "wof:placetype":"locality",

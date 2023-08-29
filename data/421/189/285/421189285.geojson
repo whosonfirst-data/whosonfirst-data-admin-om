@@ -64,6 +64,9 @@
     "name:nno_x_preferred":[
         "Manah i Oman"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0445"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421189285,
-    "wof:lastmodified":1627522487,
+    "wof:lastmodified":1690850224,
     "wof:name":"Manah",
     "wof:parent_id":85675681,
     "wof:placetype":"county",

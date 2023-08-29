@@ -130,6 +130,9 @@
     "name:vie_x_preferred":[
         "Suwayq"
     ],
+    "name:zho_x_preferred":[
+        "\u8607\u97cb\u683c"
+    ],
     "qs:name":"As Suwayq",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":890441597,
-    "wof:lastmodified":1566672872,
+    "wof:lastmodified":1690850228,
     "wof:name":"As Suwayq",
     "wof:parent_id":85675703,
     "wof:placetype":"locality",

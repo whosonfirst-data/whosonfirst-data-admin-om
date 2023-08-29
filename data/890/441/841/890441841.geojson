@@ -153,7 +153,7 @@
         "\u0e1a\u0e32\u0e23\u0e4c\u0e01\u0e32"
     ],
     "name:tha_x_variant":[
-        "\u0e1a\u0e32\u0e23\u0e4c\u0e01\u0e32"
+        "\u0e1a\u0e32\u0e23\u0e4c\u0e01\u0e32 "
     ],
     "name:tur_x_preferred":[
         "Barka"
@@ -172,6 +172,9 @@
     ],
     "name:vie_x_preferred":[
         "Barka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u5361"
     ],
     "qs:name":"\u0628\u0631\u0643\u0627\u0621",
     "qs:name_adm0":"\u0639\u0645\u0627\u0646",
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":890441841,
-    "wof:lastmodified":1587163142,
+    "wof:lastmodified":1690850229,
     "wof:name":"Barka",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

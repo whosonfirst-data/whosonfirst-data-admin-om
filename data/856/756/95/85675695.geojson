@@ -64,6 +64,9 @@
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03c6\u03ac\u03c1"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039d\u03c4\u03bf\u03c6\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Zufar"
     ],
@@ -114,11 +117,17 @@
     "name:kor_x_preferred":[
         "\ub3c4\ud30c\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\ud30c\ub974\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Dofaras muh\u0101faza"
     ],
     "name:lit_x_preferred":[
         "Dofaras"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d26\u0d4b\u0d2b\u0d3e\u0d7c \u0d17\u0d35\u0d7c\u0d23\u0d31\u0d47\u0d31\u0d4d\u0d31\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0922\u094b\u092b\u093e\u0930 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
@@ -182,6 +191,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Dhofar"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f50\u6cd5\u5c14\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4f50\u6cd5\u723e\u7701"
@@ -306,7 +318,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636496570,
+    "wof:lastmodified":1690850213,
     "wof:name":"Dhofar",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

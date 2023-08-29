@@ -47,8 +47,14 @@
     "name:amh_x_preferred":[
         "\u12a6\u121b\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Oman"
+    ],
     "name:ang_x_preferred":[
         "Oman"
+    ],
+    "name:anp_x_preferred":[
+        "\u0913\u092e\u093e\u0928"
     ],
     "name:ara_x_preferred":[
         "\u0639\u0645\u0627\u0646",
@@ -76,6 +82,9 @@
     "name:ast_x_preferred":[
         "Om\u00e1n"
     ],
+    "name:awa_x_preferred":[
+        "\u0913\u092e\u093e\u0928"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0648\u0645\u0627\u0646"
     ],
@@ -87,6 +96,9 @@
     ],
     "name:bam_x_preferred":[
         "Oma\u014b"
+    ],
+    "name:ban_x_preferred":[
+        "Oman"
     ],
     "name:bar_x_preferred":[
         "Oman"
@@ -102,6 +114,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0913\u092e\u093e\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Oman"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f7c\u0f0b\u0f58\u0f53\u0f0d"
@@ -164,6 +179,9 @@
         "\u00d2man"
     ],
     "name:cym_x_preferred":[
+        "Oman"
+    ],
+    "name:dag_x_preferred":[
         "Oman"
     ],
     "name:dan_x_preferred":[
@@ -250,6 +268,9 @@
     "name:ful_x_preferred":[
         "Omaan"
     ],
+    "name:ful_x_variant":[
+        "Oman"
+    ],
     "name:gag_x_preferred":[
         "Oman"
     ],
@@ -276,6 +297,9 @@
     ],
     "name:gom_x_preferred":[
         "\u0913\u092e\u093e\u0928"
+    ],
+    "name:gpe_x_preferred":[
+        "Oman"
     ],
     "name:grn_x_preferred":[
         "Om\u00e3"
@@ -386,6 +410,9 @@
     "name:kas_x_preferred":[
         "\u0913\u092e\u093e\u0928"
     ],
+    "name:kas_x_variant":[
+        "\u0639\u064f\u0645\u0627\u0646"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10db\u10d0\u10dc\u10d8"
     ],
@@ -461,6 +488,9 @@
     "name:lit_x_preferred":[
         "Omanas"
     ],
+    "name:lld_x_preferred":[
+        "Oman"
+    ],
     "name:lmo_x_preferred":[
         "Oman"
     ],
@@ -482,6 +512,9 @@
     "name:lzh_x_preferred":[
         "\u963f\u66fc"
     ],
+    "name:mad_x_preferred":[
+        "Oman"
+    ],
     "name:mai_x_preferred":[
         "\u0913\u092e\u093e\u0928"
     ],
@@ -490,6 +523,12 @@
     ],
     "name:mar_x_preferred":[
         "\u0913\u092e\u093e\u0928"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041e\u043c\u0430\u043d"
+    ],
+    "name:min_x_preferred":[
+        "Oman"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043c\u0430\u043d"
@@ -502,6 +541,9 @@
     ],
     "name:mlt_x_preferred":[
         "Oman"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe3\uabc3\uabe5\uabdf"
     ],
     "name:mon_x_preferred":[
         "\u041e\u043c\u0430\u043d"
@@ -662,6 +704,9 @@
     "name:sgs_x_preferred":[
         "Omans"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1022\u1030\u101d\u103a\u1087\u1019\u1062\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0d95\u0db8\u0dcf\u0db1\u0dba"
     ],
@@ -674,8 +719,14 @@
     "name:sme_x_preferred":[
         "Oman"
     ],
+    "name:smn_x_preferred":[
+        "Oman"
+    ],
     "name:smo_x_preferred":[
         "Oman"
+    ],
+    "name:sms_x_preferred":[
+        "Omaan"
     ],
     "name:sna_x_preferred":[
         "Oman"
@@ -758,10 +809,16 @@
     "name:tir_x_preferred":[
         "\u12a6\u121b\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Uman"
+    ],
     "name:ton_x_preferred":[
         "\u02bbOmani"
     ],
     "name:tpi_x_preferred":[
+        "Oman"
+    ],
+    "name:trv_x_preferred":[
         "Oman"
     ],
     "name:tuk_x_preferred":[
@@ -796,6 +853,9 @@
         "Ummon"
     ],
     "name:uzb_x_variant":[
+        "Oman"
+    ],
+    "name:vec_x_preferred":[
         "Oman"
     ],
     "name:vep_x_preferred":[
@@ -1079,7 +1139,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1617827433,
+    "wof:lastmodified":1690850213,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

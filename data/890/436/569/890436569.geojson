@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0639\u0628\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0628\u0631\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09ac\u09cd\u09b0\u09bf"
     ],
@@ -154,6 +157,9 @@
     "name:vie_x_preferred":[
         "Ibri"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d8\u10d1\u10e0\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u4f0a\u535c\u91cc"
     ],
@@ -280,7 +286,7 @@
         }
     ],
     "wof:id":890436569,
-    "wof:lastmodified":1566672873,
+    "wof:lastmodified":1690850229,
     "wof:name":"\u2018Ibr\u012b",
     "wof:parent_id":421187063,
     "wof:placetype":"locality",

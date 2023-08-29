@@ -49,6 +49,9 @@
     "name:ces_x_preferred":[
         "Dalkut"
     ],
+    "name:ces_x_variant":[
+        "Dalk\u00fat"
+    ],
     "name:deu_x_preferred":[
         "Dalkut"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421189277,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1690850223,
     "wof:name":"Dalkut",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

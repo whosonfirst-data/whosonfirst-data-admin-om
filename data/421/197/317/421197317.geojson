@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0644\u0639\u0629 \u0628\u0647\u0644\u0627\u0621"
     ],
+    "name:bak_x_preferred":[
+        "\u0411\u0430\u0445\u043b\u0430 \u04a1\u04d9\u043b\u0493\u04d9\u04bb\u0435"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b9\u09b2\u09be \u09a6\u09c2\u09b0\u09cd\u0997"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:hrv_x_preferred":[
         "Utvrda Bahla"
+    ],
+    "name:hun_x_preferred":[
+        "Bahla-er\u0151d"
     ],
     "name:ind_x_preferred":[
         "Benteng Bahla"
@@ -77,6 +83,9 @@
     "name:slk_x_preferred":[
         "Kal'a Bahl\u00e1"
     ],
+    "name:slv_x_preferred":[
+        "Trdnjava Bahla"
+    ],
     "name:swe_x_preferred":[
         "Bahlafortet"
     ],
@@ -91,6 +100,9 @@
     ],
     "name:und_x_variant":[
         "Bahlah"
+    ],
+    "name:uzb_x_preferred":[
+        "Bahla qal'asi"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u8d6b\u83b1\u8981\u585e"
@@ -142,7 +154,7 @@
         }
     ],
     "wof:id":421197317,
-    "wof:lastmodified":1566672866,
+    "wof:lastmodified":1690850225,
     "wof:name":"\u0628\u0647\u0644\u0627\u0621",
     "wof:parent_id":421189279,
     "wof:placetype":"locality",
