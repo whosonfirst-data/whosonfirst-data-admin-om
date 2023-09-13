@@ -1069,8 +1069,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_date":"2016",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"968",
     "statoids:ds":"",
     "statoids:fifa":"OMA",
@@ -1143,7 +1142,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694492063,
+    "wof:lastmodified":1694639517,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
