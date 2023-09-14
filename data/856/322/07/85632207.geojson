@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1970~",
     "geom:area":26.741142,
-    "geom:area_square_m":309302374506.22168,
+    "geom:area_square_m":309302374506.195068,
     "geom:bbox":"52.0,16.650084,59.837917,26.505472",
     "geom:latitude":20.597544,
     "geom:longitude":56.105754,
@@ -15,6 +15,9 @@
     "iso:country":"OM",
     "itu:country_code":[
         "968"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "OM"
@@ -1065,8 +1068,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2016",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"968",
     "statoids:ds":"",
     "statoids:fifa":"OMA",
@@ -1125,7 +1128,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"84f717399ec28409718334918ceb8784",
+    "wof:geomhash":"1240a874f55af31a6ab2ff930c1a850c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1139,12 +1142,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850213,
+    "wof:lastmodified":1694639517,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":4424762,
-    "wof:population_rank":12,
+    "wof:population":4974986,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-om",
     "wof:shortcode":"OM",
     "wof:superseded_by":[],
