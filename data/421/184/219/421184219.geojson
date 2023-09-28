@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088728,
-    "geom:area_square_m":1004125919.845066,
+    "geom:area_square_m":1004125418.602148,
     "geom:bbox":"57.041131,23.565626,57.536074,23.946758",
     "geom:latitude":23.762739,
     "geom:longitude":57.266512,
@@ -98,12 +98,13 @@
         "hasc:id":"OM.BN.SU",
         "qs_pg:id":991471
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009404,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a0e69c185a30fc1f1a54b9e488b5271f",
+    "wof:geomhash":"f9670d3a3435c7ed27bb0f5007774227",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421184219,
-    "wof:lastmodified":1627522487,
+    "wof:lastmodified":1695886122,
     "wof:name":"As Suwayq",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

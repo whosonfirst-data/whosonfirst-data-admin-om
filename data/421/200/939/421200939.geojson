@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.420615,
-    "geom:area_square_m":4968492401.575013,
+    "geom:area_square_m":4968492116.009212,
     "geom:bbox":"52.976429,16.853315,54.671816,17.636991",
     "geom:latitude":17.195464,
     "geom:longitude":53.857933,
@@ -267,12 +267,13 @@
         "qs_pg:id":900290,
         "wd:id":"Q1294439"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459010046,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0e2fc0440a4fb06e90c9c34a964be724",
+    "wof:geomhash":"efe043a44e6b10ffe49266cb154d61cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -282,7 +283,7 @@
         }
     ],
     "wof:id":421200939,
-    "wof:lastmodified":1690850226,
+    "wof:lastmodified":1695886700,
     "wof:name":"Salalah",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

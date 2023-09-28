@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.871036,
-    "geom:area_square_m":32780459430.513554,
+    "geom:area_square_m":32780456860.17931,
     "geom:bbox":"55.21335,21.340868,57.142504,23.727186",
     "geom:latitude":22.572834,
     "geom:longitude":56.123383,
@@ -167,12 +167,13 @@
         "hasc:id":"OM.DH.IB",
         "qs_pg:id":1079195
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009500,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3a59eafef027988930ae242c58fa91d4",
+    "wof:geomhash":"2f99a63d0ed5b53414f0c0aa0a609445",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421187063,
-    "wof:lastmodified":1636496573,
+    "wof:lastmodified":1695886723,
     "wof:name":"Ibri",
     "wof:parent_id":85675699,
     "wof:placetype":"county",

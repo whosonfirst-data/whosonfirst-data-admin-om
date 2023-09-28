@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143135,
-    "geom:area_square_m":1634116517.811733,
+    "geom:area_square_m":1634115913.558047,
     "geom:bbox":"58.42224,22.13,58.932002,22.91312",
     "geom:latitude":22.588151,
     "geom:longitude":58.656839,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"OM.SN.QA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131186,
-    "wof:geomhash":"3737e6deb4c0375317a3f5b18ab1a5c0",
+    "wof:geomhash":"38578e54bd63feb4ec0dbce41af24aad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108721059,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1695886121,
     "wof:name":"Al Qabil",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

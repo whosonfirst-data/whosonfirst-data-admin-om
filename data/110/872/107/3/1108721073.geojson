@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086979,
-    "geom:area_square_m":965907639.337519,
+    "geom:area_square_m":965907845.781597,
     "geom:bbox":"56.174804,25.842354,56.542027,26.505472",
     "geom:latitude":26.091631,
     "geom:longitude":56.319254,
@@ -213,9 +213,10 @@
         "hasc:id":"OM.MU.KH",
         "wd:id":"Q426646"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131193,
-    "wof:geomhash":"5bb959b363fc128a6fdd6cf18e0d715b",
+    "wof:geomhash":"f5f0140ad4c406d0b9c4f3da0e284f79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":1108721073,
-    "wof:lastmodified":1690850219,
+    "wof:lastmodified":1695886593,
     "wof:name":"Khasab",
     "wof:parent_id":85675709,
     "wof:placetype":"county",

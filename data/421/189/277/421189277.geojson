@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059012,
-    "geom:area_square_m":698428522.101583,
+    "geom:area_square_m":698427580.375991,
     "geom:bbox":"52.930649,16.650084,53.348521,17.081828",
     "geom:latitude":16.868696,
     "geom:longitude":53.091456,
@@ -123,12 +123,13 @@
         "qs_pg:id":1111548,
         "wd:id":"Q826618"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009616,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f91d3e4a649881c7f7a455a8353c41a2",
+    "wof:geomhash":"b8ec0f6529fba97ab2c18b1a29385e53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421189277,
-    "wof:lastmodified":1690850223,
+    "wof:lastmodified":1695886120,
     "wof:name":"Dalkut",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

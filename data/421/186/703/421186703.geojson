@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072961,
-    "geom:area_square_m":862358665.035155,
+    "geom:area_square_m":862358743.652396,
     "geom:bbox":"54.424496,16.936222,54.871606,17.216562",
     "geom:latitude":17.085423,
     "geom:longitude":54.666575,
@@ -177,12 +177,13 @@
         "qs_pg:id":1090201,
         "wd:id":"Q1938064"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009489,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"39d8b60d39a0aeb4b1300144fc5e39c9",
+    "wof:geomhash":"0b42cd9b6010284d3548a039ce85ede4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":421186703,
-    "wof:lastmodified":1636496573,
+    "wof:lastmodified":1695886723,
     "wof:name":"Mirbat",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

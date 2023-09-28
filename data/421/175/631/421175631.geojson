@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05807,
-    "geom:area_square_m":672967114.739751,
+    "geom:area_square_m":672967114.874321,
     "geom:bbox":"58.598721,20.158722,58.96125,20.697056",
     "geom:latitude":20.411095,
     "geom:longitude":58.776762,
@@ -198,12 +198,13 @@
         "qs_pg:id":383462,
         "wd:id":"Q1793853"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009074,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aff3a50ed570c5eeb2db1c0cbef01839",
+    "wof:geomhash":"85fa9f0b54e496c92419134932fd5e47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -213,7 +214,7 @@
         }
     ],
     "wof:id":421175631,
-    "wof:lastmodified":1690850225,
+    "wof:lastmodified":1695886699,
     "wof:name":"Masirah",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

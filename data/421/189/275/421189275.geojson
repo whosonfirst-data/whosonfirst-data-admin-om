@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089138,
-    "geom:area_square_m":1052763426.468157,
+    "geom:area_square_m":1052763096.020427,
     "geom:bbox":"54.2359,17.030817,54.657475,17.403186",
     "geom:latitude":17.227574,
     "geom:longitude":54.443421,
@@ -120,12 +120,13 @@
         "qs_pg:id":1111547,
         "wd:id":"Q1023534"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009615,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f53d496d0ebbe93bcd6f18b54ca86365",
+    "wof:geomhash":"d0cfd8e0fcf9eee31331d7685d3c54aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421189275,
-    "wof:lastmodified":1690850223,
+    "wof:lastmodified":1695886699,
     "wof:name":"Taqah",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.420405,
-    "geom:area_square_m":16574128840.084793,
+    "geom:area_square_m":16574128466.510818,
     "geom:bbox":"53.769977,18.458778,55.686817,19.999712",
     "geom:latitude":19.308735,
     "geom:longitude":54.744359,
@@ -98,12 +98,13 @@
         "hasc:id":"OM.JA.MU",
         "qs_pg:id":233880
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459008846,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de2d7817ad848f7909e6504543ea465a",
+    "wof:geomhash":"27d73b1f9d2d044b4bccbc481a3d2cb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421170285,
-    "wof:lastmodified":1627522487,
+    "wof:lastmodified":1695886122,
     "wof:name":"Muqshin",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056359,
-    "geom:area_square_m":639956740.766066,
+    "geom:area_square_m":639956708.873807,
     "geom:bbox":"58.043994,23.050384,58.390161,23.508344",
     "geom:latitude":23.319585,
     "geom:longitude":58.229057,
@@ -183,9 +183,10 @@
         "hasc:id":"OM.DA.BB",
         "wd:id":"Q547202"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131190,
-    "wof:geomhash":"04053731390c029b5c5ae99798cd1d02",
+    "wof:geomhash":"6ef71f9c808e2e50295703672a2d2b20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":1108721067,
-    "wof:lastmodified":1690850219,
+    "wof:lastmodified":1695886593,
     "wof:name":"Bidbid",
     "wof:parent_id":85675681,
     "wof:placetype":"county",

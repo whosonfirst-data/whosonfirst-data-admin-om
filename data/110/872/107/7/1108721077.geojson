@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146931,
-    "geom:area_square_m":1672174064.619857,
+    "geom:area_square_m":1672173668.177314,
     "geom:bbox":"58.340491,22.752133,59.090651,23.245368",
     "geom:latitude":23.018257,
     "geom:longitude":58.665864,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"OM.SN.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131196,
-    "wof:geomhash":"14c83c8c433df8300b2eb372e343cfb1",
+    "wof:geomhash":"bcd42d9bb07ca30e9eacc3e644dfcc8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721077,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1695886122,
     "wof:name":"Dama Wa At Taiyin",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

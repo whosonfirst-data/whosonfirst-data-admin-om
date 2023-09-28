@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.826384,
-    "geom:area_square_m":20981900296.29533,
+    "geom:area_square_m":20981899998.017395,
     "geom:bbox":"56.527701,20.898462,58.076736,22.600891",
     "geom:latitude":21.704838,
     "geom:longitude":57.342008,
@@ -111,9 +111,10 @@
         "hasc:id":"OM.DA.AD",
         "wd:id":"Q2823918"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131178,
-    "wof:geomhash":"b2977781c755365d4b21c0d40b7da62b",
+    "wof:geomhash":"e90433435f59a319727cf3550f7a340c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108721053,
-    "wof:lastmodified":1690850217,
+    "wof:lastmodified":1695886593,
     "wof:name":"Adam",
     "wof:parent_id":85675681,
     "wof:placetype":"county",

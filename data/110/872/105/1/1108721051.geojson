@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108138,
-    "geom:area_square_m":1232871710.337659,
+    "geom:area_square_m":1232871899.335503,
     "geom:bbox":"58.286838,22.557694,58.722787,22.986543",
     "geom:latitude":22.777223,
     "geom:longitude":58.468089,
@@ -129,9 +129,10 @@
         "hasc:id":"OM.SN.IB",
         "wd:id":"Q1655950"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131177,
-    "wof:geomhash":"14f9c8d3fa76d0eca9a9eb6645cef040",
+    "wof:geomhash":"da2533048165c7db023c1a36f60c3bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108721051,
-    "wof:lastmodified":1690850217,
+    "wof:lastmodified":1695886593,
     "wof:name":"Ibra",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

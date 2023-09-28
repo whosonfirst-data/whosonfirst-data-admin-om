@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076857,
-    "geom:area_square_m":877149895.767854,
+    "geom:area_square_m":877149848.827023,
     "geom:bbox":"58.839035,22.486795,59.230122,22.81767",
     "geom:latitude":22.63439,
     "geom:longitude":59.017094,
@@ -117,9 +117,10 @@
         "hasc:id":"OM.SN.WK",
         "wd:id":"Q6398583"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131203,
-    "wof:geomhash":"1c16e60bf0a1f0ea96fbe0840af9bb28",
+    "wof:geomhash":"eb0323f586bd31de0266beb31526af81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108721089,
-    "wof:lastmodified":1690850220,
+    "wof:lastmodified":1695886124,
     "wof:name":"Wadi Bani Khalid",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

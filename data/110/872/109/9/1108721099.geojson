@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065712,
-    "geom:area_square_m":739565742.204977,
+    "geom:area_square_m":739565812.69793,
     "geom:bbox":"56.194674,24.309149,56.617545,24.602867",
     "geom:latitude":24.468893,
     "geom:longitude":56.406232,
@@ -99,9 +99,10 @@
         "hasc:id":"OM.BN.LI",
         "wd:id":"Q4165487"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131207,
-    "wof:geomhash":"7d8265f9fda61ae7f888c19e0b5db43d",
+    "wof:geomhash":"4d491618c5a5c53a7c008555af5f979f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108721099,
-    "wof:lastmodified":1690850218,
+    "wof:lastmodified":1695886123,
     "wof:name":"Liwa",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.475475,
-    "geom:area_square_m":5461844171.945563,
+    "geom:area_square_m":5461844604.220783,
     "geom:bbox":"58.589499,20.969292,59.711015,22.426646",
     "geom:latitude":21.718902,
     "geom:longitude":59.071706,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"OM.SS.JH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131191,
-    "wof:geomhash":"7ea41f7603fd5563c64e2be883bd7513",
+    "wof:geomhash":"efdaf0f20b2f9a7d96dac8098ed4e3f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721069,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1695886121,
     "wof:name":"Jaalan Bani Bu Hasan",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

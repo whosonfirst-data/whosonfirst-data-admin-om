@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132972,
-    "geom:area_square_m":1502622359.811327,
+    "geom:area_square_m":1502622384.025005,
     "geom:bbox":"56.555485,23.597033,57.054506,24.239812",
     "geom:latitude":23.952703,
     "geom:longitude":56.789803,
@@ -183,9 +183,10 @@
         "hasc:id":"OM.BN.SA",
         "wd:id":"Q3461496"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131200,
-    "wof:geomhash":"354873df63a9a23e6466a3eac42ca39d",
+    "wof:geomhash":"bf0ddabfffb730385b7edb7ac26e2b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":1108721083,
-    "wof:lastmodified":1690850220,
+    "wof:lastmodified":1695886593,
     "wof:name":"Saham",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

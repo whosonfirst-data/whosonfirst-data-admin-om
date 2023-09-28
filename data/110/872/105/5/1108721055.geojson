@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136313,
-    "geom:area_square_m":1554075239.902114,
+    "geom:area_square_m":1554075239.901965,
     "geom:bbox":"57.6210705821,22.450555,58.0073285084,23.0878928152",
     "geom:latitude":22.778262,
     "geom:longitude":57.808801,
@@ -107,9 +107,10 @@
     "wof:concordances":{
         "hasc:id":"OM.DA.IZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131184,
-    "wof:geomhash":"a0b9756d1f8e1c7281a7c556e0849946",
+    "wof:geomhash":"39382ac65683fbd2f99aa8a1369320d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108721055,
-    "wof:lastmodified":1566672824,
+    "wof:lastmodified":1695886593,
     "wof:name":"Izki",
     "wof:parent_id":85675681,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093831,
-    "geom:area_square_m":1053961419.53376,
+    "geom:area_square_m":1053961536.66627,
     "geom:bbox":"56.17695,24.535123,56.552364,24.981369",
     "geom:latitude":24.713982,
     "geom:longitude":56.343866,
@@ -135,12 +135,13 @@
         "qs_pg:id":986740,
         "wd:id":"Q3482179"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009396,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3722c7110a8e401183491dd7175b128",
+    "wof:geomhash":"f4705fe6f14a3a0ffb251fc770745967",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421183959,
-    "wof:lastmodified":1690850227,
+    "wof:lastmodified":1695886700,
     "wof:name":"Shinas",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

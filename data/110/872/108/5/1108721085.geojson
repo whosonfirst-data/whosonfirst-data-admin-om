@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170566,
-    "geom:area_square_m":1931672102.899731,
+    "geom:area_square_m":1931672853.894599,
     "geom:bbox":"55.965154,23.357528,56.58557,24.013653",
     "geom:latitude":23.667668,
     "geom:longitude":56.23005,
@@ -90,9 +90,10 @@
         "hasc:id":"OM.DH.DA",
         "wd:id":"Q6406928"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131201,
-    "wof:geomhash":"743e11062f849a321e80efdeedee74cb",
+    "wof:geomhash":"3cdb1cf86e5308e2e958b6760af637d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108721085,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1695886122,
     "wof:name":"Dank",
     "wof:parent_id":85675699,
     "wof:placetype":"county",

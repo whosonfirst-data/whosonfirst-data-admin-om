@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.63904,
-    "geom:area_square_m":19252735399.489304,
+    "geom:area_square_m":19252735190.522533,
     "geom:bbox":"54.142884,17.461486,56.356194,18.951729",
     "geom:latitude":18.200269,
     "geom:longitude":55.283062,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"OM.JA.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131198,
-    "wof:geomhash":"647931dbb3464261bf2a11e4613d509f",
+    "wof:geomhash":"e0c21f859e6eff0b7356452d999d5796",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721081,
-    "wof:lastmodified":1627522487,
+    "wof:lastmodified":1695886123,
     "wof:name":"Shalim Wa Juzor Al Hallaniyat",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

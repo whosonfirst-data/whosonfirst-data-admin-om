@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1785,
-    "geom:area_square_m":2013421614.678419,
+    "geom:area_square_m":2013422520.326717,
     "geom:bbox":"56.279532,23.829447,56.843269,24.512519",
     "geom:latitude":24.186563,
     "geom:longitude":56.532516,
@@ -240,12 +240,13 @@
         "qs_pg:id":169506,
         "wd:id":"Q943270"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009829,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e402ad12045d1eec6beaf823906edb8",
+    "wof:geomhash":"d43b48010ef08834ba20dd339ad1dab4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -255,7 +256,7 @@
         }
     ],
     "wof:id":421195037,
-    "wof:lastmodified":1690850220,
+    "wof:lastmodified":1695886699,
     "wof:name":"Sohar",
     "wof:parent_id":85675703,
     "wof:placetype":"county",
