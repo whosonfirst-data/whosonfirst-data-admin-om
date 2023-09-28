@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.663373,
-    "geom:area_square_m":7486682234.783645,
+    "geom:area_square_m":7486681623.359944,
     "geom:bbox":"55.417738,23.337031,56.402688,25.005936",
     "geom:latitude":24.114599,
     "geom:longitude":55.915546,
@@ -292,17 +292,19 @@
         "gn:id":7110710,
         "gp:id":55927046,
         "hasc:id":"OM.BU",
+        "iso:code":"OM-BU",
         "iso:id":"OM-BU",
         "qs_pg:id":1086748,
         "unlc:id":"OM-BU",
         "wd:id":"Q852039",
         "wk:page":"Al Buraimi Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ffc6f719dc5d5c54d93141f88de83214",
+    "wof:geomhash":"1feb31aa038491faf1946eb224564a21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -317,7 +319,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850215,
+    "wof:lastmodified":1695884355,
     "wof:name":"Al Buraymi",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

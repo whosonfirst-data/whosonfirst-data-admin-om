@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151609,
-    "geom:area_square_m":1685625508.442989,
+    "geom:area_square_m":1685624871.784182,
     "geom:bbox":"56.087002,25.227219,56.542027,26.505472",
     "geom:latitude":25.951337,
     "geom:longitude":56.286453,
@@ -308,16 +308,18 @@
         "gn:id":411741,
         "gp:id":4693371,
         "hasc:id":"OM.MU",
+        "iso:code":"OM-MU",
         "iso:id":"OM-MU",
         "qs_pg:id":1155898,
         "unlc:id":"OM-MU",
         "wd:id":"Q372144"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"86e9615aac84f91e5324b95717713068",
+    "wof:geomhash":"6e3827f4e4119e5aee4aa9a491dda126",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -332,7 +334,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850216,
+    "wof:lastmodified":1695884355,
     "wof:name":"Musandam",
     "wof:parent_id":85632207,
     "wof:placetype":"region",
