@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.469248,
-    "geom:area_square_m":5322268549.168267,
+    "geom:area_square_m":5322268049.967391,
     "geom:bbox":"57.010072,23.119191,58.093925,23.853045",
     "geom:latitude":23.470512,
     "geom:longitude":57.570525,
@@ -227,15 +227,17 @@
         "fips:code":"MU02",
         "gp:id":7038775,
         "hasc:id":"OM.BS",
+        "iso:code":"OM-BJ",
         "iso:id":"OM-BJ",
         "qs_pg:id":216507,
         "wd:id":"Q4703565"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"215823549819cbcfe4ae889b5aa2c28d",
+    "wof:geomhash":"64deccd10bcd97fb64cbacc1172f3362",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -250,7 +252,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850215,
+    "wof:lastmodified":1695884842,
     "wof:name":"Al Batnah South",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

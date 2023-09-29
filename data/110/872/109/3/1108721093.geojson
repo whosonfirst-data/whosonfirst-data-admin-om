@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008004,
-    "geom:area_square_m":89498576.822736,
+    "geom:area_square_m":89498413.294103,
     "geom:bbox":"56.207978,25.227219,56.351526,25.330452",
     "geom:latitude":25.276292,
     "geom:longitude":56.279652,
@@ -172,12 +172,13 @@
         "hasc:id":"OM.MU.MA",
         "wd:id":"Q1883385"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131205,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"82966f19c023f5ec07dfa4d4fe4626fd",
+    "wof:geomhash":"32817c59f12d5904d195c44645c84b36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":1108721093,
-    "wof:lastmodified":1690850218,
+    "wof:lastmodified":1695886699,
     "wof:name":"Madha",
     "wof:parent_id":85675709,
     "wof:placetype":"county",

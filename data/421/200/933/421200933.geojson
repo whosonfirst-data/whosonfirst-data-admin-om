@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094152,
-    "geom:area_square_m":1068742729.767833,
+    "geom:area_square_m":1068742661.028113,
     "geom:bbox":"58.306742,23.156827,58.661453,23.574208",
     "geom:latitude":23.36415,
     "geom:longitude":58.505997,
@@ -98,12 +98,13 @@
         "hasc:id":"OM.MA.AM",
         "qs_pg:id":900287
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459010046,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0cb38ac8ffd8bedd6f4871d84cb10bb",
+    "wof:geomhash":"e62490e96f64f62f73e9ae20ab7efc86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421200933,
-    "wof:lastmodified":1627522485,
+    "wof:lastmodified":1695886120,
     "wof:name":"Al Amrat",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

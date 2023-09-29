@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266962,
-    "geom:area_square_m":3151584445.745063,
+    "geom:area_square_m":3151584276.617482,
     "geom:bbox":"54.614428,16.958694,55.305416,17.590005",
     "geom:latitude":17.306378,
     "geom:longitude":54.956415,
@@ -126,12 +126,13 @@
         "qs_pg:id":230856,
         "wd:id":"Q677777"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459010146,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"577f86928d70ad90c88894bf6193733c",
+    "wof:geomhash":"9545baa265e5c345d2a2880524f80e00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421203283,
-    "wof:lastmodified":1690850222,
+    "wof:lastmodified":1695886723,
     "wof:name":"Sadah",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

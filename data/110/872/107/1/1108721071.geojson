@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.267712,
-    "geom:area_square_m":3073062462.794952,
+    "geom:area_square_m":3073061746.89811,
     "geom:bbox":"58.739015,20.9691,59.826221,22.364503",
     "geom:latitude":21.821699,
     "geom:longitude":59.401484,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"OM.SS.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131192,
-    "wof:geomhash":"bb34f7662f1ca4cf1f79417acdd56162",
+    "wof:geomhash":"dac0168fa23524f8292ef574ee9a1d94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721071,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1695886121,
     "wof:name":"Jaalan Bani Bu Ali",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

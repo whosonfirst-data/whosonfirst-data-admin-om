@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.806216,
-    "geom:area_square_m":9410324736.963566,
+    "geom:area_square_m":9410325380.93392,
     "geom:bbox":"56.490132,18.686908,57.847916,20.004862",
     "geom:latitude":19.270808,
     "geom:longitude":57.273585,
@@ -98,12 +98,13 @@
         "hasc:id":"OM.WU.DU",
         "qs_pg:id":996312
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009410,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c82174b6932a3b828fe67cf8f324e496",
+    "wof:geomhash":"a4ce73948d8e2c265152e6adec850022",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421184415,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1695886120,
     "wof:name":"Ad Duqm",
     "wof:parent_id":85675685,
     "wof:placetype":"county",

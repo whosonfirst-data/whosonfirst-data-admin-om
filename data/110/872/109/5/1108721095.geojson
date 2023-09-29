@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008107,
-    "geom:area_square_m":91862764.565163,
+    "geom:area_square_m":91862685.476831,
     "geom:bbox":"58.472814,23.531037,58.592369,23.680416",
     "geom:latitude":23.591427,
     "geom:longitude":58.537623,
@@ -207,9 +207,10 @@
         "hasc:id":"OM.MA.MT",
         "wd:id":"Q1166791"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131206,
-    "wof:geomhash":"b8cf476db482b28d2fd0e3ca05b71c41",
+    "wof:geomhash":"72a8bb423007813c10a1be6c8c255129",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":1108721095,
-    "wof:lastmodified":1690850219,
+    "wof:lastmodified":1695886593,
     "wof:name":"Mutrah",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

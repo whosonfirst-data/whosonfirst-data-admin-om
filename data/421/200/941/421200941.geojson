@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199846,
-    "geom:area_square_m":2267145092.502418,
+    "geom:area_square_m":2267144859.252547,
     "geom:bbox":"57.010072,23.153012,57.645223,23.684235",
     "geom:latitude":23.443289,
     "geom:longitude":57.334475,
@@ -98,12 +98,13 @@
         "hasc:id":"OM.BS.RU",
         "qs_pg:id":900291
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459010046,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"341dcd51a2473f250f6d8b07900dc944",
+    "wof:geomhash":"0eb78b9acfc4403dd657e0c3a7cc5d51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421200941,
-    "wof:lastmodified":1627522487,
+    "wof:lastmodified":1695886123,
     "wof:name":"Ar Rustaq",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

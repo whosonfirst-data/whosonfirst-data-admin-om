@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042839,
-    "geom:area_square_m":486035790.510844,
+    "geom:area_square_m":486035831.644959,
     "geom:bbox":"57.672053,23.161678,57.98833,23.592215",
     "geom:latitude":23.430781,
     "geom:longitude":57.796729,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"OM.BS.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131202,
-    "wof:geomhash":"5c903227ec6c80e2e9542453e532767b",
+    "wof:geomhash":"280626b09eb0eb2845263c28d6d26707",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721087,
-    "wof:lastmodified":1627522488,
+    "wof:lastmodified":1695886124,
     "wof:name":"Wadi Al Maawil",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

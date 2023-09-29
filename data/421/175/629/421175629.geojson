@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166505,
-    "geom:area_square_m":1901238369.426596,
+    "geom:area_square_m":1901238029.162339,
     "geom:bbox":"59.015268,22.226064,59.837917,22.883213",
     "geom:latitude":22.565124,
     "geom:longitude":59.417467,
@@ -240,12 +240,13 @@
         "qs_pg:id":383459,
         "wd:id":"Q737270"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009074,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"456d0c8c586c58025a49d14a3b396e7b",
+    "wof:geomhash":"2ca82d3f3343881682133583c4e0cf2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -255,7 +256,7 @@
         }
     ],
     "wof:id":421175629,
-    "wof:lastmodified":1690850225,
+    "wof:lastmodified":1695886723,
     "wof:name":"Sur",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

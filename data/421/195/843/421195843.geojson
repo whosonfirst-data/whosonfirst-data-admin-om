@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13915,
-    "geom:area_square_m":1574081865.90875,
+    "geom:area_square_m":1574082031.730824,
     "geom:bbox":"56.521837,23.531133,57.162589,24.041703",
     "geom:latitude":23.816959,
     "geom:longitude":56.913808,
@@ -98,12 +98,13 @@
         "hasc:id":"OM.BN.KH",
         "qs_pg:id":128066
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009861,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0100097bb91e5c568d774919a6428cda",
+    "wof:geomhash":"b6ce3858a24e25a8017f1162e3dc175b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421195843,
-    "wof:lastmodified":1627522485,
+    "wof:lastmodified":1695886119,
     "wof:name":"Al Khaburah",
     "wof:parent_id":85675703,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.06027,
-    "geom:area_square_m":12166965224.579624,
+    "geom:area_square_m":12166965224.578114,
     "geom:bbox":"58.589499,20.158722,59.837917,22.883213",
     "geom:latitude":21.86228,
     "geom:longitude":59.202252,
@@ -236,15 +236,17 @@
         "fips:code":"MU04",
         "gp:id":2346256,
         "hasc:id":"OM.SS",
+        "iso:code":"OM-SJ",
         "iso:id":"OM-SJ",
         "qs_pg:id":1135160,
         "wd:id":"Q4501894"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2b373f19060a6d6b05a10ac9d78cd77b",
+    "wof:geomhash":"a2aa5b405503bd3058b380c8ab8834dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -259,7 +261,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850214,
+    "wof:lastmodified":1695884842,
     "wof:name":"Ash Sharqiyah South",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

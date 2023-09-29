@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030035,
-    "geom:area_square_m":340570031.592793,
+    "geom:area_square_m":340570187.559003,
     "geom:bbox":"58.244962,23.369071,58.492008,23.621222",
     "geom:latitude":23.504479,
     "geom:longitude":58.3583,
@@ -147,12 +147,13 @@
         "qs_pg:id":900288,
         "wd:id":"Q2892151"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459010046,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1dac654dd42ed6fcb8f6e4ab57bd8ca8",
+    "wof:geomhash":"8dbca340fe4d0fb22a0b57bf397dcc61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":421200935,
-    "wof:lastmodified":1690850226,
+    "wof:lastmodified":1695886700,
     "wof:name":"Bawshar",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

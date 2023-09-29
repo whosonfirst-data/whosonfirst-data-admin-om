@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317176,
-    "geom:area_square_m":3633065909.207191,
+    "geom:area_square_m":3633066838.167565,
     "geom:bbox":"58.532963,21.592213,59.052195,22.679619",
     "geom:latitude":22.126715,
     "geom:longitude":58.824302,
@@ -129,12 +129,13 @@
         "qs_pg:id":900289,
         "wd:id":"Q4904193"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459010046,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"82f64575eac7bf38f9c910f98c3abc94",
+    "wof:geomhash":"6f1e6217937161be40598976f859429c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421200937,
-    "wof:lastmodified":1690850226,
+    "wof:lastmodified":1695886121,
     "wof:name":"Bidiyah",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

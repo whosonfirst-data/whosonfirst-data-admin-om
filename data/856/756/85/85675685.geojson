@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.129381,
-    "geom:area_square_m":82802975019.388657,
+    "geom:area_square_m":82802971848.085999,
     "geom:bbox":"54.999137,17.929479,58.807083,21.49002",
     "geom:latitude":20.045015,
     "geom:longitude":56.635426,
@@ -287,15 +287,17 @@
         "gn:id":411737,
         "gp:id":2346257,
         "hasc:id":"OM.WU",
+        "iso:code":"OM-WU",
         "iso:id":"OM-WU",
         "qs_pg:id":1135161,
         "wd:id":"Q958518"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bef962106ea86e52597cd18b02bdb53f",
+    "wof:geomhash":"fc198a77cb569d52f1d0a17a6c331c26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -310,7 +312,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850215,
+    "wof:lastmodified":1695884841,
     "wof:name":"Al Wusta",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

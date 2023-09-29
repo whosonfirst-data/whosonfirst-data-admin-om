@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045643,
-    "geom:area_square_m":508225360.764966,
+    "geom:area_square_m":508225360.764867,
     "geom:bbox":"56.1392,25.6023,56.4237520203,25.9466776468",
     "geom:latitude":25.776314,
     "geom:longitude":56.254257,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"OM.MU.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131195,
-    "wof:geomhash":"63e6ee4bae2adb3129fb53bdbe402d25",
+    "wof:geomhash":"a17940b28ec4d43695465dbd461d2801",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108721075,
-    "wof:lastmodified":1566672826,
+    "wof:lastmodified":1695886593,
     "wof:name":"Daba",
     "wof:parent_id":85675709,
     "wof:placetype":"county",

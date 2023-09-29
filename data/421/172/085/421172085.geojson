@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141952,
-    "geom:area_square_m":1679545877.087872,
+    "geom:area_square_m":1679546219.384849,
     "geom:bbox":"53.12948,16.731509,53.752051,17.100197",
     "geom:latitude":16.890125,
     "geom:longitude":53.421873,
@@ -107,12 +107,13 @@
         "hasc:id":"OM.JA.RA",
         "qs_pg:id":1295827
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459008919,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94e0593652df0f65347d6869e28e6e22",
+    "wof:geomhash":"8a643eef58344167a3f179439df4b775",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421172085,
-    "wof:lastmodified":1627522487,
+    "wof:lastmodified":1695886122,
     "wof:name":"Rakhyut",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

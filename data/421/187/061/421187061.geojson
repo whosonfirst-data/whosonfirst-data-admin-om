@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042453,
-    "geom:area_square_m":481108036.349624,
+    "geom:area_square_m":481108210.88522,
     "geom:bbox":"58.062051,23.454759,58.331185,23.86039",
     "geom:latitude":23.579807,
     "geom:longitude":58.184979,
@@ -98,12 +98,13 @@
         "hasc:id":"OM.MA.SE",
         "qs_pg:id":1079194
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009500,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0244c221faa0713b1b8678d132dd410",
+    "wof:geomhash":"b3a5879a4ba20fc54c020f6cf96f12d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421187061,
-    "wof:lastmodified":1627522487,
+    "wof:lastmodified":1695886123,
     "wof:name":"As Seeb",
     "wof:parent_id":85675713,
     "wof:placetype":"county",

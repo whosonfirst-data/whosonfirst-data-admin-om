@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127951,
-    "geom:area_square_m":1456648458.601821,
+    "geom:area_square_m":1456648088.100528,
     "geom:bbox":"57.340502,22.687738,57.806356,23.181254",
     "geom:latitude":22.973439,
     "geom:longitude":57.552275,
@@ -243,12 +243,13 @@
         "qs_pg:id":1090199,
         "wd:id":"Q1915327"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009488,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e736ca11e88d8daedf6fe804874d0dc0",
+    "wof:geomhash":"3358af12758a307686b67784d549abc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -258,7 +259,7 @@
         }
     ],
     "wof:id":421186667,
-    "wof:lastmodified":1690850224,
+    "wof:lastmodified":1695886723,
     "wof:name":"Nizwa",
     "wof:parent_id":85675681,
     "wof:placetype":"county",

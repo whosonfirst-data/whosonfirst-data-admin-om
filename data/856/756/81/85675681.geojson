@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.78575,
-    "geom:area_square_m":31910142948.575115,
+    "geom:area_square_m":31910142783.216957,
     "geom:bbox":"56.527701,20.898462,58.390161,23.508344",
     "geom:latitude":22.11399,
     "geom:longitude":57.397023,
@@ -297,16 +297,18 @@
         "gn:id":411735,
         "gp:id":2346261,
         "hasc:id":"OM.DA",
+        "iso:code":"OM-DA",
         "iso:id":"OM-DA",
         "qs_pg:id":1135164,
         "unlc:id":"OM-DA",
         "wd:id":"Q792550"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"beaaa170c7f43fdbc13b081c2469150c",
+    "wof:geomhash":"552efdd524b5b823b722391ffd25ca86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850214,
+    "wof:lastmodified":1695884841,
     "wof:name":"Ad Dakhliyah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

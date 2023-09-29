@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092508,
-    "geom:area_square_m":1057853754.865885,
+    "geom:area_square_m":1057853729.42631,
     "geom:bbox":"58.93713,22.137748,59.369055,22.540992",
     "geom:latitude":22.36257,
     "geom:longitude":59.1764,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"OM.SS.KW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131187,
-    "wof:geomhash":"0d10a33d95443f6968a716de07436a6c",
+    "wof:geomhash":"d02c92d416945ac07d43da7754d9f3ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721063,
-    "wof:lastmodified":1627522485,
+    "wof:lastmodified":1695886120,
     "wof:name":"Al Kamil Wa Al Wafi",
     "wof:parent_id":85675691,
     "wof:placetype":"county",

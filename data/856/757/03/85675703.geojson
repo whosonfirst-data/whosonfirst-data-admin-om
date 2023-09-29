@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.698892,
-    "geom:area_square_m":7887778921.982136,
+    "geom:area_square_m":7887779704.049086,
     "geom:bbox":"56.17695,23.531133,57.536074,24.981369",
     "geom:latitude":24.112028,
     "geom:longitude":56.713367,
@@ -225,15 +225,17 @@
         "fips:code":"MU11",
         "gp:id":7038775,
         "hasc:id":"OM.BN",
+        "iso:code":"OM-BS",
         "iso:id":"OM-BS",
         "qs_pg:id":216507,
         "wd:id":"Q4703565"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3018d8a6d0fad601e9cbd77e09cdd5bf",
+    "wof:geomhash":"358be4bdf6e662968267daf0713c079a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -248,7 +250,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850215,
+    "wof:lastmodified":1695884842,
     "wof:name":"Al Batnah North",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

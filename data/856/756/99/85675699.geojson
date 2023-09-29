@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.153096,
-    "geom:area_square_m":35974060936.696388,
+    "geom:area_square_m":35974058742.000252,
     "geom:bbox":"55.21335,21.340868,57.142504,24.013653",
     "geom:latitude":22.673529,
     "geom:longitude":56.139002,
@@ -286,17 +286,19 @@
         "gn:id":411739,
         "gp:id":2346255,
         "hasc:id":"OM.DH",
+        "iso:code":"OM-ZA",
         "iso:id":"OM-ZA",
         "qs_pg:id":890085,
         "unlc:id":"OM-ZA",
         "wd:id":"Q1468596",
         "wk:page":"Ad Dhahirah Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd5934452712c67155f1b6dcf93ee5d4",
+    "wof:geomhash":"4037a7f8afd928cf3548d8483925451a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850214,
+    "wof:lastmodified":1695884355,
     "wof:name":"Adh Dhahirah",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

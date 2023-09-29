@@ -1107,6 +1107,7 @@
         "hasc:id":"OM",
         "icao:code":"A40",
         "ioc:id":"OMA",
+        "iso:code":"OM",
         "itu:id":"OMA",
         "loc:id":"n81035932",
         "m49:code":"512",
@@ -1120,6 +1121,7 @@
         "wk:page":"Oman",
         "wmo:id":"OM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:country_alpha3":"OMN",
     "wof:geom_alt":[
@@ -1142,7 +1144,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639517,
+    "wof:lastmodified":1695881172,
     "wof:name":"Oman",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

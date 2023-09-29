@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010801,
-    "geom:area_square_m":119970154.346083,
+    "geom:area_square_m":119969719.692171,
     "geom:bbox":"56.087002,25.896049,56.21874,26.230174",
     "geom:latitude":26.073341,
     "geom:longitude":56.16447,
@@ -114,9 +114,10 @@
         "hasc:id":"OM.MU.BU",
         "wd:id":"Q997847"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131189,
-    "wof:geomhash":"afaf99a11b8a14ebcf3c49f77c353a4e",
+    "wof:geomhash":"51a489aff833973e5757b3f2c63d6364",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108721065,
-    "wof:lastmodified":1690850219,
+    "wof:lastmodified":1695886593,
     "wof:name":"Bukha",
     "wof:parent_id":85675709,
     "wof:placetype":"county",

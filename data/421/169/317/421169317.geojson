@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036428,
-    "geom:area_square_m":413788632.750576,
+    "geom:area_square_m":413788666.897292,
     "geom:bbox":"57.464925,23.149761,57.693077,23.428569",
     "geom:latitude":23.274486,
     "geom:longitude":57.571524,
@@ -107,12 +107,13 @@
         "hasc:id":"OM.BS.AW",
         "qs_pg:id":776481
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459008804,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55920edd0ff776de2518884b35177b9b",
+    "wof:geomhash":"fb64c041e5445b70ca67ec51d801a498",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421169317,
-    "wof:lastmodified":1627522485,
+    "wof:lastmodified":1695886119,
     "wof:name":"Al Awabi",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

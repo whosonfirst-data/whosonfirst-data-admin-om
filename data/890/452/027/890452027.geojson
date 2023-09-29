@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04742,
-    "geom:area_square_m":536954497.177691,
+    "geom:area_square_m":536954442.062475,
     "geom:bbox":"57.424081,23.536997,57.719726,23.818561",
     "geom:latitude":23.687737,
     "geom:longitude":57.573572,
@@ -91,12 +91,13 @@
         "hasc:id":"OM.BS.MU",
         "qs_pg:id":231737
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1469052801,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"86b2e6cbd1293dacbc4f489a900ec0b8",
+    "wof:geomhash":"9bee6a6e2f003e8ad6626b13127f2b05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":890452027,
-    "wof:lastmodified":1627522485,
+    "wof:lastmodified":1695886120,
     "wof:name":"Al Musanaah",
     "wof:parent_id":85675727,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333049,
-    "geom:area_square_m":3781747201.911251,
+    "geom:area_square_m":3781748088.485007,
     "geom:bbox":"58.062051,22.840231,59.224609,23.86039",
     "geom:latitude":23.320539,
     "geom:longitude":58.626925,
@@ -336,16 +336,18 @@
         "gn:id":411740,
         "gp:id":2346260,
         "hasc:id":"OM.MA",
+        "iso:code":"OM-MA",
         "iso:id":"OM-MA",
         "qs_pg:id":1135163,
         "unlc:id":"OM-MA",
         "wd:id":"Q544762"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b5b41ae975f0202c8d435a9804382e6",
+    "wof:geomhash":"b01a00730eb6b16f065c136054a93a55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -360,7 +362,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850216,
+    "wof:lastmodified":1695884842,
     "wof:name":"Muscat",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

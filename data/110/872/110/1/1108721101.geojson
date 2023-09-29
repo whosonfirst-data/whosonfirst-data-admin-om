@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111494,
-    "geom:area_square_m":1261929403.283122,
+    "geom:area_square_m":1261929027.92666,
     "geom:bbox":"56.199223,23.527426,56.601354,23.978969",
     "geom:latitude":23.745627,
     "geom:longitude":56.40192,
@@ -90,9 +90,10 @@
         "hasc:id":"OM.DH.YA",
         "wd:id":"Q6390074"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131208,
-    "wof:geomhash":"dec12d885d55817af06714eb5bd769f6",
+    "wof:geomhash":"b887855cf42210959217a3d9adab83e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108721101,
-    "wof:lastmodified":1690850218,
+    "wof:lastmodified":1695886124,
     "wof:name":"Yanqul",
     "wof:parent_id":85675699,
     "wof:placetype":"county",

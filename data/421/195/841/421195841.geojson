@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.059594,
-    "geom:area_square_m":12140198210.904583,
+    "geom:area_square_m":12140198820.876728,
     "geom:bbox":"57.662942,21.160056,58.759186,23.124507",
     "geom:latitude":22.086989,
     "geom:longitude":58.250217,
@@ -98,12 +98,13 @@
         "hasc:id":"OM.SN.MU",
         "qs_pg:id":128064
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009861,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"887c91a4477d87677c01bc7b3544c13b",
+    "wof:geomhash":"9da9ff0956bee3564c7278739f487de4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421195841,
-    "wof:lastmodified":1627522485,
+    "wof:lastmodified":1695886119,
     "wof:name":"Al Mudaybi",
     "wof:parent_id":85675721,
     "wof:placetype":"county",

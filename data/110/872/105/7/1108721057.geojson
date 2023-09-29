@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263671,
-    "geom:area_square_m":2985673622.037207,
+    "geom:area_square_m":2985673622.470804,
     "geom:bbox":"55.417738,23.337031,56.094699,24.056441",
     "geom:latitude":23.686216,
     "geom:longitude":55.735567,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"OM.BU.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1476131185,
-    "wof:geomhash":"fd7f1c1aea56c2b44089594aced2b87e",
+    "wof:geomhash":"1f39a3544848d34052f4f759cf6d74b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108721057,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1695886121,
     "wof:name":"As Sunaynah",
     "wof:parent_id":85675717,
     "wof:placetype":"county",

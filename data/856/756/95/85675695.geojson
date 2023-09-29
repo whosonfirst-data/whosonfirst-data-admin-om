@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.444822,
-    "geom:area_square_m":99123124359.894257,
+    "geom:area_square_m":99123123642.60672,
     "geom:bbox":"52.0,16.650084,56.356194,19.999712",
     "geom:latitude":18.333043,
     "geom:longitude":54.096327,
@@ -295,15 +295,17 @@
         "gn:id":411742,
         "gp:id":2346258,
         "hasc:id":"OM.JA",
+        "iso:code":"OM-ZU",
         "iso:id":"OM-ZU",
         "qs_pg:id":1135162,
         "wd:id":"Q1207752"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"OM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2bda85a398f71d4a5018583164edc664",
+    "wof:geomhash":"db4f59ad902cf3b108f682d57c6062f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690850213,
+    "wof:lastmodified":1695884841,
     "wof:name":"Dhofar",
     "wof:parent_id":85632207,
     "wof:placetype":"region",

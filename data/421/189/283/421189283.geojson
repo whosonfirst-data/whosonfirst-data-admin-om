@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.599895,
-    "geom:area_square_m":53366489503.992027,
+    "geom:area_square_m":53366484812.230125,
     "geom:bbox":"54.999137,18.714746,57.526138,21.49002",
     "geom:latitude":20.215268,
     "geom:longitude":56.230949,
@@ -98,12 +98,13 @@
         "hasc:id":"OM.WU.HA",
         "qs_pg:id":1111553
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009616,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d81039cf0a968dd0a1ed6a85746a78ef",
+    "wof:geomhash":"400bfce90c8b824820af44aafe6c1f3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421189283,
-    "wof:lastmodified":1627522486,
+    "wof:lastmodified":1695886121,
     "wof:name":"Hayma",
     "wof:parent_id":85675685,
     "wof:placetype":"county",

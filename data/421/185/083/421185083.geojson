@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149475,
-    "geom:area_square_m":1698907847.724129,
+    "geom:area_square_m":1698907524.862313,
     "geom:bbox":"57.786481,22.969337,58.292643,23.44987",
     "geom:latitude":23.193597,
     "geom:longitude":58.03358,
@@ -198,12 +198,13 @@
         "qs_pg:id":1017967,
         "wd:id":"Q3470608"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009432,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb96e2e642ef6c108e5293f28deac4d3",
+    "wof:geomhash":"eee9504d05659b717ba017d6f89dec3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -213,7 +214,7 @@
         }
     ],
     "wof:id":421185083,
-    "wof:lastmodified":1690850228,
+    "wof:lastmodified":1695886700,
     "wof:name":"Samail",
     "wof:parent_id":85675681,
     "wof:placetype":"county",

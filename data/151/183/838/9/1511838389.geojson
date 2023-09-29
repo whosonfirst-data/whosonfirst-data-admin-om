@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.203252,
-    "geom:area_square_m":20981900296.29533,
+    "geom:area_square_m":14134987060.835091,
     "geom:bbox":"52.0,16.929335,53.401392,19.206678",
     "geom:latitude":18.223294,
     "geom:longitude":52.691355,
@@ -62,8 +62,9 @@
         "hasc:id":"OM.JA.MZ",
         "wd:id":"Q65041555"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
-    "wof:geomhash":"f11b4c9eae16258a72310edbb03ac40d",
+    "wof:geomhash":"2ac1b067c40af573b1b6ead8d5e5d37e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1511838389,
-    "wof:lastmodified":1627522485,
+    "wof:lastmodified":1695886120,
     "wof:name":"Al-Mazyona",
     "wof:parent_id":85675695,
     "wof:placetype":"county",

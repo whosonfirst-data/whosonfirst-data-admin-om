@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.395161,
-    "geom:area_square_m":4507212102.824023,
+    "geom:area_square_m":4507212406.559701,
     "geom:bbox":"56.759028,22.240021,57.51317,23.214932",
     "geom:latitude":22.71495,
     "geom:longitude":57.098964,
@@ -165,12 +165,13 @@
         "qs_pg:id":1111550,
         "wd:id":"Q800253"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"OM",
     "wof:created":1459009616,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8498c92d3b0b2546bd1c186edff30e49",
+    "wof:geomhash":"558b2ce17c1b899353fca6a23f6898c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":421189279,
-    "wof:lastmodified":1690850223,
+    "wof:lastmodified":1695886700,
     "wof:name":"Bahla",
     "wof:parent_id":85675681,
     "wof:placetype":"county",
