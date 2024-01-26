@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"54.00497,17.04048,54.00497,17.04048",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0647\u064a\u062a\u064a"
@@ -58,7 +60,7 @@
         "wk:page":"Sehaff"
     },
     "wof:country":"OM",
-    "wof:geomhash":"603130db66658a8b0b6dde526571f648",
+    "wof:geomhash":"96020301082582ec87fd809a65136378",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1360276153,
-    "wof:lastmodified":1566672847,
+    "wof:lastmodified":1706240566,
     "wof:name":"Shehait",
     "wof:parent_id":421200939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-om",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193122897
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    54.00496999999999,
+    54.00497,
     17.04048,
-    54.00496999999999,
+    54.00497,
     17.04048
 ],
-  "geometry": {"coordinates":[54.00496999999999,17.04048],"type":"Point"}
+  "geometry": {"coordinates":[54.00497,17.04048],"type":"Point"}
 }
