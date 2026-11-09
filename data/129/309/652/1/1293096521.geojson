@@ -54,7 +54,7 @@
         "wk:page":"Bin_%60Umran"
     },
     "wof:country":"OM",
-    "wof:geomhash":"472a662fc0b37c5ecf0da7f9c6378ccb",
+    "wof:geomhash":"dac4b62006e8051f09729ebfcfb350a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     58.39633000000001,
     23.5344
 ],
-  "geometry": {"coordinates":[58.39633000000001,23.5344],"type":"Point"}
+  "geometry": {"coordinates":[58.39633,23.5344],"type":"Point"}
 }

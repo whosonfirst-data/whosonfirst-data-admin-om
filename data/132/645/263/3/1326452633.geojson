@@ -53,7 +53,7 @@
         "wk:page":"Bisaftir"
     },
     "wof:country":"OM",
-    "wof:geomhash":"79cc05361adc7834f3c254ac2e4771aa",
+    "wof:geomhash":"d87b7e91dba74029136436a4853b295f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     53.99876999999999,
     17.19238
 ],
-  "geometry": {"coordinates":[53.99876999999999,17.19238],"type":"Point"}
+  "geometry": {"coordinates":[53.99877,17.19238],"type":"Point"}
 }

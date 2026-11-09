@@ -75,7 +75,7 @@
         "wk:page":"Al_Hamra,_Oman"
     },
     "wof:country":"OM",
-    "wof:geomhash":"99b6b9da04c38bcd19a80be8a9700d14",
+    "wof:geomhash":"6326e5ed564904efc35ee25410e52732",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     57.29143000000001,
     23.11519
 ],
-  "geometry": {"coordinates":[57.29143000000001,23.11519],"type":"Point"}
+  "geometry": {"coordinates":[57.29143,23.11519],"type":"Point"}
 }

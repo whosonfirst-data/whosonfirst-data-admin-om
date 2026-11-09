@@ -52,7 +52,7 @@
         "wk:page":"Kusat"
     },
     "wof:country":"OM",
-    "wof:geomhash":"f47876957814994266a7d01e6c50babc",
+    "wof:geomhash":"45b3bf2ebdc351e0dc164346dfd078e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     54.04833000000001,
     17.23528
 ],
-  "geometry": {"coordinates":[54.04833000000001,17.23528],"type":"Point"}
+  "geometry": {"coordinates":[54.04833,17.23528],"type":"Point"}
 }

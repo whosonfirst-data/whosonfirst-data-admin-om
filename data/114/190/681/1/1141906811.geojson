@@ -119,7 +119,7 @@
     "wof:concordances":{},
     "wof:country":"OM",
     "wof:created":1499130642,
-    "wof:geomhash":"7608a99a5a96b83bab0ebaaac7021d2a",
+    "wof:geomhash":"4465d0715edf98c4cdfd7bb71b3555ed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -144,5 +144,5 @@
     58.90802160526641,
     20.63301576637491
 ],
-  "geometry": {"coordinates":[58.90802160526641,20.63301576637491],"type":"Point"}
+  "geometry": {"coordinates":[58.908022,20.633016],"type":"Point"}
 }

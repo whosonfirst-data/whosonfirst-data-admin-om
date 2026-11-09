@@ -50,7 +50,7 @@
         "wk:page":"Erqut_Daham"
     },
     "wof:country":"OM",
-    "wof:geomhash":"17933897ae1f731e360906d554382b0f",
+    "wof:geomhash":"4f5a39370bbd3f3c44f180f8fdf0cdbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     54.38333000000001,
     17.09139
 ],
-  "geometry": {"coordinates":[54.38333000000001,17.09139],"type":"Point"}
+  "geometry": {"coordinates":[54.38333,17.09139],"type":"Point"}
 }

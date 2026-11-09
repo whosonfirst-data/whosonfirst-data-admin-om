@@ -54,7 +54,7 @@
         "wk:page":"Jibjat"
     },
     "wof:country":"OM",
-    "wof:geomhash":"63160dd34c07fd1ea8fcfbb5ff06a5a1",
+    "wof:geomhash":"f18ade9050f88355777be6198fa8fb9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     54.49803000000001,
     17.24731
 ],
-  "geometry": {"coordinates":[54.49803000000001,17.24731],"type":"Point"}
+  "geometry": {"coordinates":[54.49803,17.24731],"type":"Point"}
 }

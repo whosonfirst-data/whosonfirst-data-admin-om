@@ -48,7 +48,7 @@
         "wk:page":"Indaf"
     },
     "wof:country":"OM",
-    "wof:geomhash":"0c69ebbab79caa8b8ba131921cffb0ae",
+    "wof:geomhash":"5229eb11bf0161e9bbb4814fd806b78d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     54.37694000000001,
     17.08333
 ],
-  "geometry": {"coordinates":[54.37694000000001,17.08333],"type":"Point"}
+  "geometry": {"coordinates":[54.37694,17.08333],"type":"Point"}
 }

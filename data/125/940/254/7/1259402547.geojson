@@ -55,7 +55,7 @@
         "wk:page":"Mabni"
     },
     "wof:country":"OM",
-    "wof:geomhash":"450225bc8df04101d115d30a7bfb0f30",
+    "wof:geomhash":"91a14e070228ff26fe957e23dd0e8650",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     54.28417,
     17.81611000000001
 ],
-  "geometry": {"coordinates":[54.28417,17.81611000000001],"type":"Point"}
+  "geometry": {"coordinates":[54.28417,17.81611],"type":"Point"}
 }

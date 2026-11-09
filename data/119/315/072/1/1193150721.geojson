@@ -48,7 +48,7 @@
         "wk:page":"Sinni%2C_Oman"
     },
     "wof:country":"OM",
-    "wof:geomhash":"7154ae41e4ba01f9d71a3d11458d074f",
+    "wof:geomhash":"0549c2da944e3519e6a6be874e45a2b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     57.11751999999999,
     23.41052
 ],
-  "geometry": {"coordinates":[57.11751999999999,23.41052],"type":"Point"}
+  "geometry": {"coordinates":[57.11752,23.41052],"type":"Point"}
 }

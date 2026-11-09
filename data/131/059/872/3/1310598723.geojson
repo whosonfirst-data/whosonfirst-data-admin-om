@@ -56,7 +56,7 @@
         "wk:page":"Lansab"
     },
     "wof:country":"OM",
-    "wof:geomhash":"96dd4512fc5ab033715a0ce2a98a3fe2",
+    "wof:geomhash":"132b02d7fbbed48d1b105f579e4b698f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     58.35449000000001,
     23.538
 ],
-  "geometry": {"coordinates":[58.35449000000001,23.538],"type":"Point"}
+  "geometry": {"coordinates":[58.35449,23.538],"type":"Point"}
 }

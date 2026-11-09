@@ -45,7 +45,7 @@
         "wk:page":"Rudha"
     },
     "wof:country":"OM",
-    "wof:geomhash":"e2c49ee2e97f6241db1f6017b66bca78",
+    "wof:geomhash":"29339e3aeda152b75ccdc485c9f20159",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     54.02166999999999,
     17.13194
 ],
-  "geometry": {"coordinates":[54.02166999999999,17.13194],"type":"Point"}
+  "geometry": {"coordinates":[54.02167,17.13194],"type":"Point"}
 }

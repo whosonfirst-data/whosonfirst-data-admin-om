@@ -55,7 +55,7 @@
         "wk:page":"Al_Akhdar"
     },
     "wof:country":"OM",
-    "wof:geomhash":"594cfe34dc3a702ae7c574553cb945e3",
+    "wof:geomhash":"4f46e02abfdea0a39b3a188333987889",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     56.46041999999999,
     23.22247
 ],
-  "geometry": {"coordinates":[56.46041999999999,23.22247],"type":"Point"}
+  "geometry": {"coordinates":[56.46042,23.22247],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "gn:id":414861
     },
     "wof:country":"OM",
-    "wof:geomhash":"678c5a9cbf19c8161fb5e4c96b3b3792",
+    "wof:geomhash":"2ce4a91f31fca507b9a45eb885c351a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     56.22971999999999,
     26.12944
 ],
-  "geometry": {"coordinates":[56.22971999999999,26.12944],"type":"Point"}
+  "geometry": {"coordinates":[56.22972,26.12944],"type":"Point"}
 }

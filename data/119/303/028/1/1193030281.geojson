@@ -56,7 +56,7 @@
         "wk:page":"Manah,_Oman"
     },
     "wof:country":"OM",
-    "wof:geomhash":"e6e871971989ef8609e443c356080584",
+    "wof:geomhash":"5ff8de44a8ea0759e999db93f0b1e3fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     57.60593000000001,
     22.79203
 ],
-  "geometry": {"coordinates":[57.60593000000001,22.79203],"type":"Point"}
+  "geometry": {"coordinates":[57.60593,22.79203],"type":"Point"}
 }

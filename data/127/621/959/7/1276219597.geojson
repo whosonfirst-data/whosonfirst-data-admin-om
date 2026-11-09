@@ -61,7 +61,7 @@
         "wk:page":"Bandar_Khayran"
     },
     "wof:country":"OM",
-    "wof:geomhash":"6998d9f1a692e621e505301b161ebab9",
+    "wof:geomhash":"1c5aa430ffc1828e10303c8c1b0afbb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     58.73421999999999,
     23.50085
 ],
-  "geometry": {"coordinates":[58.73421999999999,23.50085],"type":"Point"}
+  "geometry": {"coordinates":[58.73422,23.50085],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Sudh"
     },
     "wof:country":"OM",
-    "wof:geomhash":"719560241c1f72c62b27e45d0dc69abe",
+    "wof:geomhash":"a15abb4ba38e78429cd19b4377a50822",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     54.13333000000001,
     17.05
 ],
-  "geometry": {"coordinates":[54.13333000000001,17.05],"type":"Point"}
+  "geometry": {"coordinates":[54.13333,17.05],"type":"Point"}
 }

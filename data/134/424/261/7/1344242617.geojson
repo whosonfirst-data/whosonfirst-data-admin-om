@@ -45,7 +45,7 @@
         "wk:page":"Ghar_Milah"
     },
     "wof:country":"OM",
-    "wof:geomhash":"c9def3c863d8cc112b0843d08cdb902e",
+    "wof:geomhash":"b7811fbe9490aaa8be5bcf779e7f3e29",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     54.19944,
     17.15167000000001
 ],
-  "geometry": {"coordinates":[54.19944,17.15167000000001],"type":"Point"}
+  "geometry": {"coordinates":[54.19944,17.15167],"type":"Point"}
 }

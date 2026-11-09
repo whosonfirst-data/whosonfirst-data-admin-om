@@ -52,7 +52,7 @@
         "wk:page":"Habkayt"
     },
     "wof:country":"OM",
-    "wof:geomhash":"711162c7128980a6cc968b3cd299ac9b",
+    "wof:geomhash":"3911837ec043dfbd6a77e1530d614118",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     54.02721999999999,
     17.11361
 ],
-  "geometry": {"coordinates":[54.02721999999999,17.11361],"type":"Point"}
+  "geometry": {"coordinates":[54.02722,17.11361],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Jifar"
     },
     "wof:country":"OM",
-    "wof:geomhash":"3c6edad9c05a717c491a7cbc9241f94a",
+    "wof:geomhash":"1baf85bc9339267b4e8bd89b4f673908",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     58.33264000000001,
     23.52768
 ],
-  "geometry": {"coordinates":[58.33264000000001,23.52768],"type":"Point"}
+  "geometry": {"coordinates":[58.33264,23.52768],"type":"Point"}
 }

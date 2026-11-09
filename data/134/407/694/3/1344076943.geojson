@@ -45,7 +45,7 @@
         "wk:page":"Glaet"
     },
     "wof:country":"OM",
-    "wof:geomhash":"06df011f057ef4fd0a41b13325ee582f",
+    "wof:geomhash":"92f0565507ed51dc05dc39005c9b6146",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     54.08278000000001,
     17.14056
 ],
-  "geometry": {"coordinates":[54.08278000000001,17.14056],"type":"Point"}
+  "geometry": {"coordinates":[54.08278,17.14056],"type":"Point"}
 }

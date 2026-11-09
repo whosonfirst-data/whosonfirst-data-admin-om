@@ -42,7 +42,7 @@
         "wk:page":"Rahn%2C_Oman"
     },
     "wof:country":"OM",
-    "wof:geomhash":"b9e1a877aa9be8ad9b7c71f4fd5a3d83",
+    "wof:geomhash":"f16d4bd97bc66189cb79883ba66d4a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     54.1,
     17.13332999999999
 ],
-  "geometry": {"coordinates":[54.1,17.13332999999999],"type":"Point"}
+  "geometry": {"coordinates":[54.1,17.13333],"type":"Point"}
 }

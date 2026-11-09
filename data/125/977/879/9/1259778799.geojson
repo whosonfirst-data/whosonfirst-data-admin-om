@@ -45,7 +45,7 @@
         "wk:page":"Owtar"
     },
     "wof:country":"OM",
-    "wof:geomhash":"82b177c82baa9f57394f9f38b7df679d",
+    "wof:geomhash":"db4d07a8919d836ba03037363eb9e795",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     54.08416999999999,
     17.16778
 ],
-  "geometry": {"coordinates":[54.08416999999999,17.16778],"type":"Point"}
+  "geometry": {"coordinates":[54.08417,17.16778],"type":"Point"}
 }

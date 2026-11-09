@@ -52,7 +52,7 @@
         "wk:page":"Sharbithat"
     },
     "wof:country":"OM",
-    "wof:geomhash":"b05f237d624d87d492a8e32fc549a0ae",
+    "wof:geomhash":"9fe2a3101a6f26efc97dd40b01529077",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     56.27343000000001,
     17.9369
 ],
-  "geometry": {"coordinates":[56.27343000000001,17.9369],"type":"Point"}
+  "geometry": {"coordinates":[56.27343,17.9369],"type":"Point"}
 }

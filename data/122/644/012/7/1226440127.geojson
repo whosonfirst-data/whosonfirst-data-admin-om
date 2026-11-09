@@ -52,7 +52,7 @@
         "wk:page":"Ma%60abilah"
     },
     "wof:country":"OM",
-    "wof:geomhash":"eaffcaf56e22673f5a0410edd681b2b8",
+    "wof:geomhash":"b9cc2e41f141e8300f237450dcf4d857",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     58.13551999999999,
     23.67773
 ],
-  "geometry": {"coordinates":[58.13551999999999,23.67773],"type":"Point"}
+  "geometry": {"coordinates":[58.13552,23.67773],"type":"Point"}
 }

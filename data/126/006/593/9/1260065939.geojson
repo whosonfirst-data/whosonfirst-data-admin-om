@@ -52,7 +52,7 @@
         "wk:page":"Sailal"
     },
     "wof:country":"OM",
-    "wof:geomhash":"af1e16442101f1ba5d0d3ac8483937f5",
+    "wof:geomhash":"e0807785ec9696a4870534e252bdb7a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     54.45,
     17.13332999999999
 ],
-  "geometry": {"coordinates":[54.45,17.13332999999999],"type":"Point"}
+  "geometry": {"coordinates":[54.45,17.13333],"type":"Point"}
 }

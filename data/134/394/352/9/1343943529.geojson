@@ -45,7 +45,7 @@
         "wk:page":"Araft"
     },
     "wof:country":"OM",
-    "wof:geomhash":"2f785591fac2d7841857bec30b2fbd99",
+    "wof:geomhash":"917603e2ba736c31d480941b26b2681e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     53.98333,
     17.0
 ],
-  "geometry": {"coordinates":[53.98333,17.0],"type":"Point"}
+  "geometry": {"coordinates":[53.98333,17],"type":"Point"}
 }

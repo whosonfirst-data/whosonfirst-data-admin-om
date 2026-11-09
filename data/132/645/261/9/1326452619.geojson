@@ -53,7 +53,7 @@
         "wk:page":"Qarthit"
     },
     "wof:country":"OM",
-    "wof:geomhash":"6a774142b404d40f6ebd4d16008b7383",
+    "wof:geomhash":"c6a6f3851580aadd6933421916ad721e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     54.48173000000001,
     17.12238
 ],
-  "geometry": {"coordinates":[54.48173000000001,17.12238],"type":"Point"}
+  "geometry": {"coordinates":[54.48173,17.12238],"type":"Point"}
 }

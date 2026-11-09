@@ -54,7 +54,7 @@
         "wk:page":"Thamarit"
     },
     "wof:country":"OM",
-    "wof:geomhash":"20aa7601e56c8d1d2bd2b19af561829b",
+    "wof:geomhash":"a6f42219b822efbe78fd47fe170dc848",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     54.03333000000001,
     17.67
 ],
-  "geometry": {"coordinates":[54.03333000000001,17.67],"type":"Point"}
+  "geometry": {"coordinates":[54.03333,17.67],"type":"Point"}
 }
